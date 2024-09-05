@@ -13,6 +13,8 @@ The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksm
  4. (Pending) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
 
 # Inferred Timeline
+ * August ?? 2020 FBI Special Agent Tim Lucey Calls Val Broeksmit
+ * August 09? 2020 FBI David Kos First Call w Val Broeksmit
  * August ?? 2020 D.ko Post Hearing
  * August 12 2020 Kofbico PY2
  * August 1? 2020 Marie _ Agent Ko
