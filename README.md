@@ -9,9 +9,12 @@ The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksm
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
  2. Large portions of [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
- 3. (Pending) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
+ 3. D.ko Post Hearing and Marie _ Agent Ko were manually corrected the same way.
+ 4. (Pending) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
 
 # Inferred Timeline
  * August ?? 2020 D.ko Post Hearing
  * August 12 2020 Kofbico PY2
  * August 1? 2020 Marie _ Agent Ko
+ * ???? Val vs Andrew Dowling PT1  DKO’d
+ * ???? Val vs Andrew Dowling PT 2-_ DKo’d
