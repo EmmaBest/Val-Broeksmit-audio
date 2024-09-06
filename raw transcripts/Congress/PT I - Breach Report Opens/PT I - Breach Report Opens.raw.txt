@@ -1,0 +1,870 @@
+[00:00.000 --> 00:08.040]  it's recording now sorry okay can you just okay yeah I was looking through the
+[00:08.040 --> 00:11.480]  text just to find out I know but we've got to figure out a good way to record
+[00:11.480 --> 00:15.480]  oh no I never started it was a problem see that now it's he's got the
+[00:15.480 --> 00:18.960]  recording line okay cool so now we know it's cool alright so just to reiterate
+[00:18.960 --> 00:28.320]  we're looking through the DBTC MCO breach report in relation to Don Ska Bank and
+[00:28.320 --> 00:32.760]  we're trying to figure out exactly what we're looking at yeah and my
+[00:32.760 --> 00:39.280]  understanding from the source that I talked to isn't it this is all this is
+[00:39.280 --> 00:44.520]  showing that on a given date which is in this case October 18th 2013 this is the
+[00:44.520 --> 00:52.120]  exposure that Deutsche Bank's USC and a DBTC has DBTC yeah it's a DBTC is the
+[00:52.120 --> 00:57.960]  parent company of DBTC there's like this place is organized like it's like
+[00:58.320 --> 01:01.680]  thousands of legal entities stacked on top of each other so your dad's still
+[01:01.680 --> 01:07.120]  New York base this is still DBTC is also DBTC in base in New York shoot I just
+[01:07.120 --> 01:13.040]  press but yes and and this is what your dad was on the board of both of them
+[01:13.040 --> 01:19.960]  which is why he was getting emails like this with this huge I thought DBTC a was
+[01:19.960 --> 01:26.520]  just specifically DBTC I okay I know you're saying there is a narrow right
+[01:26.560 --> 01:34.840]  DBTC your dad was on the board of both okay and look as I said the thing that
+[01:34.840 --> 01:40.640]  my guy said it was really interesting about this is not really particular
+[01:40.640 --> 01:46.800]  transactions but it's that there are if you go back to the main page of that
+[01:46.800 --> 01:51.280]  spreadsheet you'll see there no the one with the the one we're just looking
+[01:51.280 --> 01:54.280]  at the trades
+[01:54.840 --> 02:03.080]  it's pivot maybe okay yeah if you go it's gonna be really hard to do this on a
+[02:03.080 --> 02:07.000]  tablet but if you were to go do a search for the word Russia for instance or
+[02:07.000 --> 02:11.360]  Moscow you'll see that they're doing business with and I'll show you I've got
+[02:11.360 --> 02:15.400]  this on my computer as well let's just pull it up on your computer well no I
+[02:15.400 --> 02:19.240]  don't know this spreadsheet I just have I'm sure honestly I have you know it's
+[02:19.240 --> 02:24.200]  branching just search MCO breach report as the title of the sheet
+[02:26.760 --> 02:36.480]  this is I don't have it downloaded the but what I do have is I have in the text
+[02:36.480 --> 02:48.080]  of the book I've written down the names of some of the like weird institutions
+[02:48.600 --> 02:58.320]  that show up in the spreadsheet and weird institutions searching for Moscow and
+[02:58.320 --> 03:09.880]  if you tell me with John Moscow my guy is a trip I really think so so here are
+[03:09.880 --> 03:13.720]  some of the entities like there's first of all VTV which is the big and that's a
+[03:13.720 --> 03:19.840]  state-owned bank right that yeah and it's run by one of Putin's closest pals
+[03:19.840 --> 03:23.800]  I know and it's very close size of Deutsche Bank so there's tens of
+[03:23.800 --> 03:29.960]  millions of dollars it shows in outstanding transactions with VTV on
+[03:29.960 --> 03:34.760]  this particular given day there's also but there's all these other obscure
+[03:34.760 --> 03:37.960]  Russian banks that I personally never heard so there's Russian International
+[03:37.960 --> 03:42.040]  Bank okay I know what that is there's Russian joint-stop commercial roads bank
+[03:43.000 --> 03:48.880]  there's Russian mortgage bank okay there's Russian commercial bank Cyprus
+[03:48.880 --> 03:52.440]  limited that makes sense I mean well they're just they're doing business with
+[03:52.440 --> 03:56.560]  a ton of Russian banks and it's really cool all the season people created I don't
+[03:56.560 --> 04:01.760]  think for them between their their may be in the transaction maybe not
+[04:01.760 --> 04:07.560]  necessarily that a lot of them so look if you look in this they're also doing a
+[04:07.560 --> 04:11.680]  ton of business with that you said Don's good banks are doing business with like
+[04:11.720 --> 04:16.320]  Conoco Phillips is in here there's so it's a rain some of these are very
+[04:16.320 --> 04:21.760]  mainstream Arab petrol yeah they're doing a ton of business on this particular
+[04:21.760 --> 04:27.520]  day with a ton of different companies right okay so I don't think this is
+[04:27.520 --> 04:31.600]  gonna answer the fundamental question about clearly they're doing business the
+[04:31.600 --> 04:33.840]  Don's command but this is Deutsche Bank it's one of the biggest banks in the
+[04:33.840 --> 04:39.920]  world is doing business on any given day with like thank you David I know but
+[04:39.920 --> 04:43.680]  look Don's good bank if there's a breach report so we're talking about breaches
+[04:43.680 --> 04:49.520]  in the breaches between Don's good bank and Deutsche Bank so it's not anything
+[04:49.520 --> 04:55.400]  that has to do with see I don't think it reaches I think the breach is that they
+[04:55.400 --> 05:00.680]  have Deutsche has limits that it's normally supposed to be staying with
+[05:00.680 --> 05:06.080]  him so right a breach is when they go over below yeah those thresholds and
+[05:06.240 --> 05:12.240]  breaches I understand but I'm saying this if we can see how much money Don's
+[05:12.240 --> 05:15.240]  good banks owed to Deutsche or Deutsche's owed to Don's good bank and we can
+[05:15.240 --> 05:20.280]  sort of cross-reference with 150 billion that's being reported today you
+[05:20.280 --> 05:25.160]  might have a timeline that we can create from that yeah I understand what you're
+[05:25.160 --> 05:29.920]  saying I don't have the capacity to do that I've spent so many hours looking at
+[05:29.920 --> 05:39.480]  this yeah and it okay well show it to your expert friend with I will yeah I
+[05:39.480 --> 05:41.760]  will do that I mean maybe that's something to say it could be just shot in
+[05:41.760 --> 05:46.720]  the dark it might be worthless but it's worth just you know having once a look
+[05:46.720 --> 05:53.240]  over a quick look over I mean am I right or am I wrong I don't know yeah there
+[05:53.240 --> 05:57.040]  could be something there I mean I've had a I've spent a lot of time with this guy
+[05:57.520 --> 06:02.360]  there's and I think his view is that this is interesting because it shows the
+[06:02.360 --> 06:08.360]  variety of places that Deutsche was doing a ton of business with and it was
+[06:08.360 --> 06:12.920]  more than he thought especially as it related to Russia but was he at all
+[06:12.920 --> 06:17.640]  looking at it through the lens of Don's good bank and what was what's been
+[06:17.640 --> 06:21.520]  happening recently is this before all this is before dawn so now we have
+[06:21.520 --> 06:25.280]  something that might be helpful for that and again David I would like to say for
+[06:25.320 --> 06:28.920]  a year I've been telling you about this Don's good bank stuff here and you've
+[06:28.920 --> 06:32.160]  been saying it's it's silly it's silly but every time there's a new article
+[06:32.160 --> 06:37.440]  about it and now there's we have some a spreadsheet that shows that I was not so
+[06:37.440 --> 06:43.800]  silly you're not there's nothing silly about no I mean about my my referencing
+[06:43.800 --> 06:47.400]  this the spreadsheet in relation to Don's good banks relationship to Deutsche
+[06:47.400 --> 06:52.760]  bank I think there's something here I hear you okay and the guys that Glenn
+[06:52.800 --> 06:58.480]  hired said that this is interesting from a top completely different reason you're
+[06:58.480 --> 07:02.080]  telling me that I'm asking you that is that what he said no and we're gonna
+[07:02.080 --> 07:07.200]  shut that because we can't get into that that's we don't say the names or even
+[07:07.200 --> 07:20.880]  reference okay so yeah okay should we should we start doing a little yeah
+[07:20.880 --> 07:25.840]  let's just get to yeah how do you want to do this let's start the beginning and
+[07:25.840 --> 07:30.720]  just go through the whole thing I just read it to you yes I'll read it to you
+[07:30.720 --> 07:35.960]  yes and you can restore chocolate in a pillow yeah exactly if you have a roaring
+[07:35.960 --> 07:44.840]  fire yes it'd be lovely um that train that yeah raise that train raise that
+[07:44.840 --> 07:58.160]  here yeah I think it's a champion way over you know I've an idea let me I'm
+[07:58.160 --> 08:13.240]  just gonna pause you guys don't have 80% for me
+[08:28.720 --> 08:32.320]  except we'll eat up
+[08:45.440 --> 08:48.260]  you
+[08:48.260 --> 08:57.780]  All right, well, maybe we can just delete all that and just start again.
+[08:57.780 --> 08:58.780]  No, no, no.
+[08:58.780 --> 08:59.780]  It was like a test.
+[08:59.780 --> 09:00.780]  It's fine.
+[09:00.780 --> 09:01.780]  No, there's...
+[09:01.780 --> 09:04.260]  I didn't know I wasn't supposed to bring up that guy.
+[09:04.260 --> 09:08.140]  Yeah, just don't bring up any specifics about sources, because not because it's like...
+[09:08.140 --> 09:09.140]  But did you see what I was doing?
+[09:09.140 --> 09:12.180]  I was like making it look like that was a separate entity from the one that you could
+[09:12.180 --> 09:13.180]  join.
+[09:13.180 --> 09:14.180]  It's fine.
+[09:14.180 --> 09:15.180]  It's...
+[09:15.180 --> 09:16.980]  I was muddying the water, specifically, because I knew that's the guy you're referring
+[09:16.980 --> 09:17.980]  to.
+[09:17.980 --> 09:18.980]  So I made it look like this is a separate person.
+[09:18.980 --> 09:19.980]  Got it.
+[09:19.980 --> 09:20.980]  Okay.
+[09:20.980 --> 09:21.980]  Back up.
+[09:21.980 --> 09:22.980]  Yes.
+[09:22.980 --> 09:23.980]  It's obfuscating.
+[09:23.980 --> 09:24.980]  This source.
+[09:24.980 --> 09:25.980]  Let's not obfuscate anything.
+[09:25.980 --> 09:26.980]  Yes, it is.
+[09:26.980 --> 09:27.980]  That's obfuscating.
+[09:27.980 --> 09:28.980]  No, no, I'm not saying you're not obfuscating.
+[09:28.980 --> 09:29.980]  I'm saying let's not obfuscate.
+[09:29.980 --> 09:30.980]  Oh, okay.
+[09:30.980 --> 09:31.980]  Okay, so...
+[09:31.980 --> 09:32.980]  Okay.
+[09:32.980 --> 09:33.980]  So there are a couple of ways we can do this.
+[09:33.980 --> 09:34.980]  Yes.
+[09:34.980 --> 09:35.980]  One is...
+[09:35.980 --> 09:45.980]  In the way I've got this organized right now on my computer is...
+[09:46.980 --> 09:52.980]  Just a bunch of things in kind of roughly chronological order.
+[09:52.980 --> 09:53.980]  And I've actually kept out.
+[09:53.980 --> 09:55.980]  I've made kind of a document here for myself.
+[09:55.980 --> 09:56.980]  Can I see that?
+[09:56.980 --> 09:58.980]  Can you send me an outline to go through?
+[09:58.980 --> 09:59.980]  No.
+[09:59.980 --> 10:00.980]  Oh, come on.
+[10:00.980 --> 10:01.980]  No, we're not going to do that.
+[10:01.980 --> 10:02.980]  Because it's just like clips from them.
+[10:02.980 --> 10:06.980]  It's like paragraphs that I've cut and pasted into a separate document for the book.
+[10:06.980 --> 10:07.980]  Yeah, that's fine.
+[10:07.980 --> 10:08.980]  I can get that.
+[10:08.980 --> 10:09.980]  Yeah, not sure you'd love that.
+[10:09.980 --> 10:11.980]  But we're not going to do that right now.
+[10:12.980 --> 10:13.980]  Okay.
+[10:13.980 --> 10:20.980]  So basically the way I've got this organized is in chronological order of like your dad's
+[10:20.980 --> 10:21.980]  life onward.
+[10:21.980 --> 10:25.980]  So like your dad is born on November 5th, 1955.
+[10:25.980 --> 10:26.980]  Okay.
+[10:26.980 --> 10:27.980]  And we...
+[10:27.980 --> 10:29.980]  By the way, do we know if he was...
+[10:29.980 --> 10:30.980]  He was...
+[10:30.980 --> 10:32.980]  There are six kids, right?
+[10:32.980 --> 10:36.980]  And was he number three or number four?
+[10:36.980 --> 10:42.980]  So there was Laura and then Peter.
+[10:42.980 --> 10:45.980]  Or sorry, Laura, John, Peter, my dad.
+[10:45.980 --> 10:46.980]  Okay, so he was fourth.
+[10:46.980 --> 10:47.980]  Yeah.
+[10:47.980 --> 10:48.980]  Okay.
+[10:48.980 --> 10:49.980]  And then Sam and then Bob.
+[10:49.980 --> 10:51.980]  And then Sam and Bob.
+[10:51.980 --> 10:52.980]  Okay.
+[10:55.980 --> 11:00.980]  So what I'm not going to do unless you really want to is go through like absolutely everything
+[11:00.980 --> 11:01.980]  because there's a lot...
+[11:01.980 --> 11:03.980]  I would like to go through absolutely everything, yes.
+[11:03.980 --> 11:04.980]  You really want...
+[11:04.980 --> 11:05.980]  Yes.
+[11:05.980 --> 11:07.980]  The reason I say no is because a lot of this is stuff you've told me.
+[11:07.980 --> 11:08.980]  So it's like...
+[11:08.980 --> 11:09.980]  Yeah.
+[11:09.980 --> 11:10.980]  I would like to see how you have...
+[11:10.980 --> 11:12.980]  You're not going to really see how...
+[11:12.980 --> 11:13.980]  Reinterpreted what I told you.
+[11:13.980 --> 11:14.980]  It's not really...
+[11:14.980 --> 11:15.980]  Or reductively...
+[11:15.980 --> 11:16.980]  Okay.
+[11:16.980 --> 11:17.980]  Well, that's fine.
+[11:17.980 --> 11:18.980]  We can go through this in some detail.
+[11:18.980 --> 11:19.980]  So...
+[11:19.980 --> 11:20.980]  Okay.
+[11:20.980 --> 11:21.980]  Okay.
+[11:21.980 --> 11:29.980]  Well, actually, first of all, let's go through the moment, the day on January 26th, 2014,
+[11:29.980 --> 11:30.980]  which...
+[11:30.980 --> 11:31.980]  Is that today?
+[11:31.980 --> 11:32.980]  No.
+[11:32.980 --> 11:34.980]  That's almost exactly five years ago.
+[11:34.980 --> 11:37.980]  Today is January 25th.
+[11:37.980 --> 11:38.980]  Okay.
+[11:38.980 --> 11:49.980]  So you get out of the tube station, drizzling, you're in Sloan Square.
+[11:49.980 --> 11:54.980]  You had the previous night been jamming with your band.
+[11:54.980 --> 11:59.980]  And you have told me in the past that you just woke up that morning not feeling probably
+[11:59.980 --> 12:00.980]  the greatest.
+[12:00.980 --> 12:02.980]  It was more than jamming.
+[12:02.980 --> 12:03.980]  Yeah.
+[12:03.980 --> 12:05.980]  It was a show, I think, and then there was a party.
+[12:05.980 --> 12:08.980]  And I didn't fall asleep until maybe five or six a.m.
+[12:08.980 --> 12:09.980]  I remember.
+[12:09.980 --> 12:11.980]  I was with Beth.
+[12:11.980 --> 12:12.980]  Yeah.
+[12:12.980 --> 12:13.980]  Okay.
+[12:13.980 --> 12:14.980]  Let me grab some water.
+[12:14.980 --> 12:15.980]  Yeah.
+[12:15.980 --> 12:16.980]  Go on.
+[12:16.980 --> 12:17.980]  Sorry.
+[12:17.980 --> 12:18.980]  I'm listening.
+[12:18.980 --> 12:19.980]  Well, I just want to...
+[12:19.980 --> 12:20.980]  That's fine.
+[12:20.980 --> 12:23.980]  So you...
+[12:23.980 --> 12:27.980]  You felt like some sort of negative energy when you were on the tube.
+[12:27.980 --> 12:28.980]  Yeah.
+[12:28.980 --> 12:29.980]  It was very...
+[12:29.980 --> 12:31.980]  Can you just come back here?
+[12:31.980 --> 12:32.980]  Yeah.
+[12:32.980 --> 12:33.980]  Sorry.
+[12:33.980 --> 12:34.980]  I just...
+[12:34.980 --> 12:35.980]  No, I know.
+[12:35.980 --> 12:36.980]  That's...
+[12:36.980 --> 12:37.980]  Well, no.
+[12:37.980 --> 12:38.980]  I don't even need you to.
+[12:38.980 --> 12:39.980]  This is kind of what I'm saying.
+[12:39.980 --> 12:40.980]  Like, there's...
+[12:40.980 --> 12:53.980]  I don't really feel a need to fact check this kind of stuff with you right now because
+[12:53.980 --> 12:54.980]  it's...
+[12:54.980 --> 12:58.980]  This is coming straight from your mouth on 15 different occasions.
+[12:58.980 --> 12:59.980]  So...
+[13:00.980 --> 13:01.980]  Okay.
+[13:02.980 --> 13:03.980]  Okay.
+[13:03.980 --> 13:04.980]  So maybe we should...
+[13:04.980 --> 13:06.980]  You're wearing a hat, no.
+[13:06.980 --> 13:07.980]  Okay.
+[13:09.980 --> 13:11.980]  You don't like the idea of tube bald, man?
+[13:11.980 --> 13:12.980]  No, okay.
+[13:12.980 --> 13:13.980]  Let's be tube bald, guys.
+[13:13.980 --> 13:14.980]  Okay.
+[13:14.980 --> 13:15.980]  All right.
+[13:15.980 --> 13:16.980]  So, yeah.
+[13:16.980 --> 13:24.980]  So I was on the tube and I remember feeling this like overwhelming dark, terrible, foreboding
+[13:24.980 --> 13:26.980]  thing.
+[13:26.980 --> 13:27.980]  It wasn't foreboding, actually.
+[13:27.980 --> 13:28.980]  It was more...
+[13:28.980 --> 13:31.980]  Because foreboding would be for the future, but this was like in the moment.
+[13:31.980 --> 13:39.980]  And I thought maybe it was just like an echo of my lack of sleep and misery waking up early
+[13:39.980 --> 13:41.980]  for me to get down there.
+[13:41.980 --> 13:47.980]  But no, it was like a really dark sort of terribleness.
+[13:47.980 --> 13:49.980]  It's very hard to describe.
+[13:49.980 --> 13:50.980]  And you think that...
+[13:50.980 --> 13:53.980]  It's like a visual sort of thing as well.
+[13:53.980 --> 13:54.980]  It's very strange.
+[13:54.980 --> 13:58.980]  And I thought I was picking up from someone on the tube, you know, because sometimes,
+[13:58.980 --> 14:03.980]  you know, you're on the tube and you pick up other people's like sort of pathology or
+[14:03.980 --> 14:04.980]  emotions or whatever.
+[14:04.980 --> 14:06.980]  And you're like, wait, that's not...
+[14:06.980 --> 14:07.980]  Why am I feeling so...
+[14:07.980 --> 14:09.980]  And then you see the guy next to you like, oh.
+[14:09.980 --> 14:10.980]  You know.
+[14:10.980 --> 14:12.980]  And I was like, was there somebody...
+[14:12.980 --> 14:16.980]  But there wasn't anybody around me that was giving off this sort of terrible...
+[14:16.980 --> 14:19.980]  In hindsight, you think that was the moment your dad died?
+[14:19.980 --> 14:20.980]  Yeah.
+[14:20.980 --> 14:21.980]  In hindsight, yeah.
+[14:21.980 --> 14:26.980]  I wrote it down in my notes and I keep meaning to find it, but I still haven't done that
+[14:26.980 --> 14:27.980]  because I don't really want to look at it.
+[14:27.980 --> 14:30.980]  But I will do that if you can remind me.
+[14:30.980 --> 14:31.980]  Okay.
+[14:31.980 --> 14:32.980]  So...
+[14:32.980 --> 14:36.980]  Because at the time, every time I would have an idea or something, because I was still
+[14:36.980 --> 14:38.980]  writing music at that time.
+[14:38.980 --> 14:43.980]  And I would write down thoughts or ideas I had and that one was overwhelmingly strong.
+[14:43.980 --> 14:48.980]  So I wrote it down, like everything about it.
+[14:48.980 --> 14:51.980]  I didn't think much about that until months later.
+[14:51.980 --> 14:52.980]  Yeah.
+[14:52.980 --> 14:53.980]  All right.
+[14:53.980 --> 14:54.980]  So you get out of the tube.
+[14:54.980 --> 14:55.980]  It's drizzly.
+[14:55.980 --> 14:56.980]  You are...
+[14:56.980 --> 14:59.980]  You walk over to the Satya Gallery.
+[14:59.980 --> 15:00.980]  It's one o'clock.
+[15:00.980 --> 15:01.980]  Parents aren't there.
+[15:01.980 --> 15:02.980]  You text them.
+[15:02.980 --> 15:06.980]  You text your mom and say, where are you?
+[15:06.980 --> 15:07.980]  Where are you guys?
+[15:07.980 --> 15:08.980]  No response.
+[15:08.980 --> 15:09.980]  Correct.
+[15:09.980 --> 15:12.980]  And you go then browse around the Tashin bookstore.
+[15:12.980 --> 15:13.980]  Yeah.
+[15:13.980 --> 15:14.980]  Look at that Beatles book.
+[15:14.980 --> 15:15.980]  That's right.
+[15:15.980 --> 15:17.980]  And then who...
+[15:17.980 --> 15:20.980]  And then your phone rings.
+[15:20.980 --> 15:23.980]  And then the phone rings.
+[15:23.980 --> 15:25.980]  Well, there was a few more texts.
+[15:25.980 --> 15:26.980]  Where are you?
+[15:26.980 --> 15:27.980]  What's going on?
+[15:27.980 --> 15:28.980]  I'm here.
+[15:28.980 --> 15:29.980]  And they're usually never late.
+[15:29.980 --> 15:30.980]  I'm always the one that's late.
+[15:30.980 --> 15:31.980]  So...
+[15:31.980 --> 15:33.980]  And I was early this time, which is unusual.
+[15:33.980 --> 15:34.980]  That is...
+[15:34.980 --> 15:36.980]  I can vouch from personal experience.
+[15:36.980 --> 15:37.980]  That's unusual.
+[15:37.980 --> 15:38.980]  Yeah.
+[15:38.980 --> 15:44.980]  And I was looking through the book and I was trying to figure out a way for them to talk
+[15:44.980 --> 15:48.980]  my dad or mom into buying me this for my birthday.
+[15:48.980 --> 15:50.980]  And yeah, send multiple texts.
+[15:50.980 --> 15:56.980]  And then the phone call came in and I believe it said unknown or no caller ID.
+[15:56.980 --> 15:57.980]  I'm not sure.
+[15:57.980 --> 16:02.980]  Which was also strange because if it was my mom or my dad, it would come up as mom or
+[16:02.980 --> 16:03.980]  dad.
+[16:03.980 --> 16:04.980]  And it was a voice.
+[16:04.980 --> 16:08.980]  It was very hard to recognize and a very strong Russian accent.
+[16:08.980 --> 16:13.980]  And I think it was the housekeeper or one of the housekeeper's friends or somebody.
+[16:14.980 --> 16:15.980]  I don't.
+[16:15.980 --> 16:16.980]  It was very fuzzy stuff.
+[16:16.980 --> 16:17.980]  What did the voice say?
+[16:17.980 --> 16:18.980]  Emergency, emergency.
+[16:18.980 --> 16:20.980]  Your father or your father.
+[16:21.980 --> 16:25.980]  Well, your story is aligning perfectly with what I've got written here.
+[16:25.980 --> 16:26.980]  So that's good.
+[16:28.980 --> 16:29.980]  Of course.
+[16:29.980 --> 16:30.980]  You go into...
+[16:30.980 --> 16:31.980]  You grab a...
+[16:31.980 --> 16:32.980]  You hail cab.
+[16:33.980 --> 16:34.980]  Yeah.
+[16:34.980 --> 16:35.980]  I get a black cab.
+[16:35.980 --> 16:38.980]  It was raining a bit, I remember.
+[16:39.980 --> 16:45.980]  And you get to 21 Evelyn Gardens and hop out of the cab.
+[16:45.980 --> 16:47.980]  Was there an ambulance there?
+[16:47.980 --> 16:49.980]  There was, yeah.
+[16:49.980 --> 16:52.980]  And so then what do you do?
+[16:53.980 --> 16:58.980]  That's when I knew that it was, you know, somewhat for real that there was something going on.
+[16:58.980 --> 17:02.980]  Just a verifiable ambulance.
+[17:02.980 --> 17:07.980]  You don't see an ambulance combined with emergency, emergency, you know.
+[17:07.980 --> 17:09.980]  I just ran out of the cab.
+[17:09.980 --> 17:15.980]  I paid the guy, remember, and ran out of the cab, ran up the stairs.
+[17:15.980 --> 17:17.980]  And I already told you all this.
+[17:17.980 --> 17:19.980]  I know, but it's good to just like...
+[17:19.980 --> 17:21.980]  It's actually helpful for me.
+[17:21.980 --> 17:23.980]  Like, do you not want to?
+[17:23.980 --> 17:24.980]  We don't have to.
+[17:24.980 --> 17:25.980]  I mean, this is the same thing.
+[17:25.980 --> 17:30.980]  So, yeah, I get in there, I open the door, and my dad was dead and he's on the floor,
+[17:30.980 --> 17:32.980]  lying on his back in the hallway.
+[17:32.980 --> 17:37.980]  The EMTs were there, and they were finishing up.
+[17:37.980 --> 17:41.980]  They were wrapping up their instruments, and my mom was wailing.
+[17:41.980 --> 17:43.980]  The current crying tears.
+[17:43.980 --> 17:45.980]  Very terrible scene.
+[17:45.980 --> 17:46.980]  Terrible.
+[17:46.980 --> 17:48.980]  Did you know he was dead?
+[17:48.980 --> 17:55.980]  I kind of just instinctively knew, you know, I mean, just when you see the scenes.
+[17:55.980 --> 17:58.980]  Yeah, I can imagine.
+[17:59.980 --> 18:01.980]  Okay, let's move on.
+[18:01.980 --> 18:04.980]  I'm sorry to have to, like, start out with it.
+[18:04.980 --> 18:06.980]  Okay.
+[18:06.980 --> 18:08.980]  You're not sorry.
+[18:08.980 --> 18:10.980]  Well, dude, I can tell...
+[18:10.980 --> 18:12.980]  I know you well enough that I, like, know...
+[18:12.980 --> 18:15.980]  I mean, I've heard the story a million times, obviously, but it's...
+[18:15.980 --> 18:18.980]  I don't enjoy running through the camera.
+[18:18.980 --> 18:20.980]  I know you're kidding.
+[18:20.980 --> 18:22.980]  It honestly is.
+[18:22.980 --> 18:23.980]  Don't worry, I'm just...
+[18:23.980 --> 18:24.980]  I'm not worried.
+[18:24.980 --> 18:26.980]  ...giving you shit.
+[18:26.980 --> 18:28.980]  Okay, so...
+[18:28.980 --> 18:30.980]  So what are the details? Do we need...
+[18:30.980 --> 18:32.980]  I don't think we need to go into any more details right there.
+[18:32.980 --> 18:34.980]  I then kind of fast-forward a little bit.
+[18:34.980 --> 18:37.980]  What were the police and the notes? I mean, you have all that, right?
+[18:37.980 --> 18:39.980]  Yeah, I've got that, but I'm not going to get into that.
+[18:39.980 --> 18:43.980]  Why don't you tell me what you have, and then I will tell you if something is correct or incorrect,
+[18:43.980 --> 18:48.980]  rather than me saying the same thing I've been telling you for four years?
+[18:48.980 --> 18:52.980]  Okay, because it's really the way you have processed the information that's important,
+[18:52.980 --> 18:54.980]  not the information I give you again.
+[18:54.980 --> 18:55.980]  Yep, fair enough.
+[18:55.980 --> 19:02.980]  Okay, so let's rewind 55 or 60 years.
+[19:02.980 --> 19:03.980]  Okay.
+[19:03.980 --> 19:07.980]  And so it...
+[19:07.980 --> 19:11.980]  Bill's grandfather, your great-grandfather,
+[19:11.980 --> 19:13.980]  there's a guy named John Shaw Brooksman.
+[19:13.980 --> 19:14.980]  Yeah.
+[19:14.980 --> 19:16.980]  And he started off being a sheep rancher.
+[19:16.980 --> 19:17.980]  Okay.
+[19:17.980 --> 19:18.980]  Do you know that?
+[19:18.980 --> 19:20.980]  No, Gar.
+[19:20.980 --> 19:21.980]  Gar?
+[19:21.980 --> 19:22.980]  I think they call him Gar.
+[19:22.980 --> 19:23.980]  I don't know.
+[19:23.980 --> 19:24.980]  I...
+[19:24.980 --> 19:26.980]  He gave sheep ranching a try.
+[19:26.980 --> 19:27.980]  Oh, wait, on whose side?
+[19:27.980 --> 19:28.980]  On my...
+[19:28.980 --> 19:30.980]  This is your dad's...
+[19:30.980 --> 19:31.980]  Mother's side?
+[19:31.980 --> 19:33.980]  Dad's...
+[19:33.980 --> 19:35.980]  grandfather.
+[19:35.980 --> 19:36.980]  So it's paternal.
+[19:36.980 --> 19:39.980]  So his father's father?
+[19:39.980 --> 19:41.980]  His father's father, yes.
+[19:41.980 --> 19:42.980]  Okay, Jack's father.
+[19:42.980 --> 19:44.980]  So this is not Reverend Jack.
+[19:44.980 --> 19:46.980]  This is Reverend Jack's dad.
+[19:46.980 --> 19:47.980]  Yeah, no, this isn't different.
+[19:47.980 --> 19:51.980]  Gar is Jack's wife's father.
+[19:51.980 --> 19:55.980]  So your great-grandfather, Reverend Jack's dad,
+[19:55.980 --> 19:56.980]  becomes...
+[19:56.980 --> 19:57.980]  There's some great...
+[19:57.980 --> 19:59.980]  Like he wrote about his experience,
+[19:59.980 --> 20:02.980]  because he, for something back in 1906,
+[20:02.980 --> 20:03.980]  which I tracked down,
+[20:03.980 --> 20:05.980]  and he, after becoming a sheep rancher,
+[20:05.980 --> 20:07.980]  decided to be a banker,
+[20:07.980 --> 20:09.980]  and worked at a bank in Cedar Rapids, Iowa,
+[20:09.980 --> 20:11.980]  and he started at the very bottom.
+[20:11.980 --> 20:13.980]  He was washing windows and scrubbing floors.
+[20:13.980 --> 20:14.980]  For your...
+[20:14.980 --> 20:16.980]  This was...
+[20:16.980 --> 20:17.980]  He described this.
+[20:17.980 --> 20:21.980]  This is probably, I guess, the late 1800s,
+[20:21.980 --> 20:25.980]  because he wrote about this in 1906.
+[20:25.980 --> 20:26.980]  Massachusetts?
+[20:26.980 --> 20:27.980]  No, in Iowa.
+[20:27.980 --> 20:28.980]  In Iowa? Okay.
+[20:28.980 --> 20:29.980]  He said,
+[20:29.980 --> 20:30.980]  all the money that fell on the floor went to me,
+[20:30.980 --> 20:33.980]  and for a while, it was pretty poor picking.
+[20:33.980 --> 20:35.980]  But he spent his career there,
+[20:35.980 --> 20:37.980]  and they were in banking,
+[20:37.980 --> 20:38.980]  and eventually he ended up
+[20:38.980 --> 20:40.980]  at a big Chicago bank, Harris Trust.
+[20:40.980 --> 20:43.980]  And by the Great Depression,
+[20:43.980 --> 20:46.980]  he had enough kind of seniority
+[20:46.980 --> 20:49.980]  that he was summoned to testify in Washington
+[20:49.980 --> 20:51.980]  before the big Senate committee,
+[20:51.980 --> 20:52.980]  the PCORA Commission,
+[20:52.980 --> 20:55.980]  that was investigating.
+[20:55.980 --> 20:56.980]  It was like, basically,
+[20:56.980 --> 20:58.980]  the financial crisis inquiry commission
+[20:58.980 --> 21:00.980]  80 years earlier.
+[21:00.980 --> 21:02.980]  What was this crisis over?
+[21:02.980 --> 21:03.980]  The Great Depression.
+[21:03.980 --> 21:04.980]  Oh, the Great Depression.
+[21:04.980 --> 21:06.980]  Yeah, so it was like the 1929 stock market crash,
+[21:06.980 --> 21:08.980]  and then they ensue in the Depression.
+[21:08.980 --> 21:14.980]  So, John, the banker as a son,
+[21:14.980 --> 21:17.980]  Jack, John Jr.
+[21:17.980 --> 21:19.980]  And the daughter.
+[21:19.980 --> 21:20.980]  Yeah.
+[21:20.980 --> 21:25.980]  Well, but for this kind of branch of the family tree,
+[21:25.980 --> 21:27.980]  the son is relevant.
+[21:27.980 --> 21:29.980]  So this is Reverend Jack.
+[21:29.980 --> 21:30.980]  He's not Reverend Jack at first.
+[21:30.980 --> 21:33.980]  At first, he's a lieutenant in the Navy in World War II,
+[21:33.980 --> 21:35.980]  sinks a U-boat.
+[21:35.980 --> 21:38.980]  Jack, Marys Jane,
+[21:38.980 --> 21:41.980]  who's a librarian and an amateur artist,
+[21:41.980 --> 21:43.980]  they then have six children.
+[21:43.980 --> 21:46.980]  And in the middle, number four is your dad.
+[21:46.980 --> 21:48.980]  And Jane's background is interesting, too.
+[21:48.980 --> 21:50.980]  I know, it is interesting.
+[21:50.980 --> 21:52.980]  She's got, and she was Yale as well.
+[21:52.980 --> 21:53.980]  Vassar.
+[21:53.980 --> 21:54.980]  Or Vassar, yeah, Vassar.
+[21:54.980 --> 21:56.980]  She's an intellectual family.
+[21:56.980 --> 21:57.980]  Very, yeah.
+[21:57.980 --> 21:58.980]  Yep.
+[21:58.980 --> 21:59.980]  Yeah.
+[21:59.980 --> 22:00.980]  Gar was her father.
+[22:00.980 --> 22:02.980]  Okay.
+[22:02.980 --> 22:05.980]  He's one of the school of Prescott Bush.
+[22:05.980 --> 22:06.980]  Interesting.
+[22:06.980 --> 22:08.980]  Yeah.
+[22:08.980 --> 22:09.980]  At Yale.
+[22:09.980 --> 22:11.980]  So Jack goes into the ministry
+[22:11.980 --> 22:14.980]  with the United Church of Christ.
+[22:14.980 --> 22:16.980]  Initially, he's in Galva, Illinois.
+[22:16.980 --> 22:17.980]  Yeah, that's right.
+[22:17.980 --> 22:20.980]  And it was,
+[22:20.980 --> 22:23.980]  Jane gave art lectures there.
+[22:23.980 --> 22:26.980]  Laura, so Bill's older sister
+[22:26.980 --> 22:28.980]  did some music performances there.
+[22:28.980 --> 22:29.980]  And there were, you know,
+[22:29.980 --> 22:30.980]  old newspaper records of this.
+[22:30.980 --> 22:31.980]  Right.
+[22:31.980 --> 22:37.980]  And Reverend Jack was known in the community as,
+[22:37.980 --> 22:40.980]  just like, not only like a pillar of the community,
+[22:40.980 --> 22:42.980]  but also someone who would,
+[22:42.980 --> 22:44.980]  he taught about the importance of understanding things
+[22:44.980 --> 22:46.980]  from other people's perspectives.
+[22:46.980 --> 22:47.980]  Right.
+[22:47.980 --> 22:50.980]  And this is something that,
+[22:50.980 --> 22:53.980]  your dad would later tell people that it's,
+[22:53.980 --> 22:56.980]  this is kind of one of the guiding principles in his life
+[22:56.980 --> 22:58.980]  that he learned was from Reverend Jack.
+[22:58.980 --> 23:02.980]  And so they lived in Galva on this quiet,
+[23:02.980 --> 23:04.980]  tree-lined street,
+[23:04.980 --> 23:09.980]  old two-story house that had been built in the Great Depression.
+[23:09.980 --> 23:14.980]  Bob later would say that there was a certain amount
+[23:14.980 --> 23:17.980]  of education pedigree, but there wasn't any money.
+[23:17.980 --> 23:19.980]  And they would, you know,
+[23:19.980 --> 23:21.980]  cycle through all these different communities
+[23:21.980 --> 23:23.980]  and to different churches.
+[23:23.980 --> 23:24.980]  Bob told you this.
+[23:24.980 --> 23:26.980]  No.
+[23:26.980 --> 23:28.980]  I've heard this from a couple of other people, though.
+[23:28.980 --> 23:31.980]  And Jane would decorate the houses
+[23:31.980 --> 23:33.980]  with watercolors that she would paint.
+[23:33.980 --> 23:34.980]  Sure.
+[23:34.980 --> 23:36.980]  She's good.
+[23:36.980 --> 23:37.980]  She's good.
+[23:37.980 --> 23:42.980]  So, Bill starts to grow up
+[23:42.980 --> 23:44.980]  and he has a newspaper route.
+[23:44.980 --> 23:47.980]  Gets his two younger brothers to stuff the papers.
+[23:47.980 --> 23:49.980]  Right, the newspaper route.
+[23:49.980 --> 23:50.980]  That's right, I forgot about that.
+[23:50.980 --> 23:52.980]  With like little pamphlets and do,
+[23:52.980 --> 23:56.980]  deliver them and Bill takes the money and saves it
+[23:56.980 --> 23:58.980]  and uses the money to buy a TV
+[23:58.980 --> 24:01.980]  that Reverend Jack had been unwilling to buy.
+[24:01.980 --> 24:02.980]  He goes to League Forest,
+[24:02.980 --> 24:05.980]  which is a, you know, elite prep school in the Chicago area.
+[24:06.980 --> 24:09.980]  He goes to Clark Men's College,
+[24:09.980 --> 24:12.980]  which is where I, 25 years later, would go.
+[24:12.980 --> 24:13.980]  And my sister would go, too.
+[24:13.980 --> 24:15.980]  And your sister would go.
+[24:17.980 --> 24:20.980]  And this is where your dance life gets a little bit,
+[24:20.980 --> 24:22.980]  not what I'd expected.
+[24:22.980 --> 24:27.980]  So he is, he is a big party-er.
+[24:27.980 --> 24:28.980]  Really?
+[24:28.980 --> 24:29.980]  A very big party.
+[24:29.980 --> 24:30.980]  Is he?
+[24:31.980 --> 24:36.980]  He was known as a binge drinker, pot smoker.
+[24:37.980 --> 24:41.980]  He, his friends would tease him about his preference
+[24:41.980 --> 24:44.980]  for what at the time were exotic women.
+[24:45.980 --> 24:48.980]  And also his preference for like, you know,
+[24:48.980 --> 24:51.980]  what was, well, they called him Billy Disco
+[24:51.980 --> 24:53.980]  because he really was cool in the gang.
+[24:54.980 --> 24:56.980]  I didn't know that one.
+[24:56.980 --> 24:57.980]  Billy Disco?
+[24:57.980 --> 24:58.980]  That's funny.
+[24:58.980 --> 24:59.980]  One of the things I've done is
+[24:59.980 --> 25:02.980]  I talked to a bunch of his college, old college friends.
+[25:03.980 --> 25:04.980]  Billy Disco?
+[25:04.980 --> 25:05.980]  That's fucking funny.
+[25:05.980 --> 25:07.980]  So they would, you know,
+[25:07.980 --> 25:09.980]  and I get into a little bit about
+[25:09.980 --> 25:11.980]  kind of the extracurricular activities they had.
+[25:11.980 --> 25:14.980]  And, well, you know,
+[25:14.980 --> 25:16.980]  there's like a dingy San Diego strip club
+[25:16.980 --> 25:18.980]  that they would go to that bill would later describe.
+[25:18.980 --> 25:20.980]  I think this is in the emails that you've showed me.
+[25:20.980 --> 25:22.980]  How they would slip dollar bills
+[25:22.980 --> 25:24.980]  into the G strings of heroin addicts.
+[25:24.980 --> 25:30.980]  There is a Vegas was a popular destination
+[25:30.980 --> 25:32.980]  as it was in my time when I went to CMC as well.
+[25:32.980 --> 25:33.980]  Yeah.
+[25:33.980 --> 25:38.980]  And so despite all of his like, kind of wild side,
+[25:38.980 --> 25:39.980]  he was also a really good student.
+[25:39.980 --> 25:42.980]  He was really into finance, even at,
+[25:42.980 --> 25:43.980]  the two things he was really into at that time
+[25:43.980 --> 25:44.980]  were politics and finance.
+[25:44.980 --> 25:46.980]  And he understood finance in this kind of like,
+[25:46.980 --> 25:49.980]  oddly sophisticated way for someone who was, you know,
+[25:49.980 --> 25:50.980]  a 20-year-old.
+[25:50.980 --> 25:52.980]  Well, he wanted to be a sports writer as well.
+[25:52.980 --> 25:53.980]  Yeah.
+[25:53.980 --> 25:54.980]  He wanted to be a journalist.
+[25:54.980 --> 25:57.980]  And so, well, listen to this.
+[25:57.980 --> 26:00.980]  So he, he was kind of getting,
+[26:00.980 --> 26:02.980]  getting some of his buddies in college
+[26:02.980 --> 26:05.980]  interested in stock trading and even in like little,
+[26:05.980 --> 26:07.980]  like very simple types of derivatives,
+[26:07.980 --> 26:08.980]  even at that age.
+[26:08.980 --> 26:11.980]  And how would Bill, who grew up without any money
+[26:11.980 --> 26:13.980]  and was on scholarship at CMC,
+[26:13.980 --> 26:15.980]  how would he make his own bets?
+[26:15.980 --> 26:16.980]  How would he finance that?
+[26:16.980 --> 26:20.980]  Well, he developed a fairly lucrative career,
+[26:21.980 --> 26:24.980]  writing term papers, term papers for other students.
+[26:24.980 --> 26:26.980]  He never told me this.
+[26:26.980 --> 26:29.980]  The way his friend, one of his best friends at the time,
+[26:29.980 --> 26:31.980]  John Shink, who's a classmate of his,
+[26:31.980 --> 26:34.980]  describes it as, it was mostly for some of the more
+[26:34.980 --> 26:37.980]  privileged students there.
+[26:37.980 --> 26:39.980]  And he says, quote, there are a lot of people
+[26:39.980 --> 26:41.980]  who wouldn't have made it through Claremont
+[26:41.980 --> 26:42.980]  if it wasn't for Bill's help.
+[26:42.980 --> 26:43.980]  That's funny.
+[26:43.980 --> 26:48.980]  So, really into politics, after graduating,
+[26:49.980 --> 26:52.980]  he did some campaign work for local Republicans
+[26:52.980 --> 26:54.980]  running for Congress while he was there,
+[26:54.980 --> 26:55.980]  while he was in college.
+[26:55.980 --> 26:57.980]  And after graduating, he lived in Pasadena
+[26:57.980 --> 26:58.980]  with a group of his friends.
+[26:58.980 --> 27:02.980]  And he and John Shink set up a consulting firm.
+[27:02.980 --> 27:07.980]  They produced position papers for a bunch of candidates
+[27:07.980 --> 27:11.980]  and basically for a bunch of Republican candidates
+[27:11.980 --> 27:12.980]  all throughout California.
+[27:12.980 --> 27:17.980]  And, but again, his like, his demons came out at night.
+[27:17.980 --> 27:19.980]  So, why do you say demons?
+[27:19.980 --> 27:24.980]  Because he was into, there's a lot of heavy drinking.
+[27:24.980 --> 27:26.980]  There were prostitutes.
+[27:26.980 --> 27:28.980]  But why is this your drinking with demons?
+[27:28.980 --> 27:29.980]  Why is this demonic now?
+[27:29.980 --> 27:30.980]  Why is this a negative connotation?
+[27:30.980 --> 27:32.980]  I don't think it's, it's not demonic.
+[27:32.980 --> 27:34.980]  It's that, it's an expression.
+[27:34.980 --> 27:36.980]  Yeah, I know the expression, this is your negative expression
+[27:36.980 --> 27:38.980]  to say your demons come out at night
+[27:38.980 --> 27:40.980]  because you like to party, you like to drink.
+[27:40.980 --> 27:42.980]  Well, he was known as...
+[27:42.980 --> 27:43.980]  It's a bit unfair.
+[27:43.980 --> 27:45.980]  Okay.
+[27:45.980 --> 27:48.980]  He, he just didn't know how to turn it off.
+[27:48.980 --> 27:52.980]  John Shink says another one.
+[27:52.980 --> 27:54.980]  Tom Marks, who's another Claremont alum,
+[27:54.980 --> 27:56.980]  and this is a guy, they then moved to Chicago
+[27:56.980 --> 27:58.980]  and this was his roommate at the time.
+[27:58.980 --> 28:00.980]  Okay.
+[28:00.980 --> 28:02.980]  Bill was wonderfully brilliant but deeply troubled.
+[28:02.980 --> 28:05.980]  In clinical terms, he was incredibly fucked up.
+[28:05.980 --> 28:07.980]  He did things by day that were not,
+[28:07.980 --> 28:09.980]  that were in sharp contrast to his daytime behavior.
+[28:09.980 --> 28:10.980]  I'm sorry, he did things by night
+[28:10.980 --> 28:12.980]  that were in sharp contrast to his daytime behavior.
+[28:12.980 --> 28:14.980]  And it, uh...
+[28:14.980 --> 28:16.980]  He's a proper person.
+[28:16.980 --> 28:17.980]  Yeah, he is a proper person.
+[28:17.980 --> 28:18.980]  There's, there's...
+[28:18.980 --> 28:21.980]  And look, and listen, so he...
+[28:21.980 --> 28:23.980]  What's, why is that...
+[28:23.980 --> 28:24.980]  What's wrong with that?
+[28:24.980 --> 28:25.980]  And why was it clinically fucked up
+[28:25.980 --> 28:27.980]  because that is the opposite of clinical?
+[28:27.980 --> 28:30.980]  I think that's a turn of phrase by his friend.
+[28:30.980 --> 28:31.980]  Oh, it's a quote.
+[28:31.980 --> 28:33.980]  Again, that's not my words.
+[28:33.980 --> 28:35.980]  Those are, those are his roommate's words at the time.
+[28:35.980 --> 28:37.980]  Whoever this guy is is...
+[28:37.980 --> 28:38.980]  Okay.
+[28:38.980 --> 28:40.980]  No, this is, this is two or three different people, though,
+[28:40.980 --> 28:41.980]  now who are being quoted.
+[28:41.980 --> 28:44.980]  Whoever said clinically fucked up is...
+[28:44.980 --> 28:46.980]  He said in clinical terms, he was incredibly fucked up.
+[28:46.980 --> 28:47.980]  That's, it's a...
+[28:47.980 --> 28:48.980]  Like, obviously...
+[28:48.980 --> 28:49.980]  In clinical terms, he's really fucked up.
+[28:49.980 --> 28:50.980]  No, that's like a joke.
+[28:50.980 --> 28:51.980]  I know, it's a terrible joke.
+[28:51.980 --> 28:53.980]  It's, it's not funny.
+[28:53.980 --> 28:55.980]  The, but here, look, there's another side to this
+[28:55.980 --> 28:58.980]  because this guy's also, Bill stands out,
+[28:58.980 --> 29:01.980]  your father stands out as the mature one in the group.
+[29:01.980 --> 29:03.980]  And when he says it's in sharp contrast to his daytime behavior,
+[29:03.980 --> 29:05.980]  well his daytime behavior was, he was the responsible one.
+[29:05.980 --> 29:06.980]  Okay.
+[29:06.980 --> 29:10.980]  He, uh, he needed a car to get to work.
+[29:10.980 --> 29:12.980]  Until he just went out and bought a used Mustang.
+[29:12.980 --> 29:13.980]  Yeah.
+[29:13.980 --> 29:15.980]  And it was like, he actually functioned in the real world.
+[29:15.980 --> 29:17.980]  And I can say, I know you can say it's like,
+[29:17.980 --> 29:19.980]  when recent graduates of college,
+[29:19.980 --> 29:21.980]  that is like not normal behavior, right?
+[29:21.980 --> 29:23.980]  It's like a whole, you have to get your parents involved
+[29:23.980 --> 29:24.980]  and like figure shit out.
+[29:24.980 --> 29:26.980]  He was figuring stuff out on his own.
+[29:26.980 --> 29:29.980]  When a colleague's wife died, Bill sent a sympathy card,
+[29:29.980 --> 29:31.980]  which would never recurred to his,
+[29:31.980 --> 29:32.980]  the people he's living with.
+[29:32.980 --> 29:34.980]  And his girlfriend says, quote,
+[29:34.980 --> 29:36.980]  I asked him why, and he said,
+[29:36.980 --> 29:38.980]  because it's what's done, it's the right thing to do.
+[29:38.980 --> 29:39.980]  That's right.
+[29:39.980 --> 29:41.980]  And most of us, Bill was self-sufficient and responsible.
+[29:41.980 --> 29:43.980]  I would hear a lot of that for him.
+[29:43.980 --> 29:45.980]  Cause that's what you do.
+[29:45.980 --> 29:46.980]  Yeah.
+[29:46.980 --> 29:47.980]  Cause that's what you do though.
+[29:47.980 --> 29:48.980]  You would say that often.
+[29:48.980 --> 29:52.980]  Well, he had that going when he was 21 years old.
+[29:52.980 --> 29:53.980]  Yeah.
+[29:53.980 --> 29:54.980]  Um,
+[29:54.980 --> 29:55.980]  Wow.
+[29:55.980 --> 29:58.980]  I've got a delightful little anecdote here that,
+[29:58.980 --> 30:01.980]  you know, it doesn't prove anything one way or the other,
+[30:01.980 --> 30:02.980]  but just interesting.
+[30:02.980 --> 30:04.980]  So in early 1980s,
+[30:04.980 --> 30:08.980]  Bill flies from Chicago to Vegas to have a little reunion
+[30:08.980 --> 30:09.980]  with John Shink.
+[30:09.980 --> 30:11.980]  So one of his best friends in college.
+[30:11.980 --> 30:14.980]  And, you know, they're drinking and gambling and it's late at night
+[30:14.980 --> 30:18.980]  and they're walking back down the strip toward their hotel.
+[30:18.980 --> 30:21.980]  And, uh, two prostitutes come up to them.
+[30:21.980 --> 30:24.980]  And, you know, these are two drunk 22 year olds or whatever.
+[30:24.980 --> 30:28.980]  So they're, uh, prostitutes or maybe 24 year olds.
+[30:28.980 --> 30:31.980]  Uh, prostitutes, uh, walk up to them,
+[30:31.980 --> 30:33.980]  start fondling them a little bit.
+[30:33.980 --> 30:35.980]  Guys aren't putting up much of a fight.
+[30:35.980 --> 30:38.980]  And then the prostitutes walk away and Bill and,
+[30:38.980 --> 30:41.980]  uh, John are walking back toward their hotel room.
+[30:41.980 --> 30:42.980]  Right.
+[30:42.980 --> 30:45.980]  And your dad realizes this whole thing had been a ruse.
+[30:45.980 --> 30:49.980]  The one of the prostitutes had stolen hundreds of dollars out of his pocket
+[30:49.980 --> 30:51.980]  while feeling him up.
+[30:51.980 --> 30:55.980]  And so Bill yells and then starts chasing them.
+[30:55.980 --> 30:57.980]  And he tackles one of them.
+[30:57.980 --> 30:58.980]  He tackles her.
+[30:58.980 --> 31:01.980]  And they are rolling around on a dirty sidewalk.
+[31:01.980 --> 31:03.980]  Bill trying to get his money back.
+[31:03.980 --> 31:07.980]  The prostitute gets presumably screaming until the cops came and broke it up.
+[31:07.980 --> 31:08.980]  That's funny.
+[31:08.980 --> 31:09.980]  Yeah.
+[31:09.980 --> 31:10.980]  Oh, that's great.
+[31:10.980 --> 31:11.980]  Did he get the money back?
+[31:11.980 --> 31:12.980]  He got the money back.
+[31:12.980 --> 31:13.980]  The cops gave it back.
+[31:13.980 --> 31:14.980]  Gave him the money back.
+[31:14.980 --> 31:15.980]  Wow.
+[31:15.980 --> 31:16.980]  Um, okay.
+[31:16.980 --> 31:20.980]  So, and again, I'm just doing this based on the way I've got this structured
+[31:20.980 --> 31:21.980]  right now.
+[31:21.980 --> 31:23.980]  So we're taking a little break chronologically.
+[31:23.980 --> 31:24.980]  That's great.
+[31:24.980 --> 31:25.980]  I didn't know that.
+[31:25.980 --> 31:26.980]  That's funny.
+[31:26.980 --> 31:29.980]  And we rewind to January 1976.
+[31:29.980 --> 31:31.980]  Bill's never told that story.
+[31:31.980 --> 31:33.980]  Never heard that.
+[31:33.980 --> 31:35.980]  Um, so we go, you're born.
+[31:35.980 --> 31:36.980]  Okay.
+[31:36.980 --> 31:37.980]  In Kiev.
+[31:37.980 --> 31:40.980]  Uh, to Allah and Alexander.
+[31:40.980 --> 31:46.980]  Um, I described that wonderful black and white photo that you have of them at the party.
+[31:46.980 --> 31:49.980]  Um, are you going to include these photos?
+[31:49.980 --> 31:50.980]  I don't know.
+[31:50.980 --> 31:51.980]  I don't know.
+[31:51.980 --> 31:52.980]  I mean, you can, you can if you want.
+[31:52.980 --> 31:53.980]  Okay, cool.
+[31:53.980 --> 31:54.980]  That's good.
+[31:54.980 --> 31:55.980]  I don't really know how that works.
+[31:55.980 --> 31:58.980]  I think for these purposes, I think it would be good to be able to do that.
+[31:58.980 --> 32:07.980]  Um, so, uh, Allah was, uh, I don't know if you know how much you know about this history
+[32:07.980 --> 32:10.980]  of Russian Jews in the seventies and early eighties.
+[32:10.980 --> 32:11.980]  Yeah.
+[32:11.980 --> 32:16.980]  I mean, so they, she after get graduate from college follows like a felt a fairly well
+[32:16.980 --> 32:23.980]  worn path gets an Israeli exit visa, uh, goes to first Vienna and then Rome, which it's
+[32:23.980 --> 32:24.980]  weird.
+[32:24.980 --> 32:26.980]  Like I never realized this until I started looking into your story.
+[32:26.980 --> 32:30.980]  Like that's a million other people did the exact same thing.
+[32:30.980 --> 32:34.980]  Not just leaving Russia, but going to Vienna and then Rome and then getting waiting in
+[32:34.980 --> 32:37.980]  Rome for getting those exit visas or is not.
+[32:37.980 --> 32:38.980]  Yeah.
+[32:38.980 --> 32:39.980]  It wasn't, you know, it wasn't easy.
+[32:39.980 --> 32:44.980]  But I heard the stories of selling my grandfather's medals and World War II medals and bribing
+[32:44.980 --> 32:46.980]  everyone along the way.
+[32:46.980 --> 32:47.980]  Yep.
+[32:47.980 --> 32:52.980]  And just looking, going back to like old news stories at the time, you can see people
+[32:52.980 --> 32:58.980]  like in very similar situation situations to your family at the time, like fleeing for
+[32:58.980 --> 33:01.980]  the same reason and following the exact same geographical path.
+[33:01.980 --> 33:06.980]  And so, uh, and in fact, a lot of them ending up in Chicago as well, which is obviously.
+[33:06.980 --> 33:07.980]  That's strange.
+[33:07.980 --> 33:09.980]  Why Chicago of all places?
+[33:09.980 --> 33:19.980]  I think it's just the, I mean, there's a local newspaper in 1978 or 1979 actually, which
+[33:19.980 --> 33:25.980]  is the same year your family arrived there, uh, described it as this is a local community
+[33:25.980 --> 33:28.980]  leader or the head of the Jewish community centers in Chicago told the local newspaper
+[33:28.980 --> 33:30.980]  that it's a mass exodus.
+[33:30.980 --> 33:32.980]  They're all coming here.
+[33:32.980 --> 33:39.980]  Um, so this is where things get a little bit ugly as you know.
+[33:39.980 --> 33:45.980]  And, um, so your mom is working in the Stanley Corsac department store.
+[33:45.980 --> 33:46.980]  Your mom gets a job.
+[33:46.980 --> 33:47.980]  She has two jobs.
+[33:47.980 --> 33:52.980]  One is a cocktail waitress and the other is working in this luxury good store on the
+[33:52.980 --> 33:54.980]  magnificent mile in Chicago.
+[33:54.980 --> 33:56.980]  This is this store is called Stanley Corsac.
+[33:56.980 --> 33:57.980]  Right.
+[33:57.980 --> 33:58.980]  She was selling for coats.
+[33:58.980 --> 34:02.980]  And I think her job actually as far as I can tell was creating displays.
+[34:02.980 --> 34:04.980]  So she was, um, right?
+[34:04.980 --> 34:05.980]  Yeah.
+[34:05.980 --> 34:06.980]  She did the windows.
+[34:06.980 --> 34:07.980]  Yeah.
+[34:07.980 --> 34:08.980]  The window displays exactly.
+[34:08.980 --> 34:09.980]  Well, that's okay.
+[34:09.980 --> 34:12.980]  Uh, Marie, you know the jewels are?
+[34:12.980 --> 34:17.980]  I saw some over on some of those little pop mango pods over there where my phone plugged
+[34:17.980 --> 34:18.980]  in.
+[34:18.980 --> 34:19.980]  Yeah.
+[34:19.980 --> 34:20.980]  Yeah.
+[34:20.980 --> 34:21.980]  The actual.
+[34:21.980 --> 34:23.980]  And also we need to.
+[34:23.980 --> 34:25.980]  Here I'm just going to.
+[34:25.980 --> 34:26.980]  Right.
+[34:26.980 --> 34:27.980]  Okay.
+[34:27.980 --> 34:30.980]  You got to keep a secret.
+[34:30.980 --> 34:31.980]  Okay.
+[34:31.980 --> 34:32.980]  It's off.
+[34:32.980 --> 34:33.980]  Okay.
+[34:33.980 --> 34:35.980]  So we'll just be careful.
+[34:35.980 --> 34:36.980]  Wait.
+[34:36.980 --> 34:37.980]  Sorry.
+[34:37.980 --> 34:38.980]  Say that again.
+[34:38.980 --> 34:43.980]  I'm not mentioning Marie.
+[34:43.980 --> 34:44.980]  Yeah.
+[34:44.980 --> 34:45.980]  Yeah.
+[34:45.980 --> 34:46.980]  Totally.
+[34:46.980 --> 34:47.980]  I mean, that's not chronologically.
+[34:47.980 --> 34:50.980]  That's like the very end of the pace we're going.
+[34:50.980 --> 34:52.980]  We'll get there in about two weeks.
+[34:52.980 --> 34:53.980]  Oh, okay.
+[34:53.980 --> 34:55.980]  So we're very careful talking to the camera.
+[34:55.980 --> 34:57.980]  So we don't know who you are.
+[34:57.980 --> 34:58.980]  Oh, I see.
+[34:58.980 --> 34:59.980]  So you.
+[34:59.980 --> 35:00.980]  Oh, shit.
+[35:00.980 --> 35:02.980]  So I, that's actually a good point.
+[35:02.980 --> 35:04.980]  I walked in here and was like, hi, Marie.
+[35:04.980 --> 35:05.980]  Yeah.
+[35:05.980 --> 35:06.980]  It's fine.
+[35:06.980 --> 35:07.980]  I mean, there's no.
+[35:07.980 --> 35:08.980]  Yeah.
+[35:08.980 --> 35:09.980]  Because.
+[35:09.980 --> 35:10.980]  For now.
+[35:10.980 --> 35:11.980]  Well, she might.
+[35:11.980 --> 35:12.980]  I don't know.
+[35:12.980 --> 35:13.980]  It's fine.
+[35:13.980 --> 35:14.980]  Don't worry.
+[35:14.980 --> 35:15.980]  I totally know what you're saying.
+[35:15.980 --> 35:16.980]  And that's not.
+[35:16.980 --> 35:17.980]  Yeah.
+[35:17.980 --> 35:18.980]  We just want to protect her for now until.
+[35:18.980 --> 35:19.980]  We just let my mom.
+[35:19.980 --> 35:20.980]  Um.
+[35:20.980 --> 35:21.980]  All that is not good.
+[35:21.980 --> 35:22.980]  I'm just here.
+[35:22.980 --> 35:23.980]  This thing.
+[35:23.980 --> 35:24.980]  She's not going to see that.
+[35:24.980 --> 35:25.980]  I mean.
+[35:25.980 --> 35:27.980]  This is going to like be what?
+[35:27.980 --> 35:28.980]  Let's do it.
+[35:28.980 --> 35:29.980]  That's actually happened.
+[35:29.980 --> 35:30.980]  It's going to be watched by a lot of people.
+[35:30.980 --> 35:31.980]  But not.
+[35:31.980 --> 35:32.980]  It's going to be in conjunction with.
+[35:32.980 --> 35:33.980]  Yeah.
+[35:33.980 --> 35:35.980]  But it's not like imminent in both control.
+[35:35.980 --> 35:36.980]  Over.
+[35:36.980 --> 35:37.980]  Anyway, it doesn't matter.
+[35:37.980 --> 35:38.980]  We're.
+[35:38.980 --> 35:39.980]  I like the word.
+[35:39.980 --> 35:40.980]  It's not imminent.
+[35:40.980 --> 35:41.980]  Um.
+[35:41.980 --> 35:42.980]  But just be careful.
+[35:42.980 --> 35:43.980]  Would you want me to get.
+[35:43.980 --> 35:44.980]  I couldn't get to the cafe.
+[35:44.980 --> 35:45.980]  No.
+[35:45.980 --> 35:46.980]  No.
+[35:46.980 --> 35:47.980]  I just mean.
+[35:47.980 --> 35:48.980]  Like.
+[35:48.980 --> 35:49.980]  I mentioned.
+[35:49.980 --> 35:50.980]  No.
+[35:50.980 --> 35:51.980]  The other jewels.
+[35:51.980 --> 35:52.980]  And all of a sudden.
+[35:52.980 --> 35:53.980]  Like someone.
+[35:53.980 --> 35:54.980]  Honestly, they do.
+[35:54.980 --> 35:55.980]  I.
+[35:55.980 --> 35:56.980]  Marie.
+[35:56.980 --> 35:57.980]  Like.
+[35:57.980 --> 35:58.980]  But it fell.
+[35:58.980 --> 35:59.980]  By the time this airs.
+[35:59.980 --> 36:00.980]  Let's say.
+[36:00.980 --> 36:01.980]  Well, but.
+[36:01.980 --> 36:02.980]  But just to be clear.
+[36:02.980 --> 36:04.980]  In again, the camera's off right now.
+[36:04.980 --> 36:05.980]  So.
+[36:05.980 --> 36:07.980]  Although your phone might still be recorded.
+[36:07.980 --> 36:08.980]  It's still.
+[36:08.980 --> 36:09.980]  Just turn it off.
+[36:09.980 --> 36:10.980]  Okay.
+[36:10.980 --> 36:11.980]  Um.

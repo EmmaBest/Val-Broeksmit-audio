@@ -1,0 +1,3480 @@
+1
+00:00:00,000 --> 00:00:08,040
+it's recording now sorry okay can you just okay yeah I was looking through the
+
+2
+00:00:08,040 --> 00:00:11,480
+text just to find out I know but we've got to figure out a good way to record
+
+3
+00:00:11,480 --> 00:00:15,480
+oh no I never started it was a problem see that now it's he's got the
+
+4
+00:00:15,480 --> 00:00:18,960
+recording line okay cool so now we know it's cool alright so just to reiterate
+
+5
+00:00:18,960 --> 00:00:28,320
+we're looking through the DBTC MCO breach report in relation to Don Ska Bank and
+
+6
+00:00:28,320 --> 00:00:32,760
+we're trying to figure out exactly what we're looking at yeah and my
+
+7
+00:00:32,760 --> 00:00:39,280
+understanding from the source that I talked to isn't it this is all this is
+
+8
+00:00:39,280 --> 00:00:44,520
+showing that on a given date which is in this case October 18th 2013 this is the
+
+9
+00:00:44,520 --> 00:00:52,120
+exposure that Deutsche Bank's USC and a DBTC has DBTC yeah it's a DBTC is the
+
+10
+00:00:52,120 --> 00:00:57,960
+parent company of DBTC there's like this place is organized like it's like
+
+11
+00:00:58,320 --> 00:01:01,680
+thousands of legal entities stacked on top of each other so your dad's still
+
+12
+00:01:01,680 --> 00:01:07,120
+New York base this is still DBTC is also DBTC in base in New York shoot I just
+
+13
+00:01:07,120 --> 00:01:13,040
+press but yes and and this is what your dad was on the board of both of them
+
+14
+00:01:13,040 --> 00:01:19,960
+which is why he was getting emails like this with this huge I thought DBTC a was
+
+15
+00:01:19,960 --> 00:01:26,520
+just specifically DBTC I okay I know you're saying there is a narrow right
+
+16
+00:01:26,560 --> 00:01:34,840
+DBTC your dad was on the board of both okay and look as I said the thing that
+
+17
+00:01:34,840 --> 00:01:40,640
+my guy said it was really interesting about this is not really particular
+
+18
+00:01:40,640 --> 00:01:46,800
+transactions but it's that there are if you go back to the main page of that
+
+19
+00:01:46,800 --> 00:01:51,280
+spreadsheet you'll see there no the one with the the one we're just looking
+
+20
+00:01:51,280 --> 00:01:54,280
+at the trades
+
+21
+00:01:54,840 --> 00:02:03,080
+it's pivot maybe okay yeah if you go it's gonna be really hard to do this on a
+
+22
+00:02:03,080 --> 00:02:07,000
+tablet but if you were to go do a search for the word Russia for instance or
+
+23
+00:02:07,000 --> 00:02:11,360
+Moscow you'll see that they're doing business with and I'll show you I've got
+
+24
+00:02:11,360 --> 00:02:15,400
+this on my computer as well let's just pull it up on your computer well no I
+
+25
+00:02:15,400 --> 00:02:19,240
+don't know this spreadsheet I just have I'm sure honestly I have you know it's
+
+26
+00:02:19,240 --> 00:02:24,200
+branching just search MCO breach report as the title of the sheet
+
+27
+00:02:26,760 --> 00:02:36,480
+this is I don't have it downloaded the but what I do have is I have in the text
+
+28
+00:02:36,480 --> 00:02:48,080
+of the book I've written down the names of some of the like weird institutions
+
+29
+00:02:48,600 --> 00:02:58,320
+that show up in the spreadsheet and weird institutions searching for Moscow and
+
+30
+00:02:58,320 --> 00:03:09,880
+if you tell me with John Moscow my guy is a trip I really think so so here are
+
+31
+00:03:09,880 --> 00:03:13,720
+some of the entities like there's first of all VTV which is the big and that's a
+
+32
+00:03:13,720 --> 00:03:19,840
+state-owned bank right that yeah and it's run by one of Putin's closest pals
+
+33
+00:03:19,840 --> 00:03:23,800
+I know and it's very close size of Deutsche Bank so there's tens of
+
+34
+00:03:23,800 --> 00:03:29,960
+millions of dollars it shows in outstanding transactions with VTV on
+
+35
+00:03:29,960 --> 00:03:34,760
+this particular given day there's also but there's all these other obscure
+
+36
+00:03:34,760 --> 00:03:37,960
+Russian banks that I personally never heard so there's Russian International
+
+37
+00:03:37,960 --> 00:03:42,040
+Bank okay I know what that is there's Russian joint-stop commercial roads bank
+
+38
+00:03:43,000 --> 00:03:48,880
+there's Russian mortgage bank okay there's Russian commercial bank Cyprus
+
+39
+00:03:48,880 --> 00:03:52,440
+limited that makes sense I mean well they're just they're doing business with
+
+40
+00:03:52,440 --> 00:03:56,560
+a ton of Russian banks and it's really cool all the season people created I don't
+
+41
+00:03:56,560 --> 00:04:01,760
+think for them between their their may be in the transaction maybe not
+
+42
+00:04:01,760 --> 00:04:07,560
+necessarily that a lot of them so look if you look in this they're also doing a
+
+43
+00:04:07,560 --> 00:04:11,680
+ton of business with that you said Don's good banks are doing business with like
+
+44
+00:04:11,720 --> 00:04:16,320
+Conoco Phillips is in here there's so it's a rain some of these are very
+
+45
+00:04:16,320 --> 00:04:21,760
+mainstream Arab petrol yeah they're doing a ton of business on this particular
+
+46
+00:04:21,760 --> 00:04:27,520
+day with a ton of different companies right okay so I don't think this is
+
+47
+00:04:27,520 --> 00:04:31,600
+gonna answer the fundamental question about clearly they're doing business the
+
+48
+00:04:31,600 --> 00:04:33,840
+Don's command but this is Deutsche Bank it's one of the biggest banks in the
+
+49
+00:04:33,840 --> 00:04:39,920
+world is doing business on any given day with like thank you David I know but
+
+50
+00:04:39,920 --> 00:04:43,680
+look Don's good bank if there's a breach report so we're talking about breaches
+
+51
+00:04:43,680 --> 00:04:49,520
+in the breaches between Don's good bank and Deutsche Bank so it's not anything
+
+52
+00:04:49,520 --> 00:04:55,400
+that has to do with see I don't think it reaches I think the breach is that they
+
+53
+00:04:55,400 --> 00:05:00,680
+have Deutsche has limits that it's normally supposed to be staying with
+
+54
+00:05:00,680 --> 00:05:06,080
+him so right a breach is when they go over below yeah those thresholds and
+
+55
+00:05:06,240 --> 00:05:12,240
+breaches I understand but I'm saying this if we can see how much money Don's
+
+56
+00:05:12,240 --> 00:05:15,240
+good banks owed to Deutsche or Deutsche's owed to Don's good bank and we can
+
+57
+00:05:15,240 --> 00:05:20,280
+sort of cross-reference with 150 billion that's being reported today you
+
+58
+00:05:20,280 --> 00:05:25,160
+might have a timeline that we can create from that yeah I understand what you're
+
+59
+00:05:25,160 --> 00:05:29,920
+saying I don't have the capacity to do that I've spent so many hours looking at
+
+60
+00:05:29,920 --> 00:05:39,480
+this yeah and it okay well show it to your expert friend with I will yeah I
+
+61
+00:05:39,480 --> 00:05:41,760
+will do that I mean maybe that's something to say it could be just shot in
+
+62
+00:05:41,760 --> 00:05:46,720
+the dark it might be worthless but it's worth just you know having once a look
+
+63
+00:05:46,720 --> 00:05:53,240
+over a quick look over I mean am I right or am I wrong I don't know yeah there
+
+64
+00:05:53,240 --> 00:05:57,040
+could be something there I mean I've had a I've spent a lot of time with this guy
+
+65
+00:05:57,520 --> 00:06:02,360
+there's and I think his view is that this is interesting because it shows the
+
+66
+00:06:02,360 --> 00:06:08,360
+variety of places that Deutsche was doing a ton of business with and it was
+
+67
+00:06:08,360 --> 00:06:12,920
+more than he thought especially as it related to Russia but was he at all
+
+68
+00:06:12,920 --> 00:06:17,640
+looking at it through the lens of Don's good bank and what was what's been
+
+69
+00:06:17,640 --> 00:06:21,520
+happening recently is this before all this is before dawn so now we have
+
+70
+00:06:21,520 --> 00:06:25,280
+something that might be helpful for that and again David I would like to say for
+
+71
+00:06:25,320 --> 00:06:28,920
+a year I've been telling you about this Don's good bank stuff here and you've
+
+72
+00:06:28,920 --> 00:06:32,160
+been saying it's it's silly it's silly but every time there's a new article
+
+73
+00:06:32,160 --> 00:06:37,440
+about it and now there's we have some a spreadsheet that shows that I was not so
+
+74
+00:06:37,440 --> 00:06:43,800
+silly you're not there's nothing silly about no I mean about my my referencing
+
+75
+00:06:43,800 --> 00:06:47,400
+this the spreadsheet in relation to Don's good banks relationship to Deutsche
+
+76
+00:06:47,400 --> 00:06:52,760
+bank I think there's something here I hear you okay and the guys that Glenn
+
+77
+00:06:52,800 --> 00:06:58,480
+hired said that this is interesting from a top completely different reason you're
+
+78
+00:06:58,480 --> 00:07:02,080
+telling me that I'm asking you that is that what he said no and we're gonna
+
+79
+00:07:02,080 --> 00:07:07,200
+shut that because we can't get into that that's we don't say the names or even
+
+80
+00:07:07,200 --> 00:07:20,880
+reference okay so yeah okay should we should we start doing a little yeah
+
+81
+00:07:20,880 --> 00:07:25,840
+let's just get to yeah how do you want to do this let's start the beginning and
+
+82
+00:07:25,840 --> 00:07:30,720
+just go through the whole thing I just read it to you yes I'll read it to you
+
+83
+00:07:30,720 --> 00:07:35,960
+yes and you can restore chocolate in a pillow yeah exactly if you have a roaring
+
+84
+00:07:35,960 --> 00:07:44,840
+fire yes it'd be lovely um that train that yeah raise that train raise that
+
+85
+00:07:44,840 --> 00:07:58,160
+here yeah I think it's a champion way over you know I've an idea let me I'm
+
+86
+00:07:58,160 --> 00:08:13,240
+just gonna pause you guys don't have 80% for me
+
+87
+00:08:28,720 --> 00:08:32,320
+except we'll eat up
+
+88
+00:08:45,440 --> 00:08:48,260
+you
+
+89
+00:08:48,260 --> 00:08:57,780
+All right, well, maybe we can just delete all that and just start again.
+
+90
+00:08:57,780 --> 00:08:58,780
+No, no, no.
+
+91
+00:08:58,780 --> 00:08:59,780
+It was like a test.
+
+92
+00:08:59,780 --> 00:09:00,780
+It's fine.
+
+93
+00:09:00,780 --> 00:09:01,780
+No, there's...
+
+94
+00:09:01,780 --> 00:09:04,260
+I didn't know I wasn't supposed to bring up that guy.
+
+95
+00:09:04,260 --> 00:09:08,140
+Yeah, just don't bring up any specifics about sources, because not because it's like...
+
+96
+00:09:08,140 --> 00:09:09,140
+But did you see what I was doing?
+
+97
+00:09:09,140 --> 00:09:12,180
+I was like making it look like that was a separate entity from the one that you could
+
+98
+00:09:12,180 --> 00:09:13,180
+join.
+
+99
+00:09:13,180 --> 00:09:14,180
+It's fine.
+
+100
+00:09:14,180 --> 00:09:15,180
+It's...
+
+101
+00:09:15,180 --> 00:09:16,980
+I was muddying the water, specifically, because I knew that's the guy you're referring
+
+102
+00:09:16,980 --> 00:09:17,980
+to.
+
+103
+00:09:17,980 --> 00:09:18,980
+So I made it look like this is a separate person.
+
+104
+00:09:18,980 --> 00:09:19,980
+Got it.
+
+105
+00:09:19,980 --> 00:09:20,980
+Okay.
+
+106
+00:09:20,980 --> 00:09:21,980
+Back up.
+
+107
+00:09:21,980 --> 00:09:22,980
+Yes.
+
+108
+00:09:22,980 --> 00:09:23,980
+It's obfuscating.
+
+109
+00:09:23,980 --> 00:09:24,980
+This source.
+
+110
+00:09:24,980 --> 00:09:25,980
+Let's not obfuscate anything.
+
+111
+00:09:25,980 --> 00:09:26,980
+Yes, it is.
+
+112
+00:09:26,980 --> 00:09:27,980
+That's obfuscating.
+
+113
+00:09:27,980 --> 00:09:28,980
+No, no, I'm not saying you're not obfuscating.
+
+114
+00:09:28,980 --> 00:09:29,980
+I'm saying let's not obfuscate.
+
+115
+00:09:29,980 --> 00:09:30,980
+Oh, okay.
+
+116
+00:09:30,980 --> 00:09:31,980
+Okay, so...
+
+117
+00:09:31,980 --> 00:09:32,980
+Okay.
+
+118
+00:09:32,980 --> 00:09:33,980
+So there are a couple of ways we can do this.
+
+119
+00:09:33,980 --> 00:09:34,980
+Yes.
+
+120
+00:09:34,980 --> 00:09:35,980
+One is...
+
+121
+00:09:35,980 --> 00:09:45,980
+In the way I've got this organized right now on my computer is...
+
+122
+00:09:46,980 --> 00:09:52,980
+Just a bunch of things in kind of roughly chronological order.
+
+123
+00:09:52,980 --> 00:09:53,980
+And I've actually kept out.
+
+124
+00:09:53,980 --> 00:09:55,980
+I've made kind of a document here for myself.
+
+125
+00:09:55,980 --> 00:09:56,980
+Can I see that?
+
+126
+00:09:56,980 --> 00:09:58,980
+Can you send me an outline to go through?
+
+127
+00:09:58,980 --> 00:09:59,980
+No.
+
+128
+00:09:59,980 --> 00:10:00,980
+Oh, come on.
+
+129
+00:10:00,980 --> 00:10:01,980
+No, we're not going to do that.
+
+130
+00:10:01,980 --> 00:10:02,980
+Because it's just like clips from them.
+
+131
+00:10:02,980 --> 00:10:06,980
+It's like paragraphs that I've cut and pasted into a separate document for the book.
+
+132
+00:10:06,980 --> 00:10:07,980
+Yeah, that's fine.
+
+133
+00:10:07,980 --> 00:10:08,980
+I can get that.
+
+134
+00:10:08,980 --> 00:10:09,980
+Yeah, not sure you'd love that.
+
+135
+00:10:09,980 --> 00:10:11,980
+But we're not going to do that right now.
+
+136
+00:10:12,980 --> 00:10:13,980
+Okay.
+
+137
+00:10:13,980 --> 00:10:20,980
+So basically the way I've got this organized is in chronological order of like your dad's
+
+138
+00:10:20,980 --> 00:10:21,980
+life onward.
+
+139
+00:10:21,980 --> 00:10:25,980
+So like your dad is born on November 5th, 1955.
+
+140
+00:10:25,980 --> 00:10:26,980
+Okay.
+
+141
+00:10:26,980 --> 00:10:27,980
+And we...
+
+142
+00:10:27,980 --> 00:10:29,980
+By the way, do we know if he was...
+
+143
+00:10:29,980 --> 00:10:30,980
+He was...
+
+144
+00:10:30,980 --> 00:10:32,980
+There are six kids, right?
+
+145
+00:10:32,980 --> 00:10:36,980
+And was he number three or number four?
+
+146
+00:10:36,980 --> 00:10:42,980
+So there was Laura and then Peter.
+
+147
+00:10:42,980 --> 00:10:45,980
+Or sorry, Laura, John, Peter, my dad.
+
+148
+00:10:45,980 --> 00:10:46,980
+Okay, so he was fourth.
+
+149
+00:10:46,980 --> 00:10:47,980
+Yeah.
+
+150
+00:10:47,980 --> 00:10:48,980
+Okay.
+
+151
+00:10:48,980 --> 00:10:49,980
+And then Sam and then Bob.
+
+152
+00:10:49,980 --> 00:10:51,980
+And then Sam and Bob.
+
+153
+00:10:51,980 --> 00:10:52,980
+Okay.
+
+154
+00:10:55,980 --> 00:11:00,980
+So what I'm not going to do unless you really want to is go through like absolutely everything
+
+155
+00:11:00,980 --> 00:11:01,980
+because there's a lot...
+
+156
+00:11:01,980 --> 00:11:03,980
+I would like to go through absolutely everything, yes.
+
+157
+00:11:03,980 --> 00:11:04,980
+You really want...
+
+158
+00:11:04,980 --> 00:11:05,980
+Yes.
+
+159
+00:11:05,980 --> 00:11:07,980
+The reason I say no is because a lot of this is stuff you've told me.
+
+160
+00:11:07,980 --> 00:11:08,980
+So it's like...
+
+161
+00:11:08,980 --> 00:11:09,980
+Yeah.
+
+162
+00:11:09,980 --> 00:11:10,980
+I would like to see how you have...
+
+163
+00:11:10,980 --> 00:11:12,980
+You're not going to really see how...
+
+164
+00:11:12,980 --> 00:11:13,980
+Reinterpreted what I told you.
+
+165
+00:11:13,980 --> 00:11:14,980
+It's not really...
+
+166
+00:11:14,980 --> 00:11:15,980
+Or reductively...
+
+167
+00:11:15,980 --> 00:11:16,980
+Okay.
+
+168
+00:11:16,980 --> 00:11:17,980
+Well, that's fine.
+
+169
+00:11:17,980 --> 00:11:18,980
+We can go through this in some detail.
+
+170
+00:11:18,980 --> 00:11:19,980
+So...
+
+171
+00:11:19,980 --> 00:11:20,980
+Okay.
+
+172
+00:11:20,980 --> 00:11:21,980
+Okay.
+
+173
+00:11:21,980 --> 00:11:29,980
+Well, actually, first of all, let's go through the moment, the day on January 26th, 2014,
+
+174
+00:11:29,980 --> 00:11:30,980
+which...
+
+175
+00:11:30,980 --> 00:11:31,980
+Is that today?
+
+176
+00:11:31,980 --> 00:11:32,980
+No.
+
+177
+00:11:32,980 --> 00:11:34,980
+That's almost exactly five years ago.
+
+178
+00:11:34,980 --> 00:11:37,980
+Today is January 25th.
+
+179
+00:11:37,980 --> 00:11:38,980
+Okay.
+
+180
+00:11:38,980 --> 00:11:49,980
+So you get out of the tube station, drizzling, you're in Sloan Square.
+
+181
+00:11:49,980 --> 00:11:54,980
+You had the previous night been jamming with your band.
+
+182
+00:11:54,980 --> 00:11:59,980
+And you have told me in the past that you just woke up that morning not feeling probably
+
+183
+00:11:59,980 --> 00:12:00,980
+the greatest.
+
+184
+00:12:00,980 --> 00:12:02,980
+It was more than jamming.
+
+185
+00:12:02,980 --> 00:12:03,980
+Yeah.
+
+186
+00:12:03,980 --> 00:12:05,980
+It was a show, I think, and then there was a party.
+
+187
+00:12:05,980 --> 00:12:08,980
+And I didn't fall asleep until maybe five or six a.m.
+
+188
+00:12:08,980 --> 00:12:09,980
+I remember.
+
+189
+00:12:09,980 --> 00:12:11,980
+I was with Beth.
+
+190
+00:12:11,980 --> 00:12:12,980
+Yeah.
+
+191
+00:12:12,980 --> 00:12:13,980
+Okay.
+
+192
+00:12:13,980 --> 00:12:14,980
+Let me grab some water.
+
+193
+00:12:14,980 --> 00:12:15,980
+Yeah.
+
+194
+00:12:15,980 --> 00:12:16,980
+Go on.
+
+195
+00:12:16,980 --> 00:12:17,980
+Sorry.
+
+196
+00:12:17,980 --> 00:12:18,980
+I'm listening.
+
+197
+00:12:18,980 --> 00:12:19,980
+Well, I just want to...
+
+198
+00:12:19,980 --> 00:12:20,980
+That's fine.
+
+199
+00:12:20,980 --> 00:12:23,980
+So you...
+
+200
+00:12:23,980 --> 00:12:27,980
+You felt like some sort of negative energy when you were on the tube.
+
+201
+00:12:27,980 --> 00:12:28,980
+Yeah.
+
+202
+00:12:28,980 --> 00:12:29,980
+It was very...
+
+203
+00:12:29,980 --> 00:12:31,980
+Can you just come back here?
+
+204
+00:12:31,980 --> 00:12:32,980
+Yeah.
+
+205
+00:12:32,980 --> 00:12:33,980
+Sorry.
+
+206
+00:12:33,980 --> 00:12:34,980
+I just...
+
+207
+00:12:34,980 --> 00:12:35,980
+No, I know.
+
+208
+00:12:35,980 --> 00:12:36,980
+That's...
+
+209
+00:12:36,980 --> 00:12:37,980
+Well, no.
+
+210
+00:12:37,980 --> 00:12:38,980
+I don't even need you to.
+
+211
+00:12:38,980 --> 00:12:39,980
+This is kind of what I'm saying.
+
+212
+00:12:39,980 --> 00:12:40,980
+Like, there's...
+
+213
+00:12:40,980 --> 00:12:53,980
+I don't really feel a need to fact check this kind of stuff with you right now because
+
+214
+00:12:53,980 --> 00:12:54,980
+it's...
+
+215
+00:12:54,980 --> 00:12:58,980
+This is coming straight from your mouth on 15 different occasions.
+
+216
+00:12:58,980 --> 00:12:59,980
+So...
+
+217
+00:13:00,980 --> 00:13:01,980
+Okay.
+
+218
+00:13:02,980 --> 00:13:03,980
+Okay.
+
+219
+00:13:03,980 --> 00:13:04,980
+So maybe we should...
+
+220
+00:13:04,980 --> 00:13:06,980
+You're wearing a hat, no.
+
+221
+00:13:06,980 --> 00:13:07,980
+Okay.
+
+222
+00:13:09,980 --> 00:13:11,980
+You don't like the idea of tube bald, man?
+
+223
+00:13:11,980 --> 00:13:12,980
+No, okay.
+
+224
+00:13:12,980 --> 00:13:13,980
+Let's be tube bald, guys.
+
+225
+00:13:13,980 --> 00:13:14,980
+Okay.
+
+226
+00:13:14,980 --> 00:13:15,980
+All right.
+
+227
+00:13:15,980 --> 00:13:16,980
+So, yeah.
+
+228
+00:13:16,980 --> 00:13:24,980
+So I was on the tube and I remember feeling this like overwhelming dark, terrible, foreboding
+
+229
+00:13:24,980 --> 00:13:26,980
+thing.
+
+230
+00:13:26,980 --> 00:13:27,980
+It wasn't foreboding, actually.
+
+231
+00:13:27,980 --> 00:13:28,980
+It was more...
+
+232
+00:13:28,980 --> 00:13:31,980
+Because foreboding would be for the future, but this was like in the moment.
+
+233
+00:13:31,980 --> 00:13:39,980
+And I thought maybe it was just like an echo of my lack of sleep and misery waking up early
+
+234
+00:13:39,980 --> 00:13:41,980
+for me to get down there.
+
+235
+00:13:41,980 --> 00:13:47,980
+But no, it was like a really dark sort of terribleness.
+
+236
+00:13:47,980 --> 00:13:49,980
+It's very hard to describe.
+
+237
+00:13:49,980 --> 00:13:50,980
+And you think that...
+
+238
+00:13:50,980 --> 00:13:53,980
+It's like a visual sort of thing as well.
+
+239
+00:13:53,980 --> 00:13:54,980
+It's very strange.
+
+240
+00:13:54,980 --> 00:13:58,980
+And I thought I was picking up from someone on the tube, you know, because sometimes,
+
+241
+00:13:58,980 --> 00:14:03,980
+you know, you're on the tube and you pick up other people's like sort of pathology or
+
+242
+00:14:03,980 --> 00:14:04,980
+emotions or whatever.
+
+243
+00:14:04,980 --> 00:14:06,980
+And you're like, wait, that's not...
+
+244
+00:14:06,980 --> 00:14:07,980
+Why am I feeling so...
+
+245
+00:14:07,980 --> 00:14:09,980
+And then you see the guy next to you like, oh.
+
+246
+00:14:09,980 --> 00:14:10,980
+You know.
+
+247
+00:14:10,980 --> 00:14:12,980
+And I was like, was there somebody...
+
+248
+00:14:12,980 --> 00:14:16,980
+But there wasn't anybody around me that was giving off this sort of terrible...
+
+249
+00:14:16,980 --> 00:14:19,980
+In hindsight, you think that was the moment your dad died?
+
+250
+00:14:19,980 --> 00:14:20,980
+Yeah.
+
+251
+00:14:20,980 --> 00:14:21,980
+In hindsight, yeah.
+
+252
+00:14:21,980 --> 00:14:26,980
+I wrote it down in my notes and I keep meaning to find it, but I still haven't done that
+
+253
+00:14:26,980 --> 00:14:27,980
+because I don't really want to look at it.
+
+254
+00:14:27,980 --> 00:14:30,980
+But I will do that if you can remind me.
+
+255
+00:14:30,980 --> 00:14:31,980
+Okay.
+
+256
+00:14:31,980 --> 00:14:32,980
+So...
+
+257
+00:14:32,980 --> 00:14:36,980
+Because at the time, every time I would have an idea or something, because I was still
+
+258
+00:14:36,980 --> 00:14:38,980
+writing music at that time.
+
+259
+00:14:38,980 --> 00:14:43,980
+And I would write down thoughts or ideas I had and that one was overwhelmingly strong.
+
+260
+00:14:43,980 --> 00:14:48,980
+So I wrote it down, like everything about it.
+
+261
+00:14:48,980 --> 00:14:51,980
+I didn't think much about that until months later.
+
+262
+00:14:51,980 --> 00:14:52,980
+Yeah.
+
+263
+00:14:52,980 --> 00:14:53,980
+All right.
+
+264
+00:14:53,980 --> 00:14:54,980
+So you get out of the tube.
+
+265
+00:14:54,980 --> 00:14:55,980
+It's drizzly.
+
+266
+00:14:55,980 --> 00:14:56,980
+You are...
+
+267
+00:14:56,980 --> 00:14:59,980
+You walk over to the Satya Gallery.
+
+268
+00:14:59,980 --> 00:15:00,980
+It's one o'clock.
+
+269
+00:15:00,980 --> 00:15:01,980
+Parents aren't there.
+
+270
+00:15:01,980 --> 00:15:02,980
+You text them.
+
+271
+00:15:02,980 --> 00:15:06,980
+You text your mom and say, where are you?
+
+272
+00:15:06,980 --> 00:15:07,980
+Where are you guys?
+
+273
+00:15:07,980 --> 00:15:08,980
+No response.
+
+274
+00:15:08,980 --> 00:15:09,980
+Correct.
+
+275
+00:15:09,980 --> 00:15:12,980
+And you go then browse around the Tashin bookstore.
+
+276
+00:15:12,980 --> 00:15:13,980
+Yeah.
+
+277
+00:15:13,980 --> 00:15:14,980
+Look at that Beatles book.
+
+278
+00:15:14,980 --> 00:15:15,980
+That's right.
+
+279
+00:15:15,980 --> 00:15:17,980
+And then who...
+
+280
+00:15:17,980 --> 00:15:20,980
+And then your phone rings.
+
+281
+00:15:20,980 --> 00:15:23,980
+And then the phone rings.
+
+282
+00:15:23,980 --> 00:15:25,980
+Well, there was a few more texts.
+
+283
+00:15:25,980 --> 00:15:26,980
+Where are you?
+
+284
+00:15:26,980 --> 00:15:27,980
+What's going on?
+
+285
+00:15:27,980 --> 00:15:28,980
+I'm here.
+
+286
+00:15:28,980 --> 00:15:29,980
+And they're usually never late.
+
+287
+00:15:29,980 --> 00:15:30,980
+I'm always the one that's late.
+
+288
+00:15:30,980 --> 00:15:31,980
+So...
+
+289
+00:15:31,980 --> 00:15:33,980
+And I was early this time, which is unusual.
+
+290
+00:15:33,980 --> 00:15:34,980
+That is...
+
+291
+00:15:34,980 --> 00:15:36,980
+I can vouch from personal experience.
+
+292
+00:15:36,980 --> 00:15:37,980
+That's unusual.
+
+293
+00:15:37,980 --> 00:15:38,980
+Yeah.
+
+294
+00:15:38,980 --> 00:15:44,980
+And I was looking through the book and I was trying to figure out a way for them to talk
+
+295
+00:15:44,980 --> 00:15:48,980
+my dad or mom into buying me this for my birthday.
+
+296
+00:15:48,980 --> 00:15:50,980
+And yeah, send multiple texts.
+
+297
+00:15:50,980 --> 00:15:56,980
+And then the phone call came in and I believe it said unknown or no caller ID.
+
+298
+00:15:56,980 --> 00:15:57,980
+I'm not sure.
+
+299
+00:15:57,980 --> 00:16:02,980
+Which was also strange because if it was my mom or my dad, it would come up as mom or
+
+300
+00:16:02,980 --> 00:16:03,980
+dad.
+
+301
+00:16:03,980 --> 00:16:04,980
+And it was a voice.
+
+302
+00:16:04,980 --> 00:16:08,980
+It was very hard to recognize and a very strong Russian accent.
+
+303
+00:16:08,980 --> 00:16:13,980
+And I think it was the housekeeper or one of the housekeeper's friends or somebody.
+
+304
+00:16:14,980 --> 00:16:15,980
+I don't.
+
+305
+00:16:15,980 --> 00:16:16,980
+It was very fuzzy stuff.
+
+306
+00:16:16,980 --> 00:16:17,980
+What did the voice say?
+
+307
+00:16:17,980 --> 00:16:18,980
+Emergency, emergency.
+
+308
+00:16:18,980 --> 00:16:20,980
+Your father or your father.
+
+309
+00:16:21,980 --> 00:16:25,980
+Well, your story is aligning perfectly with what I've got written here.
+
+310
+00:16:25,980 --> 00:16:26,980
+So that's good.
+
+311
+00:16:28,980 --> 00:16:29,980
+Of course.
+
+312
+00:16:29,980 --> 00:16:30,980
+You go into...
+
+313
+00:16:30,980 --> 00:16:31,980
+You grab a...
+
+314
+00:16:31,980 --> 00:16:32,980
+You hail cab.
+
+315
+00:16:33,980 --> 00:16:34,980
+Yeah.
+
+316
+00:16:34,980 --> 00:16:35,980
+I get a black cab.
+
+317
+00:16:35,980 --> 00:16:38,980
+It was raining a bit, I remember.
+
+318
+00:16:39,980 --> 00:16:45,980
+And you get to 21 Evelyn Gardens and hop out of the cab.
+
+319
+00:16:45,980 --> 00:16:47,980
+Was there an ambulance there?
+
+320
+00:16:47,980 --> 00:16:49,980
+There was, yeah.
+
+321
+00:16:49,980 --> 00:16:52,980
+And so then what do you do?
+
+322
+00:16:53,980 --> 00:16:58,980
+That's when I knew that it was, you know, somewhat for real that there was something going on.
+
+323
+00:16:58,980 --> 00:17:02,980
+Just a verifiable ambulance.
+
+324
+00:17:02,980 --> 00:17:07,980
+You don't see an ambulance combined with emergency, emergency, you know.
+
+325
+00:17:07,980 --> 00:17:09,980
+I just ran out of the cab.
+
+326
+00:17:09,980 --> 00:17:15,980
+I paid the guy, remember, and ran out of the cab, ran up the stairs.
+
+327
+00:17:15,980 --> 00:17:17,980
+And I already told you all this.
+
+328
+00:17:17,980 --> 00:17:19,980
+I know, but it's good to just like...
+
+329
+00:17:19,980 --> 00:17:21,980
+It's actually helpful for me.
+
+330
+00:17:21,980 --> 00:17:23,980
+Like, do you not want to?
+
+331
+00:17:23,980 --> 00:17:24,980
+We don't have to.
+
+332
+00:17:24,980 --> 00:17:25,980
+I mean, this is the same thing.
+
+333
+00:17:25,980 --> 00:17:30,980
+So, yeah, I get in there, I open the door, and my dad was dead and he's on the floor,
+
+334
+00:17:30,980 --> 00:17:32,980
+lying on his back in the hallway.
+
+335
+00:17:32,980 --> 00:17:37,980
+The EMTs were there, and they were finishing up.
+
+336
+00:17:37,980 --> 00:17:41,980
+They were wrapping up their instruments, and my mom was wailing.
+
+337
+00:17:41,980 --> 00:17:43,980
+The current crying tears.
+
+338
+00:17:43,980 --> 00:17:45,980
+Very terrible scene.
+
+339
+00:17:45,980 --> 00:17:46,980
+Terrible.
+
+340
+00:17:46,980 --> 00:17:48,980
+Did you know he was dead?
+
+341
+00:17:48,980 --> 00:17:55,980
+I kind of just instinctively knew, you know, I mean, just when you see the scenes.
+
+342
+00:17:55,980 --> 00:17:58,980
+Yeah, I can imagine.
+
+343
+00:17:59,980 --> 00:18:01,980
+Okay, let's move on.
+
+344
+00:18:01,980 --> 00:18:04,980
+I'm sorry to have to, like, start out with it.
+
+345
+00:18:04,980 --> 00:18:06,980
+Okay.
+
+346
+00:18:06,980 --> 00:18:08,980
+You're not sorry.
+
+347
+00:18:08,980 --> 00:18:10,980
+Well, dude, I can tell...
+
+348
+00:18:10,980 --> 00:18:12,980
+I know you well enough that I, like, know...
+
+349
+00:18:12,980 --> 00:18:15,980
+I mean, I've heard the story a million times, obviously, but it's...
+
+350
+00:18:15,980 --> 00:18:18,980
+I don't enjoy running through the camera.
+
+351
+00:18:18,980 --> 00:18:20,980
+I know you're kidding.
+
+352
+00:18:20,980 --> 00:18:22,980
+It honestly is.
+
+353
+00:18:22,980 --> 00:18:23,980
+Don't worry, I'm just...
+
+354
+00:18:23,980 --> 00:18:24,980
+I'm not worried.
+
+355
+00:18:24,980 --> 00:18:26,980
+...giving you shit.
+
+356
+00:18:26,980 --> 00:18:28,980
+Okay, so...
+
+357
+00:18:28,980 --> 00:18:30,980
+So what are the details? Do we need...
+
+358
+00:18:30,980 --> 00:18:32,980
+I don't think we need to go into any more details right there.
+
+359
+00:18:32,980 --> 00:18:34,980
+I then kind of fast-forward a little bit.
+
+360
+00:18:34,980 --> 00:18:37,980
+What were the police and the notes? I mean, you have all that, right?
+
+361
+00:18:37,980 --> 00:18:39,980
+Yeah, I've got that, but I'm not going to get into that.
+
+362
+00:18:39,980 --> 00:18:43,980
+Why don't you tell me what you have, and then I will tell you if something is correct or incorrect,
+
+363
+00:18:43,980 --> 00:18:48,980
+rather than me saying the same thing I've been telling you for four years?
+
+364
+00:18:48,980 --> 00:18:52,980
+Okay, because it's really the way you have processed the information that's important,
+
+365
+00:18:52,980 --> 00:18:54,980
+not the information I give you again.
+
+366
+00:18:54,980 --> 00:18:55,980
+Yep, fair enough.
+
+367
+00:18:55,980 --> 00:19:02,980
+Okay, so let's rewind 55 or 60 years.
+
+368
+00:19:02,980 --> 00:19:03,980
+Okay.
+
+369
+00:19:03,980 --> 00:19:07,980
+And so it...
+
+370
+00:19:07,980 --> 00:19:11,980
+Bill's grandfather, your great-grandfather,
+
+371
+00:19:11,980 --> 00:19:13,980
+there's a guy named John Shaw Brooksman.
+
+372
+00:19:13,980 --> 00:19:14,980
+Yeah.
+
+373
+00:19:14,980 --> 00:19:16,980
+And he started off being a sheep rancher.
+
+374
+00:19:16,980 --> 00:19:17,980
+Okay.
+
+375
+00:19:17,980 --> 00:19:18,980
+Do you know that?
+
+376
+00:19:18,980 --> 00:19:20,980
+No, Gar.
+
+377
+00:19:20,980 --> 00:19:21,980
+Gar?
+
+378
+00:19:21,980 --> 00:19:22,980
+I think they call him Gar.
+
+379
+00:19:22,980 --> 00:19:23,980
+I don't know.
+
+380
+00:19:23,980 --> 00:19:24,980
+I...
+
+381
+00:19:24,980 --> 00:19:26,980
+He gave sheep ranching a try.
+
+382
+00:19:26,980 --> 00:19:27,980
+Oh, wait, on whose side?
+
+383
+00:19:27,980 --> 00:19:28,980
+On my...
+
+384
+00:19:28,980 --> 00:19:30,980
+This is your dad's...
+
+385
+00:19:30,980 --> 00:19:31,980
+Mother's side?
+
+386
+00:19:31,980 --> 00:19:33,980
+Dad's...
+
+387
+00:19:33,980 --> 00:19:35,980
+grandfather.
+
+388
+00:19:35,980 --> 00:19:36,980
+So it's paternal.
+
+389
+00:19:36,980 --> 00:19:39,980
+So his father's father?
+
+390
+00:19:39,980 --> 00:19:41,980
+His father's father, yes.
+
+391
+00:19:41,980 --> 00:19:42,980
+Okay, Jack's father.
+
+392
+00:19:42,980 --> 00:19:44,980
+So this is not Reverend Jack.
+
+393
+00:19:44,980 --> 00:19:46,980
+This is Reverend Jack's dad.
+
+394
+00:19:46,980 --> 00:19:47,980
+Yeah, no, this isn't different.
+
+395
+00:19:47,980 --> 00:19:51,980
+Gar is Jack's wife's father.
+
+396
+00:19:51,980 --> 00:19:55,980
+So your great-grandfather, Reverend Jack's dad,
+
+397
+00:19:55,980 --> 00:19:56,980
+becomes...
+
+398
+00:19:56,980 --> 00:19:57,980
+There's some great...
+
+399
+00:19:57,980 --> 00:19:59,980
+Like he wrote about his experience,
+
+400
+00:19:59,980 --> 00:20:02,980
+because he, for something back in 1906,
+
+401
+00:20:02,980 --> 00:20:03,980
+which I tracked down,
+
+402
+00:20:03,980 --> 00:20:05,980
+and he, after becoming a sheep rancher,
+
+403
+00:20:05,980 --> 00:20:07,980
+decided to be a banker,
+
+404
+00:20:07,980 --> 00:20:09,980
+and worked at a bank in Cedar Rapids, Iowa,
+
+405
+00:20:09,980 --> 00:20:11,980
+and he started at the very bottom.
+
+406
+00:20:11,980 --> 00:20:13,980
+He was washing windows and scrubbing floors.
+
+407
+00:20:13,980 --> 00:20:14,980
+For your...
+
+408
+00:20:14,980 --> 00:20:16,980
+This was...
+
+409
+00:20:16,980 --> 00:20:17,980
+He described this.
+
+410
+00:20:17,980 --> 00:20:21,980
+This is probably, I guess, the late 1800s,
+
+411
+00:20:21,980 --> 00:20:25,980
+because he wrote about this in 1906.
+
+412
+00:20:25,980 --> 00:20:26,980
+Massachusetts?
+
+413
+00:20:26,980 --> 00:20:27,980
+No, in Iowa.
+
+414
+00:20:27,980 --> 00:20:28,980
+In Iowa? Okay.
+
+415
+00:20:28,980 --> 00:20:29,980
+He said,
+
+416
+00:20:29,980 --> 00:20:30,980
+all the money that fell on the floor went to me,
+
+417
+00:20:30,980 --> 00:20:33,980
+and for a while, it was pretty poor picking.
+
+418
+00:20:33,980 --> 00:20:35,980
+But he spent his career there,
+
+419
+00:20:35,980 --> 00:20:37,980
+and they were in banking,
+
+420
+00:20:37,980 --> 00:20:38,980
+and eventually he ended up
+
+421
+00:20:38,980 --> 00:20:40,980
+at a big Chicago bank, Harris Trust.
+
+422
+00:20:40,980 --> 00:20:43,980
+And by the Great Depression,
+
+423
+00:20:43,980 --> 00:20:46,980
+he had enough kind of seniority
+
+424
+00:20:46,980 --> 00:20:49,980
+that he was summoned to testify in Washington
+
+425
+00:20:49,980 --> 00:20:51,980
+before the big Senate committee,
+
+426
+00:20:51,980 --> 00:20:52,980
+the PCORA Commission,
+
+427
+00:20:52,980 --> 00:20:55,980
+that was investigating.
+
+428
+00:20:55,980 --> 00:20:56,980
+It was like, basically,
+
+429
+00:20:56,980 --> 00:20:58,980
+the financial crisis inquiry commission
+
+430
+00:20:58,980 --> 00:21:00,980
+80 years earlier.
+
+431
+00:21:00,980 --> 00:21:02,980
+What was this crisis over?
+
+432
+00:21:02,980 --> 00:21:03,980
+The Great Depression.
+
+433
+00:21:03,980 --> 00:21:04,980
+Oh, the Great Depression.
+
+434
+00:21:04,980 --> 00:21:06,980
+Yeah, so it was like the 1929 stock market crash,
+
+435
+00:21:06,980 --> 00:21:08,980
+and then they ensue in the Depression.
+
+436
+00:21:08,980 --> 00:21:14,980
+So, John, the banker as a son,
+
+437
+00:21:14,980 --> 00:21:17,980
+Jack, John Jr.
+
+438
+00:21:17,980 --> 00:21:19,980
+And the daughter.
+
+439
+00:21:19,980 --> 00:21:20,980
+Yeah.
+
+440
+00:21:20,980 --> 00:21:25,980
+Well, but for this kind of branch of the family tree,
+
+441
+00:21:25,980 --> 00:21:27,980
+the son is relevant.
+
+442
+00:21:27,980 --> 00:21:29,980
+So this is Reverend Jack.
+
+443
+00:21:29,980 --> 00:21:30,980
+He's not Reverend Jack at first.
+
+444
+00:21:30,980 --> 00:21:33,980
+At first, he's a lieutenant in the Navy in World War II,
+
+445
+00:21:33,980 --> 00:21:35,980
+sinks a U-boat.
+
+446
+00:21:35,980 --> 00:21:38,980
+Jack, Marys Jane,
+
+447
+00:21:38,980 --> 00:21:41,980
+who's a librarian and an amateur artist,
+
+448
+00:21:41,980 --> 00:21:43,980
+they then have six children.
+
+449
+00:21:43,980 --> 00:21:46,980
+And in the middle, number four is your dad.
+
+450
+00:21:46,980 --> 00:21:48,980
+And Jane's background is interesting, too.
+
+451
+00:21:48,980 --> 00:21:50,980
+I know, it is interesting.
+
+452
+00:21:50,980 --> 00:21:52,980
+She's got, and she was Yale as well.
+
+453
+00:21:52,980 --> 00:21:53,980
+Vassar.
+
+454
+00:21:53,980 --> 00:21:54,980
+Or Vassar, yeah, Vassar.
+
+455
+00:21:54,980 --> 00:21:56,980
+She's an intellectual family.
+
+456
+00:21:56,980 --> 00:21:57,980
+Very, yeah.
+
+457
+00:21:57,980 --> 00:21:58,980
+Yep.
+
+458
+00:21:58,980 --> 00:21:59,980
+Yeah.
+
+459
+00:21:59,980 --> 00:22:00,980
+Gar was her father.
+
+460
+00:22:00,980 --> 00:22:02,980
+Okay.
+
+461
+00:22:02,980 --> 00:22:05,980
+He's one of the school of Prescott Bush.
+
+462
+00:22:05,980 --> 00:22:06,980
+Interesting.
+
+463
+00:22:06,980 --> 00:22:08,980
+Yeah.
+
+464
+00:22:08,980 --> 00:22:09,980
+At Yale.
+
+465
+00:22:09,980 --> 00:22:11,980
+So Jack goes into the ministry
+
+466
+00:22:11,980 --> 00:22:14,980
+with the United Church of Christ.
+
+467
+00:22:14,980 --> 00:22:16,980
+Initially, he's in Galva, Illinois.
+
+468
+00:22:16,980 --> 00:22:17,980
+Yeah, that's right.
+
+469
+00:22:17,980 --> 00:22:20,980
+And it was,
+
+470
+00:22:20,980 --> 00:22:23,980
+Jane gave art lectures there.
+
+471
+00:22:23,980 --> 00:22:26,980
+Laura, so Bill's older sister
+
+472
+00:22:26,980 --> 00:22:28,980
+did some music performances there.
+
+473
+00:22:28,980 --> 00:22:29,980
+And there were, you know,
+
+474
+00:22:29,980 --> 00:22:30,980
+old newspaper records of this.
+
+475
+00:22:30,980 --> 00:22:31,980
+Right.
+
+476
+00:22:31,980 --> 00:22:37,980
+And Reverend Jack was known in the community as,
+
+477
+00:22:37,980 --> 00:22:40,980
+just like, not only like a pillar of the community,
+
+478
+00:22:40,980 --> 00:22:42,980
+but also someone who would,
+
+479
+00:22:42,980 --> 00:22:44,980
+he taught about the importance of understanding things
+
+480
+00:22:44,980 --> 00:22:46,980
+from other people's perspectives.
+
+481
+00:22:46,980 --> 00:22:47,980
+Right.
+
+482
+00:22:47,980 --> 00:22:50,980
+And this is something that,
+
+483
+00:22:50,980 --> 00:22:53,980
+your dad would later tell people that it's,
+
+484
+00:22:53,980 --> 00:22:56,980
+this is kind of one of the guiding principles in his life
+
+485
+00:22:56,980 --> 00:22:58,980
+that he learned was from Reverend Jack.
+
+486
+00:22:58,980 --> 00:23:02,980
+And so they lived in Galva on this quiet,
+
+487
+00:23:02,980 --> 00:23:04,980
+tree-lined street,
+
+488
+00:23:04,980 --> 00:23:09,980
+old two-story house that had been built in the Great Depression.
+
+489
+00:23:09,980 --> 00:23:14,980
+Bob later would say that there was a certain amount
+
+490
+00:23:14,980 --> 00:23:17,980
+of education pedigree, but there wasn't any money.
+
+491
+00:23:17,980 --> 00:23:19,980
+And they would, you know,
+
+492
+00:23:19,980 --> 00:23:21,980
+cycle through all these different communities
+
+493
+00:23:21,980 --> 00:23:23,980
+and to different churches.
+
+494
+00:23:23,980 --> 00:23:24,980
+Bob told you this.
+
+495
+00:23:24,980 --> 00:23:26,980
+No.
+
+496
+00:23:26,980 --> 00:23:28,980
+I've heard this from a couple of other people, though.
+
+497
+00:23:28,980 --> 00:23:31,980
+And Jane would decorate the houses
+
+498
+00:23:31,980 --> 00:23:33,980
+with watercolors that she would paint.
+
+499
+00:23:33,980 --> 00:23:34,980
+Sure.
+
+500
+00:23:34,980 --> 00:23:36,980
+She's good.
+
+501
+00:23:36,980 --> 00:23:37,980
+She's good.
+
+502
+00:23:37,980 --> 00:23:42,980
+So, Bill starts to grow up
+
+503
+00:23:42,980 --> 00:23:44,980
+and he has a newspaper route.
+
+504
+00:23:44,980 --> 00:23:47,980
+Gets his two younger brothers to stuff the papers.
+
+505
+00:23:47,980 --> 00:23:49,980
+Right, the newspaper route.
+
+506
+00:23:49,980 --> 00:23:50,980
+That's right, I forgot about that.
+
+507
+00:23:50,980 --> 00:23:52,980
+With like little pamphlets and do,
+
+508
+00:23:52,980 --> 00:23:56,980
+deliver them and Bill takes the money and saves it
+
+509
+00:23:56,980 --> 00:23:58,980
+and uses the money to buy a TV
+
+510
+00:23:58,980 --> 00:24:01,980
+that Reverend Jack had been unwilling to buy.
+
+511
+00:24:01,980 --> 00:24:02,980
+He goes to League Forest,
+
+512
+00:24:02,980 --> 00:24:05,980
+which is a, you know, elite prep school in the Chicago area.
+
+513
+00:24:06,980 --> 00:24:09,980
+He goes to Clark Men's College,
+
+514
+00:24:09,980 --> 00:24:12,980
+which is where I, 25 years later, would go.
+
+515
+00:24:12,980 --> 00:24:13,980
+And my sister would go, too.
+
+516
+00:24:13,980 --> 00:24:15,980
+And your sister would go.
+
+517
+00:24:17,980 --> 00:24:20,980
+And this is where your dance life gets a little bit,
+
+518
+00:24:20,980 --> 00:24:22,980
+not what I'd expected.
+
+519
+00:24:22,980 --> 00:24:27,980
+So he is, he is a big party-er.
+
+520
+00:24:27,980 --> 00:24:28,980
+Really?
+
+521
+00:24:28,980 --> 00:24:29,980
+A very big party.
+
+522
+00:24:29,980 --> 00:24:30,980
+Is he?
+
+523
+00:24:31,980 --> 00:24:36,980
+He was known as a binge drinker, pot smoker.
+
+524
+00:24:37,980 --> 00:24:41,980
+He, his friends would tease him about his preference
+
+525
+00:24:41,980 --> 00:24:44,980
+for what at the time were exotic women.
+
+526
+00:24:45,980 --> 00:24:48,980
+And also his preference for like, you know,
+
+527
+00:24:48,980 --> 00:24:51,980
+what was, well, they called him Billy Disco
+
+528
+00:24:51,980 --> 00:24:53,980
+because he really was cool in the gang.
+
+529
+00:24:54,980 --> 00:24:56,980
+I didn't know that one.
+
+530
+00:24:56,980 --> 00:24:57,980
+Billy Disco?
+
+531
+00:24:57,980 --> 00:24:58,980
+That's funny.
+
+532
+00:24:58,980 --> 00:24:59,980
+One of the things I've done is
+
+533
+00:24:59,980 --> 00:25:02,980
+I talked to a bunch of his college, old college friends.
+
+534
+00:25:03,980 --> 00:25:04,980
+Billy Disco?
+
+535
+00:25:04,980 --> 00:25:05,980
+That's fucking funny.
+
+536
+00:25:05,980 --> 00:25:07,980
+So they would, you know,
+
+537
+00:25:07,980 --> 00:25:09,980
+and I get into a little bit about
+
+538
+00:25:09,980 --> 00:25:11,980
+kind of the extracurricular activities they had.
+
+539
+00:25:11,980 --> 00:25:14,980
+And, well, you know,
+
+540
+00:25:14,980 --> 00:25:16,980
+there's like a dingy San Diego strip club
+
+541
+00:25:16,980 --> 00:25:18,980
+that they would go to that bill would later describe.
+
+542
+00:25:18,980 --> 00:25:20,980
+I think this is in the emails that you've showed me.
+
+543
+00:25:20,980 --> 00:25:22,980
+How they would slip dollar bills
+
+544
+00:25:22,980 --> 00:25:24,980
+into the G strings of heroin addicts.
+
+545
+00:25:24,980 --> 00:25:30,980
+There is a Vegas was a popular destination
+
+546
+00:25:30,980 --> 00:25:32,980
+as it was in my time when I went to CMC as well.
+
+547
+00:25:32,980 --> 00:25:33,980
+Yeah.
+
+548
+00:25:33,980 --> 00:25:38,980
+And so despite all of his like, kind of wild side,
+
+549
+00:25:38,980 --> 00:25:39,980
+he was also a really good student.
+
+550
+00:25:39,980 --> 00:25:42,980
+He was really into finance, even at,
+
+551
+00:25:42,980 --> 00:25:43,980
+the two things he was really into at that time
+
+552
+00:25:43,980 --> 00:25:44,980
+were politics and finance.
+
+553
+00:25:44,980 --> 00:25:46,980
+And he understood finance in this kind of like,
+
+554
+00:25:46,980 --> 00:25:49,980
+oddly sophisticated way for someone who was, you know,
+
+555
+00:25:49,980 --> 00:25:50,980
+a 20-year-old.
+
+556
+00:25:50,980 --> 00:25:52,980
+Well, he wanted to be a sports writer as well.
+
+557
+00:25:52,980 --> 00:25:53,980
+Yeah.
+
+558
+00:25:53,980 --> 00:25:54,980
+He wanted to be a journalist.
+
+559
+00:25:54,980 --> 00:25:57,980
+And so, well, listen to this.
+
+560
+00:25:57,980 --> 00:26:00,980
+So he, he was kind of getting,
+
+561
+00:26:00,980 --> 00:26:02,980
+getting some of his buddies in college
+
+562
+00:26:02,980 --> 00:26:05,980
+interested in stock trading and even in like little,
+
+563
+00:26:05,980 --> 00:26:07,980
+like very simple types of derivatives,
+
+564
+00:26:07,980 --> 00:26:08,980
+even at that age.
+
+565
+00:26:08,980 --> 00:26:11,980
+And how would Bill, who grew up without any money
+
+566
+00:26:11,980 --> 00:26:13,980
+and was on scholarship at CMC,
+
+567
+00:26:13,980 --> 00:26:15,980
+how would he make his own bets?
+
+568
+00:26:15,980 --> 00:26:16,980
+How would he finance that?
+
+569
+00:26:16,980 --> 00:26:20,980
+Well, he developed a fairly lucrative career,
+
+570
+00:26:21,980 --> 00:26:24,980
+writing term papers, term papers for other students.
+
+571
+00:26:24,980 --> 00:26:26,980
+He never told me this.
+
+572
+00:26:26,980 --> 00:26:29,980
+The way his friend, one of his best friends at the time,
+
+573
+00:26:29,980 --> 00:26:31,980
+John Shink, who's a classmate of his,
+
+574
+00:26:31,980 --> 00:26:34,980
+describes it as, it was mostly for some of the more
+
+575
+00:26:34,980 --> 00:26:37,980
+privileged students there.
+
+576
+00:26:37,980 --> 00:26:39,980
+And he says, quote, there are a lot of people
+
+577
+00:26:39,980 --> 00:26:41,980
+who wouldn't have made it through Claremont
+
+578
+00:26:41,980 --> 00:26:42,980
+if it wasn't for Bill's help.
+
+579
+00:26:42,980 --> 00:26:43,980
+That's funny.
+
+580
+00:26:43,980 --> 00:26:48,980
+So, really into politics, after graduating,
+
+581
+00:26:49,980 --> 00:26:52,980
+he did some campaign work for local Republicans
+
+582
+00:26:52,980 --> 00:26:54,980
+running for Congress while he was there,
+
+583
+00:26:54,980 --> 00:26:55,980
+while he was in college.
+
+584
+00:26:55,980 --> 00:26:57,980
+And after graduating, he lived in Pasadena
+
+585
+00:26:57,980 --> 00:26:58,980
+with a group of his friends.
+
+586
+00:26:58,980 --> 00:27:02,980
+And he and John Shink set up a consulting firm.
+
+587
+00:27:02,980 --> 00:27:07,980
+They produced position papers for a bunch of candidates
+
+588
+00:27:07,980 --> 00:27:11,980
+and basically for a bunch of Republican candidates
+
+589
+00:27:11,980 --> 00:27:12,980
+all throughout California.
+
+590
+00:27:12,980 --> 00:27:17,980
+And, but again, his like, his demons came out at night.
+
+591
+00:27:17,980 --> 00:27:19,980
+So, why do you say demons?
+
+592
+00:27:19,980 --> 00:27:24,980
+Because he was into, there's a lot of heavy drinking.
+
+593
+00:27:24,980 --> 00:27:26,980
+There were prostitutes.
+
+594
+00:27:26,980 --> 00:27:28,980
+But why is this your drinking with demons?
+
+595
+00:27:28,980 --> 00:27:29,980
+Why is this demonic now?
+
+596
+00:27:29,980 --> 00:27:30,980
+Why is this a negative connotation?
+
+597
+00:27:30,980 --> 00:27:32,980
+I don't think it's, it's not demonic.
+
+598
+00:27:32,980 --> 00:27:34,980
+It's that, it's an expression.
+
+599
+00:27:34,980 --> 00:27:36,980
+Yeah, I know the expression, this is your negative expression
+
+600
+00:27:36,980 --> 00:27:38,980
+to say your demons come out at night
+
+601
+00:27:38,980 --> 00:27:40,980
+because you like to party, you like to drink.
+
+602
+00:27:40,980 --> 00:27:42,980
+Well, he was known as...
+
+603
+00:27:42,980 --> 00:27:43,980
+It's a bit unfair.
+
+604
+00:27:43,980 --> 00:27:45,980
+Okay.
+
+605
+00:27:45,980 --> 00:27:48,980
+He, he just didn't know how to turn it off.
+
+606
+00:27:48,980 --> 00:27:52,980
+John Shink says another one.
+
+607
+00:27:52,980 --> 00:27:54,980
+Tom Marks, who's another Claremont alum,
+
+608
+00:27:54,980 --> 00:27:56,980
+and this is a guy, they then moved to Chicago
+
+609
+00:27:56,980 --> 00:27:58,980
+and this was his roommate at the time.
+
+610
+00:27:58,980 --> 00:28:00,980
+Okay.
+
+611
+00:28:00,980 --> 00:28:02,980
+Bill was wonderfully brilliant but deeply troubled.
+
+612
+00:28:02,980 --> 00:28:05,980
+In clinical terms, he was incredibly fucked up.
+
+613
+00:28:05,980 --> 00:28:07,980
+He did things by day that were not,
+
+614
+00:28:07,980 --> 00:28:09,980
+that were in sharp contrast to his daytime behavior.
+
+615
+00:28:09,980 --> 00:28:10,980
+I'm sorry, he did things by night
+
+616
+00:28:10,980 --> 00:28:12,980
+that were in sharp contrast to his daytime behavior.
+
+617
+00:28:12,980 --> 00:28:14,980
+And it, uh...
+
+618
+00:28:14,980 --> 00:28:16,980
+He's a proper person.
+
+619
+00:28:16,980 --> 00:28:17,980
+Yeah, he is a proper person.
+
+620
+00:28:17,980 --> 00:28:18,980
+There's, there's...
+
+621
+00:28:18,980 --> 00:28:21,980
+And look, and listen, so he...
+
+622
+00:28:21,980 --> 00:28:23,980
+What's, why is that...
+
+623
+00:28:23,980 --> 00:28:24,980
+What's wrong with that?
+
+624
+00:28:24,980 --> 00:28:25,980
+And why was it clinically fucked up
+
+625
+00:28:25,980 --> 00:28:27,980
+because that is the opposite of clinical?
+
+626
+00:28:27,980 --> 00:28:30,980
+I think that's a turn of phrase by his friend.
+
+627
+00:28:30,980 --> 00:28:31,980
+Oh, it's a quote.
+
+628
+00:28:31,980 --> 00:28:33,980
+Again, that's not my words.
+
+629
+00:28:33,980 --> 00:28:35,980
+Those are, those are his roommate's words at the time.
+
+630
+00:28:35,980 --> 00:28:37,980
+Whoever this guy is is...
+
+631
+00:28:37,980 --> 00:28:38,980
+Okay.
+
+632
+00:28:38,980 --> 00:28:40,980
+No, this is, this is two or three different people, though,
+
+633
+00:28:40,980 --> 00:28:41,980
+now who are being quoted.
+
+634
+00:28:41,980 --> 00:28:44,980
+Whoever said clinically fucked up is...
+
+635
+00:28:44,980 --> 00:28:46,980
+He said in clinical terms, he was incredibly fucked up.
+
+636
+00:28:46,980 --> 00:28:47,980
+That's, it's a...
+
+637
+00:28:47,980 --> 00:28:48,980
+Like, obviously...
+
+638
+00:28:48,980 --> 00:28:49,980
+In clinical terms, he's really fucked up.
+
+639
+00:28:49,980 --> 00:28:50,980
+No, that's like a joke.
+
+640
+00:28:50,980 --> 00:28:51,980
+I know, it's a terrible joke.
+
+641
+00:28:51,980 --> 00:28:53,980
+It's, it's not funny.
+
+642
+00:28:53,980 --> 00:28:55,980
+The, but here, look, there's another side to this
+
+643
+00:28:55,980 --> 00:28:58,980
+because this guy's also, Bill stands out,
+
+644
+00:28:58,980 --> 00:29:01,980
+your father stands out as the mature one in the group.
+
+645
+00:29:01,980 --> 00:29:03,980
+And when he says it's in sharp contrast to his daytime behavior,
+
+646
+00:29:03,980 --> 00:29:05,980
+well his daytime behavior was, he was the responsible one.
+
+647
+00:29:05,980 --> 00:29:06,980
+Okay.
+
+648
+00:29:06,980 --> 00:29:10,980
+He, uh, he needed a car to get to work.
+
+649
+00:29:10,980 --> 00:29:12,980
+Until he just went out and bought a used Mustang.
+
+650
+00:29:12,980 --> 00:29:13,980
+Yeah.
+
+651
+00:29:13,980 --> 00:29:15,980
+And it was like, he actually functioned in the real world.
+
+652
+00:29:15,980 --> 00:29:17,980
+And I can say, I know you can say it's like,
+
+653
+00:29:17,980 --> 00:29:19,980
+when recent graduates of college,
+
+654
+00:29:19,980 --> 00:29:21,980
+that is like not normal behavior, right?
+
+655
+00:29:21,980 --> 00:29:23,980
+It's like a whole, you have to get your parents involved
+
+656
+00:29:23,980 --> 00:29:24,980
+and like figure shit out.
+
+657
+00:29:24,980 --> 00:29:26,980
+He was figuring stuff out on his own.
+
+658
+00:29:26,980 --> 00:29:29,980
+When a colleague's wife died, Bill sent a sympathy card,
+
+659
+00:29:29,980 --> 00:29:31,980
+which would never recurred to his,
+
+660
+00:29:31,980 --> 00:29:32,980
+the people he's living with.
+
+661
+00:29:32,980 --> 00:29:34,980
+And his girlfriend says, quote,
+
+662
+00:29:34,980 --> 00:29:36,980
+I asked him why, and he said,
+
+663
+00:29:36,980 --> 00:29:38,980
+because it's what's done, it's the right thing to do.
+
+664
+00:29:38,980 --> 00:29:39,980
+That's right.
+
+665
+00:29:39,980 --> 00:29:41,980
+And most of us, Bill was self-sufficient and responsible.
+
+666
+00:29:41,980 --> 00:29:43,980
+I would hear a lot of that for him.
+
+667
+00:29:43,980 --> 00:29:45,980
+Cause that's what you do.
+
+668
+00:29:45,980 --> 00:29:46,980
+Yeah.
+
+669
+00:29:46,980 --> 00:29:47,980
+Cause that's what you do though.
+
+670
+00:29:47,980 --> 00:29:48,980
+You would say that often.
+
+671
+00:29:48,980 --> 00:29:52,980
+Well, he had that going when he was 21 years old.
+
+672
+00:29:52,980 --> 00:29:53,980
+Yeah.
+
+673
+00:29:53,980 --> 00:29:54,980
+Um,
+
+674
+00:29:54,980 --> 00:29:55,980
+Wow.
+
+675
+00:29:55,980 --> 00:29:58,980
+I've got a delightful little anecdote here that,
+
+676
+00:29:58,980 --> 00:30:01,980
+you know, it doesn't prove anything one way or the other,
+
+677
+00:30:01,980 --> 00:30:02,980
+but just interesting.
+
+678
+00:30:02,980 --> 00:30:04,980
+So in early 1980s,
+
+679
+00:30:04,980 --> 00:30:08,980
+Bill flies from Chicago to Vegas to have a little reunion
+
+680
+00:30:08,980 --> 00:30:09,980
+with John Shink.
+
+681
+00:30:09,980 --> 00:30:11,980
+So one of his best friends in college.
+
+682
+00:30:11,980 --> 00:30:14,980
+And, you know, they're drinking and gambling and it's late at night
+
+683
+00:30:14,980 --> 00:30:18,980
+and they're walking back down the strip toward their hotel.
+
+684
+00:30:18,980 --> 00:30:21,980
+And, uh, two prostitutes come up to them.
+
+685
+00:30:21,980 --> 00:30:24,980
+And, you know, these are two drunk 22 year olds or whatever.
+
+686
+00:30:24,980 --> 00:30:28,980
+So they're, uh, prostitutes or maybe 24 year olds.
+
+687
+00:30:28,980 --> 00:30:31,980
+Uh, prostitutes, uh, walk up to them,
+
+688
+00:30:31,980 --> 00:30:33,980
+start fondling them a little bit.
+
+689
+00:30:33,980 --> 00:30:35,980
+Guys aren't putting up much of a fight.
+
+690
+00:30:35,980 --> 00:30:38,980
+And then the prostitutes walk away and Bill and,
+
+691
+00:30:38,980 --> 00:30:41,980
+uh, John are walking back toward their hotel room.
+
+692
+00:30:41,980 --> 00:30:42,980
+Right.
+
+693
+00:30:42,980 --> 00:30:45,980
+And your dad realizes this whole thing had been a ruse.
+
+694
+00:30:45,980 --> 00:30:49,980
+The one of the prostitutes had stolen hundreds of dollars out of his pocket
+
+695
+00:30:49,980 --> 00:30:51,980
+while feeling him up.
+
+696
+00:30:51,980 --> 00:30:55,980
+And so Bill yells and then starts chasing them.
+
+697
+00:30:55,980 --> 00:30:57,980
+And he tackles one of them.
+
+698
+00:30:57,980 --> 00:30:58,980
+He tackles her.
+
+699
+00:30:58,980 --> 00:31:01,980
+And they are rolling around on a dirty sidewalk.
+
+700
+00:31:01,980 --> 00:31:03,980
+Bill trying to get his money back.
+
+701
+00:31:03,980 --> 00:31:07,980
+The prostitute gets presumably screaming until the cops came and broke it up.
+
+702
+00:31:07,980 --> 00:31:08,980
+That's funny.
+
+703
+00:31:08,980 --> 00:31:09,980
+Yeah.
+
+704
+00:31:09,980 --> 00:31:10,980
+Oh, that's great.
+
+705
+00:31:10,980 --> 00:31:11,980
+Did he get the money back?
+
+706
+00:31:11,980 --> 00:31:12,980
+He got the money back.
+
+707
+00:31:12,980 --> 00:31:13,980
+The cops gave it back.
+
+708
+00:31:13,980 --> 00:31:14,980
+Gave him the money back.
+
+709
+00:31:14,980 --> 00:31:15,980
+Wow.
+
+710
+00:31:15,980 --> 00:31:16,980
+Um, okay.
+
+711
+00:31:16,980 --> 00:31:20,980
+So, and again, I'm just doing this based on the way I've got this structured
+
+712
+00:31:20,980 --> 00:31:21,980
+right now.
+
+713
+00:31:21,980 --> 00:31:23,980
+So we're taking a little break chronologically.
+
+714
+00:31:23,980 --> 00:31:24,980
+That's great.
+
+715
+00:31:24,980 --> 00:31:25,980
+I didn't know that.
+
+716
+00:31:25,980 --> 00:31:26,980
+That's funny.
+
+717
+00:31:26,980 --> 00:31:29,980
+And we rewind to January 1976.
+
+718
+00:31:29,980 --> 00:31:31,980
+Bill's never told that story.
+
+719
+00:31:31,980 --> 00:31:33,980
+Never heard that.
+
+720
+00:31:33,980 --> 00:31:35,980
+Um, so we go, you're born.
+
+721
+00:31:35,980 --> 00:31:36,980
+Okay.
+
+722
+00:31:36,980 --> 00:31:37,980
+In Kiev.
+
+723
+00:31:37,980 --> 00:31:40,980
+Uh, to Allah and Alexander.
+
+724
+00:31:40,980 --> 00:31:46,980
+Um, I described that wonderful black and white photo that you have of them at the party.
+
+725
+00:31:46,980 --> 00:31:49,980
+Um, are you going to include these photos?
+
+726
+00:31:49,980 --> 00:31:50,980
+I don't know.
+
+727
+00:31:50,980 --> 00:31:51,980
+I don't know.
+
+728
+00:31:51,980 --> 00:31:52,980
+I mean, you can, you can if you want.
+
+729
+00:31:52,980 --> 00:31:53,980
+Okay, cool.
+
+730
+00:31:53,980 --> 00:31:54,980
+That's good.
+
+731
+00:31:54,980 --> 00:31:55,980
+I don't really know how that works.
+
+732
+00:31:55,980 --> 00:31:58,980
+I think for these purposes, I think it would be good to be able to do that.
+
+733
+00:31:58,980 --> 00:32:07,980
+Um, so, uh, Allah was, uh, I don't know if you know how much you know about this history
+
+734
+00:32:07,980 --> 00:32:10,980
+of Russian Jews in the seventies and early eighties.
+
+735
+00:32:10,980 --> 00:32:11,980
+Yeah.
+
+736
+00:32:11,980 --> 00:32:16,980
+I mean, so they, she after get graduate from college follows like a felt a fairly well
+
+737
+00:32:16,980 --> 00:32:23,980
+worn path gets an Israeli exit visa, uh, goes to first Vienna and then Rome, which it's
+
+738
+00:32:23,980 --> 00:32:24,980
+weird.
+
+739
+00:32:24,980 --> 00:32:26,980
+Like I never realized this until I started looking into your story.
+
+740
+00:32:26,980 --> 00:32:30,980
+Like that's a million other people did the exact same thing.
+
+741
+00:32:30,980 --> 00:32:34,980
+Not just leaving Russia, but going to Vienna and then Rome and then getting waiting in
+
+742
+00:32:34,980 --> 00:32:37,980
+Rome for getting those exit visas or is not.
+
+743
+00:32:37,980 --> 00:32:38,980
+Yeah.
+
+744
+00:32:38,980 --> 00:32:39,980
+It wasn't, you know, it wasn't easy.
+
+745
+00:32:39,980 --> 00:32:44,980
+But I heard the stories of selling my grandfather's medals and World War II medals and bribing
+
+746
+00:32:44,980 --> 00:32:46,980
+everyone along the way.
+
+747
+00:32:46,980 --> 00:32:47,980
+Yep.
+
+748
+00:32:47,980 --> 00:32:52,980
+And just looking, going back to like old news stories at the time, you can see people
+
+749
+00:32:52,980 --> 00:32:58,980
+like in very similar situation situations to your family at the time, like fleeing for
+
+750
+00:32:58,980 --> 00:33:01,980
+the same reason and following the exact same geographical path.
+
+751
+00:33:01,980 --> 00:33:06,980
+And so, uh, and in fact, a lot of them ending up in Chicago as well, which is obviously.
+
+752
+00:33:06,980 --> 00:33:07,980
+That's strange.
+
+753
+00:33:07,980 --> 00:33:09,980
+Why Chicago of all places?
+
+754
+00:33:09,980 --> 00:33:19,980
+I think it's just the, I mean, there's a local newspaper in 1978 or 1979 actually, which
+
+755
+00:33:19,980 --> 00:33:25,980
+is the same year your family arrived there, uh, described it as this is a local community
+
+756
+00:33:25,980 --> 00:33:28,980
+leader or the head of the Jewish community centers in Chicago told the local newspaper
+
+757
+00:33:28,980 --> 00:33:30,980
+that it's a mass exodus.
+
+758
+00:33:30,980 --> 00:33:32,980
+They're all coming here.
+
+759
+00:33:32,980 --> 00:33:39,980
+Um, so this is where things get a little bit ugly as you know.
+
+760
+00:33:39,980 --> 00:33:45,980
+And, um, so your mom is working in the Stanley Corsac department store.
+
+761
+00:33:45,980 --> 00:33:46,980
+Your mom gets a job.
+
+762
+00:33:46,980 --> 00:33:47,980
+She has two jobs.
+
+763
+00:33:47,980 --> 00:33:52,980
+One is a cocktail waitress and the other is working in this luxury good store on the
+
+764
+00:33:52,980 --> 00:33:54,980
+magnificent mile in Chicago.
+
+765
+00:33:54,980 --> 00:33:56,980
+This is this store is called Stanley Corsac.
+
+766
+00:33:56,980 --> 00:33:57,980
+Right.
+
+767
+00:33:57,980 --> 00:33:58,980
+She was selling for coats.
+
+768
+00:33:58,980 --> 00:34:02,980
+And I think her job actually as far as I can tell was creating displays.
+
+769
+00:34:02,980 --> 00:34:04,980
+So she was, um, right?
+
+770
+00:34:04,980 --> 00:34:05,980
+Yeah.
+
+771
+00:34:05,980 --> 00:34:06,980
+She did the windows.
+
+772
+00:34:06,980 --> 00:34:07,980
+Yeah.
+
+773
+00:34:07,980 --> 00:34:08,980
+The window displays exactly.
+
+774
+00:34:08,980 --> 00:34:09,980
+Well, that's okay.
+
+775
+00:34:09,980 --> 00:34:12,980
+Uh, Marie, you know the jewels are?
+
+776
+00:34:12,980 --> 00:34:17,980
+I saw some over on some of those little pop mango pods over there where my phone plugged
+
+777
+00:34:17,980 --> 00:34:18,980
+in.
+
+778
+00:34:18,980 --> 00:34:19,980
+Yeah.
+
+779
+00:34:19,980 --> 00:34:20,980
+Yeah.
+
+780
+00:34:20,980 --> 00:34:21,980
+The actual.
+
+781
+00:34:21,980 --> 00:34:23,980
+And also we need to.
+
+782
+00:34:23,980 --> 00:34:25,980
+Here I'm just going to.
+
+783
+00:34:25,980 --> 00:34:26,980
+Right.
+
+784
+00:34:26,980 --> 00:34:27,980
+Okay.
+
+785
+00:34:27,980 --> 00:34:30,980
+You got to keep a secret.
+
+786
+00:34:30,980 --> 00:34:31,980
+Okay.
+
+787
+00:34:31,980 --> 00:34:32,980
+It's off.
+
+788
+00:34:32,980 --> 00:34:33,980
+Okay.
+
+789
+00:34:33,980 --> 00:34:35,980
+So we'll just be careful.
+
+790
+00:34:35,980 --> 00:34:36,980
+Wait.
+
+791
+00:34:36,980 --> 00:34:37,980
+Sorry.
+
+792
+00:34:37,980 --> 00:34:38,980
+Say that again.
+
+793
+00:34:38,980 --> 00:34:43,980
+I'm not mentioning Marie.
+
+794
+00:34:43,980 --> 00:34:44,980
+Yeah.
+
+795
+00:34:44,980 --> 00:34:45,980
+Yeah.
+
+796
+00:34:45,980 --> 00:34:46,980
+Totally.
+
+797
+00:34:46,980 --> 00:34:47,980
+I mean, that's not chronologically.
+
+798
+00:34:47,980 --> 00:34:50,980
+That's like the very end of the pace we're going.
+
+799
+00:34:50,980 --> 00:34:52,980
+We'll get there in about two weeks.
+
+800
+00:34:52,980 --> 00:34:53,980
+Oh, okay.
+
+801
+00:34:53,980 --> 00:34:55,980
+So we're very careful talking to the camera.
+
+802
+00:34:55,980 --> 00:34:57,980
+So we don't know who you are.
+
+803
+00:34:57,980 --> 00:34:58,980
+Oh, I see.
+
+804
+00:34:58,980 --> 00:34:59,980
+So you.
+
+805
+00:34:59,980 --> 00:35:00,980
+Oh, shit.
+
+806
+00:35:00,980 --> 00:35:02,980
+So I, that's actually a good point.
+
+807
+00:35:02,980 --> 00:35:04,980
+I walked in here and was like, hi, Marie.
+
+808
+00:35:04,980 --> 00:35:05,980
+Yeah.
+
+809
+00:35:05,980 --> 00:35:06,980
+It's fine.
+
+810
+00:35:06,980 --> 00:35:07,980
+I mean, there's no.
+
+811
+00:35:07,980 --> 00:35:08,980
+Yeah.
+
+812
+00:35:08,980 --> 00:35:09,980
+Because.
+
+813
+00:35:09,980 --> 00:35:10,980
+For now.
+
+814
+00:35:10,980 --> 00:35:11,980
+Well, she might.
+
+815
+00:35:11,980 --> 00:35:12,980
+I don't know.
+
+816
+00:35:12,980 --> 00:35:13,980
+It's fine.
+
+817
+00:35:13,980 --> 00:35:14,980
+Don't worry.
+
+818
+00:35:14,980 --> 00:35:15,980
+I totally know what you're saying.
+
+819
+00:35:15,980 --> 00:35:16,980
+And that's not.
+
+820
+00:35:16,980 --> 00:35:17,980
+Yeah.
+
+821
+00:35:17,980 --> 00:35:18,980
+We just want to protect her for now until.
+
+822
+00:35:18,980 --> 00:35:19,980
+We just let my mom.
+
+823
+00:35:19,980 --> 00:35:20,980
+Um.
+
+824
+00:35:20,980 --> 00:35:21,980
+All that is not good.
+
+825
+00:35:21,980 --> 00:35:22,980
+I'm just here.
+
+826
+00:35:22,980 --> 00:35:23,980
+This thing.
+
+827
+00:35:23,980 --> 00:35:24,980
+She's not going to see that.
+
+828
+00:35:24,980 --> 00:35:25,980
+I mean.
+
+829
+00:35:25,980 --> 00:35:27,980
+This is going to like be what?
+
+830
+00:35:27,980 --> 00:35:28,980
+Let's do it.
+
+831
+00:35:28,980 --> 00:35:29,980
+That's actually happened.
+
+832
+00:35:29,980 --> 00:35:30,980
+It's going to be watched by a lot of people.
+
+833
+00:35:30,980 --> 00:35:31,980
+But not.
+
+834
+00:35:31,980 --> 00:35:32,980
+It's going to be in conjunction with.
+
+835
+00:35:32,980 --> 00:35:33,980
+Yeah.
+
+836
+00:35:33,980 --> 00:35:35,980
+But it's not like imminent in both control.
+
+837
+00:35:35,980 --> 00:35:36,980
+Over.
+
+838
+00:35:36,980 --> 00:35:37,980
+Anyway, it doesn't matter.
+
+839
+00:35:37,980 --> 00:35:38,980
+We're.
+
+840
+00:35:38,980 --> 00:35:39,980
+I like the word.
+
+841
+00:35:39,980 --> 00:35:40,980
+It's not imminent.
+
+842
+00:35:40,980 --> 00:35:41,980
+Um.
+
+843
+00:35:41,980 --> 00:35:42,980
+But just be careful.
+
+844
+00:35:42,980 --> 00:35:43,980
+Would you want me to get.
+
+845
+00:35:43,980 --> 00:35:44,980
+I couldn't get to the cafe.
+
+846
+00:35:44,980 --> 00:35:45,980
+No.
+
+847
+00:35:45,980 --> 00:35:46,980
+No.
+
+848
+00:35:46,980 --> 00:35:47,980
+I just mean.
+
+849
+00:35:47,980 --> 00:35:48,980
+Like.
+
+850
+00:35:48,980 --> 00:35:49,980
+I mentioned.
+
+851
+00:35:49,980 --> 00:35:50,980
+No.
+
+852
+00:35:50,980 --> 00:35:51,980
+The other jewels.
+
+853
+00:35:51,980 --> 00:35:52,980
+And all of a sudden.
+
+854
+00:35:52,980 --> 00:35:53,980
+Like someone.
+
+855
+00:35:53,980 --> 00:35:54,980
+Honestly, they do.
+
+856
+00:35:54,980 --> 00:35:55,980
+I.
+
+857
+00:35:55,980 --> 00:35:56,980
+Marie.
+
+858
+00:35:56,980 --> 00:35:57,980
+Like.
+
+859
+00:35:57,980 --> 00:35:58,980
+But it fell.
+
+860
+00:35:58,980 --> 00:35:59,980
+By the time this airs.
+
+861
+00:35:59,980 --> 00:36:00,980
+Let's say.
+
+862
+00:36:00,980 --> 00:36:01,980
+Well, but.
+
+863
+00:36:01,980 --> 00:36:02,980
+But just to be clear.
+
+864
+00:36:02,980 --> 00:36:04,980
+In again, the camera's off right now.
+
+865
+00:36:04,980 --> 00:36:05,980
+So.
+
+866
+00:36:05,980 --> 00:36:07,980
+Although your phone might still be recorded.
+
+867
+00:36:07,980 --> 00:36:08,980
+It's still.
+
+868
+00:36:08,980 --> 00:36:09,980
+Just turn it off.
+
+869
+00:36:09,980 --> 00:36:10,980
+Okay.
+
+870
+00:36:10,980 --> 00:36:11,980
+Um.
+
