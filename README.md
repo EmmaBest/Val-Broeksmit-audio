@@ -14,10 +14,14 @@ The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksm
 
 # Inferred Timeline
  * April 1st 2019 Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena
+ * October 2019 NYT/Val vs NYTimes Editor Nick Summers
+ * January 2020 NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
  * August ?? 2020 FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit
  * August 09? 2020 FBI/FBI David Kos First Call w Val Broeksmit
  * August ?? 2020 FBI/D.ko Post Hearing
  * August 12 2020 FBI/Kofbico PY2
  * August 1? 2020 FBI/Marie _ Agent Ko
+ 
+ ## Undetermined
  * ???? FBI/Val vs Andrew Dowling PT1  DKO’d
  * ???? FBI/Val vs Andrew Dowling PT 2-_ DKo’d
