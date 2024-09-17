@@ -5716,3 +5716,1892 @@ Fed:[Asks something]
 [02:54:59.760 --> 02:55:00.600]  Val: Interesting.
 [02:55:00.600 --> 02:55:01.440]  Fed: How lucky.
 [02:55:01.440 --> 02:55:03.000]  Fed: That's good.
+
+[02:55:03.000 --> 02:55:03.960]  Val: Here, I'll give you a quick peep.
+[02:55:03.960 --> 02:55:06.080]  Val: This is what it's like, you can scroll around.
+[02:55:06.080 --> 02:55:08.720]  Val: It's not that, it's not a cool, great, crazy data
+[02:55:08.720 --> 02:55:11.080]  Val: that I keep, it's not what you think.
+[02:55:11.080 --> 02:55:11.920]  Fed: Cool.
+[02:55:21.920 --> 02:55:23.000]  Fed: Doc Rockett
+[02:55:23.000 --> 02:55:23.840]  Val: What's wrong?
+
+[02:55:23.840 --> 02:55:25.560]  Fed: Doc Rockett
+
+[02:55:25.560 --> 02:55:27.600]  Fed: I assume these are not like real people, right?
+[02:55:27.600 --> 02:55:28.920]  Val: No, they're not real people.
+[02:55:28.920 --> 02:55:31.480]  Fed: I mean, they're not their real names.
+[02:55:31.480 --> 02:55:34.480]  Val: Some of them, I mean, I use my real name.
+[02:55:34.480 --> 02:55:35.480]  Fed: That's your friend.
+[02:55:35.560 --> 02:55:36.760]  Val: I use his real name.
+[02:55:36.760 --> 02:55:37.600]  Fed: Oh.
+[02:55:37.600 --> 02:55:39.360]  Val: I think Barrett uses his real name.
+[02:55:39.360 --> 02:55:42.240]  Val: Conlon, I don't know, kind of, Doc Rockett is a,
+[02:55:42.240 --> 02:55:44.840]  Val: I can't remember, I used to read through it again.
+[02:55:44.840 --> 02:55:46.240]  Val: I used to know what everybody was, but.
+[02:55:46.240 --> 02:55:47.920]  Fed: He's too many secrets, you know?
+[02:55:47.920 --> 02:55:50.080]  Val: Oh, that guy's great, yeah, I do.
+[02:55:51.760 --> 02:55:53.880]  Val: He doesn't do anything illegal.
+[02:55:53.880 --> 02:55:56.240]  Val: He's like, he's just like a researcher.
+[02:55:56.240 --> 02:55:57.640]  Val: He's not even that good.
+[02:55:57.640 --> 02:55:59.360]  Val: He's got a couple of databases in there.
+[02:55:59.360 --> 02:56:01.240]  Val: He's just very loyal and helpful.
+[02:56:02.360 --> 02:56:03.880]  Val: So if anyone needs my help, I'll do that.
+[02:56:04.320 --> 02:56:05.520]  Val: Kind of nice thing.
+[02:56:05.520 --> 02:56:07.920]  Fed: So there are no film crews outside,
+[02:56:07.920 --> 02:56:08.760]  Fed: but you never know.
+[02:56:08.760 --> 02:56:11.640]  Fed: They could show up to your comfort level.
+[02:56:11.640 --> 02:56:12.480]  Val: Okay, let's go.
+[02:56:12.480 --> 02:56:15.160]  Fed: At the same time, the protest is like
+[02:56:15.160 --> 02:56:17.920]  Fed: about salons wanting to open.
+[02:56:17.920 --> 02:56:19.040]  Val:  That's what, salons?
+[02:56:19.040 --> 02:56:20.240]  Fed: Yeah, like salons.
+[02:56:20.240 --> 02:56:21.560]  Val: Okay.
+[02:56:21.560 --> 02:56:22.400]  Val: Cool.
+[02:56:22.400 --> 02:56:23.240]  Val: Let's join.
+[02:56:23.240 --> 02:56:24.240]  Fed: A bit of a carry.
+[02:56:24.240 --> 02:56:26.440]  Fed: Oh, that's what we really did there.
+[02:56:26.440 --> 02:56:27.760]  Fed: Oh, thank you.
+[02:56:27.760 --> 02:56:30.040]  Val: That was pretty good, though.
+[02:56:30.040 --> 02:56:31.560]  Val: I mean, I give you credit.
+[02:56:34.880 --> 02:56:38.080]  Val: God, it's split ends.
+[02:56:38.080 --> 02:56:39.400]  Val: Okay, there you go.
+[02:56:42.400 --> 02:56:44.440]  Val: So yeah, it's not that it's fun.
+[02:56:44.440 --> 02:56:46.920]  Val: It's mostly just people yelling.
+[02:56:46.920 --> 02:56:49.040]  Val: During like, you know, Joe,
+[02:56:49.040 --> 02:56:50.520]  Val: I'm sure you know Joe Fionda.
+[02:56:51.800 --> 02:56:53.080]  Fed: Who's Joe Fionda?
+[02:56:53.080 --> 02:56:55.040]  Val: Joe is like, what's his name?
+[02:56:55.040 --> 02:56:56.440]  Val: Sub-Zero?
+[02:56:56.440 --> 02:56:57.360]  Val: Sub-Zero?
+[02:56:57.360 --> 02:56:58.200]  Val: Was his name?
+[02:56:58.200 --> 02:57:00.040]  Val: I think in 2000.
+[02:57:00.040 --> 02:57:01.520]  Fed: I'm talking about the mortal kombat character.
+[02:57:01.520 --> 02:57:02.360]  Val: I don't know.
+[02:57:02.360 --> 02:57:03.200]  Val: I don't know.
+[02:57:03.200 --> 02:57:04.040]  Val: It's his name.
+[02:57:04.040 --> 02:57:04.880]  Val: His alias.
+[02:57:06.000 --> 02:57:07.480]  Val: He's pretty, he's a clever guy.
+[02:57:07.480 --> 02:57:08.520]  Val: He was in the,
+[02:57:08.520 --> 02:57:09.720]  Val: did you see the Hacker War film?
+[02:57:09.720 --> 02:57:12.040]  Val: That's the film that women did with Barrett.
+[02:57:14.040 --> 02:57:16.720]  Val: It's basically the guy that's talking all the time.
+[02:57:16.720 --> 02:57:18.920]  Val: And wearing a suit, that guy.
+[02:57:18.920 --> 02:57:20.000]  Fed: Okay.
+[02:57:20.000 --> 02:57:22.040]  Fed: Joe, is he a hacker?
+[02:57:22.040 --> 02:57:24.920]  Val: I think, yeah, he's like a, yeah.
+[02:57:24.920 --> 02:57:25.880]  Fed: Okay.
+[02:57:25.880 --> 02:57:27.520]  Fed: So he's like, he's friends with Barrett.
+[02:57:27.520 --> 02:57:28.920]  Fed: Is that how he got in the group?
+[02:57:28.920 --> 02:57:31.320]  Val: Yeah, these old friends of Barrett.
+[02:57:31.320 --> 02:57:32.160]  Fed: Cool.
+[02:57:32.160 --> 02:57:35.240]  Val: He's one of his old friends of Barrett, man.
+[02:57:35.240 --> 02:57:36.960]  Fed: So what did Joe do?
+[02:57:36.960 --> 02:57:38.280]  Val: Joe, I'm not quite sure.
+[02:57:38.280 --> 02:57:40.360]  Val: I think he goes cycling a lot.
+[02:57:41.600 --> 02:57:43.880]  Val: He spends most of his time cycling
+[02:57:43.880 --> 02:57:44.720]  Val: during the year.
+[02:57:46.400 --> 02:57:47.600]  Val: He's a, everyone,
+[02:57:47.600 --> 02:57:49.880]  Val: but these guys are fairly activism, you know,
+[02:57:49.880 --> 02:57:52.200]  Val: based, which is great and all.
+[02:57:52.200 --> 02:57:54.880]  Val: I'm not really a, you know,
+[02:57:54.880 --> 02:57:57.320]  Val: I mean, I guess I don't believe anything that strongly
+[02:57:57.320 --> 02:57:59.080]  Val: to go out and carry a sign.
+[02:57:59.080 --> 02:57:59.920]  Fed: Sure.
+[02:57:59.960 --> 02:58:01.880]  Val: But I'm sure, you know,
+[02:58:02.960 --> 02:58:06.600]  Val: I mean, if someone DCFS right now,
+[02:58:06.600 --> 02:58:08.520]  Val: of course, I think I would probably carry a sign.
+[02:58:08.520 --> 02:58:11.000]  Val: So I'm like, it hasn't hit me personally yet.
+[02:58:13.160 --> 02:58:14.960]  Fed: I mean, that's a really popular corner.
+[02:58:14.960 --> 02:58:15.800]  Val: Yeah, wow.
+[02:58:15.800 --> 02:58:17.040]  Fed: Just because it's like one of the,
+[02:58:17.040 --> 02:58:17.880]  Fed: you hear it over there.
+[02:58:17.880 --> 02:58:19.200]  Val: Yeah, this would be okay.
+[02:58:20.760 --> 02:58:21.960]  Val: It's really far away.
+[02:58:30.920 --> 02:58:32.920]  Fed: I can push a little bit over there.
+[02:58:32.920 --> 02:58:33.760]  Val: Sure.
+[02:58:35.760 --> 02:58:36.600]  Val: Oh, really?
+[02:58:36.600 --> 02:58:37.440]  Val: Oh, man.
+[02:58:39.440 --> 02:58:42.400]  Val: So, yeah, I mean, just like everyone,
+[02:58:42.400 --> 02:58:43.520]  Val: the people who use their real names
+[02:58:43.520 --> 02:58:46.080]  Val: really aren't afraid of the guy finding out.
+[02:58:46.080 --> 02:58:48.120]  Val: So, I'm sure you, yeah.
+[02:58:50.120 --> 02:58:53.600]  Val: But the, yeah, there was another interesting thing.
+[02:58:55.160 --> 02:58:56.880]  Val: God, I can't remember why they said Ko.
+[02:58:57.160 --> 02:58:59.000]  Val: I'm running to show you the thing.
+[02:58:59.000 --> 02:59:00.320]  Fed: I can almost guarantee you.
+[02:59:00.320 --> 02:59:02.840]  Fed: It's not me, because I'm not that important.
+[02:59:02.840 --> 02:59:04.800]  Val: No, but you were from Houston,
+[02:59:04.800 --> 02:59:06.800]  Val: and Barrett said it was a guy from Houston
+[02:59:06.800 --> 02:59:08.680]  Val: that called a friend of his
+[02:59:08.680 --> 02:59:10.720]  Val: that was trying to infiltrate some group,
+[02:59:10.720 --> 02:59:12.040]  Val: but he was on the wrong group.
+[02:59:12.040 --> 02:59:14.040]  Val: I don't know exactly what happened.
+[02:59:14.040 --> 02:59:15.200]  Val: We got a recording of the phone call.
+[02:59:15.200 --> 02:59:16.520]  Val: I wanted to play back the phone call
+[02:59:16.520 --> 02:59:18.640]  Val: to see if that was you talking to this other guy.
+[02:59:18.640 --> 02:59:20.240]  Val: Not Barrett directly, but someone else.
+[02:59:20.240 --> 02:59:22.040]  Fed: I would be interested if you got a recording
+[02:59:22.040 --> 02:59:23.400]  Fed: of me talking to someone.
+[02:59:23.400 --> 02:59:24.240]  Fed: I'd love to hear it..
+[02:59:27.280 --> 02:59:29.280]  Val: Yeah, that's what ??? with Ko
+
+[02:59:32.040 --> 02:59:32.880]  Val: Okay.
+Fed: [unintelligible]
+[02:59:38.320 --> 02:59:40.640]  Val: Now, could you, is it possible that,
+[02:59:41.640 --> 02:59:46.640]  Val: is it possible to have this guy,
+[02:59:46.920 --> 02:59:48.080]  Val: that you've done your research,
+[02:59:48.080 --> 02:59:50.560]  Val: you probably understand that Steve is not a good guy?
+[02:59:50.560 --> 02:59:51.400]  Fed: Who's Steve.
+[02:59:51.400 --> 02:59:52.240]  Val: Steve Toltz?
+[02:59:53.240 --> 02:59:55.080]  Fed: You've posted here on Facebook.
+[02:59:55.080 --> 02:59:58.880]  Val: Yeah, like he's not a stand-up guy.
+[02:59:58.880 --> 02:59:59.720]  Val: He's not a,
+[03:00:01.560 --> 03:00:04.960]  Val: you know the type that's run to mom and the scribbling.
+[03:00:04.960 --> 03:00:05.960]  Fed: Yeah, yeah.
+[03:00:08.480 --> 03:00:11.360]  Val: I think it's actually really become a threat
+[03:00:11.360 --> 03:00:15.320]  Val: to not only to Marlowe's update with the priest,
+[03:00:15.320 --> 03:00:16.480]  Val: the priest that's happening.
+[03:00:16.480 --> 03:00:17.480]  Fed: Sure, no, I get it.
+[03:00:18.760 --> 03:00:21.240]  Val: Is it possible to have him deported?
+[03:00:22.240 --> 03:00:23.080]  Fed: No.
+[03:00:26.680 --> 03:00:27.520]  Val: Australia.
+[03:00:29.680 --> 03:00:34.680]  Val: I went to a whole moral crisis.
+[03:00:35.880 --> 03:00:36.920]  Val: Did I do this or not?
+[03:00:36.920 --> 03:00:39.400]  Val: And I asked them, they said they'd do it.
+[03:00:39.400 --> 03:00:40.240]  Val: But then I said,
+[03:00:40.240 --> 03:00:41.520]  Val: but then all of a sudden I had this father,
+[03:00:41.520 --> 03:00:43.080]  Val: I said, we're not going to do that tomorrow.
+[03:00:43.080 --> 03:00:44.840]  Val: That was the bottom line.
+[03:00:44.840 --> 03:00:46.000]  Val: But that was last year.
+[03:00:46.000 --> 03:00:48.000]  Val: Yeah, that was last year.
+[03:00:48.000 --> 03:00:50.080]  Val: But now everyone's really asking me,
+[03:00:50.200 --> 03:00:51.040]  Val: I know.
+[03:00:52.520 --> 03:00:53.360]  Fed: Thank you.
+[03:00:53.360 --> 03:00:54.360]  Val: Thank you.
+[03:01:00.360 --> 03:01:01.720]  Fed: You're welcome.
+[03:01:01.720 --> 03:01:02.720]  Fed: I am the broker.
+[03:01:02.720 --> 03:01:04.160]  Fed: Ha, ha, ha, ha.
+[03:01:05.320 --> 03:01:06.200]  Fed: You actually thought about it.
+[03:01:06.200 --> 03:01:08.640]  Fed: I was like, I'm not fucking one out.
+[03:01:08.640 --> 03:01:09.920]  Fed: I was like, you know,
+[03:01:09.920 --> 03:01:12.040]  Fed: don't look at me, I did it on the right.
+[03:01:12.040 --> 03:01:13.440]  Fed: I did, I did it on the right.
+[03:01:13.440 --> 03:01:14.440]  Fed: That's all I got.
+[03:01:15.440 --> 03:01:17.440]  Fed: It's a little bit economic.
+[03:01:17.440 --> 03:01:20.440]  Fed: Because I was shopping in one town,
+[03:01:20.440 --> 03:01:23.440]  Fed: and this was like twice that.
+[03:01:23.440 --> 03:01:25.440]  Fed: I'm like, if you guys really eat it,
+[03:01:25.440 --> 03:01:26.440]  Fed: I can eat for a week.
+[03:01:26.440 --> 03:01:27.440]  Fed: That's true.
+[03:01:34.440 --> 03:01:36.440]  Fed: I don't think you guys realize how nice this weather is
+[03:01:36.440 --> 03:01:38.440]  Fed: for August, whatever.
+[03:01:38.440 --> 03:01:40.440]  Val: Do you know Andrew?
+[03:01:40.440 --> 03:01:41.440]  Fed: I don't like this weather.
+[03:01:41.440 --> 03:01:43.440]  Val: Do you know Andrew?
+[03:01:43.440 --> 03:01:44.440]  Val: Who's Andrew?
+[03:01:44.440 --> 03:01:46.440]  Val: The one you pointed out, my friend.
+[03:01:46.440 --> 03:01:47.440]  Fed: Your friend?
+[03:01:47.440 --> 03:01:48.440]  Val: Yeah.
+[03:01:48.440 --> 03:01:49.440]  Fed: I mean, you just told me about him,
+[03:01:49.440 --> 03:01:50.440]  Fed: but I don't know.
+[03:01:50.440 --> 03:01:52.440]  Val: Before I mentioned him.
+[03:01:52.440 --> 03:01:54.440]  Val: He's a good, interesting character.
+[03:01:54.440 --> 03:01:55.440]  Fed: What's the deal?
+[03:01:55.440 --> 03:01:56.440]  Val: He's a really good guy.
+[03:01:56.440 --> 03:01:57.440]  Val: Good dude.
+[03:01:58.440 --> 03:01:59.440]  Val: Do you remember, maybe,
+[03:01:59.440 --> 03:02:03.440]  Val: probably in 2015 there was this article
+[03:02:03.440 --> 03:02:06.440]  Val: in Bloomberg about
+[03:02:07.440 --> 03:02:08.440]  Val: if there was this company,
+[03:02:08.440 --> 03:02:09.440]  Val: and it turned out later,
+[03:02:09.440 --> 03:02:11.440]  Val: you find out articles later,
+[03:02:11.440 --> 03:02:14.440]  Val: that it was a Russian company,
+[03:02:14.440 --> 03:02:16.440]  Val: they created this big debts for people.
+[03:02:16.440 --> 03:02:17.440]  Val: Someone would call you and say,
+[03:02:17.440 --> 03:02:19.440]  Val: you owe us $2,000 a month,
+[03:02:19.440 --> 03:02:21.440]  Val: and then you say,
+[03:02:21.440 --> 03:02:22.440]  Val: you got this thing,
+[03:02:22.440 --> 03:02:23.440]  Val: you forgot about it,
+[03:02:23.440 --> 03:02:24.440]  Val: you should probably pay it.
+[03:02:24.440 --> 03:02:26.440]  Val: Most people will pay that money.
+[03:02:26.440 --> 03:02:29.440]  Val: If you will just create this big debt,
+[03:02:29.440 --> 03:02:31.440]  Val: and it's a really fucking dollar,
+[03:02:31.440 --> 03:02:33.440]  Val: and it's $1,000,000 a month.
+[03:02:33.440 --> 03:02:35.440]  Val: So a lot of people would take advantage
+[03:02:35.440 --> 03:02:36.440]  Val: and people would just be doing that.
+[03:02:36.440 --> 03:02:38.440]  Val: And they'd try to get it to Andrews.
+[03:02:38.440 --> 03:02:39.440]  Val: They wouldn't call Andrew,
+[03:02:39.440 --> 03:02:41.440]  Val: and they'd say, you owe us $5,000,
+[03:02:41.440 --> 03:02:42.440]  Val: we're a combination of debts,
+[03:02:42.440 --> 03:02:43.440]  Val: and he'd say,
+[03:02:43.440 --> 03:02:44.440]  Val: No I don't,
+[03:02:44.440 --> 03:02:45.440]  Val: I remember paying that back,
+[03:02:45.440 --> 03:02:47.440]  Val: ???
+[03:02:47.440 --> 03:02:49.440]  Val: So he starts fighting and arguing with this guy,
+[03:02:49.440 --> 03:02:51.440]  Val: until the guy threatens to go
+[03:02:51.440 --> 03:02:53.440]  Val: and rape his wife.
+[03:02:53.440 --> 03:02:54.440]  Val: Like, totally possible,
+[03:02:54.440 --> 03:02:55.440]  Val: and Andrew said,
+[03:02:55.440 --> 03:02:56.440]  Val: that's it.
+[03:02:56.440 --> 03:02:58.440]  Val: So he starts doing like,
+[03:02:58.440 --> 03:02:59.440]  Val: he's now,
+[03:02:59.440 --> 03:03:02.440]  Val: he's the Liam Neeson thing,
+[03:03:02.440 --> 03:03:04.440]  Val: I have three,
+[03:03:04.440 --> 03:03:05.440]  Val: you know,
+[03:03:05.440 --> 03:03:07.440]  Val: a few good things,
+[03:03:07.440 --> 03:03:08.440]  Val: whatever the line is.
+[03:03:08.440 --> 03:03:09.440]  Val: And that's what he does.
+[03:03:09.440 --> 03:03:10.440]  Val: So you reverse engineers,
+[03:03:10.440 --> 03:03:11.440]  Val: it's brilliant what he did,
+[03:03:11.440 --> 03:03:12.440]  Val: I love it.
+[03:03:12.440 --> 03:03:13.440]  Val: Reverse engineers,
+[03:03:13.440 --> 03:03:14.440]  Val: everyone that's called him,
+[03:03:14.440 --> 03:03:15.440]  Val: and looks him up,
+[03:03:15.440 --> 03:03:16.440]  Val: there's all the background on them,
+[03:03:16.440 --> 03:03:19.440]  Val: gets them to give up more information on their,
+[03:03:19.440 --> 03:03:21.440]  Val: just like you could do in any case.
+[03:03:21.440 --> 03:03:22.440]  Val: You know,
+[03:03:22.440 --> 03:03:23.440]  Val: give information to the guy at mob,
+[03:03:23.440 --> 03:03:24.440]  Val: and the hierarchy,
+[03:03:24.440 --> 03:03:26.440]  Val: all the way up to Weldon,
+[03:03:26.440 --> 03:03:27.440]  Val: the congressman,
+[03:03:27.440 --> 03:03:29.440]  Val: was he a senator or congressman?
+[03:03:29.440 --> 03:03:31.440]  Fed: Well, I'm a senator or something.
+[03:03:31.440 --> 03:03:32.440]  Val: Is he Weldon?
+[03:03:32.440 --> 03:03:33.440]  Val: No,
+[03:03:33.440 --> 03:03:34.440]  Val: Josh Weldon,
+[03:03:34.440 --> 03:03:36.440]  Val: or is he something Weldon?
+[03:03:36.440 --> 03:03:37.440]  Val: Yeah, man,
+[03:03:37.440 --> 03:03:38.440]  Fed: I don't know all the senators
+[03:03:38.440 --> 03:03:39.440]  Fed: and representatives,
+[03:03:39.440 --> 03:03:40.440]  Fed: so I'm a bad,
+[03:03:40.440 --> 03:03:41.440]  Fed: he's an ???
+[03:03:41.440 --> 03:03:42.440]  Fed: But,
+[03:03:42.440 --> 03:03:43.440]  Val: I mean,
+[03:03:43.440 --> 03:03:44.440]  Val: he might be,
+[03:03:44.440 --> 03:03:45.440]  Val: he might be actually,
+[03:03:45.440 --> 03:03:46.440]  Fed: I know he's a congressman person,
+[03:03:46.440 --> 03:03:47.440]  Fed: but that's about the extent of my knowledge
+[03:03:47.440 --> 03:03:48.440]  Fed: I know.
+[03:03:48.440 --> 03:03:49.440]  Val: Yeah,
+[03:03:49.440 --> 03:03:50.440]  Val: but he's in bed with a lot of,
+[03:03:50.440 --> 03:03:51.440]  Val: the Russian companies,
+[03:03:51.440 --> 03:03:53.440]  Val: they're creating these fake debt companies,
+[03:03:53.440 --> 03:03:55.440]  Val: and it's a really good story,
+[03:03:55.440 --> 03:03:56.440]  Val: it's great articles,
+[03:03:56.440 --> 03:03:57.440]  Val: and it's just sort of reverse engineers,
+[03:03:57.440 --> 03:03:58.440]  Val: put some in jail,
+[03:03:58.440 --> 03:04:00.440]  Val: and it's a good guy at the store.
+[03:04:00.440 --> 03:04:01.440]  Val: It's very impressed.
+[03:04:01.440 --> 03:04:02.440]  Fed: That's cool.
+[03:04:02.440 --> 03:04:03.440]  Val: I mean,
+[03:04:03.440 --> 03:04:04.440]  Val: he found me,
+[03:04:04.440 --> 03:04:05.440]  Val: he just wanted to know
+[03:04:05.440 --> 03:04:06.440]  Val: if I had any data
+[03:04:06.440 --> 03:04:07.440]  Val: on those people as well,
+[03:04:07.440 --> 03:04:08.440]  Val: like,
+[03:04:08.440 --> 03:04:09.440]  Val: I was looking for Weldon,
+[03:04:09.440 --> 03:04:10.440]  Val: the Russians,
+[03:04:10.440 --> 03:04:11.440]  Val: the Tudmento[???]
+[03:04:11.440 --> 03:04:13.440]  Val: or some other guy,
+[03:04:13.440 --> 03:04:15.440]  Val: and that's how we became friends.
+[03:04:15.440 --> 03:04:16.440]  Val: He's a good guy.
+[03:04:16.440 --> 03:04:17.440]  Fed: That's cool.
+[03:04:17.440 --> 03:04:19.440]  Val: I thought he was already working with you guys.
+[03:04:19.440 --> 03:04:20.440]  Val: I'm pretty sure he was,
+[03:04:20.440 --> 03:04:21.440]  Val: I thought he was CIA.
+[03:04:21.440 --> 03:04:22.440]  Fed: Okay,
+[03:04:22.440 --> 03:04:23.440]  Fed: I mean,
+[03:04:23.440 --> 03:04:24.440]  Fed: so if he was CIA then,
+[03:04:24.440 --> 03:04:25.440]  Fed: I don't think he would.
+[03:04:25.440 --> 03:04:26.440]  Val: That's what I thought.
+[03:04:26.440 --> 03:04:27.440]  Val: I don't know.
+[03:04:27.440 --> 03:04:28.440]  Fed: Have you ever met him
+[03:04:28.440 --> 03:04:29.440]  Fed: like,
+[03:04:29.440 --> 03:04:30.440]  Fed: okay.
+[03:04:30.440 --> 03:04:31.440]  Val: Yeah,
+[03:04:31.440 --> 03:04:32.440]  Val: he came out to visit.
+[03:04:32.440 --> 03:04:33.440]  Fed: I don't know,
+[03:04:33.440 --> 03:04:35.440]  Fed: do you think he'd want to work with us?
+[03:04:35.440 --> 03:04:36.440]  Val: I think he would.
+[03:04:36.440 --> 03:04:37.440]  Val: I think he would,
+[03:04:37.440 --> 03:04:38.440]  Val: actually.
+[03:04:38.440 --> 03:04:40.440]  Fed: Do you want to give me his contact information?
+[03:04:40.440 --> 03:04:42.440]  Val: I think I'd have to ask him.
+[03:04:42.440 --> 03:04:43.440]  Fed: Okay.
+[03:04:43.440 --> 03:04:44.440]  Val: And then,
+[03:04:44.440 --> 03:04:45.440]  Val: if he'd never have to,
+[03:04:45.440 --> 03:04:46.440]  Val: I'd bring it up.
+[03:04:46.440 --> 03:04:47.440]  Val: Because I don't know,
+[03:04:47.440 --> 03:04:48.440]  Val: he's like a,
+[03:04:48.440 --> 03:04:49.440]  Val: like a really,
+[03:04:49.440 --> 03:04:52.440]  Val: he almost pisses me off,
+[03:04:52.440 --> 03:04:53.440]  Val: he's like,
+[03:04:53.440 --> 03:04:54.440]  Val: too good.
+[03:04:54.440 --> 03:04:55.440]  Val: He's like,
+[03:04:55.440 --> 03:04:57.440]  Val: he reminds me of my father in the sense
+[03:04:57.440 --> 03:04:58.440]  Val: of his morality.
+[03:04:58.440 --> 03:04:59.440]  Val: He's very,
+[03:04:59.440 --> 03:05:00.440]  Val: very strong.
+[03:05:00.440 --> 03:05:01.440]  Fed: That's good.
+[03:05:01.440 --> 03:05:02.440]  Val: So that's the thing you guys like,
+[03:05:02.440 --> 03:05:03.440]  Val: I mean,
+[03:05:03.440 --> 03:05:04.440]  Val: you hire a lot of,
+[03:05:04.440 --> 03:05:05.440]  Val: like,
+[03:05:05.440 --> 03:05:06.440]  Val: Mormons, right?
+[03:05:06.440 --> 03:05:07.440]  Val: So,
+[03:05:07.440 --> 03:05:08.440]  Val: or is that the CIA?
+[03:05:08.440 --> 03:05:10.440]  Val: Who's hiring all the Mormons?
+[03:05:10.440 --> 03:05:12.440]  Fed: They're doing a lot of good things.
+[03:05:12.440 --> 03:05:13.440]  Val: Yeah, okay.
+[03:05:13.440 --> 03:05:14.440]  Fed: If they can pass the drug test,
+[03:05:14.440 --> 03:05:15.440]  Fed: yeah.
+[03:05:15.440 --> 03:05:16.440]  Val: Okay,
+[03:05:16.440 --> 03:05:17.440]  Val: really the Mormons
+[03:05:17.440 --> 03:05:18.440]  Val: can't pass the drug test?
+[03:05:18.440 --> 03:05:19.440]  Val: That's great.
+[03:05:19.440 --> 03:05:20.440]  Fed: Because they can't.
+[03:05:20.440 --> 03:05:21.440]  Val: They cannot.
+[03:05:21.440 --> 03:05:22.440]  Fed: No, they can't.
+[03:05:22.440 --> 03:05:23.440]  Fed: Oh, they can't,
+[03:05:23.440 --> 03:05:24.440]  Val: right?
+[03:05:24.440 --> 03:05:25.440]  Val: Yeah.
+[03:05:25.440 --> 03:05:26.440]  Val: Okay,
+[03:05:26.440 --> 03:05:27.440]  Val: okay.
+[03:05:27.440 --> 03:05:28.440]  Fed: I mean,
+[03:05:28.440 --> 03:05:29.440]  Fed: the Mormons
+[03:05:29.440 --> 03:05:30.440]  Fed: a lot of time,
+[03:05:30.440 --> 03:05:31.440]  Fed: they do missions.
+[03:05:31.440 --> 03:05:32.440]  Fed: So when they go overseas,
+[03:05:32.440 --> 03:05:33.440]  Fed: they learn the language,
+[03:05:33.440 --> 03:05:34.440]  Fed: it's probably useful
+[03:05:34.440 --> 03:05:35.440]  Fed: for like,
+[03:05:35.440 --> 03:05:36.440]  Fed: CIA and all that kind of stuff.
+[03:05:36.440 --> 03:05:37.440]  Val: Right,
+[03:05:37.440 --> 03:05:38.440]  Val: good cover.
+[03:05:38.440 --> 03:05:39.440]  Fed: Yeah.
+[03:05:39.440 --> 03:05:40.440]  Val: Yeah,
+[03:05:40.440 --> 03:05:41.440]  Val: but it's so,
+[03:05:41.440 --> 03:05:42.440]  Val: like,
+[03:05:42.440 --> 03:05:43.440]  Val: we're so
+[03:05:43.440 --> 03:05:44.440]  Val: strict with rules
+[03:05:44.440 --> 03:05:45.440]  Val: and stuff.
+[03:05:45.440 --> 03:05:46.440]  Val: How do you,
+[03:05:46.440 --> 03:05:47.440]  Val: how do you,
+[03:05:47.440 --> 03:05:48.440]  Val: justify one thing
+[03:05:48.440 --> 03:05:49.440]  Val: or do something else?
+[03:05:49.440 --> 03:05:50.440]  Fed: That's a good question.
+[03:05:50.440 --> 03:05:51.440]  Fed: That's something
+[03:05:51.440 --> 03:05:52.440]  Fed: I've,
+[03:05:52.440 --> 03:05:53.440]  Fed: know nothing about.
+[03:05:53.440 --> 03:05:54.440]  Val: Right.
+[03:05:54.440 --> 03:05:55.440]  Fed: Well,
+[03:05:55.440 --> 03:05:56.440]  Fed: being a Mormon
+[03:05:56.440 --> 03:05:57.440]  Fed: won't work for the agency.
+[03:05:57.440 --> 03:05:58.440]  Fed: Like,
+[03:05:58.440 --> 03:05:59.440]  Fed: how do you justify,
+[03:06:13.440 --> 03:06:14.440]  Val: What do you guys
+[03:06:14.440 --> 03:06:15.440]  Val: do?
+[03:06:15.440 --> 03:06:16.440]  Val: Jesus,
+[03:06:16.440 --> 03:06:17.440]  Val: people?
+[03:06:17.440 --> 03:06:18.440]  Val: Can't say that.
+[03:06:18.440 --> 03:06:19.440]  Val: Okay.
+[03:06:19.440 --> 03:06:20.440]  Val: Do it or not do it?
+[03:06:20.440 --> 03:06:21.440]  Fed: No.
+[03:06:21.440 --> 03:06:22.440]  Fed: I wish there was.
+[03:06:28.440 --> 03:06:34.440]  Val: That's what's more impressive, what you need for me right away is the thing that you have on your plate.
+[03:06:34.440 --> 03:06:40.440]  Val: What I can help you with, what you can do with the transactional for Marlowe's safety.
+[03:06:40.440 --> 03:06:44.440]  Val: I would like to bro it, Steve.
+[03:06:44.440 --> 03:06:46.440]  Val: Listen to me, sir.
+[03:06:46.440 --> 03:06:48.440]  Thank you.
+[03:06:54.440 --> 03:06:56.440]  Fed: Seriously, it caught me up.
+[03:06:56.440 --> 03:06:58.440]  Val: Are you happy?
+[03:06:58.440 --> 03:07:00.440]  Fed: Maybe.
+[03:07:00.440 --> 03:07:02.440]  Fed: You've got to take off that pavilion.
+[03:07:02.440 --> 03:07:04.440]  Val: Thank you.
+[03:07:04.440 --> 03:07:06.440]  Val: Thank you very much.
+[03:07:06.440 --> 03:07:08.440]  You're welcome.
+[03:07:08.440 --> 03:07:10.440]  I like the economy with our mayor.
+[03:07:10.440 --> 03:07:12.440]  That's right.
+[03:07:12.440 --> 03:07:16.440]  Val: I'm going to watch out for the Marie.
+[03:07:26.440 --> 03:07:34.440]  Val: I would have to be really secretive if I now tell Marie.
+[03:07:34.440 --> 03:07:36.440]  Val: I can't tell her everything.
+[03:07:36.440 --> 03:07:40.440]  Val: What I don't tell her, she always finds out.
+[03:07:40.440 --> 03:07:42.440]  Fed: What would you tell her?
+[03:07:42.440 --> 03:07:48.440]  Val: I'm going to tell her, oh they offered me a job.
+[03:07:48.440 --> 03:07:52.440]  Val: She'd be like, what are they paying down?
+[03:07:52.440 --> 03:07:54.440]  Val: Not money.
+[03:07:54.440 --> 03:07:56.440]  Val: It's a good job.
+[03:07:56.440 --> 03:07:58.440]  Val: But they will have Marlowe.
+[03:07:58.440 --> 03:08:00.440]  Val: They should say, trust them.
+[03:08:00.440 --> 03:08:02.440]  Val: You can live with them.
+[03:08:02.440 --> 03:08:04.440]  Val: See that?
+[unintelligible]
+03:08:12.440 --> 03:08:14.440]  Val: She'll see you working on it.
+[03:08:14.440 --> 03:08:16.440]  Val: What are you doing?
+[03:08:16.440 --> 03:08:18.440]  Val: Okay, thanks.
+[03:08:18.440 --> 03:08:20.440]  Val: I'll see you later.
+[03:08:24.440 --> 03:08:28.440]  Val: It's fun to do an episode
+[03:08:28.440 --> 03:08:32.440]  Val: But I don't know how people will know.
+[03:08:32.440 --> 03:08:34.440]  Val: I figured it was okay to do an episode 7 today.
+[03:08:34.440 --> 03:08:36.440]  Val: It was a bit rainy.
+[03:08:36.440 --> 03:08:38.440]  Val: But she said it was not.
+[03:08:38.440 --> 03:08:40.440]  Val: It was a lie.
+[03:08:40.440 --> 03:08:44.440]  Val: A lot of stuff was in French.
+[03:08:44.440 --> 03:08:48.440]  Val: Which brings me to a good point.
+[03:08:48.440 --> 03:08:50.440]  Val: So I was afraid to look at it.
+[03:08:50.440 --> 03:08:52.440]  Val: I don't understand what it meant.
+[03:08:52.440 --> 03:08:54.440]  Val: Just to take a look at it.
+[03:08:54.440 --> 03:08:56.440]  Val: at the hard drive, right?
+[03:08:56.440 --> 03:09:00.440]  Val: That's concerning.
+[03:09:00.440 --> 03:09:02.440]  Val: So that's why I just ran it over.
+[03:09:02.440 --> 03:09:04.440]  Val: I'll forward it to you.
+[03:09:04.440 --> 03:09:06.440]  Val: That's what I said to David.
+[03:09:06.440 --> 03:09:08.440]  Val: I don't know.
+[03:09:08.440 --> 03:09:10.440]  Val: I would really like to use that against him somehow.
+[03:09:10.440 --> 03:09:12.440]  Val: I'm trying to do that.
+[03:09:12.440 --> 03:09:14.440]  Val: I don't know if it's legal for me to give him that.
+[03:09:14.440 --> 03:09:16.440]  Val: But what he does it with an afterward.
+[03:09:16.440 --> 03:09:18.440]  Val: I don't know.
+[03:09:18.440 --> 03:09:20.440]  Fed: I don't know what you're talking about.
+[03:09:20.440 --> 03:09:22.440]  Fed: It's hard.
+[03:09:22.440 --> 03:09:24.440]  Fed: It's hard to say.
+[03:09:26.440 --> 03:09:28.440]  Fed: But it's definitely hard to do what he did.
+[03:09:32.440 --> 03:09:34.440]  Fed: So before the musician stuff, were you involved with computers?
+[03:09:34.440 --> 03:09:36.440]  Fed: [unintelligible]
+[03:09:40.440 --> 03:09:42.440]  Val: I'm just a musician.
+[03:09:42.440 --> 03:09:44.440]  Val: I used to play football and having...
+[03:09:44.440 --> 03:09:46.440]  Val: Sorry, I didn't go to it.
+[03:09:46.440 --> 03:09:48.440]  Val: I see.
+[03:09:48.440 --> 03:09:52.440]  Val: And there was a guy who lived above me in London.
+[03:09:52.440 --> 03:09:54.440]  Fed: He lived in London above you.
+[03:09:54.440 --> 03:09:56.440]  Val: He was really good at hacking
+[03:09:56.440 --> 03:09:58.440]  Val: He gave me a list of all that.
+[03:09:58.440 --> 03:10:00.440]  Val: [IP?] addresses [?]
+[03:10:00.440 --> 03:10:02.440]  Val: He'd be a good guy.
+[03:10:02.440 --> 03:10:04.440]  Val: He'd just have fun and see me.
+[03:10:04.440 --> 03:10:06.440]  Val: You could tell that or something.
+[03:10:06.440 --> 03:10:08.440]  Val: And he's the one who said,
+[03:10:08.440 --> 03:10:10.440]  Val: I don't think it's going to be that bad.
+[03:10:10.440 --> 03:10:12.440]  Val: And at times it's like $30.
+[03:10:12.440 --> 03:10:14.440]  Val: I mean, I don't think it's going to be that bad.
+[03:10:14.440 --> 03:10:18.440]  Val: I want to spend $30 on some bullshit.
+[03:10:18.440 --> 03:10:20.440]  Fed: I would have bought pizza.
+[03:10:20.440 --> 03:10:22.440]  Fed: Yeah, yeah, yeah.
+[03:10:24.440 --> 03:10:26.440]  Val: Well, that was about the sound of it,
+[03:10:26.440 --> 03:10:28.440]  Val: but I mean, I was really focused.
+[03:10:28.440 --> 03:10:30.440]  Val: I have 36 hours to do the single.
+[03:10:30.440 --> 03:10:32.440]  Val: It's been all my time.
+[03:10:32.440 --> 03:10:34.440]  Fed: A lot of work.
+[03:10:34.440 --> 03:10:36.440]  Val: A lot of work.
+[03:10:36.440 --> 03:10:38.440]  Val: You know, I don't do that anymore.
+[03:10:38.440 --> 03:10:40.440]  Fed: Really?
+[03:10:40.440 --> 03:10:42.440]  Fed: Do you miss it?
+[03:10:42.440 --> 03:10:44.440]  Val: I mean, I miss lifestyle.
+[03:10:46.440 --> 03:10:48.440]  Val: No.
+[03:10:48.440 --> 03:10:50.440]  Val: I don't.
+[03:10:50.440 --> 03:10:52.440]  Fed: I don't have music,
+[03:10:52.440 --> 03:10:54.440]  Fed: but I think I do.
+[03:10:54.440 --> 03:10:56.440]  Fed: I don't.
+[03:10:56.440 --> 03:10:58.440]  Fed: Cross our lifestyle.
+[03:10:58.440 --> 03:11:00.440]  Val: Yeah, but you got to stop at some points.
+[03:11:00.440 --> 03:11:02.440]  Val: You can't be the other guy doing that.
+[03:11:02.440 --> 03:11:04.440]  Fed: Yeah, there's a lot of things.
+[03:11:04.440 --> 03:11:06.440]  Fed: It's not like it's still going on.
+[03:11:06.440 --> 03:11:08.440]  Val: Yeah, but still, it's a little creepy.
+[03:11:08.440 --> 03:11:10.440]  Val: We were at a party.
+[03:11:10.440 --> 03:11:12.440]  Val: We didn't see what's happening.
+[03:11:12.440 --> 03:11:14.440]  Val: What's the name of the meeting?
+[03:11:14.440 --> 03:11:16.440]  Val: I didn't talk to him.
+[03:11:16.440 --> 03:11:18.440]  Val: I was like, what's the change that you're doing here?
+[03:11:18.440 --> 03:11:20.440]  Val: You just get out of rehab.
+[03:11:20.440 --> 03:11:22.440]  Val: That's where he's supposed to not do it.
+[03:11:22.440 --> 03:11:24.440]  Val: He's like, let's go get a drink.
+[03:11:24.440 --> 03:11:26.440]  Val: And whatever.
+[03:11:26.440 --> 03:11:28.440]  Val: It's all like rehab.
+[03:11:28.440 --> 03:11:30.440]  Val: Things are supposed to not do it.
+[03:11:30.440 --> 03:11:32.440]  Val: So, you guys,
+[03:11:32.440 --> 03:11:34.440]  Val: we're having everything.
+[03:11:34.440 --> 03:11:36.440]  Val: We got the idea.
+[03:11:38.440 --> 03:11:40.440]  Val: There's a lot of rules.
+[03:11:40.440 --> 03:11:42.440]  Val: We're not supposed to be that broad.
+[03:11:42.440 --> 03:11:44.440]  Val: But first you're out.
+[03:11:44.440 --> 03:11:46.440]  Val: You got laid and be manipulative.
+[03:11:46.440 --> 03:11:48.440]  Val: Because we don't have your drugs here.
+[03:11:48.440 --> 03:11:50.440]  Val: You're trying to compensate.
+[03:11:50.440 --> 03:11:52.440]  Fed: I don't know.
+[03:11:52.440 --> 03:11:54.440]  Fed: We'll never realize that.
+[03:11:54.440 --> 03:11:58.440]  Fed: So you're not allowed to date at all after rehab?
+[03:11:58.440 --> 03:12:00.440]  Val: No.
+[03:12:00.440 --> 03:12:02.440]  Val: No, because love is like a drug.
+[03:12:02.440 --> 03:12:04.440]  Val: You'll get that serotonin or that dopamine
+[03:12:04.440 --> 03:12:06.440]  Val: that you don't have for your drug.
+[03:12:06.440 --> 03:12:08.440]  Val: So, the relationship will fill it up for you.
+[03:12:08.440 --> 03:12:10.440]  Val: But you're always going to end tragically
+[03:12:10.440 --> 03:12:12.440]  Val: because once you're speaking away.
+[03:12:12.440 --> 03:12:14.440]  Val: It's like what you're going to do.
+[03:12:14.440 --> 03:12:16.440]  Val: I'm going to act strong.
+[03:12:16.440 --> 03:12:18.440]  Val: I'm going to act strong.
+[03:12:18.440 --> 03:12:20.440]  Val: That's what I'm going to do.
+[03:12:20.440 --> 03:12:22.440]  Val: We'll just talk about that.
+[03:12:22.440 --> 03:12:24.440]  Fed: You don't want to do it?
+[03:12:24.440 --> 03:12:26.440]  Val: No.
+[03:12:26.440 --> 03:12:28.440]  Val: It depends.
+[03:12:28.440 --> 03:12:30.440]  Val: You want to or you want to.
+[03:12:30.440 --> 03:12:32.440]  Val: If you just don't want to.
+[03:12:32.440 --> 03:12:34.440]  Val: If you're stuck with it.
+[03:12:34.440 --> 03:12:36.440]  Val: You have to.
+[03:12:36.440 --> 03:12:38.440]  Val: I mean, I did.
+[03:12:38.440 --> 03:12:40.440]  Val: Well, first of all, Muzza,
+[03:12:40.440 --> 03:12:42.440]  Val: he's called Nick.
+[03:12:42.440 --> 03:12:44.440]  Val: We need you to stay at this rehab
+[03:12:44.440 --> 03:12:46.440]  Val: but we figure out everything
+[03:12:46.440 --> 03:12:48.440]  Val: through your mopsie.
+[03:12:48.440 --> 03:12:50.440]  Val: If you don't know anything about Muzza
+[03:12:50.440 --> 03:12:52.440]  Val: or if you don't know anything about Muzza
+[03:12:52.440 --> 03:12:54.440]  Val: you might want to stay out here.
+[03:12:54.440 --> 03:12:56.440]  Val: I was banned from the UK for three years.
+[03:12:56.440 --> 03:12:58.440]  Val: I've never stayed with him.
+[03:12:58.440 --> 03:13:00.440]  Val: Nothing's relationship.
+[03:13:00.440 --> 03:13:02.440]  Val: So, stay the year in the California
+[03:13:02.440 --> 03:13:04.440]  Val: in this rehab.
+[03:13:04.440 --> 03:13:06.440]  Val: We'll figure out the next move.
+[03:13:06.440 --> 03:13:08.440]  Val: And that's when I realized
+[03:13:08.440 --> 03:13:10.440]  Val: that I had to learn really fast
+[03:13:10.440 --> 03:13:12.440]  Val: for my mother.
+[03:13:12.440 --> 03:13:14.440]  Val: Well, the Buddha taught me.
+[03:13:14.440 --> 03:13:16.440]  Val: She got my dad.
+[03:13:16.440 --> 03:13:18.440]  Val: She threw out my dad.
+[03:13:18.440 --> 03:13:20.440]  Val: Not the people, literally.
+[03:13:20.440 --> 03:13:22.440]  Val: But he signed it.
+[03:13:22.440 --> 03:13:24.440]  Val: But in the New York state
+[03:13:24.440 --> 03:13:26.440]  Val: he agreed.
+[03:13:26.440 --> 03:13:28.440]  Val: So, it's not up to her to throw that.
+[03:13:28.440 --> 03:13:30.440]  Val: So, she landed in the fall of 2004
+[03:13:30.440 --> 03:13:32.440]  Val: where she gets everything.
+[03:13:32.440 --> 03:13:34.440]  Val: She's very smart.
+[03:13:34.440 --> 03:13:36.440]  Val: And I didn't know anything about finance.
+[03:13:36.440 --> 03:13:38.440]  Val: But she's doing something that's happening
+[03:13:38.440 --> 03:13:40.440]  Val: where you can learn fast.
+[03:13:40.440 --> 03:13:42.440]  Val: So, that's why I learned finance.
+[03:13:44.440 --> 03:13:46.440]  Val: When you're desperate
+[03:13:46.440 --> 03:13:48.440]  Val: and you have to face off
+[03:13:48.440 --> 03:13:50.440]  Val: and get nothing to lose
+[03:13:50.440 --> 03:13:52.440]  Val: you find like you have intelligence
+[03:13:52.440 --> 03:13:54.440]  Val: and everything.
+[03:13:54.440 --> 03:13:56.440]  Val: Really, everyone has it.
+[03:13:56.440 --> 03:13:58.440]  Val: I think it's the current everybody.
+[03:13:58.440 --> 03:14:00.440]  Val: If you can get rid of the emotion
+[03:14:00.440 --> 03:14:02.440]  Val: because emotion sort of clogs you up
+[03:14:02.440 --> 03:14:04.440]  Val: then you can get more free
+[03:14:04.440 --> 03:14:06.440]  Val: and free of focus.
+[03:14:06.440 --> 03:14:08.440]  Val: It's emotion that really blocks the emotions.
+[03:14:08.440 --> 03:14:10.440]  Val: And emotion is important of course
+[03:14:10.440 --> 03:14:12.440]  Val: but you also need the emotion to
+[03:14:12.440 --> 03:14:14.440]  Val: connect with someone to understand
+[03:14:14.440 --> 03:14:16.440]  Val: but you don't need it all the time.
+[03:14:16.440 --> 03:14:18.440]  Val: You need to control it.
+[03:14:18.440 --> 03:14:20.440]  Val: It's the greatest freedom.
+Fed: [unintelligible]
+[03:14:22.440 --> 03:14:24.440]  Val: Well, drugs.
+[03:14:24.440 --> 03:14:26.440]  Val: Drugs help a lot.
+[03:14:26.440 --> 03:14:28.440]  Val: When they train you, you can do it without drugs.
+[03:14:28.440 --> 03:14:30.440]  Val: But at first, no, you can't.
+[03:14:30.440 --> 03:14:32.440]  Val: But you're such an emotional mess.
+[03:14:32.440 --> 03:14:34.440]  Val: So, you take the drug
+[03:14:34.440 --> 03:14:36.440]  Val: which calms you down and makes you feel
+[03:14:36.440 --> 03:14:38.440]  Val: like it's making you focus.
+[03:14:38.440 --> 03:14:40.440]  Val: Like I was not crying.
+[03:14:40.440 --> 03:14:42.440]  Val: I was not keeping my father.
+[03:14:42.440 --> 03:14:44.440]  Val: And it's a reminder that
+[03:14:44.440 --> 03:14:46.440]  Val: that part exists.
+[03:14:46.440 --> 03:14:48.440]  Val: It's when you're pressing that existing
+[03:14:48.440 --> 03:14:50.440]  Val: to get it back.
+[03:14:50.440 --> 03:14:52.440]  Val: So, you just remind yourself that,
+[03:14:52.440 --> 03:14:54.440]  Val: yeah, I was free once.
+[03:14:54.440 --> 03:14:56.440]  Val: So, you have it.
+[03:14:56.440 --> 03:14:58.440]  Val: So,
+[03:14:58.440 --> 03:15:00.440]  Val: you can then exchange it.
+[03:15:00.440 --> 03:15:02.440]  Val: And you can actually say,
+[03:15:02.440 --> 03:15:04.440]  Val: wait, is that
+[03:15:04.440 --> 03:15:06.440]  Val: is that my thinking?
+[03:15:06.440 --> 03:15:08.440]  Val: Is this you?
+[03:15:08.440 --> 03:15:10.440]  Val: Is that my question for you?
+[03:15:10.440 --> 03:15:12.440]  Val: Is this certain?
+[03:15:12.440 --> 03:15:14.440]  Val: That's the purpose of this.
+[03:15:14.440 --> 03:15:16.440]  Val: Help me if you can hear me.
+[03:15:16.440 --> 03:15:18.440]  Val: So, if you can stop me,
+[03:15:18.440 --> 03:15:20.440]  Val: stop me, stop me.
+[03:15:20.440 --> 03:15:22.440]  Val: We do it with light speakers.
+[03:15:22.440 --> 03:15:24.440]  Val: We have it.
+[03:15:24.440 --> 03:15:26.440]  Val: We get it.
+[03:15:26.440 --> 03:15:28.440]  Val: It's like it becomes instinctive.
+[03:15:28.440 --> 03:15:30.440]  Val: My dad would stop me.
+[03:15:30.440 --> 03:15:32.440]  Val: He's the one.
+[03:15:32.440 --> 03:15:34.440]  Val: You guys never
+[03:15:34.440 --> 03:15:36.440]  Val: trust your feelings.
+[03:15:36.440 --> 03:15:38.440]  Val: Always trust your instincts.
+[03:15:38.440 --> 03:15:40.440]  Val: Your emotions.
+[03:15:40.440 --> 03:15:42.440]  Val: And there's a huge difference between
+[03:15:42.440 --> 03:15:44.440]  Val: your feelings and your emotions
+[03:15:44.440 --> 03:15:46.440]  Val: and your instincts.
+[03:15:58.440 --> 03:16:00.440]  Fed: What are you talking about?
+[03:16:00.440 --> 03:16:02.440]  Fed: Feelings versus questions.
+[03:16:02.440 --> 03:16:04.440]  Fed: Your instinct, I guess.
+[03:16:04.440 --> 03:16:06.440]  Val: Your instinct is my emotion.
+[03:16:06.440 --> 03:16:08.440]  Val: Your instinct is my reply.
+[03:16:08.440 --> 03:16:10.440]  Val: It's like this danger is not in me.
+[03:16:10.440 --> 03:16:12.440]  Val: This is going to serve me, not serve me.
+[03:16:12.440 --> 03:16:14.440]  Val: I'm going to have to calculate it.
+[03:16:14.440 --> 03:16:16.440]  Val: That's the risk.
+[03:16:16.440 --> 03:16:18.440]  Val: I'm going to do the risk.
+[03:16:18.440 --> 03:16:20.440]  Val: Let's see how sad it's going to be.
+[03:16:20.440 --> 03:16:22.440]  Val: That's a [unintelligible].
+[03:16:22.440 --> 03:16:24.440]  Val: Our brains are so fucking
+[03:16:24.440 --> 03:16:26.440]  Val: amazingly fast.
+[03:16:26.440 --> 03:16:28.440]  Val: We calculate that.
+[03:16:28.440 --> 03:16:30.440]  Val: And it comes out as an instinctive
+[03:16:30.440 --> 03:16:32.440]  Val: instinctive man. [??]
+[03:16:32.440 --> 03:16:34.440]  Val: The emotional of the cloud,
+[03:16:34.440 --> 03:16:36.440]  Val: you can see everything through this wall
+[03:16:36.440 --> 03:16:38.440]  Val: that you're not wanted or not loved
+[03:16:38.440 --> 03:16:40.440]  Val: or you're not wanted or not loved.
+[03:16:40.440 --> 03:16:42.440]  Val: That's the way you're going to friend the world. [??]
+[03:16:42.440 --> 03:16:44.440]  Val: That's the emotion you want to love. [??]
+[03:16:44.440 --> 03:16:46.440]  Val: So focus on the world. [??]
+[03:16:46.440 --> 03:16:48.440]  Val: That's all they want. [??]
+[03:16:48.440 --> 03:16:50.440]  Val: You can do that.
+[03:16:50.440 --> 03:16:52.440]  Val: Your dad just died.
+[03:16:52.440 --> 03:16:54.440]  Val: My dad and my mother.
+[03:16:54.440 --> 03:16:56.440]  Val: It was terrible.
+[03:16:56.440 --> 03:16:58.440]  Val: I used to be
+[03:16:58.440 --> 03:17:00.440]  Val: like a...
+[03:17:00.440 --> 03:17:02.440]  Val: [laundry??].
+[03:17:02.440 --> 03:17:04.440]  Val: I didn't do that.
+[03:17:04.440 --> 03:17:06.440]  Val: I didn't do shopping.
+[03:17:06.440 --> 03:17:08.440]  Val: People did it for me.
+[03:17:08.440 --> 03:17:10.440]  Val: All of a sudden, I'm living in my car.
+[03:17:10.440 --> 03:17:12.440]  Val: I don't know how to do it.
+[03:17:12.440 --> 03:17:14.440]  Val: I don't know how to...
+[03:17:14.440 --> 03:17:16.440]  Val: I didn't think I had it in me.
+[03:17:16.440 --> 03:17:18.440]  Val: They did.
+[03:17:18.440 --> 03:17:20.440]  Val: I don't know. We'll see.
+[03:17:20.440 --> 03:17:22.440]  Val: We'll see.
+[03:17:22.440 --> 03:17:24.440]  Val: It's another thing I'm not going to go there.
+[03:17:26.440 --> 03:17:28.440]  Fed: It's a party.
+[03:17:32.440 --> 03:17:34.440]  Fed: Hello.
+[03:17:34.440 --> 03:17:36.440]  Fed: How are you?
+[03:17:36.440 --> 03:17:38.440]  Fed: I'm fine.
+[03:17:38.440 --> 03:17:40.440]  Fed: It's been a few years.
+[03:17:40.440 --> 03:17:42.440]  Did you sacrifice?
+[03:17:42.440 --> 03:17:44.440]  No.
+[03:17:44.440 --> 03:17:46.440]  Fed: It's been a few years.
+[unintelligible background talk]
+[03:18:08.440 --> 03:18:10.440]  Fed: We'll do some research.
+[03:18:10.440 --> 03:18:12.440]  Fed: Developing drugs.
+[03:18:12.440 --> 03:18:14.440]  Fed: Like...
+[03:18:14.440 --> 03:18:16.440]  Fed: We'll see.
+[unintelligible background talk]
+[03:18:18.440 --> 03:18:20.440]  Fed: I didn't do it.
+[03:18:52.440 --> 03:18:54.440]  Fed: There's been a handful.
+[03:18:54.440 --> 03:18:56.440]  Fed: Yeah, there's been a handful.
+[03:18:56.440 --> 03:18:58.440]  Fed: We have the FBI tries to hire
+[03:18:58.440 --> 03:19:00.440]  Fed: diversely
+[03:19:00.440 --> 03:19:02.440]  Fed: in terms of like backgrounds.
+[03:19:02.440 --> 03:19:04.440]  Fed: So we don't...
+[03:19:04.440 --> 03:19:06.440]  Fed: We try
+[03:19:06.440 --> 03:19:08.440]  Fed: There's a big pool of like...
+[03:19:08.440 --> 03:19:10.440]  Fed: Lawyers want to join...
+[03:19:10.440 --> 03:19:12.440]  Fed: Cops want to join...
+[03:19:12.440 --> 03:19:14.440]  Fed: [unintelligible] want to be in contact with...
+[03:19:14.440 --> 03:19:16.440]  Fed: want to join...
+[03:19:16.440 --> 03:19:18.440]  The military.
+[03:19:18.440 --> 03:19:20.440]  Fed: We certainly don't want to be a
+[03:19:20.440 --> 03:19:22.440]  Fed: 100% of that.
+[03:19:22.440 --> 03:19:24.440]  Fed: We don't want to be a general...
+[03:19:24.440 --> 03:19:26.440]  Fed: We want to be a general population.
+[03:19:26.440 --> 03:19:28.440]  Fed: We don't want...
+[03:19:28.440 --> 03:19:30.440]  Fed: We're going to get a fifth grade teacher
+[03:19:30.440 --> 03:19:32.440]  Fed: when I was in high school.
+[03:19:32.440 --> 03:19:34.440]  Fed: He also had a rocket scientist.
+[03:19:34.440 --> 03:19:36.440]  Fed: Just a lot of people.
+[03:19:36.440 --> 03:19:38.440]  Fed: I've had all over the world.
+[03:19:38.440 --> 03:19:40.440]  Fed: What was a fifth grade teacher.
+[03:19:40.440 --> 03:19:42.440]  Fed: They've heard of people together?
+[03:19:42.440 --> 03:19:44.440]  Fed: She's actually a good...
+[03:19:44.440 --> 03:19:46.440]  Fed: She's still a good agent.
+[03:19:46.440 --> 03:19:48.440]  Val: She must be a people person.
+[03:19:48.440 --> 03:19:50.440]  Fed: Yeah, she's very good people.
+[03:19:50.440 --> 03:19:52.440]  Fed: But she's also a very good...
+[03:19:52.440 --> 03:19:54.720]  Fed: and a lot of things that we had to do.
+[03:19:54.720 --> 03:19:55.720]  Fed: But...
+[03:19:55.720 --> 03:19:57.280]  Val: You still have the Casanovas?
+[03:19:57.280 --> 03:19:58.480]  Val: And it still exists?
+[03:19:58.480 --> 03:19:59.480]  Val: Casanovas?
+[03:19:59.480 --> 03:20:00.480]  Val: Spies?
+[03:20:00.480 --> 03:20:01.480]  Fed: What's that?
+[03:20:01.480 --> 03:20:02.480]  Val: Casanovas.
+[03:20:02.480 --> 03:20:03.480]  Val: Spies.
+[03:20:03.480 --> 03:20:06.480]  Fed: Yeah, well, we don't know a lot like that.
+[03:20:06.480 --> 03:20:07.480]  Fed: It's a little thing.
+[03:20:07.480 --> 03:20:09.480]  Val: No, it's like the old 60s.
+[03:20:09.480 --> 03:20:12.480]  Val: You know, the guys who got laid to get information.
+[03:20:12.480 --> 03:20:13.480]  Fed: Hello.
+[03:20:13.480 --> 03:20:15.480]  Fed: I don't think that's ever been
+[03:20:15.480 --> 03:20:16.480]  Fed: No, I don't.
+[03:20:16.480 --> 03:20:18.480]  Fed: Maybe it's what's waiting for my time.
+[03:20:18.480 --> 03:20:19.480]  Fed: That's the 60s.
+[03:20:19.480 --> 03:20:21.480]  Fed: Yeah, I'm pretty sure that's the...
+[03:20:21.520 --> 03:20:23.520]  Fed: You know, that's the limit.
+[03:20:23.520 --> 03:20:25.520]  Fed: They're working for us right now.
+[03:20:25.520 --> 03:20:27.520]  Fed: Those guys get fired.
+[03:20:27.520 --> 03:20:29.520]  Fed: I was gonna say.
+[03:20:29.520 --> 03:20:31.520]  Fed: Do you know how many roles we have?
+[03:20:31.520 --> 03:20:34.520]  Fed: Like, half the stories of your complete bullshit.
+[03:20:34.520 --> 03:20:37.520]  Fed: But, you know, it's good that there's a myth out there
+[03:20:37.520 --> 03:20:40.520]  Fed: that people make you just sleep with whoever.
+[03:20:40.520 --> 03:20:42.520]  Fed: Maybe that's...I'm sure that's what some agents said.
+[03:20:42.520 --> 03:20:43.520]  Fed: It's like, no, no, no.
+[03:20:43.520 --> 03:20:45.520]  Fed: I'm recruiting you for some super secret mission.
+[03:20:45.520 --> 03:20:47.520]  Fed: All you gotta do is sleep with me.
+[03:20:47.520 --> 03:20:48.520]  Val: Right.
+[03:20:48.560 --> 03:20:50.560]  Fed: You know, she's probably graduating.
+[03:20:50.560 --> 03:20:52.560]  Fed: It's like, I'm working for the FBI.
+[03:20:52.560 --> 03:20:54.560]  Fed: That's what I'm doing.
+[03:20:54.560 --> 03:20:56.560]  Val: Oh, quick question, though.
+[03:20:56.560 --> 03:21:00.560]  Val: You guys have unfettered access to, like,
+[03:21:00.560 --> 03:21:05.560]  Val: the sort of the interagency software
+[03:21:05.560 --> 03:21:08.560]  Val: where, like, if I wanted to go hack into your phone,
+[03:21:08.560 --> 03:21:12.560]  Val: to your camera.
+[03:21:12.560 --> 03:21:14.560]  Val: Is there FISA warrant?
+[03:21:14.560 --> 03:21:16.560]  Val: Still, there's not a FISA warrant?
+[03:21:16.600 --> 03:21:19.600]  Val: Do you have to be able to probable cause?
+[03:21:19.600 --> 03:21:23.600]  Val: Like, if I wanted to hack into your phone
+[03:21:23.600 --> 03:21:27.600]  Val: and try your camera, would I need a FISA warrant?
+[03:21:27.600 --> 03:21:28.600]  Fed: Yeah.
+[03:21:28.600 --> 03:21:31.600]  Val: Or is it, like, is it sure like now?
+[03:21:31.600 --> 03:21:32.600]  Val: Is it in the world?
+[03:21:32.600 --> 03:21:34.600]  Val: See, ten years ago, if you needed a FISA warrant,
+[03:21:34.600 --> 03:21:35.600]  Val: it would be very qualified to get one.
+[03:21:35.600 --> 03:21:38.600]  Val: But now it's adjacent to the point where you just ask for it.
+[03:21:38.600 --> 03:21:39.600]  Fed: No, it's way harder.
+[03:21:39.600 --> 03:21:40.600]  Val: Really?
+[03:21:40.600 --> 03:21:41.600]  Fed: Should that, even that?
+[03:21:41.600 --> 03:21:44.600]  Fed: And just thinking theoretically is, like,
+[03:21:44.640 --> 03:21:45.640]  Fed: even harder to do.
+[03:21:45.640 --> 03:21:46.640]  Val: Really?
+[03:21:46.640 --> 03:21:48.640]  Fed: Yeah, to an effect.
+[03:21:48.640 --> 03:21:51.640]  Fed: You're not, you're no longer searching, you're actively
+[03:21:51.640 --> 03:21:53.640]  Fed: buttering or flipping.
+[03:21:53.640 --> 03:21:55.640]  Fed: That's what happens.
+[03:21:55.640 --> 03:21:58.640]  Fed: Yeah, then that, like, a new turn.
+[03:21:58.640 --> 03:22:00.640]  Fed: Like, a turn on the camera.
+[03:22:00.640 --> 03:22:02.640]  Val: What's the difference now in a guy sitting in a car
+[03:22:02.640 --> 03:22:04.640]  Val: on top of a car?
+[03:22:04.640 --> 03:22:07.640]  Fed: Look, this thing can go places where some guy in a car can't.
+[03:22:07.640 --> 03:22:08.640]  Val: Which is...
+[03:22:08.640 --> 03:22:09.640]  Fed: In a car?
+[03:22:09.640 --> 03:22:10.640]  Fed: In a car.
+[03:22:10.640 --> 03:22:11.640]  Val: In a car in your house.
+[03:22:11.640 --> 03:22:13.640]  Val: Who's a guy in a car?
+[03:22:13.680 --> 03:22:15.680]  Val: Yeah, I thought it was you guys.
+[03:22:15.680 --> 03:22:16.680]  Val: See you guys?
+[03:22:16.680 --> 03:22:18.680]  Fed: We're in the triangle.
+[03:22:18.680 --> 03:22:20.680]  Fed: I don't think so.
+[03:22:20.680 --> 03:22:22.680]  Val: There's some other interesting things to see.
+[03:22:22.680 --> 03:22:25.680]  Val: You got a guy outside of the brewery.
+[03:22:25.680 --> 03:22:28.680]  Val: So he's in the same place with the triangle.
+[03:22:28.680 --> 03:22:31.680]  Val: And then every time he spots, he goes away
+[03:22:31.680 --> 03:22:33.680]  Val: I thought it was you.
+[03:22:33.680 --> 03:22:35.680]  Fed: Might be, like, see a higher-department investigator
+[03:22:35.680 --> 03:22:37.680]  Fed: for all I know.
+[03:22:37.680 --> 03:22:38.680]  Val: Maybe that, too.
+[03:22:38.680 --> 03:22:40.680]  Val: Let's take a picture of the place.
+[03:22:40.680 --> 03:22:42.680]  Val: Can I just run it here?
+[03:22:42.720 --> 03:22:43.720]  Fed: How would you run it?
+[03:22:43.720 --> 03:22:45.720]  Val: Oh, I got some.
+[03:22:45.720 --> 03:22:47.720]  Fed: You got a guy.
+[03:22:47.720 --> 03:22:49.720]  Val: That's the thing.
+[03:22:49.720 --> 03:22:51.720]  Fed: I got a guy.
+[03:22:51.720 --> 03:22:53.720]  Val: You used to be seen in the improviser
+[03:22:53.720 --> 03:22:55.720]  Val: and you guys know how to do it.
+[03:22:55.720 --> 03:22:57.720]  Fed: Oh, I know.
+[03:22:57.720 --> 03:22:59.720]  Fed: That is...
+[03:22:59.720 --> 03:23:01.720]  Val: How do you put that?
+[03:23:01.720 --> 03:23:02.720]  Fed: Stuff.
+[03:23:02.720 --> 03:23:04.720]  Fed: I mean, you can't do it by yourself.
+[03:23:04.720 --> 03:23:06.720]  Fed: The level of this is not as much as it needs to be
+[03:23:06.720 --> 03:23:09.720]  Fed: to roll with the times and adapt.
+[03:23:09.760 --> 03:23:11.760]  Fed: Like, for example,
+[03:23:11.760 --> 03:23:14.760]  Fed: this whole encryption key battle,
+[03:23:14.760 --> 03:23:18.760]  Fed: like, you know, we've had previous leaders talk about,
+[03:23:18.760 --> 03:23:21.760]  Fed: like, what do you need to give up the encryption key?
+[03:23:21.760 --> 03:23:23.760]  Fed: But we all kind of know, like,
+[03:23:23.760 --> 03:23:25.760]  Fed: philosophically, that'll never,
+[03:23:25.760 --> 03:23:27.760]  Fed: and that shouldn't happen if it doesn't matter.
+[03:23:27.760 --> 03:23:29.760]  Fed: It's, like, a losing battle.
+[03:23:29.760 --> 03:23:31.760]  Fed: We're just going to, unfortunately, have to adapt.
+[03:23:31.760 --> 03:23:34.760]  Fed: If you just build a job, it's just going to be harder.
+[03:23:34.760 --> 03:23:37.760]  Fed: And then many, you know, like,
+[03:23:37.800 --> 03:23:41.800]  Fed: these old-school techniques
+[03:23:41.800 --> 03:23:43.800]  Fed: that, like, talking to people, like,
+[03:23:43.800 --> 03:23:45.800]  Fed: we're talking right now are talking to people
+[03:23:45.800 --> 03:23:47.800]  Fed: that are now way more, you know,
+[03:23:47.800 --> 03:23:49.800]  Fed: just sitting at your desk
+[03:23:49.800 --> 03:23:51.800]  Fed: and looking at, like, a pipeline.
+[03:23:51.800 --> 03:23:54.800]  Fed: So it becomes, there's a question [???]
+[03:23:54.800 --> 03:23:56.800]  Fed: at work sometimes.
+[03:23:56.800 --> 03:23:58.800]  Fed: And, like, swaying back to [??]
+[03:23:58.800 --> 03:24:01.800]  Fed: And this is just me, but it should be hard.
+[03:24:01.800 --> 03:24:03.800]  Val: It should be hard?
+[03:24:03.800 --> 03:24:05.800]  Fed: It should be hard.
+[03:24:05.840 --> 03:24:07.840]  Fed: It should be hard.
+[03:24:07.840 --> 03:24:09.840]  Val: I agree a lot.
+[03:24:09.840 --> 03:24:11.840]  Val: It should be better.
+[03:24:11.840 --> 03:24:13.840]  Val: It's not the way it works.
+[03:24:13.840 --> 03:24:15.840]  Val: It's the way it works.
+[03:24:15.840 --> 03:24:17.840]  Val: There's nothing, there's no secret to it.
+[03:24:17.840 --> 03:24:19.840]  Val: It's just that, you know,
+[03:24:19.840 --> 03:24:21.840]  Val: I can find it when I want it,
+[03:24:21.840 --> 03:24:23.840]  Val: but I don't really want it yet.
+[03:24:23.840 --> 03:24:25.840]  Val: There's nothing I can do.
+[03:24:25.840 --> 03:24:27.840]  Val: You can do that.
+[03:24:27.840 --> 03:24:29.840]  Val: You know, I mean, I can do it.
+[03:24:29.840 --> 03:24:31.840]  Val: I can do it anywhere in the world.
+[03:24:31.840 --> 03:24:33.840]  Val: You know, once you get there,
+[03:24:33.880 --> 03:24:35.880]  Val: you have to actually keep a secret from all of them.
+[03:24:35.880 --> 03:24:37.880]  Val: That's a weird quote.
+[03:24:37.880 --> 03:24:39.880]  Val: I don't know what to make of it.
+[03:24:39.880 --> 03:24:41.880]  Val: You just have to adapt to it and accept it, I guess.
+[03:24:41.880 --> 03:24:43.880]  Val: It's true.
+[03:24:43.880 --> 03:24:45.880]  Val: It's just, like, you know,
+[03:24:45.880 --> 03:24:47.880]  Val: good pre-LLCs instead of work.
+[03:24:49.880 --> 03:24:51.880]  Val: You don't have your name on it.
+[03:24:51.880 --> 03:24:53.880]  Val: That's beautiful things.
+[03:24:53.880 --> 03:24:55.880]  Val: That's why it's a living dog.
+[03:24:55.880 --> 03:24:57.880]  Val: You can have a fake name.
+[03:24:57.880 --> 03:24:59.880]  Val: You can have a name.
+[03:24:59.880 --> 03:25:01.880]  Val: Perfectly legal to be in charge of an LLC.
+[03:25:01.920 --> 03:25:03.920]  Val: It's a good thing to do.
+[03:25:03.920 --> 03:25:05.920]  Val: Jersey and all of Iowa.
+[03:25:05.920 --> 03:25:07.920]  Fed: Yeah, it's just like a state.
+[03:25:07.920 --> 03:25:09.920]  Fed: It's a state.
+[03:25:09.920 --> 03:25:11.920]  Fed: You know what?
+[03:25:11.920 --> 03:25:13.920]  Val: It's very deep, very Jersey.
+[03:25:13.920 --> 03:25:15.920]  Val: I think that's pretty sure.
+[03:25:15.920 --> 03:25:17.920]  Fed: Probably.
+[03:25:17.920 --> 03:25:19.920]  Fed: It's a good spot.
+[03:25:23.920 --> 03:25:25.920]  Val: Thank you.
+[03:25:25.920 --> 03:25:27.920]  Fed: You want to go?
+[03:25:27.920 --> 03:25:29.920]  Fed: I'll go.
+[03:25:29.960 --> 03:25:31.960]  Fed: I'm trying to be helpful.
+[03:25:31.960 --> 03:25:33.960]  Fed: Yeah.
+[03:25:35.960 --> 03:25:37.960]  Val: Actually, I think if you prefer
+[03:25:37.960 --> 03:25:39.960]  Val: an opera or a movie,
+[03:25:39.960 --> 03:25:41.960]  Val: I think you can take it.
+[03:25:41.960 --> 03:25:43.960]  Val: I think you can take it.
+[unintelligible chatting]
+[03:26:28.960 --> 03:26:33.960]  Val: It's not, I can't, it's, it's all I'm learning.
+[03:26:33.960 --> 03:26:35.960]  Val: It's not only me.
+[03:26:35.960 --> 03:26:37.960]  Val: It's only freedom, too.
+[03:26:37.960 --> 03:26:39.960]  Val: It's a freedom, you know what I'm saying?
+[03:26:39.960 --> 03:26:42.960]  Val: It's worrying about a kid, and then everything is justified.
+[03:26:42.960 --> 03:26:45.960]  Val: Everything is justified if it's for his safety.
+[03:26:45.960 --> 03:26:47.960]  Val: You know?
+[03:26:47.960 --> 03:26:50.960]  Val: That's the interesting part of it.
+[03:26:50.960 --> 03:26:53.960]  Val: Where are you thinking about yourself all the time?
+[03:26:53.960 --> 03:26:55.960]  Val: I don't know.
+[03:26:55.960 --> 03:26:58.960]  Val: I think it's more because of the protector.
+[03:26:58.960 --> 03:27:02.960]  Val: Yeah, or, uh, or...
+[03:27:02.960 --> 03:27:04.960]  Val: I don't know.
+[03:27:04.960 --> 03:27:06.960]  Val: There's a word for it.
+[03:27:06.960 --> 03:27:08.960]  Val: You're a protector of someone.
+[03:27:08.960 --> 03:27:10.960]  Val: Someone else's life is now.
+[03:27:10.960 --> 03:27:12.960]  Fed:Yeah.
+[03:27:12.960 --> 03:27:14.960]  Val: Well, it's also pretty scary as shit.
+[03:27:14.960 --> 03:27:17.960]  Val: You know, you're accountable for everything.
+[03:27:18.960 --> 03:27:21.960]  Val: What if it turns out to be an accident?
+[03:27:21.960 --> 03:27:23.960]  Val: Shit.
+[03:27:23.960 --> 03:27:25.960]  Fed: That's when you were like, that was the other person.
+[03:27:25.960 --> 03:27:27.960]  Val: Shit.
+[03:27:29.960 --> 03:27:31.960]  Fed: Yeah, you're gonna have faith, though.
+[03:27:31.960 --> 03:27:33.960]  Fed: That's all for me.
+[03:27:33.960 --> 03:27:35.960]  Fed: Here you go.
+[03:27:40.960 --> 03:27:42.960]  Fed: Are you serious?
+[03:27:42.960 --> 03:27:44.960]  Fed: He's just searing in the sun.
+[03:27:44.960 --> 03:27:46.960]  Val: Well, Houston is hot, right?
+[03:27:46.960 --> 03:27:48.960]  Fed: Yeah.
+[03:27:52.960 --> 03:27:55.960]  Val: There's a lot of stuff going on with oil contracts down there.
+[03:27:55.960 --> 03:27:57.960]  Fed: What's that?
+[03:27:57.960 --> 03:27:59.960]  Val: There's a lot of stuff going on with oil contracts down there.
+[03:27:59.960 --> 03:28:01.960]  Val: And a trade-off and a trade-off.
+[03:28:01.960 --> 03:28:03.960]  Val: It's really big.
+[03:28:03.960 --> 03:28:05.960]  Val: The whole concept of oil contracts is really big.
+[03:28:05.960 --> 03:28:07.960]  Fed: Yeah.
+[03:28:07.960 --> 03:28:09.960]  Fed: The oil companies are very political.
+[03:28:09.960 --> 03:28:12.960]  Fed: There's a lot of other factors that you can think of.
+[03:28:12.960 --> 03:28:14.960]  Val: Yeah?
+[03:28:14.960 --> 03:28:16.960]  Val: Just political factors?
+[03:28:16.960 --> 03:28:18.960]  Val: People that are just fucking...
+[03:28:18.960 --> 03:28:20.960]  Val: I think everyone else is off.
+[03:28:20.960 --> 03:28:22.960]  Fed: Well, I think there's a lot of other things.
+[03:28:22.960 --> 03:28:24.960]  Fed: Peaks down around the whole...
+[03:28:24.960 --> 03:28:26.960]  Fed: Yeah, yeah, yeah.
+[03:28:26.960 --> 03:28:28.960]  Fed: I don't know.
+[03:28:28.960 --> 03:28:30.960]  Fed: People have issues with oil contracts.
+[unintelligible]
+Fed: That's why we're gainfully employed
+[unintelligible talk about bitcoin]
+[03:31:41.460 --> 03:31:42.460]  Fed: Now it's 11.5.
+[03:31:42.460 --> 03:31:43.460]  Fed: 11.5?
+[03:31:43.460 --> 03:31:44.460]  Fed: Yeah.
+[03:31:44.460 --> 03:31:45.460]  Fed: Okay.
+[03:31:45.460 --> 03:31:46.460]  Fed: I'm sorry.
+[03:31:46.460 --> 03:31:47.460]  Fed: I'm sorry.
+[03:31:47.460 --> 03:31:48.460]  Fed: It dropped to...
+[03:31:48.460 --> 03:31:49.460]  Fed: It went up to 12,000.
+[03:31:49.460 --> 03:31:50.460]  Fed: It dropped to...
+[03:31:50.460 --> 03:31:51.460]  Fed: Yeah.
+[03:31:51.460 --> 03:31:52.460]  Fed: 4,000.
+[03:31:52.460 --> 03:31:55.460]  Fed: At least then I could regulate it.
+[03:31:55.460 --> 03:31:56.460]  Fed: Do you like it?
+[03:31:57.460 --> 03:31:59.460]  Val: Well, yeah, I don't like it.
+[03:31:59.460 --> 03:32:02.460]  Val: I just like to talk to you regularly.
+[03:32:02.460 --> 03:32:07.460]  Val: Yeah, I still haven't tried it, you know.
+[03:32:07.460 --> 03:32:11.460]  Val: I didn't expect you to do this, but you did.
+[03:32:11.460 --> 03:32:16.460]  Val: You didn't have to decide what you wanted to try.
+[03:32:16.460 --> 03:32:17.460]  Val: You just didn't know.
+[03:32:17.460 --> 03:32:24.460]  Val: You didn't even know how to do it.
+[03:32:24.460 --> 03:32:25.460]  Val: You just flashed in there.
+[03:32:25.460 --> 03:32:27.460]  Val: You could be just pump and dump.
+[03:32:27.460 --> 03:32:28.460]  Fed: Yeah.
+[03:32:28.460 --> 03:32:33.460]  Val: I didn't want to say too much.
+[03:32:33.460 --> 03:32:37.460]  Fed: The whole Brickel-Prinsky arena.
+[unintelligible]
+3:33:39 Val: And then somebody did get into my computer when we left for dinner or something, and they pulled out all my log files. Very strange.
+Fed: Deleted them or..?
+Val: No, just copied them.
+Fed: How did you, how did you figure that out?
+[03:33:50.460 --> 03:33:52.460]  Fed: How did you figure that out?
+[03:33:52.460 --> 03:33:56.460]  Val: I just put the time last time I logged in.
+[03:33:56.460 --> 03:33:58.460]  Val: I didn't log in. I wasn't going to log in.
+[03:33:58.460 --> 03:34:00.460]  Val: What the fuck? I didn't log in the moment.
+[03:34:00.460 --> 03:34:02.460]  Val: And what would they go for?
+[03:34:02.460 --> 03:34:04.460]  Val: And then I took the last window.
+[03:34:04.460 --> 03:34:06.460]  Val: They didn't leave the window open.
+[03:34:06.460 --> 03:34:08.460]  Val: I think I just sort of assumed it was a log file
+[03:34:08.460 --> 03:34:10.460]  Val: because the windows were open.
+[03:34:10.460 --> 03:34:12.460]  Val: But I actually don't really know what they took.
+[03:34:12.460 --> 03:34:14.460]  Val: I still think it could be Glenn.
+[03:34:14.460 --> 03:34:16.460]  Val: Glenn thought I was spy.
+[03:34:16.460 --> 03:34:22.460]  Val: Glenn was a funny story.
+[03:34:22.460 --> 03:34:24.460]  Val: So after the Bahamas,
+[03:34:24.460 --> 03:34:26.460]  Val: he flies me back to his house.
+[03:34:26.460 --> 03:34:28.460]  Val: At first I thought I was staying at a hotel.
+[03:34:28.460 --> 03:34:30.460]  Val: He said, go to his house.
+[03:34:30.460 --> 03:34:32.460]  Val: And it turns out I was at his house.
+[03:34:32.460 --> 03:34:34.460]  Val: Why am I staying here?
+[03:34:34.460 --> 03:34:36.460]  Val: It's too hot right now in Florida.
+[03:34:36.460 --> 03:34:38.460]  Val: And it's too hot in DC.
+[03:34:38.460 --> 03:34:40.460]  Val: You can't put your hotel in.
+[03:34:40.460 --> 03:34:42.460]  Val: You've got to stay here.
+[03:34:42.460 --> 03:34:44.460]  Val: Fortunately, my wife is gone on a vacation.
+[03:34:44.460 --> 03:34:46.460]  Val: But you can stay in her room.
+[03:34:46.460 --> 03:34:48.460]  Val: Her room.
+[03:34:48.460 --> 03:34:50.460]  Val: They haven't slept in the same rooms
+[03:34:50.460 --> 03:34:52.460]  Val: for like ten years.
+[03:34:52.460 --> 03:34:54.460]  Val: So they're separated by the same house.
+[03:34:54.460 --> 03:34:56.460]  Val: Okay, so I stayed in his room.
+[03:34:56.460 --> 03:34:58.460]  Val: I was asleep.
+[03:34:58.460 --> 03:35:00.460]  Val: I was so tired and I had some long flight.
+[03:35:00.460 --> 03:35:02.460]  Val: And then I wake up.
+[03:35:02.460 --> 03:35:04.460]  Val: And you know,
+[03:35:04.460 --> 03:35:06.460]  Val: Go outside for a cigarette.
+[03:35:06.460 --> 03:35:08.460]  Val: He has this colonial house with this kitchen porch.
+[03:35:08.460 --> 03:35:10.460]  Val: And I notice there's like a brick
+[03:35:10.460 --> 03:35:12.460]  Val: in the screen window.
+[03:35:12.460 --> 03:35:14.460]  Val: Yeah.
+[03:35:14.460 --> 03:35:16.460]  Val: I sat there the last night.
+[03:35:16.460 --> 03:35:18.460]  Val: I didn't call it a good story.
+[03:35:18.460 --> 03:35:20.460]  Val: What were you doing at 2am last night?
+[03:35:20.460 --> 03:35:22.460]  Val: I was asleep.
+[03:35:22.460 --> 03:35:24.460]  Val: In bed.
+[03:35:24.460 --> 03:35:26.460]  Val: No, you weren't.
+[03:35:26.460 --> 03:35:28.460]  Val: I heard a car.
+[03:35:28.460 --> 03:35:30.460]  Val: I saw you run to the car.
+[03:35:30.460 --> 03:35:32.460]  Val: They gave him something.
+[03:35:32.460 --> 03:35:34.460]  Val: What did you give him?
+[03:35:34.460 --> 03:35:36.460]  Val: I didn't give him anything.
+[03:35:36.460 --> 03:35:38.460]  Val: I have it all in video.
+[03:35:38.460 --> 03:35:40.460]  Val: And it is this huge 1997 camera
+[03:35:40.460 --> 03:35:42.460]  Val: that you know,
+[03:35:42.460 --> 03:35:44.460]  Val: he has not updated its RAM systems.
+[03:35:44.460 --> 03:35:46.460]  Fed: Made by Nintendo.
+[03:35:46.460 --> 03:35:48.460]  Val: Nintendo, yeah.
+[03:35:48.460 --> 03:35:50.460]  Val: And so he starts going through his,
+[03:35:50.460 --> 03:35:52.460]  Val: you know, his fast-forward
+[03:35:52.460 --> 03:35:54.460]  Val: thing in his office.
+[03:35:54.460 --> 03:35:56.460]  Val: He takes me to the office.
+[03:35:56.460 --> 03:35:58.460]  Val: He's like, he's so
+[03:35:58.460 --> 03:36:00.460]  Val: convinced that he's caught a Russian spy
+[03:36:00.460 --> 03:36:02.460]  Val: in his house trying to get out of there.
+[03:36:02.460 --> 03:36:04.460]  Val: Dossier just was published.
+[03:36:04.460 --> 03:36:06.460]  Val: He's like,
+[03:36:06.460 --> 03:36:08.460]  Val: he's out.
+[03:36:08.460 --> 03:36:10.460]  Val: And then,
+[03:36:10.460 --> 03:36:12.460]  Val: around 2am,
+[03:36:12.460 --> 03:36:14.460]  Val: we see a hundred shadowy figure
+[03:36:14.460 --> 03:36:16.460]  Val: approach.
+[03:36:16.460 --> 03:36:18.460]  Fed: Wow.
+[03:36:18.460 --> 03:36:20.460]  Val: And I see it.
+[03:36:20.460 --> 03:36:22.460]  Val: And I see the figures sort of stumble and fall.
+[03:36:22.460 --> 03:36:24.460]  Val: And they stand up really quick.
+[03:36:24.460 --> 03:36:26.460]  Val: And I look around and see the camera.
+[03:36:26.460 --> 03:36:28.460]  Val: Glenn's nine[??] year old kid.
+[03:36:28.460 --> 03:36:30.460]  Val: He's strong, he's strong.
+[03:36:30.460 --> 03:36:32.460]  Val: And you can't get into.
+[03:36:32.460 --> 03:36:34.460]  Val: He's trying to slice the window screen.
+[03:36:34.460 --> 03:36:36.460]  Val: The only window that doesn't have an alarm
+[03:36:36.460 --> 03:36:38.460]  Val: is the [unintelligible] window
+Fed: [unintelligible question]
+[03:36:38.460 --> 03:36:40.460]  Val: No, no, Glenn Simpson.
+[03:36:40.460 --> 03:36:42.460]  Val: He's going to be a Russian spy
+[03:36:42.460 --> 03:36:44.460]  Val: when his son tries to sneak back in
+[03:36:44.460 --> 03:36:46.460]  Val: for a party.
+[03:36:46.460 --> 03:36:48.460]  Val: Still no apology.
+[03:36:48.460 --> 03:36:50.460]  Fed: You guys.
+[03:36:52.460 --> 03:36:54.460]  Fed: I appreciate that.
+[03:36:54.460 --> 03:36:56.460]  Fed: Well, anything else
+[03:36:56.460 --> 03:36:58.460]  Fed: that you think you might be able to help out with
+[03:36:58.460 --> 03:37:00.460]  Fed: is what I'm going to do is I've written down
+[03:37:00.460 --> 03:37:02.460]  Fed: a list of the stuff that
+[03:37:02.460 --> 03:37:04.460]  Fed: we see you have Access To.
+[03:37:04.460 --> 03:37:06.460]  Fed: And most look like
+[03:37:06.460 --> 03:37:08.460]  Fed: financial project stuff
+[03:37:08.460 --> 03:37:10.460]  Fed: which would be useful for someone.
+[03:37:10.460 --> 03:37:12.460]  Fed: I don't know.
+[03:37:12.460 --> 03:37:14.460]  Val: I can do
+[03:37:14.460 --> 03:37:16.460]  Val: emails.
+[03:37:16.460 --> 03:37:18.460]  Val: Those are pretty easy.
+[03:37:18.460 --> 03:37:20.460]  Val: Again, social engineering
+[03:37:20.460 --> 03:37:22.460]  Val: I'm pretty good at.
+[03:37:22.460 --> 03:37:24.460]  Val: When I get in that zone
+[03:37:24.460 --> 03:37:26.460]  Val: and turn on the charm,
+[03:37:26.460 --> 03:37:28.460]  Val: I can do fun,
+[03:37:28.460 --> 03:37:30.460]  Val: actually enjoy it sometimes.
+[03:37:30.460 --> 03:37:32.460]  Val: Actually, that would be fun.
+[03:37:32.460 --> 03:37:34.460]  Val: If you need...
+[03:37:34.460 --> 03:37:36.460]  Val: I've been focusing
+[03:37:36.460 --> 03:37:38.460]  Val: just as like any concerned citizen, I think
+[03:37:38.460 --> 03:37:40.460]  Val: but you guys are FBI
+[03:37:40.460 --> 03:37:42.460]  Val: so you don't have to answer the question.
+[03:37:42.460 --> 03:37:44.460]  Val: I'm sort of Trump-based.
+[03:37:44.460 --> 03:37:46.460]  Val: People come to me
+[03:37:46.460 --> 03:37:48.460]  Val: with a lot of financial documents
+[03:37:48.460 --> 03:37:50.460]  Val: from all over the world.
+[03:37:50.460 --> 03:37:52.460]  Val: A lot of them are just...
+[03:37:52.460 --> 03:37:54.460]  Val: There's a lot of hoops.
+[03:37:54.460 --> 03:37:56.460]  Val: Some people like Ed from Ireland
+[03:37:56.460 --> 03:37:58.460]  Val: is a legit guy.
+[03:37:58.460 --> 03:38:00.460]  Val: The Catrice Jose guy
+[03:38:00.460 --> 03:38:02.460]  Val: is some sort of state-run guy.
+[03:38:02.460 --> 03:38:04.460]  Val: I don't know.
+[03:38:04.460 --> 03:38:06.460]  Val: But I get a lot of that.
+[03:38:06.460 --> 03:38:08.460]  Val: And then
+[03:38:08.460 --> 03:38:10.460]  Val: there's
+[03:38:10.460 --> 03:38:12.460]  Val: the Epstein thing with the sort of
+[03:38:12.460 --> 03:38:14.460]  Val: a side gig for New York Times.
+[03:38:14.460 --> 03:38:16.460]  Val: But I can
+[03:38:16.460 --> 03:38:18.460]  Val: get that data,
+[03:38:18.460 --> 03:38:20.460]  Val: but I did not want to take the step
+[03:38:20.460 --> 03:38:22.460]  Val: to break in.
+[03:38:22.460 --> 03:38:24.460]  Val: If you need me to do that, I'm happy to break in.
+[03:38:24.460 --> 03:38:26.460]  Val: And if it's legal, and you guys are like
+[03:38:26.460 --> 03:38:28.460]  Val: do legally, let's say
+[03:38:28.460 --> 03:38:30.460]  Val: you can do this, I'm like OK
+[03:38:30.460 --> 03:38:32.460]  Val: Good I'm happy to do that
+[03:38:32.460 --> 03:38:34.460]  Fed: And it would definitely be something
+[03:38:34.460 --> 03:38:36.460]  Fed: we would tell you to do with a bunch of other caveats
+[03:38:36.460 --> 03:38:38.460]  Fed: and would not be allowed to do.
+[03:38:38.460 --> 03:38:40.460]  Fed: But...
+[03:38:40.460 --> 03:38:42.460]  Fed: Let's see.
+[03:38:42.460 --> 03:38:44.460]  Fed: Let me know if I missed anything too,
+[03:38:44.460 --> 03:38:46.460]  Fed: because I have
+[03:38:46.460 --> 03:38:48.460]  Fed: Tyler Rossi about MPS.
+[03:38:48.460 --> 03:38:50.460]  Fed: You did a man-in-the-middle for
+[03:38:50.460 --> 03:38:52.460]  Fed: mom's computer.
+[03:38:52.460 --> 03:38:54.460]  Fed: You hacked Deutche bank, but not really.
+[03:38:54.460 --> 03:38:56.460]  Val: Right.
+[03:38:56.460 --> 03:38:58.460]  Val: I still can, though.
+[03:38:58.460 --> 03:39:00.460]  Val: I dony't know
+[03:39:00.460 --> 03:39:02.460]  Val: should I or I don't know.
+[03:39:02.460 --> 03:39:04.460]  Fed: If you ask me, you should not do any illegal activity.
+[03:39:04.460 --> 03:39:06.460]  Fed: That's probably the best
+[03:39:06.460 --> 03:39:08.460]  Fed: course of action.
+[03:39:08.460 --> 03:39:10.460]  Val: No, I'm not going to know that for sure.
+[03:39:10.460 --> 03:39:12.460]  Val: I'm not going to talk about that.
+[03:39:12.460 --> 03:39:14.460]  Val: But hacking a bank
+[03:39:14.460 --> 03:39:16.460]  Val: is just hacking the bankers.
+[03:39:16.460 --> 03:39:18.460]  Fed: That's true. That's illegal.
+[03:39:18.460 --> 03:39:20.460]  Fed: I wouldn't suggest it.
+[03:39:20.460 --> 03:39:22.460]  Val: No, but I mean, in a case,
+[03:39:22.460 --> 03:39:24.460]  Val: it would be something that you would want.
+[03:39:24.460 --> 03:39:26.460]  Val: But can you really hack people like that?
+[03:39:26.460 --> 03:39:28.460]  Fed: It's not something
+[03:39:28.460 --> 03:39:30.460]  Fed: that we would normally do.
+[03:39:30.460 --> 03:39:32.460]  Fed: So, like,
+[03:39:32.460 --> 03:39:34.460]  Fed: it's good to know you have the skills, because we could
+[03:39:34.460 --> 03:39:36.460]  Fed: put you in a situation where you can talk to other people,
+[03:39:36.460 --> 03:39:38.460]  Fed: or we can introduce you to a group,
+[03:39:38.460 --> 03:39:40.460]  Fed: or do something else, y'know, more complicated.
+[03:39:40.460 --> 03:39:42.460]  Fed: But knowing your skills is a good thing to do.
+[03:39:42.460 --> 03:39:44.460]  Fed: But it would be rare where I'd be like,
+[03:39:44.460 --> 03:39:46.460]  Fed: hey, go hacking a Deutsche Bank,
+[03:39:46.460 --> 03:39:48.460]  Fed: steal their stuff for me,
+[03:39:48.460 --> 03:39:50.460]  Fed: because in court, that would be a hell of a thing
+[03:39:50.460 --> 03:39:52.460]  Fed: to show that the
+[03:39:52.460 --> 03:39:54.460]  Fed: government essentially hacked into a bank to deal with that.
+[03:39:54.460 --> 03:39:56.460]  Val: Well, I know, but there's also
+[03:39:56.460 --> 03:39:58.460]  Val: you guys, I'm sure you have people like this
+[03:39:58.460 --> 03:40:00.460]  Val: in your agency, where other
+[03:40:00.460 --> 03:40:02.460]  Val: agencies have the same types, where you find
+[03:40:02.460 --> 03:40:04.460]  Val: an outside person like myself,
+[03:40:04.460 --> 03:40:06.460]  Val: that you hire basically
+[03:40:06.460 --> 03:40:08.460]  Val: to break the rules, but you don't say to break the rules.
+[03:40:08.460 --> 03:40:10.460]  Val: You need someone that, you don't do that?
+[03:40:10.460 --> 03:40:12.460]  Val: No? Okay.
+[03:40:12.460 --> 03:40:14.460]  Fed: Definitely not.
+[03:40:14.460 --> 03:40:16.460]  Fed: I would tell you this, the rule is
+[03:40:16.460 --> 03:40:18.460]  Fed: if you were officially working with us,
+[03:40:18.460 --> 03:40:20.460]  Fed: you are an extension of the government
+[03:40:20.460 --> 03:40:22.460]  Fed: in the sense that if
+[03:40:22.460 --> 03:40:24.460]  Fed: you can't do anything I can't do.
+[03:40:24.460 --> 03:40:26.460]  Val: Like a self-contractor.
+[03:40:26.460 --> 03:40:28.460]  Fed: Yeah, I guess you can kind of think about it like that.
+[03:40:28.460 --> 03:40:30.460]  Fed: You're not employed by the government.
+[03:40:30.460 --> 03:40:32.460]  Fed: But like, if I told you to
+[03:40:32.460 --> 03:40:34.460]  Fed: hack into something, it'd be like me hacking into it.
+[03:40:34.460 --> 03:40:36.460]  Fed: I can't do it, you can't do it.
+[03:40:36.460 --> 03:40:38.460]  Val: Okay, so I'd represent,
+[03:40:38.460 --> 03:40:40.460]  Val: who would you represent in the government?
+[03:40:40.460 --> 03:40:41.460]  Val: Like, or...
+[03:40:41.460 --> 03:40:42.460]  Fed: Indirectly, yeah.
+[03:40:42.460 --> 03:40:44.460]  Fed: Like, you would give a...
+[03:40:44.460 --> 03:40:46.460]  Fed: You would be getting the direction from the government, too, which I mean.
+[03:40:46.460 --> 03:40:48.460]  Fed: It's like, there's an order
+[03:40:48.460 --> 03:40:49.460]  Fed: or something.
+[03:40:49.460 --> 03:40:51.460]  Fed: The action is from the government.
+[03:40:51.460 --> 03:40:52.460]  Val: Right, right.
+[03:40:52.460 --> 03:40:54.460]  Val: But technically, it's not, you're not,
+[03:40:54.460 --> 03:40:55.460]  Val: it's not the government.
+[03:40:55.460 --> 03:40:57.460]  Val: And who pays you is not the government either.
+[03:40:57.460 --> 03:40:59.460]  Val: If you're an independent, who,
+[03:40:59.460 --> 03:41:00.460]  Val: how do you pay it?
+[03:41:00.460 --> 03:41:02.460]  Fed: You mean, if you were to
+[03:41:02.460 --> 03:41:03.460]  Fed: be helping or something?
+[03:41:03.460 --> 03:41:04.460]  Val: Sure.
+[03:41:04.460 --> 03:41:06.460]  Fed: Yeah, that's the government.
+[03:41:06.460 --> 03:41:08.460]  Val: Which actually comes from the government?
+[03:41:08.460 --> 03:41:10.460]  Fed: No, [unintelligible]
+[03:41:10.460 --> 03:41:11.460]  Val: Oh, okay.
+[03:41:11.460 --> 03:41:12.460]  Fed: Yeah.
+[03:41:12.460 --> 03:41:15.460]  Fed: But, we don't hire people to break the law.
+[03:41:15.460 --> 03:41:17.460]  Fed: Like, to search [unintelligible]
+[03:41:17.460 --> 03:41:18.460]  Val: Are there any...
+[03:41:18.460 --> 03:41:19.460]  Fed: I'm sure they do.
+[03:41:19.460 --> 03:41:21.460]  Fed: But that's Oklahoma's stuff.
+[03:41:21.460 --> 03:41:23.460]  Fed: So, like, oversees the rules are different, right?
+[03:41:23.460 --> 03:41:25.460]  Fed: Like, oversees your
+[03:41:25.460 --> 03:41:27.460]  Fed: committing espionage, which is by the fact,
+[03:41:27.460 --> 03:41:29.460]  Fed: you know, the fact that we're against the law, right?
+[03:41:29.460 --> 03:41:30.460]  Val: Right.
+[03:41:30.460 --> 03:41:31.460]  Fed: And the United States, you know,
+[03:41:31.460 --> 03:41:33.460]  Fed: we're still bound by the Constitution.
+[03:41:33.460 --> 03:41:35.460]  Fed: So, like, one distinction I want to make, too,
+[03:41:35.460 --> 03:41:37.460]  Fed: is like, with the FBI, like,
+[03:41:37.460 --> 03:41:39.460]  Fed: we will follow the rules every time.
+[03:41:39.460 --> 03:41:41.460]  Fed: I'm never going to tell you to break the rule,
+[03:41:41.460 --> 03:41:43.460]  Fed: and like, don't tell me about it or something.
+[03:41:43.460 --> 03:41:44.460]  Val: We'll never deal with that situation.
+[03:41:44.460 --> 03:41:45.460]  Val: Make a win-win.
+[03:41:45.460 --> 03:41:46.460]  Fed: Never.
+Val: That's good to know
+[03:41:46.460 --> 03:41:48.460]  Fed: If I tell you something, like,
+[03:41:48.460 --> 03:41:50.460]  Fed: even if I ask you to talk about something
+[03:41:50.460 --> 03:41:52.460]  Fed: that could be construed as illegal,
+[03:41:52.460 --> 03:41:54.460]  Fed: I'll have a whole document of, like,
+[03:41:54.460 --> 03:41:56.460]  Fed: this is exactly what you're allowed to say,
+[03:41:56.460 --> 03:41:57.460]  Fed: this is what you're not allowed to say,
+[03:41:57.460 --> 03:41:59.460]  Fed: these are the communities[???],
+[03:41:59.460 --> 03:42:01.460]  Fed: and you can't deviate from these four corners.
+[03:42:01.460 --> 03:42:03.460]  Fed: Otherwise, we distance ourselves from you,
+[03:42:03.460 --> 03:42:05.460]  Fed: because it's not what we ask.
+[03:42:05.460 --> 03:42:06.460]  Val: Okay.
+[03:42:06.460 --> 03:42:09.460]  Fed: So, because there's a lot of stuff about what the FBI is,
+[03:42:09.460 --> 03:42:10.460]  Fed: or isn't
+[03:42:10.460 --> 03:42:12.460]  Fed: Like, just from talking to you today, right?
+[03:42:12.460 --> 03:42:14.460]  Fed: There's a lot of stuff that
+[03:42:14.460 --> 03:42:15.460]  Fed: you've perceived to be as true
+[03:42:15.460 --> 03:42:16.460]  Val: Oh, yeah.
+[03:42:16.460 --> 03:42:17.460]  Val: I totally learned a lot today.
+[03:42:17.460 --> 03:42:18.460]  Val: Yeah.
+[03:42:18.460 --> 03:42:20.460]  Fed: So, that being said, it's like,
+[03:42:20.460 --> 03:42:21.460]  Fed: if you work with us,
+[03:42:21.460 --> 03:42:23.460]  Fed: it has to be very clear
+[03:42:23.460 --> 03:42:25.460]  Fed: that you're not breaking any rules.
+[03:42:25.460 --> 03:42:26.460]  Fed: Right?
+[03:42:26.460 --> 03:42:28.460]  Fed: Because we also don't want to work with people
+[03:42:28.460 --> 03:42:30.460]  Fed: who are not going to be able to follow directions.
+[03:42:30.460 --> 03:42:32.460]  Fed: We talked about it, it makes sense to me,
+[03:42:32.460 --> 03:42:34.460]  Fed: but, like, if you're going to give us information, too,
+[03:42:34.460 --> 03:42:36.460]  Fed: we have to know that that is the whole fiction.
+[03:42:36.460 --> 03:42:38.460]  Fed: You can't, like, take part of it.
+[03:42:38.460 --> 03:42:40.460]  Fed: You can't omit the stuff
+[03:42:40.460 --> 03:42:42.460]  Fed: that you don't want to tell us,
+[03:42:42.460 --> 03:42:43.460]  Fed: what you tell us has to be everything.
+[03:42:43.460 --> 03:42:45.460]  Fed: Because if we find out that it isn't everything,
+[03:42:45.460 --> 03:42:46.460]  Fed: then we can't trust you, right?
+[03:42:46.460 --> 03:42:47.460]  Val: Right, right.
+[03:42:47.460 --> 03:42:48.460]  Val: So, you want me to hold back?
+[03:42:48.460 --> 03:42:49.460]  Val: on like, Barrett.
+[03:42:49.460 --> 03:42:52.460]  Val: If you ask me, tell me about Barrett.
+[03:42:52.460 --> 03:42:53.460]  Val: So, that would be,
+[03:42:53.460 --> 03:42:56.460]  Val: that would have to be what we have now.
+[03:42:56.460 --> 03:42:58.460]  Val: So, we're not,
+[03:42:58.460 --> 03:43:02.460]  Val: are we legally bound to tell you everything I know?
+[03:43:02.460 --> 03:43:03.460]  Val: Not legally bound.
+[03:43:03.460 --> 03:43:04.460]  Val: Here's the thing.
+[03:43:04.460 --> 03:43:06.460]  Val: Can I make a mission based on what I think
+[03:43:06.460 --> 03:43:08.460]  Val: is relevant and irrelevant?
+[03:43:08.460 --> 03:43:09.460]  Val: Or no?
+[03:43:09.460 --> 03:43:11.460]  Fed: It depends, right?
+[03:43:11.460 --> 03:43:12.460]  Fed: I mean, like, here's the thing.
+[03:43:12.460 --> 03:43:14.460]  Fed: You're not going to be your only source of information.
+[03:43:14.460 --> 03:43:16.460]  Fed: That's not how to work either, right?
+[03:43:16.460 --> 03:43:18.460]  Fed: I'm going to verify what you say.
+[03:43:18.460 --> 03:43:19.460]  Fed: It's like I look at this stuff
+[03:43:19.460 --> 03:43:20.460]  Fed: and I'll try to figure out it.
+[03:43:20.460 --> 03:43:21.460]  Val: It's like a report.
+[03:43:21.460 --> 03:43:22.460]  Val: Yeah, it's like a report, right?
+[03:43:22.460 --> 03:43:24.460]  Fed: I mean, they're also investigators, so to speak.
+[03:43:24.460 --> 03:43:26.460]  Fed: They publish their stuff.
+[03:43:26.460 --> 03:43:29.460]  Fed: But, if you were to work with us, right?
+[03:43:29.460 --> 03:43:32.460]  Fed: What I need from you most is trust.
+[03:43:32.460 --> 03:43:34.460]  Fed: If I can't trust what you're saying,
+[03:43:34.460 --> 03:43:36.460]  Fed: if I can't trust you with the information I give you,
+[03:43:36.460 --> 03:43:38.460]  Fed: there's absolutely no reason we would work together.
+[03:43:38.460 --> 03:43:39.460]  Fed: Right?
+[03:43:39.460 --> 03:43:41.460]  Fed: Because if we were to involve you in something
+[03:43:41.460 --> 03:43:43.460]  Fed: where you are involved with other criminals,
+[03:43:43.460 --> 03:43:46.460]  Fed: you say, hey, by the way, I'm working with the FBI,
+[03:43:46.460 --> 03:43:48.460]  Fed: that whole thing goes kaput
+[03:43:48.460 --> 03:43:49.460]  Fed: Right?
+[03:43:49.460 --> 03:43:50.460]  Fed: I mean, it doesn't help us.
+[03:43:50.460 --> 03:43:53.460]  Fed: So that's why a lot of this stuff, too.
+[03:43:53.460 --> 03:43:55.460]  Fed: If you're to give us information,
+[03:43:55.460 --> 03:43:58.460]  Fed: it was partial information and it was omitted, right?
+[03:43:58.460 --> 03:44:01.460]  Fed: There's a part in the court called discovery, right?
+[03:44:01.460 --> 03:44:02.460]  Fed: I'm not sure how it works.
+[03:44:02.460 --> 03:44:05.460]  Fed: So with Discovery, we have to provide everything to defend.
+[03:44:05.460 --> 03:44:07.460]  Fed: That's how every U.S. government works, right?
+[03:44:07.460 --> 03:44:10.460]  Fed: Everything that we have that we're using to prosecute this guy,
+[03:44:10.460 --> 03:44:11.460]  Fed: the defense gets a copy of it.
+[03:44:11.460 --> 03:44:13.460]  Fed: So they can cross-examine you on it, right?
+[03:44:13.460 --> 03:44:14.460]  Val: Right.
+[03:44:14.460 --> 03:44:16.460]  Val: So if anything illegal is happening and they... your case is screwed
+[03:44:16.460 --> 03:44:20.460]  Fed: So in the case that if you gave us partial information,
+[03:44:20.460 --> 03:44:22.460]  Fed: we'd provide that to the defense.
+[03:44:22.460 --> 03:44:23.460]  Fed: The defense obviously knows the full story
+[03:44:23.460 --> 03:44:25.460]  Fed: because they're the ones being charged.
+[03:44:25.460 --> 03:44:27.460]  Fed: They say, actually, I said a bunch of stuff
+[03:44:27.460 --> 03:44:28.460]  Fed: that is exculpatory.
+[03:44:28.460 --> 03:44:30.460]  Fed: In other words, stuff that shows that I was innocent,
+[03:44:30.460 --> 03:44:32.460]  Fed: but it was selectively filtered out.
+[03:44:32.460 --> 03:44:34.460]  Fed: Our whole case would go to shit.
+[03:44:34.460 --> 03:44:36.460]  Val: [???]
+[03:44:36.460 --> 03:44:37.460]  Fed: Exactly, right.
+[03:44:37.460 --> 03:44:40.460]  Fed: So just how it's not fair for Prasada to do that to you, right?
+[03:44:40.460 --> 03:44:41.460]  Val: Right.
+[03:44:41.460 --> 03:44:45.460]  Fed: So as the U.S. government, because we are the U.S. government,
+[03:44:45.460 --> 03:44:48.460]  Fed: we play exactly by the rules, every time.
+[03:44:48.460 --> 03:44:50.460]  Val: So is there a guy, a middle manager there, at some point,
+[03:44:50.460 --> 03:44:54.460]  Val: that says, I decide what goes into this reporting
+[03:44:54.460 --> 03:44:55.460]  Val: and what does not go into the report?
+[03:44:55.460 --> 03:44:56.460]  Val: So it's not my decision.
+[03:44:56.460 --> 03:44:59.460]  Val: I just give you all the data you ask for, right?
+[03:44:59.460 --> 03:45:02.460]  Val: Without any omission, and someone else makes that decision.
+[03:45:02.460 --> 03:45:03.460]  Fed: Okay.
+[03:45:03.460 --> 03:45:06.460]  Fed: Yeah, it's usually the case agent who would be working with you
+[03:45:06.460 --> 03:45:09.460]  Fed: who would say, okay, hey, I'm going to write this report.
+[03:45:09.460 --> 03:45:12.460]  Fed: And we write it in a way that doesn't disclose everything, right?
+[03:45:12.460 --> 03:45:14.460]  Fed: Because if I write your name in my report...
+[03:45:14.460 --> 03:45:16.460]  Fed: It protects your identity, but it's still...
+[03:45:16.460 --> 03:45:18.460]  Fed: It doesn't hide anything.
+[03:45:18.460 --> 03:45:23.460]  Val: We'll often put you guys in position to make you look bad,
+[03:45:23.460 --> 03:45:25.460]  Val: but, you know, try to get it.
+[03:45:25.460 --> 03:45:26.460]  Val: Try to get it.
+[03:45:26.460 --> 03:45:27.460]  Fed: So anyway...
+[03:45:27.460 --> 03:45:29.460]  Val: Cover your ass and get it.
+[03:45:29.460 --> 03:45:30.460]  Fed: Right.
+[03:45:30.460 --> 03:45:32.460]  Fed: That's just the general way we work with people
+[03:45:32.460 --> 03:45:34.460]  Fed: because we work with a lot of different people
+[03:45:34.460 --> 03:45:35.460]  Fed: in a lot of different areas of life.
+[03:45:35.460 --> 03:45:38.460]  Fed: Like, I work drugs and drug dealers on my account,
+[03:45:38.460 --> 03:45:40.460]  Fed: and, you know, we work with them.
+[03:45:40.460 --> 03:45:41.460]  Val: [???] drug dealers?
+[03:45:41.460 --> 03:45:42.460]  Fed: Mm-hmm.
+[03:45:42.460 --> 03:45:43.460]  Fed: Yeah.
+[03:45:43.460 --> 03:45:44.460]  Fed: Because we've got to work our way into the chain.
+[03:45:44.460 --> 03:45:45.460]  Fed: How else do you think...
+[03:45:45.460 --> 03:45:46.460]  Fed: You can't just get the runners all day, right?
+[03:45:46.460 --> 03:45:47.460]  Val: Right.
+[03:45:47.460 --> 03:45:49.460]  Fed: You get in the tenants and you get the people at the top
+[03:45:49.460 --> 03:45:50.460]  Fed: and try to...
+[03:45:51.460 --> 03:45:52.460]  Val: I don't get it.
+[03:45:53.460 --> 03:45:54.460]  Val: It's completely...
+[03:45:54.460 --> 03:45:55.460]  Val: It's completely...
+[03:45:55.460 --> 03:45:57.460]  Fed: Kind of like what we said downstairs.
+[03:45:57.460 --> 03:45:59.460]  Fed: It 's hard, right?
+[03:45:59.460 --> 03:46:01.460]  Fed: It's hard to do this job,
+[03:46:01.460 --> 03:46:02.460]  Fed: but it should be hard.
+[03:46:02.460 --> 03:46:03.460]  Val: Because of the rules?
+[03:46:03.460 --> 03:46:04.460]  Fed: Yeah.
+[03:46:04.460 --> 03:46:05.460]  Fed: I mean, the rules are hard.
+[03:46:05.460 --> 03:46:08.460]  Fed: Because that thing would be easy for us to do.
+[03:46:08.460 --> 03:46:10.460]  Fed: But we're with the new rules.
+[03:46:10.460 --> 03:46:12.460]  Fed: That's why we're going to do it with the new rules.
+[03:46:12.460 --> 03:46:14.460]  Fed: Because it's the right thing to do.
+[03:46:14.460 --> 03:46:16.460]  Val: Is it like a chain of evidence or a thing?
+[03:46:16.460 --> 03:46:17.460]  Val: Like, there's like a cartel.
+[03:46:17.460 --> 03:46:19.460]  Val: You think, you know, there's a guy's IP address.
+[03:46:19.460 --> 03:46:21.460]  Val: You know, there's email.
+[03:46:21.460 --> 03:46:24.460]  Fed: So now that, like, drug dealers are using,
+[03:46:24.460 --> 03:46:27.460]  Fed: like, the encrypted chat,
+[03:46:27.460 --> 03:46:29.460]  Fed: it doesn't work to go to the telephone company
+[03:46:29.460 --> 03:46:33.460]  Fed: and say, hey, we want to get a title-free on this cell phone
+[03:46:33.460 --> 03:46:35.460]  Fed: so we can see all the types of things.
+[03:46:35.460 --> 03:46:37.460]  Fed: That's all then in the water.
+[03:46:37.460 --> 03:46:40.460]  Fed: And now in order to get their communication,
+[03:46:40.460 --> 03:46:43.460]  Fed: like, you'd have to actually get a hold of the phone
+[03:46:43.460 --> 03:46:44.460]  Fed: and put...
+[03:46:44.460 --> 03:46:46.460]  Fed: And honestly, the way to do it is, like,
+[03:46:46.460 --> 03:46:48.460]  Fed: you'd have to get someone inside the group.
+[03:46:48.460 --> 03:46:50.460]  Val: Yeah, you clone the phone.
+[03:46:50.460 --> 03:46:52.460]  Fed: Yeah, even then, like, you need someone to, like,
+[03:46:52.460 --> 03:46:54.460]  20 or 70 men in that phone.
+[03:46:54.460 --> 03:46:55.460]  Can it be an 8?
+[03:46:55.460 --> 03:46:56.460]  Yeah, I got it.
+[03:46:56.460 --> 03:46:58.460]  It still goes back to, like, that thing
+[03:46:58.460 --> 03:47:00.460]  where you have to get someone inside.
+[03:47:00.460 --> 03:47:02.460]  Fed: We can't just sit back and rely.
+[03:47:02.460 --> 03:47:04.460]  Fed: Yeah, because it's not...
+[03:47:04.460 --> 03:47:08.460]  Fed: It's because it's illegal to hack into the phone
+[03:47:08.460 --> 03:47:12.460]  Fed: and to bring it back in Christian.
+[03:47:12.460 --> 03:47:15.460]  Val: So even with a proper warrant, you cannot...
+[03:47:15.460 --> 03:47:18.460]  Fed: Oh, yeah, exactly. With a proper warrant, you can't
+[03:47:18.460 --> 03:47:21.460]  Fed: because the technology is against that now.
+[03:47:21.460 --> 03:47:23.460]  Fed: ???
+[03:47:23.460 --> 03:47:26.460]  Val: But if someone can still do it, it's still doable, right?
+[03:47:26.460 --> 03:47:30.460]  Fed: Like, if someone was using some app that the data was still
+[03:47:30.460 --> 03:47:32.460]  Fed: housed with the service provider,
+[03:47:32.460 --> 03:47:34.460]  Fed: then, yeah, yeah, it would do it.
+[03:47:34.460 --> 03:47:36.460]  Fed: Because it's legally within the bounds
+[03:47:36.460 --> 03:47:39.460]  Fed: and that company legally has the content.
+[03:47:39.460 --> 03:47:41.460]  Val: Is it too much for me to ask, like,
+[03:47:41.460 --> 03:47:43.460]  Val: what is legally outside the bounds?
+[03:47:43.460 --> 03:47:46.460]  Fed: [unintelligible]
+[03:47:46.460 --> 03:47:49.460]  Val: And it's just an hacking situation.
+[03:47:49.460 --> 03:47:52.460]  Val: Like, if you know a cartel guy and you have a warrant,
+[03:47:52.460 --> 03:47:55.460]  Val: what can you legally not do?
+[03:47:55.460 --> 03:47:58.460]  Val: Yeah, I think maybe it's easier.
+[03:47:58.460 --> 03:48:00.460]  Val: I'm just curious.
+[03:48:00.460 --> 03:48:04.460]  Fed: You can't break any law in order to get access to that guy.
+[03:48:04.460 --> 03:48:06.460]  Val: Civil rights?
+[03:48:06.460 --> 03:48:08.460]  Fed: No, we can't do the hacking.
+[03:48:08.460 --> 03:48:09.460]  Val: You can't?
+[03:48:09.460 --> 03:48:11.460]  Fed: Yeah, no, we can't.
+[03:48:11.460 --> 03:48:13.460]  Fed: Yeah, [??] the hacking or anything.
+[03:48:13.460 --> 03:48:15.460]  Fed: And giving a court order or a search warrant
+[03:48:15.460 --> 03:48:18.460]  Fed: to an ISP or a telecom provider is not hacking.
+[03:48:18.460 --> 03:48:21.460]  Fed: There's a law that says we can do that.
+[03:48:21.460 --> 03:48:23.460]  Fed: The warrant is what permits us to get things
+[03:48:23.460 --> 03:48:25.460]  Fed: that are under reasonable expectation of privacy,
+[03:48:25.460 --> 03:48:27.460]  Fed: which is what you're hacking.
+[03:48:27.460 --> 03:48:30.460]  Fed: You're hacking because it's not publicly available.
+[03:48:30.460 --> 03:48:32.460]  Fed: So if you have to breach that expectation of privacy,
+[03:48:32.460 --> 03:48:35.460]  Fed: we need a warrant as a government to get that.
+[03:48:35.460 --> 03:48:37.460]  Fed: The warrant will specify what you can and can't do.
+[03:48:37.460 --> 03:48:40.460]  Val: And you can breach the expectation of privacy.
+[03:48:40.460 --> 03:48:43.460]  Fed: And if this is all to protect against, you know,
+[03:48:43.460 --> 03:48:46.460]  Fed: all the crazy shit that goes on and abuses and things like that.
+[03:48:46.460 --> 03:48:48.460]  Fed: So, like, I mean, as much as the government
+[03:48:48.460 --> 03:48:50.460]  Fed: is kind of a fuck up shit show,
+[03:48:50.460 --> 03:48:53.460]  Fed: I mean, it is put up in a way to protect people,
+[03:48:53.460 --> 03:48:54.460]  Fed: protect American people.
+[03:48:54.460 --> 03:48:56.460]  Fed: Their privacy, their liberty, things like that.
+[03:48:56.460 --> 03:48:57.460]  Fed: So when people think like,
+[03:48:57.460 --> 03:48:58.460]  Fed: like my mom does the same thing,
+[03:48:58.460 --> 03:49:00.460]  Fed: she's like, well, are you reading my e-mail that [??]?
+[03:49:00.460 --> 03:49:01.460]  Fed: I don't have time to read your e-mail.
+[03:49:01.460 --> 03:49:02.460]  Fed: One.
+[03:49:02.460 --> 03:49:04.460]  Fed: And two, like, why would I be reading your e-mail?
+[03:49:04.460 --> 03:49:05.460]  Fed: That doesn't make any sense.
+[03:49:05.460 --> 03:49:06.460]  Val: Trust me, I did it.
+[03:49:06.460 --> 03:49:07.460]  Val: You don't want to read your mom's e-mail.
+[03:49:07.460 --> 03:49:11.460]  Val: You don't want to do that.
+[03:49:11.460 --> 03:49:13.460]  Fed: Can't go backwards.
+[03:49:13.460 --> 03:49:14.460]  Val: You can't.
+[03:49:16.460 --> 03:49:17.460]  Fed: Yeah, so there's...
+[03:49:17.460 --> 03:49:18.460]  Val: I get it.
+[03:49:18.460 --> 03:49:20.460]  Fed: Yeah, there's limitations that we work under, but...
+[03:49:20.460 --> 03:49:21.460]  Val: I like that.
+[03:49:21.460 --> 03:49:22.460]  Val: It's fine.
+[03:49:22.460 --> 03:49:26.460]  Val: It's like, you know, everyone has to have a...
+[03:49:26.460 --> 03:49:28.460]  Fed: Yeah, we play about the rules.
+[03:49:28.460 --> 03:49:30.460]  Fed: But when we do win, right,
+[03:49:30.460 --> 03:49:32.460]  Fed: when we do arrest someone or something like that,
+[03:49:32.460 --> 03:49:34.460]  Fed: our cases are, you know, airtight, right?
+[03:49:34.460 --> 03:49:36.460]  Fed: We've covered every angle that we can.
+[03:49:36.460 --> 03:49:37.460]  Fed: We've got all the information,
+[03:49:37.460 --> 03:49:39.460]  Fed: and we've vetted everything to make sure that,
+[03:49:39.460 --> 03:49:40.460]  Fed: we have the right person, right?
+[03:49:40.460 --> 03:49:42.460]  Fed: We want to make sure we have the right person,
+[03:49:42.460 --> 03:49:44.460]  Fed: and we have everything that leads up to it.
+[03:49:44.460 --> 03:49:46.460]  Fed: So, anyway, that's all just background
+[03:49:46.460 --> 03:49:48.460]  Fed: on how we work and how we work with sources
+[03:49:48.460 --> 03:49:49.460]  Fed: and stuff like that.
+[03:49:49.460 --> 03:49:50.460]  Val: That's good.
+[03:49:50.460 --> 03:49:52.460]  Val: I like to do extremely different things.
+[03:49:52.460 --> 03:49:54.460]  Val: Cause, it's really like Tim and Jami.
+[03:49:54.460 --> 03:49:56.460]  Val: Tim and Jami are very different.
+[03:49:56.460 --> 03:49:58.460]  Fed: Yeah, because I think that's the other thing, too,
+[03:49:58.460 --> 03:50:00.460]  Fed: is if we break the rules to get to our end of goal,
+[03:50:00.460 --> 03:50:02.460]  Fed: how are we getting better than the bad guys?
+[03:50:02.460 --> 03:50:03.460]  Val: Right.
+[03:50:03.460 --> 03:50:04.460]  Val: Right, and justifying it.
+[03:50:04.460 --> 03:50:05.460]  Fed: Yeah, it's easy.
+[03:50:05.460 --> 03:50:07.460]  Fed: I mean, it'd be easy for me to hack into a bunch of stuff,
+[03:50:07.460 --> 03:50:09.460]  Fed: but then I'm just a hacker.
+[03:50:09.460 --> 03:50:12.460]  Fed: I'm just a criminal doing rogue stuff.
+[03:50:12.460 --> 03:50:14.460]  Val: Oh, vigilante.
+[03:50:14.460 --> 03:50:16.460]  Fed: True, but vigilante is just not far.
+[03:50:16.460 --> 03:50:19.460]  Fed: Anyway, that goes a whole different term.
+[03:50:19.460 --> 03:50:21.460]  Val: Let's say that for a Signal group.
+[03:50:21.460 --> 03:50:22.460]  Fed: Okay.
+[03:50:24.460 --> 03:50:25.460]  Fed: So, what else do I have?
+[03:50:25.460 --> 03:50:27.460]  Fed: Okay, we talked about Irish bank fraud.
+[03:50:27.460 --> 03:50:31.460]  Fed: OCCP, you're an admin on Hunter.ddos.
+[03:50:31.460 --> 03:50:32.460]  Val: Both.
+[03:50:35.460 --> 03:50:37.460]  Fed: The use of OCCP.
+[03:50:37.460 --> 03:50:38.460]  Val: OCCRP, yeah.
+[03:50:38.460 --> 03:50:39.460]  Fed: OCCRP is down?
+[03:50:39.460 --> 03:50:40.460]  Val: No, it's up.
+[03:50:40.460 --> 03:50:41.460]  Fed: Okay, yeah.
+[03:50:41.460 --> 03:50:42.460]  Fed: So, you're an admin on goal?
+[03:50:42.460 --> 03:50:43.460]  Val: Yeah.
+[03:50:43.460 --> 03:50:45.460]  Val: Well, I have an account.
+[03:50:45.460 --> 03:50:46.460]  Fed: Okay.
+[03:50:46.460 --> 03:50:47.460]  Val: And...
+[03:50:47.460 --> 03:50:49.460]  Val: I know how to understand the documents, too,
+[03:50:49.460 --> 03:50:50.460]  Val: which is...
+[03:50:50.460 --> 03:50:53.460]  Val: I've learned a lot from the government.
+[03:50:53.460 --> 03:50:56.460]  Val: So, if you need to...
+[03:50:56.460 --> 03:50:58.460]  Val: If you want to know what a CLO is,
+[03:50:58.460 --> 03:51:00.460]  Val: why it's important that it happens in 2008
+[03:51:00.460 --> 03:51:04.460]  Val: in Ireland versus the UK,
+[03:51:04.460 --> 03:51:06.460]  Val: I can help you understand that.
+[03:51:06.460 --> 03:51:07.460]  Fed: Okay.
+[03:51:08.460 --> 03:51:09.460]  Fed: Let's see.
+[03:51:09.460 --> 03:51:10.460]  Fed: You have...
+[03:51:10.460 --> 03:51:12.460]  Fed: David Eichrich has...
+[03:51:12.460 --> 03:51:16.460]  Fed: Well, I guess he tasks you to get into Epstein's email
+[03:51:16.460 --> 03:51:19.460]  Fed: and Epstein's wife's email.
+[03:51:19.460 --> 03:51:21.460]  Val: You know what he's password was?
+[03:51:21.460 --> 03:51:23.460]  Val: It's so funny.
+[03:51:23.460 --> 03:51:24.460]  Val: It's G-21.
+[03:51:30.460 --> 03:51:31.460]  Val: A little same job.
+Fed: How long'd that take you?
+Val: About five minutes.
+[03:51:39.460 --> 03:51:41.460]  Val: You can just look at the old hacks from...
+[03:51:41.460 --> 03:51:42.460]  Fed: Oh, right.
+[03:51:42.460 --> 03:51:43.460]  Val: Yeah, pretty easy.
+[03:51:43.460 --> 03:51:45.460]  Val: But don't tell anybody.
+[03:51:45.460 --> 03:51:49.460]  Fed: You're also in a single group with Barrett,
+[03:51:49.460 --> 03:51:54.460]  Fed: Emma, Xan, your friend,
+[03:51:54.460 --> 03:51:56.460]  Fed: and like a hundred other people there.
+[03:51:56.460 --> 03:51:57.460]  Val: And a lot of journalists.
+[03:51:57.460 --> 03:51:58.460]  Fed: Journalists.
+[03:51:58.460 --> 03:51:59.460]  Fed: Journalists.
+[03:51:59.460 --> 03:52:00.460]  Fed: Journalists.
+[03:52:00.460 --> 03:52:01.460]  Fed: Okay.
+[03:52:01.460 --> 03:52:02.460]  Fed: You're capable of doing some email hacks
+[03:52:02.460 --> 03:52:06.460]  Fed: and then you'll do some light forensics.
+[03:52:06.460 --> 03:52:08.460]  Fed: I guess with this single group...
+[03:52:08.460 --> 03:52:09.460]  Val: I'm good with forensics
+[03:52:09.460 --> 03:52:10.460]  Fed: Okay.
+[03:52:10.460 --> 03:52:11.460]  Val: Not light.
+[03:52:11.460 --> 03:52:12.460]  Fed: That's...
+[03:52:12.460 --> 03:52:13.460]  Val: I've been practicing a lot with that.
+[03:52:13.460 --> 03:52:16.460]  Val: That's like my latest interest.
+[03:52:16.460 --> 03:52:17.460]  Val: But mostly...
+[03:52:17.460 --> 03:52:18.460]  Val: But with the software.
+[03:52:18.460 --> 03:52:20.460]  Val: It happened, you know, not on my own.
+[03:52:20.460 --> 03:52:22.460]  Val: I'm not coding it or writing it.
+[03:52:22.460 --> 03:52:24.460]  Fed: I don't think many people are coding it
+[03:52:24.460 --> 03:52:25.460]  Fed: or writing it themselves.
+[03:52:25.460 --> 03:52:26.460]  Val: No? Ok good.
+[03:52:26.460 --> 03:52:28.460]  Val: I think it's a little bit better than...
+[03:52:28.460 --> 03:52:30.460]  Val: But yeah, with Magnet, it was open source.
+[03:52:30.460 --> 03:52:32.460]  Val: But with Magnet, of course, it's better.
+[03:52:32.460 --> 03:52:33.460]  Val: Yeah, it's not like that.
+[03:52:33.460 --> 03:52:34.460]  Val: I can prove that to you.
+[03:52:34.460 --> 03:52:37.460]  Val: You need to do a demonstration of that.
+[03:52:37.460 --> 03:52:38.460]  Fed: Okay.
+[03:52:38.460 --> 03:52:41.460]  Fed: In the Signal group, you said Barrett...
+[03:52:41.460 --> 03:52:43.460]  Fed: Barrett said that he's not getting anything legal.
+[03:52:43.460 --> 03:52:44.460]  Fed: Is that right?
+[03:52:44.460 --> 03:52:45.460]  Fed: Or not getting anything stupid?
+[03:52:45.460 --> 03:52:46.460]  Val: No.
+[03:52:46.460 --> 03:52:48.460]  Val: He's always saying something stupid.
+[03:52:48.460 --> 03:52:50.460]  Val: But he's just, you know, he's just a rabblerouser.
+[03:52:50.460 --> 03:52:53.460]  Val: Let's see what happens after he calms down a bit.
+[03:52:53.460 --> 03:52:55.460]  Val: Because he's high a lot.
+[03:52:55.460 --> 03:52:56.460]  Fed: Okay.
+[03:52:56.460 --> 03:52:57.460]  Val: He was very high.
+[03:52:57.460 --> 03:52:59.460]  Val: And he was not happy.
+[03:52:59.460 --> 03:53:01.460]  Val: So it was more worried about him.
+[03:53:01.460 --> 03:53:03.460]  Val: No one really took it seriously.
+[03:53:03.460 --> 03:53:06.460]  Fed: You said the rest of the stuff in that group is mainly...
+[03:53:06.460 --> 03:53:08.460]  Fed: People miscontented about stuff.
+[03:53:08.460 --> 03:53:09.460]  Val: Yeah.
+[03:53:09.460 --> 03:53:11.460]  Fed: You said these steps are basically just bitching a lot.
+[03:53:11.460 --> 03:53:12.460]  Fed: But like...
+[03:53:12.460 --> 03:53:14.460]  Val: A lot of, like, fuck Louise Mensch, you know...
+[03:53:14.460 --> 03:53:17.460]  Val: And like, well, actually, I couldn't want to fuck Louise Mensch.
+[03:53:17.460 --> 03:53:19.460]  Val: You know, like, well, why would you want to do that?
+[03:53:19.460 --> 03:53:21.460]  Val: You know, it's like that stuff.
+[03:53:21.460 --> 03:53:23.460]  Val: You know, look at this Twitter post.
+[03:53:23.460 --> 03:53:26.460]  Val: Or this cop just beat up this woman on the street.
+[03:53:26.460 --> 03:53:28.460]  Val: You know, there's a lot of that, too.
+[03:53:28.460 --> 03:53:29.460]  Fed: Okay.
+[03:53:29.460 --> 03:53:30.460]  Val: With the riots and stuff.
+[03:53:30.460 --> 03:53:31.460]  Fed: Sure.
+[03:53:31.460 --> 03:53:35.460]  Val: But if you're asking if there's, like, organization or people are getting together and, you know...
+[03:53:36.460 --> 03:53:38.460]  Val: I think they're very watched.
+[03:53:38.460 --> 03:53:40.460]  Val: You know, there's no organization.
+[03:53:40.460 --> 03:53:41.460]  Val: It's like, it's just chaos.
+[03:53:41.460 --> 03:53:42.460]  Val: It's fun to see what happens.
+[03:53:42.460 --> 03:53:44.460]  Val: It's like, might come out of it, yeah.
+[03:53:44.460 --> 03:53:46.460]  Val: And I meet some interesting people.
+[03:53:46.460 --> 03:53:48.460]  Fed: There's nothing, nothing explicitly illegal.
+[03:53:48.460 --> 03:53:53.460]  Fed: They don't talk about, you know, collectivity or hacking stuff or anything like that.
+[03:53:53.460 --> 03:53:54.460]  Val: Why?
+[03:53:54.460 --> 03:53:55.460]  Val: Well, yeah, of course.
+[03:53:55.460 --> 03:53:57.460]  Val: No, there is a talk about that, yeah.
+[03:53:57.460 --> 03:53:59.460]  Val: But it's like a friend of mine says,
+[03:53:59.460 --> 03:54:08.460]  Val: Oh, do you know how I get ISPs from Prague, you know, circa 2016?
+[03:54:08.460 --> 03:54:10.460]  Val: Clearly, you're trying to find the Cohen shit, right?
+[03:54:10.460 --> 03:54:12.460]  Val: You know, everyone's a loving the baby.
+[03:54:12.460 --> 03:54:14.460]  Val: You know, stuff like that, you know.
+[03:54:14.460 --> 03:54:16.460]  Val: And if you have it, you know where to get it.
+[03:54:16.460 --> 03:54:18.460]  Val: Sure here you go
+[03:54:18.460 --> 03:54:19.460]  Val: There's a link.
+[03:54:19.460 --> 03:54:20.460]  Val: Do you know what Irish bankers are?
+[03:54:20.460 --> 03:54:23.460]  Val: The other day, I mean, an Irish banker that knows how to do,
+[03:54:23.460 --> 03:54:25.460]  Val: you know, anybody in Ireland right now.
+[03:54:25.460 --> 03:54:27.460]  Val: I'm here to get some coin telegraph.
+[03:54:27.460 --> 03:54:29.460]  Val: Yeah, stuff like that.
+[03:54:29.460 --> 03:54:35.460]  Val: But like, I'm the only idiot that says, Hey, Emma,
+[03:54:35.460 --> 03:54:38.460]  Val: can you give me a favor and help me hack David Enrich?
+[03:54:38.460 --> 03:54:40.460]  Val: Because I got to get into his fucking email.
+[03:54:40.460 --> 03:54:42.460]  Val: I'm the only idiot that says that.
+[03:54:42.460 --> 03:54:44.460]  Val: So, yeah.
+[03:54:44.460 --> 03:54:45.460]  Fed: Okay.
+[03:54:45.460 --> 03:54:48.460]  Fed: So no one else talked about like who's behind hack or who's behind it?
+[03:54:48.460 --> 03:54:49.460]  Val: Oh, yeah.
+[03:54:49.460 --> 03:54:50.460]  Val: I know.
+[03:54:50.460 --> 03:54:51.460]  Val: Yeah.
+[03:54:51.460 --> 03:54:53.460]  Val: There's a really good big discussion on who's behind Lulzs.
+[03:54:53.460 --> 03:54:55.460]  Fed: Oh, LulzSec, I think.
+[03:54:55.460 --> 03:55:00.460]  Val: Or, well, no, the abbreviated version of LulzSec.
+[03:55:00.460 --> 03:55:01.460]  Fed: Okay.
+[03:55:01.460 --> 03:55:03.460]  Val: It's like a, whoever did the Cayman Islands
+[03:55:03.460 --> 03:55:04.460]  Fed: Oh, yeah.
+[03:55:04.460 --> 03:55:06.460]  Fed: Who do they think is behind the Cayman Islands?
+[03:55:06.460 --> 03:55:09.460]  Fed: I said they, I mean, what are some of the opinions of?
+[03:55:09.460 --> 03:55:12.460]  Val: All I know is my opinion right now, as I can remember,
+[03:55:12.460 --> 03:55:14.460]  Val: and I'm not holding back or meaning information,
+[03:55:14.460 --> 03:55:16.460]  Val: because I just can't remember.
+[03:55:16.460 --> 03:55:18.460]  Val: But if you give me time to look, I'll find it for you.
+[03:55:18.460 --> 03:55:21.460]  Val: My opinion is, I think it's Emma.
+[03:55:21.460 --> 03:55:24.460]  Val: The Spanish, the Spanish is broken.
+[03:55:24.460 --> 03:55:27.460]  Val: Again, Marie speaks eight languages.
+[03:55:27.460 --> 03:55:29.460]  Val: She told me it's not a first.
+[03:55:29.460 --> 03:55:30.460]  Fed: It's not a native speaker.
+[03:55:30.460 --> 03:55:31.460]  Val: It's not a native speaker.
+[03:55:31.460 --> 03:55:36.460]  Val: And the angry, the anger sort of matches Emma's anger.
+[03:55:36.460 --> 03:55:39.460]  Val: And the thought process that makes, gets you to write a certain sentence,
+[03:55:39.460 --> 03:55:41.460]  Val: matches her thought process.
+[03:55:41.460 --> 03:55:42.460]  Val: The way I figured it anyway.
+[03:55:42.460 --> 03:55:44.460]  Val: You know, you have to, in order to say the certain sentence,
+[03:55:44.460 --> 03:55:46.460]  Val: you have to think and feel the sort of thing.
+[03:55:46.460 --> 03:55:48.460]  Val: We're in the, we're in this frame group.
+[03:55:48.460 --> 03:55:50.460]  Val: And I see that pattern matched with it.
+[03:55:50.460 --> 03:55:54.460]  Fed: So what Spanish document was it that matched?
+[03:55:54.460 --> 03:55:55.460]  Val: The manifesto.
+[03:55:55.460 --> 03:55:56.460]  Fed: Oh, the manifesto.
+[03:55:57.460 --> 03:55:58.460]  Fed: Okay.
+[03:55:58.460 --> 03:55:59.460]  Fed: Interesting.
+[03:55:59.460 --> 03:56:00.460]  Fed: So aside from like the speech pattern,
+[03:56:00.460 --> 03:56:02.460]  Fed: is there anything else, any other reason why you think
+[03:56:02.460 --> 03:56:04.460]  Fed: that Best is behind the Cayman Islands?
+[03:56:04.460 --> 03:56:07.460]  Val: Well, the thought process, obviously.
+[03:56:07.460 --> 03:56:08.460]  Fed: Yeah.
+[03:56:08.460 --> 03:56:09.460]  Fed: The motivation, I guess, right?
+[03:56:09.460 --> 03:56:10.460]  Val: It's really angry.
+[03:56:10.460 --> 03:56:11.460]  Val: Well, no, no more.
+[03:56:11.460 --> 03:56:14.460]  Val: The motivation, well, you must know.
+[03:56:14.460 --> 03:56:16.460]  Val: I mean, if you're a hacker, you know,
+[03:56:16.460 --> 03:56:19.460]  Val: the motivation is just, you can do it.
+[03:56:19.460 --> 03:56:21.460]  Val: You know, sometimes, yeah, you're broke, you need some money.
+[03:56:21.460 --> 03:56:24.460]  Val: Or if you want to, you know, see, I'm better than you or not.
+[03:56:24.460 --> 03:56:26.460]  Val: But it's like, here's a challenge.
+[03:56:26.460 --> 03:56:28.460]  Val: You know, that's most of the motivation.
+[03:56:28.460 --> 03:56:30.460]  Val: You should know that though, right?
+[03:56:30.460 --> 03:56:31.460]  Fed: But it's different, too.
+[03:56:31.460 --> 03:56:32.460]  Val: Oh, you mean political motivation.
+[03:56:32.460 --> 03:56:33.460]  Fed: There's different motivations, too,
+[03:56:33.460 --> 03:56:34.460]  Fed: with different hackers, too, right?
+[03:56:34.460 --> 03:56:36.460]  Fed: Some hackers are just curious.
+[03:56:36.460 --> 03:56:38.460]  Fed: Like, they just want to see if they can break the system.
+[03:56:38.460 --> 03:56:40.460]  Fed: But they're the ones who hack for a purpose, right?
+[03:56:40.460 --> 03:56:42.460]  Fed: Like, a lot of the hacktivists out there,
+[03:56:42.460 --> 03:56:43.460]  Fed: you know, they'll hack because...
+[03:56:43.460 --> 03:56:44.460]  Val: BlueLeaks.
+[03:56:44.460 --> 03:56:45.460]  Fed: What about...
+[03:56:45.460 --> 03:56:47.460]  Val: We're talking about BlueLeaks, aren't we?
+[03:56:47.460 --> 03:56:48.460]  Fed: What about BlueLeaks leak?
+[03:56:48.460 --> 03:56:50.460]  Val: That's what you're asking about.
+[03:56:50.460 --> 03:56:52.460]  Fed: Well, there's a bunch of different types of things.
+[03:56:52.460 --> 03:56:53.460]  Val: I don't know.
+[03:56:53.460 --> 03:56:58.460]  Val: So, the BlueLeaks appeared on...
+[03:56:58.460 --> 03:57:01.460]  Val: Honestly, I don't know why you're going after Emma.
+[03:57:01.460 --> 03:57:03.460]  Val: I don't think she did it.
+[03:57:03.460 --> 03:57:05.460]  Val: First of all, I think she did the Cayman one.
+[03:57:05.460 --> 03:57:06.460]  Val: I don't think he did BlueLeaks.
+[03:57:06.460 --> 03:57:08.460]  Val: BlueLeaks was...
+[03:57:08.460 --> 03:57:11.460]  Val: But you know, and I'm sure you know,
+[03:57:11.460 --> 03:57:15.460]  Val: and I'm sure you know that your computer systems are outdated.
+[03:57:15.460 --> 03:57:16.460]  Val: Right?
+[03:57:16.460 --> 03:57:17.460]  Val: Okay?
+[03:57:17.460 --> 03:57:19.460]  Val: They're fucking really outdated, right?
+[03:57:19.460 --> 03:57:22.460]  Val: And the FBI's computer systems are outdated.
+[03:57:22.460 --> 03:57:25.460]  Val: What do you think the local sheriff's fucking office in Minnesota
+[03:57:25.460 --> 03:57:28.460]  Val: is still running, like, Windows NT, right?
+[03:57:28.460 --> 03:57:31.460]  Val: So, it's not difficult, you know?
+[03:57:31.460 --> 03:57:34.460]  Val: And I think it's consortium.
+[03:57:34.460 --> 03:57:37.460]  Val: My personal opinion, based on no evidence at all,
+[03:57:37.460 --> 03:57:42.460]  Val: is that a consortium hackers was pissed off about the...
+[03:57:42.460 --> 03:57:44.460]  Val: the Black Lives Matter, I think, cause fuck the police
+[03:57:44.460 --> 03:57:46.460]  Val: and here's the revenge.
+[03:57:46.460 --> 03:57:49.460]  Val: I don't think it was, you know,
+[03:57:49.460 --> 03:57:51.460]  Val: politically motivated by...
+[03:57:51.460 --> 03:57:56.460]  Val: motivated by some, like, left-wing George Soros fucking thing.
+[03:57:56.460 --> 03:57:58.460]  Val: You know, conspiracy theory, right?
+[03:57:58.460 --> 03:58:00.460]  Val: Just angry kids, you know?
+[03:58:00.460 --> 03:58:01.460]  Val: That's it.
+[03:58:01.460 --> 03:58:02.460]  Val: That's right.
+[03:58:02.460 --> 03:58:03.460]  Val: But I could be wrong.
+[03:58:03.460 --> 03:58:05.460]  Val: I'm often wrong.
+[03:58:05.460 --> 03:58:07.460]  Fed: So, you don't think Emma Best's behind that
+[03:58:07.460 --> 03:58:09.460]  Fed: But she's behind Cayman Islands and what else?
+[03:58:09.460 --> 03:58:11.460]  Val: I personally, I think, Cayman yes.
+[03:58:11.460 --> 03:58:15.460]  Val: Because just her reaction to my asking for the 100,000
+[03:58:15.460 --> 03:58:18.460]  Val: in Bitcoin, Deutsche Bank, was sort of tipped me off.
+[03:58:18.460 --> 03:58:21.460]  Val: You don't react like that if you're just the middle person.
+[03:58:21.460 --> 03:58:23.460]  Fed: Interesting.
+[03:58:23.460 --> 03:58:26.460]  Fed: Yeah, because she doesn't want to share it, though.
+[03:58:26.460 --> 03:58:27.460]  Val: Yeah.
+[03:58:27.460 --> 03:58:31.460]  Fed: There's a prize attached to it, so...
+[03:58:31.460 --> 03:58:32.460]  Fed: so there was...
+[03:58:32.460 --> 03:58:33.460]  Fed: so that...
+[03:58:33.460 --> 03:58:35.460]  Fed: you said there was, like, a lot of discussion about who...
+[03:58:35.460 --> 03:58:37.460]  Fed: or who did the Cayman thing that there was a lot of discussion
+[03:58:37.460 --> 03:58:39.460]  Fed: in the group of who...
+[03:58:39.460 --> 03:58:40.460]  Val: Yeah.
+[03:58:40.460 --> 03:58:44.460]  Fed: But just for the Caymans thing right now, so...
+[03:58:44.460 --> 03:58:46.460]  Val: Well, Formations House as well.
+[03:58:46.460 --> 03:58:48.460]  Val: I've done it before.
+[03:58:48.460 --> 03:58:51.460]  Val: But actually, there was no discussion.
+[03:58:51.460 --> 03:58:52.460]  Val: That's interesting.
+[03:58:52.460 --> 03:58:53.460]  Val: You have a good point.
+[03:58:53.460 --> 03:58:55.460]  Val: Yeah, there was no discussion for Formation House.
+[03:58:55.460 --> 03:58:57.460]  Val: That means that Emma already knew who did it.
+[03:58:57.460 --> 03:58:58.460]  Fed: Oh, yeah.
+[03:58:58.460 --> 03:59:00.460]  Val: So that's why it's the way I take out statements.
+[03:59:00.460 --> 03:59:01.460]  Fed: Yeah.
+[03:59:01.460 --> 03:59:03.460]  Val: But since there was a lot of discussion for, like,
+[03:59:03.460 --> 03:59:06.460]  Val: Caymans, that means no one really knew who did it.
+[03:59:06.460 --> 03:59:08.460]  Fed: Who did Formations House?
+[03:59:08.460 --> 03:59:09.460]  Val: I don't know.
+[03:59:09.460 --> 03:59:10.460]  Val: It wasn't you.
+[03:59:10.460 --> 03:59:11.460]  Val: I just joined the...
+[03:59:11.460 --> 03:59:12.460]  Val: the thing in the...
+[03:59:12.460 --> 03:59:14.460]  Val: well, Marie was stuck in France,
+[03:59:14.460 --> 03:59:16.460]  Val: so that was the summer of last year.
+[03:59:16.460 --> 03:59:18.460]  Val: That's when that happened.
+[03:59:18.460 --> 03:59:20.460]  Val: But I did tell Tim Jammi? like,
+[03:59:20.460 --> 03:59:22.460]  Val: hey, new data.
+[03:59:22.460 --> 03:59:23.460]  Val: You know?
+[03:59:23.460 --> 03:59:24.460]  Fed: Yeah.
+[03:59:24.460 --> 03:59:26.460]  Val: And, oh, God, oh, the whip, yeah.
+[03:59:26.460 --> 03:59:28.460]  Val: Okay, so I...
+[03:59:28.460 --> 03:59:30.460]  Val: at this point, I'm, everyone knows,
+[03:59:30.460 --> 03:59:32.460]  Val: I was working with the FBI, the source.
+[03:59:32.460 --> 03:59:33.460]  Val: Well, Emma said to me,
+[03:59:33.460 --> 03:59:36.460]  Val: I need you to relay a message to the FBI.
+[03:59:36.460 --> 03:59:37.460]  Val: I was like, what?
+[03:59:37.460 --> 03:59:39.460]  Val: She said, yes, I want you to give these guys a message.
+[03:59:39.460 --> 03:59:40.460]  Val: Okay.
+[03:59:40.460 --> 03:59:42.460]  Val: She's like, tell them about Formation Towns.
+[03:59:42.460 --> 03:59:45.460]  Val: I want you to give them a list of people you've...
+[03:59:45.460 --> 03:59:46.460]  Val: that are...
+[03:59:46.460 --> 03:59:47.460]  Val: and I have it.
+[03:59:47.460 --> 03:59:48.460]  Val: I can give you the email.
+[03:59:48.460 --> 03:59:50.460]  Val: I'll just forward it to you when I get a chance.
+[03:59:50.460 --> 03:59:51.460]  Val: Remind me, text me.
+[03:59:51.460 --> 03:59:52.460]  Val: I don't forget.
+[03:59:52.460 --> 03:59:54.460]  Val: And I gave it to Tim.
+[03:59:54.460 --> 03:59:55.460]  Val: I gave it to Jeremy.[???]
+[03:59:55.460 --> 03:59:56.460]  Val: And they were not...
+[03:59:56.460 --> 03:59:57.460]  Val: they were like, okay, great.
+[03:59:57.460 --> 03:59:58.460]  Val: We don't really care.
+[03:59:58.460 --> 03:59:59.460]  Val: Like, give one to a Deutsche Bank.
+[03:59:59.460 --> 04:00:01.460]  Val: We don't care about Formation Towns.
+[04:00:01.460 --> 04:00:04.460]  Val: And Emma felt like she was not heard by the FBI
+[04:00:04.460 --> 04:00:06.460]  Val: because she wanted to help,
+[04:00:06.460 --> 04:00:08.460]  Val: but she was not heard.
+[04:00:08.460 --> 04:00:09.460]  Val: She was offering help.
+[04:00:09.460 --> 04:00:12.460]  Val: She said, look, I'll give you guys the data.
+[04:00:12.460 --> 04:00:13.460]  Val: You have a time limit.
+[04:00:13.460 --> 04:00:15.460]  Val: That's why it's going to go live in a month.
+[04:00:15.460 --> 04:00:18.460]  Val: I'll give you three months to find the information.
+[04:00:18.460 --> 04:00:20.460]  Val: I'll forward it to you.
+[04:00:20.460 --> 04:00:21.460]  Fed: Okay.
+[04:00:21.460 --> 04:00:23.460]  Fed: I'm just writing a line to someone to text you.
+[04:00:23.460 --> 04:00:24.460]  Val: Yeah.
+[04:00:24.460 --> 04:00:26.460]  Fed: I don't know if we got it.
+[04:00:26.460 --> 04:00:28.460]  Fed: That's what I'm writing.
+[04:00:28.460 --> 04:00:30.460]  Fed: Okay.
+[04:00:30.460 --> 04:00:31.460]  Fed: All right.
+[04:00:31.460 --> 04:00:33.460]  Fed: Any other signal groups that...
+[04:00:33.460 --> 04:00:35.460]  Fed: that you're part of that talk about hacking?
+[04:00:35.460 --> 04:00:36.460]  Val: Yeah.
+[04:00:36.460 --> 04:00:37.460]  Val: Well, they're all...
+[04:00:37.460 --> 04:00:39.460]  Val: I mean, all the varied groups.
+[04:00:39.460 --> 04:00:41.460]  Val: I call them varied groups, but they're all, like, off-shoots.
+[04:00:41.460 --> 04:00:42.460]  Fed: Oh, ok.
+[04:00:42.460 --> 04:00:44.460]  Val: The Formations House one is still like this.
+[04:00:44.460 --> 04:00:46.460]  Val: But, you know, it's like...
+[04:00:46.460 --> 04:00:48.460]  Val: Well, I mean, no one's really posted for like,
+[04:00:48.460 --> 04:00:49.460]  Val: like seven months.
+[04:00:49.460 --> 04:00:50.460]  Val: Still there.
+[04:00:50.460 --> 04:00:51.460]  Fed: Okay.
+[04:00:51.460 --> 04:00:53.460]  Val: And I created a few groups of my own, you know,
+[04:00:53.460 --> 04:00:55.460]  Val: a Deutsche Bank group.
+[04:00:55.460 --> 04:00:56.460]  Val: Journalists like a Luke Harding
+[04:00:56.460 --> 04:00:58.460]  Val: and bunch of other journalists.
+[04:00:58.460 --> 04:01:00.460]  Val: Oh, and every...
+[04:01:00.460 --> 04:01:01.460]  Val: there's every...
+[04:01:01.460 --> 04:01:03.460]  Val: once in a while, there's like a fun star chamber
+[04:01:03.460 --> 04:01:06.460]  Val: where you get someone and everyone's going to stop at
+[04:01:06.460 --> 04:01:09.460]  Val: and we put them in a group, you know, and we just sort of tap.
+[04:01:09.460 --> 04:01:11.460]  Val: You know, see what they say.
+[04:01:11.460 --> 04:01:12.460]  Fed: Yeah.
+[04:01:12.460 --> 04:01:14.460]  Val: Well, like Louise Mensch, she put her in a group
+[04:01:14.460 --> 04:01:16.460]  Val: and he started, you know, what the fuck are you doing?
+[04:01:16.460 --> 04:01:18.460]  Val: Why did you say this about Scott's father?
+[04:01:18.460 --> 04:01:19.460]  Val: Scott Steadman's father is a cop.
+[04:01:19.460 --> 04:01:20.460]  Fed: Oh.
+[04:01:20.460 --> 04:01:21.460]  Val: She doxxed me.
+[04:01:21.460 --> 04:01:22.460]  Fed: Oh.
+[04:01:22.460 --> 04:01:23.460]  Val: What the fuck are you doing?
+[04:01:23.460 --> 04:01:24.460]  Val: Why are you going after his father?
+[04:01:24.460 --> 04:01:26.460]  Val: You know, she's like, well, he's a Russian spy.
+[04:01:26.460 --> 04:01:27.460]  Val: You know, you're just fucking crazy.
+[04:01:27.460 --> 04:01:29.460]  Val: Do you understand what you're fucking doing?
+[04:01:29.460 --> 04:01:30.460]  Val: That's weird.
+[04:01:30.460 --> 04:01:31.460]  Fed: Yeah.
+[04:01:31.460 --> 04:01:32.460]  Val: I think...
+[04:01:32.460 --> 04:01:34.460]  Val: Like, David Enrich was supposed to be in one
+[04:01:34.460 --> 04:01:37.460]  Val: right before COVID, the next guy.
+[04:01:37.460 --> 04:01:38.460]  Val: It was a prize.
+[04:01:38.460 --> 04:01:40.460]  Val: It was a present for me.
+[04:01:40.460 --> 04:01:43.460]  Fed: It's like a little beat down room.
+[04:01:43.460 --> 04:01:44.460]  Val: Yeah.
+[04:01:44.460 --> 04:01:45.460]  Fed: That's weird.
+[04:01:45.460 --> 04:01:47.460]  Fed: Hey, what are you talking about?
+[04:01:47.460 --> 04:01:48.460]  Fed: What are you talking about?
+[04:01:48.460 --> 04:01:49.460]  Fed: I'm talking about you.
+[04:01:49.460 --> 04:01:50.460]  Fed: What?
+[04:01:50.460 --> 04:01:51.460]  Fed: Cool.
+[04:01:51.460 --> 04:01:53.460]  Fed: Anything else that I missed?
+[04:01:53.460 --> 04:01:55.460]  Fed: Anything else that you think that...
+[04:01:55.460 --> 04:01:56.460]  Val: Yes.
+[04:01:56.460 --> 04:01:57.460]  Val: Tons of stuff
+[04:01:57.460 --> 04:01:58.460]  Val: I can't remember all I have.
+[04:01:58.460 --> 04:01:59.460]  Fed: Yeah, sure.
+[04:01:59.460 --> 04:02:01.460]  Val: But if you ask me
+[04:02:01.460 --> 04:02:03.460]  Val: If I remember...
+[04:02:03.460 --> 04:02:05.460]  Val: I just...
+[04:02:05.460 --> 04:02:07.460]  Val: I will remember it.
+[04:02:07.460 --> 04:02:09.460]  Val: I have to be in a mindset.
+[04:02:09.460 --> 04:02:10.460]  Fed: Sure.
+[04:02:10.460 --> 04:02:12.460]  Val: You know, I mean, like...
+[04:02:12.460 --> 04:02:14.460]  Val: your memory is...
+[04:02:14.460 --> 04:02:15.460]  Fed: Yeah.
+[04:02:16.460 --> 04:02:18.460]  Fed: Yeah, if I was going to ask you about something very specific.
+[04:02:18.460 --> 04:02:20.460]  Fed: You could recall more about them.
+[04:02:20.460 --> 04:02:21.460]  Fed: Tell me everything you know about everything.
+[04:02:21.460 --> 04:02:23.460]  Val: And right now, I'm like a...
+[04:02:23.460 --> 04:02:24.460]  Val: I'm not even active anymore.
+[04:02:24.460 --> 04:02:26.460]  Val: I'm [???] stuff right now from my memory
+[04:02:26.460 --> 04:02:27.460]  Val: because I'm in this room.
+[04:02:27.460 --> 04:02:28.460]  Val: And I'm a little bit nervous.
+[04:02:28.460 --> 04:02:29.460]  Val: I'm a bit not nervous.
+[04:02:29.460 --> 04:02:31.460]  Val: So my brain is adapted to that point.
+[04:02:31.460 --> 04:02:33.460]  Val: So as soon as I walk out of the room,
+[04:02:33.460 --> 04:02:34.460]  Val: I'm like, oh, we're going to say that.
+[04:02:34.460 --> 04:02:35.460]  Fed: Yeah, yeah.
+[04:02:35.460 --> 04:02:36.460]  Val: You know what I mean?
+[04:02:36.460 --> 04:02:37.460]  Fed: Okay.
+[04:02:37.460 --> 04:02:38.460]  Fed: So...
+[04:02:38.460 --> 04:02:39.460]  Fed: Okay.
+[04:02:39.460 --> 04:02:40.460]  Fed: Anything else that...
+[04:02:40.460 --> 04:02:41.460]  Fed: Oh, in turn?
+[04:02:41.460 --> 04:02:42.460]  Fed: Yeah.
+[04:02:42.460 --> 04:02:43.460]  Fed: Okay.
+[04:02:43.460 --> 04:02:44.460]  Fed: Well, you still have my number so if like
+[04:02:44.460 --> 04:02:46.460]  Fed: you think of something that...
+[04:02:46.460 --> 04:02:48.460]  Fed: you think would be interested in, you know...
+[04:02:48.460 --> 04:02:49.460]  Fed: surely you can always let me know
+[04:02:49.460 --> 04:02:50.460]  Fed: and I can find a home for it.
+[04:02:50.460 --> 04:02:51.460]  Val: You think?
+[04:02:51.460 --> 04:02:53.460]  Val: And do you mean to prosecute?
+[04:02:53.460 --> 04:02:54.460]  Val: Do you mean to go after it?
+[04:02:54.460 --> 04:02:57.460]  Val: Do you mean to like to read that is...
+[04:02:57.460 --> 04:02:58.460]  Val: that needs to be stopped?
+[04:02:58.460 --> 04:02:59.460]  Val: Or would you say it's like,
+[04:02:59.460 --> 04:03:02.460]  Val: oh, there's some fun just in hacks happening?
+[04:03:02.460 --> 04:03:03.460]  Val: What do you mean?
+[04:03:03.460 --> 04:03:05.460]  Fed: I mean, all those things are...
+[04:03:05.460 --> 04:03:08.460]  Fed: I work a very narrow spectrum, right?
+[04:03:08.460 --> 04:03:09.460]  Fed: I work cyber-crime.
+[04:03:09.460 --> 04:03:10.460]  Val: Okay.
+[04:03:10.460 --> 04:03:11.460]  Val: But there's...
+[04:03:11.460 --> 04:03:12.460]  Val: You're fraud, though.
+[04:03:12.460 --> 04:03:13.460]  Fed: Yeah.
+[04:03:13.460 --> 04:03:15.460]  Fed: But there's also like counter-terrorism
+[04:03:15.460 --> 04:03:16.460]  Fed: or white collar crimes
+[04:03:16.460 --> 04:03:18.460]  Fed: or crimes against some children
+[04:03:18.460 --> 04:03:20.460]  Fed: and national security threats.
