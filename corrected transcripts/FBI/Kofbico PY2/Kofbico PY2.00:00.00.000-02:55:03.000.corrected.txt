@@ -5538,3 +5538,181 @@ Fed:[Asks something]
 [02:49:06.720 --> 02:49:09.160]  Val: Yeah, could we take a cigarette break or something?
 [02:49:09.160 --> 02:49:10.120]  Val: Is it okay?
 [02:49:10.120 --> 02:49:10.960]  Fed: Yeah.
+[02:49:10.960 --> 02:49:11.800]  Val: Yeah?
+[02:49:11.800 --> 02:49:14.640]  Val: All right, let's do it.
+[02:49:14.640 --> 02:49:16.480]  Fed: What do you want?
+[02:49:16.480 --> 02:49:17.760]  Val: No, no, no, I just...
+[02:49:17.760 --> 02:49:19.280]  Fed: Yeah, I want sandwiches, then.
+[02:49:19.280 --> 02:49:20.120]  Val: Really?
+[02:49:20.120 --> 02:49:20.960]  Val: Yeah.
+[02:49:20.960 --> 02:49:21.800]  Val: What kind of sandwich?
+[02:49:21.800 --> 02:49:23.320]  Fed: A sandwich or...
+[02:49:23.320 --> 02:49:24.160]  Val: Okay.
+[02:49:24.160 --> 02:49:26.160]  Val: Sure, well, yeah, I'd love one.
+[02:49:28.160 --> 02:49:29.360]  Val: Gratsen, that's nice.
+[02:49:29.360 --> 02:49:31.520]  Fed: I'll put on a mask or whatever.
+[02:49:31.520 --> 02:49:33.240]  Val: Oh, right, right, right, right, right.
+[02:49:35.720 --> 02:49:36.920]  Val: What was I gonna show you?
+[02:49:36.920 --> 02:49:39.600]  Fed: At the time, you're...
+[02:49:41.080 --> 02:49:44.560]  Val: Look, I don't know allegiance to these guys at all.
+[02:49:44.560 --> 02:49:47.520]  Val: I mean, they've just, they've become sort of friends, but,
+[02:49:48.520 --> 02:49:51.600]  Val: you know, as much as you can have a friend on that,
+[02:49:53.080 --> 02:49:56.840]  Val: that doesn't tell you anything about that, right?
+[02:49:56.840 --> 02:49:59.520]  Val: It's just sort of fun, more fun sort of.
+[02:50:02.200 --> 02:50:03.120]  Val: Like, you're in the workplace,
+[02:50:03.120 --> 02:50:05.840]  Val: you're not friends with all your workers, right?
+[02:50:05.840 --> 02:50:07.160]  Val: No, I don't feel right for now.
+[02:50:09.160 --> 02:50:11.480]  Fed: Oh, yeah, I'll hit the head, you know where it is, right?
+[02:50:11.480 --> 02:50:12.320]  Fed: Yeah, yeah, yeah, okay.
+[02:50:12.320 --> 02:50:13.320]  Fed: You guys are just gonna go...
+[02:50:13.320 --> 02:50:14.800]  Fed: But I'll wait for you, because you can't fit out.
+[02:50:14.800 --> 02:50:15.640]  Fed: Oh, that's right.
+[02:50:18.520 --> 02:50:22.600]  Val: So what's your specialty?
+[02:50:22.600 --> 02:50:24.720]  Fed: No, same, but I just happened to work in this office.
+[02:50:24.720 --> 02:50:25.560]  Val: In this office?
+[02:50:25.560 --> 02:50:27.920]  Fed: Right, so, if you say, like, laundry.
+[02:50:27.920 --> 02:50:28.760]  Val: Yeah?
+[02:50:28.760 --> 02:50:32.640]  Fed: Of course, he, you know, he flew here to speak to you,
+[02:50:32.640 --> 02:50:36.200]  Fed: so let him, let him, yeah, yeah, he flew here yesterday.
+[02:50:36.200 --> 02:50:37.120]  Val: I didn't know it was just for me,
+[02:50:37.120 --> 02:50:38.120]  Val: I just thought he was coming here
+[02:50:38.120 --> 02:50:39.240]  Val: and I wanted to speak to you while he was here.
+[02:50:39.240 --> 02:50:43.920]  Fed: Yeah, so, for me, like, when you're in management,
+[02:50:43.920 --> 02:50:45.840]  Fed: I'm like, oh, okay, like, a lot of these guys on the floor
+[02:50:45.840 --> 02:50:48.560]  Fed: do, like, business email compromise, and a lot of guys,
+[02:50:48.560 --> 02:50:49.400]  Fed: like...
+[02:50:49.400 --> 02:50:50.240]  Val: Did you, what?
+[02:50:50.240 --> 02:50:51.240]  Val: I didn't hear you.
+[02:50:51.240 --> 02:50:52.480]  Fed: Business email compromise?
+[02:50:52.480 --> 02:50:53.320]  Val: Oh, really?
+[02:50:53.320 --> 02:50:54.840]  Val: Yeah, I don't know, okay.
+[02:50:54.840 --> 02:50:55.960]  Val: That's easy, yeah.
+[02:50:55.960 --> 02:50:59.120]  Fed: Yeah, so, business email compromise, and then...
+[02:50:59.120 --> 02:51:00.080]  Val: Is that a term for it?
+[02:51:00.080 --> 02:51:01.280]  Val: Just business email compromise?
+[02:51:01.280 --> 02:51:02.440]  Val: There's a, I didn't know there was a term for it.
+[02:51:02.440 --> 02:51:03.880]  Fed: Yeah, so a lot of things out of Nigeria,
+[02:51:03.880 --> 02:51:05.200]  Fed: and it's just funny, when you mentioned
+[02:51:05.200 --> 02:51:07.280]  Fed: you're not lobbying, is there a thing like...
+[02:51:08.360 --> 02:51:09.720]  Fed: Yeah, one of our guys over here,
+[02:51:09.720 --> 02:51:13.120]  Fed: they just got someone out of, like, Dubai,
+[02:51:13.120 --> 02:51:14.080]  Fed: or something like that.
+[02:51:14.080 --> 02:51:14.920]  Val: Yeah, okay.
+[02:51:15.040 --> 02:51:15.880]  Val: Cool.
+[02:51:15.880 --> 02:51:19.200]  Fed: And they're digging into that versus something like,
+[02:51:19.200 --> 02:51:21.520]  Fed: they're specialty is, like, laundering,
+[02:51:21.520 --> 02:51:22.600]  Fed: laundering money, right?
+[02:51:22.600 --> 02:51:25.480]  Fed: So, like, romance, victim, romance scam victims,
+[02:51:25.480 --> 02:51:26.560]  Fed: like a victimized...
+[02:51:26.560 --> 02:51:28.480]  Val: Oh, yeah, I heard that.
+[02:51:28.480 --> 02:51:31.520]  Fed: Eventually, he gets out to, like, Canada, China,
+[02:51:31.520 --> 02:51:32.640]  Fed: or all these other countries,
+[02:51:32.640 --> 02:51:34.840]  Fed: and there's, like, a whole money mule network
+[02:51:34.840 --> 02:51:36.240]  Fed: that's, like, pretty tough to...
+[02:51:36.240 --> 02:51:37.080]  Val: Is it really?
+[02:51:37.080 --> 02:51:37.920]  Val: Is it like a company?
+[02:51:37.920 --> 02:51:39.080]  Val: Is it one person behind it, or is it...
+[02:51:39.080 --> 02:51:41.520]  Fed: No, no, no, it's all a loose connection, yeah.
+[02:51:41.520 --> 02:51:42.360]  Fed: Loose.
+[02:51:42.360 --> 02:51:43.200]  Val: Interesting.
+[02:51:43.200 --> 02:51:46.800]  Val: It's like a, like, a lead in welding connections
+[02:51:46.800 --> 02:51:50.960]  Val: sort of thing, like, there was a...
+[02:51:50.960 --> 02:51:52.960]  Fed: Basically, like, very, very...
+[02:51:52.960 --> 02:51:54.200]  Fed: And they all know each other in person,
+[02:51:54.200 --> 02:51:55.040]  Fed: that's the difference.
+[02:51:55.040 --> 02:51:55.880]  Val: Oh, they do?
+[02:51:55.880 --> 02:51:56.720]  Fed: They know each other, it's like,
+[02:51:56.720 --> 02:51:57.560]  Fed: oh, you know this guy?
+[02:51:57.560 --> 02:52:00.040]  Fed: He's leading, interested in, you know,
+[02:52:00.040 --> 02:52:03.080]  Fed: doing some work, opening bank accounts, and stuff like that.
+[02:52:03.080 --> 02:52:04.640]  Fed: Ah, I understand that, yeah.
+[02:52:04.640 --> 02:52:07.440]  Val: So, like, they're friends in Nigeria?
+[02:52:07.440 --> 02:52:09.440]  Fed: Or in the community?
+[02:52:09.440 --> 02:52:11.440]  Val: Shit, you know we did?
+[02:52:11.440 --> 02:52:14.400]  Val: Marie had to, like, this lawyer was such an asshole.
+[02:52:14.400 --> 02:52:18.040]  Val: He said, we need your narrative of your story ASAP for Monday. [Money?]
+[02:52:18.040 --> 02:52:21.120]  Val: So, I went on the Fiverr, and I tried to find it.
+[02:52:21.120 --> 02:52:21.960]  Fed: Oh, Fiverr.
+[02:52:21.960 --> 02:52:24.120]  Val: It's a narrative of Marie's story.
+[02:52:24.120 --> 02:52:25.320]  Fed: Fiverr.
+[02:52:25.320 --> 02:52:26.800]  Val: So, I went on Fiverr?
+[02:52:26.800 --> 02:52:27.640]  Fed: Oh, sure.
+[02:52:30.080 --> 02:52:31.080]  Val: I went on Fiverr.
+[02:52:31.080 --> 02:52:31.920]  Fed: Really?
+[02:52:31.920 --> 02:52:35.320]  Val: I found someone to do a live transcription
+[02:52:35.320 --> 02:52:36.800]  Val: and it's a Nigerian guy.
+[02:52:36.800 --> 02:52:40.120]  Val: He wanted to be paid in Bitcoin yesterday or tomorrow.
+[02:52:40.200 --> 02:52:42.960]  Val: And Marie says, no, I'm not gonna pay you that.
+[02:52:42.960 --> 02:52:45.440]  Val: And then he says, okay, and that's it.
+[02:52:45.440 --> 02:52:50.440]  Val: So, I'm thinking, well, he just got all of Marie's
+[02:52:50.440 --> 02:52:52.440]  Val: information since she was a child.
+[02:52:52.440 --> 02:52:55.440]  Val: So, he should probably pay the guy, right?
+[02:52:55.440 --> 02:52:57.280]  Val: It's a new scam, I think.
+[02:52:57.280 --> 02:52:58.560]  Val: You're doing transcription services,
+[02:52:58.560 --> 02:53:01.360]  Val: get your private data, and then sell that data.
+[02:53:01.360 --> 02:53:02.960]  Fed: Yeah, yeah, yeah, yeah, yeah.
+[02:53:02.960 --> 02:53:04.480]  Fed: Nigerian's committing fraud.
+[02:53:04.480 --> 02:53:05.320]  Fed: What do you mean?
+[02:53:07.320 --> 02:53:10.080]  Val: Like crazy, you know, connoisseurs, yes.
+[02:53:10.080 --> 02:53:13.920]  Fed: I mean, they're in that rush, they're doing good stuff.
+[02:53:15.480 --> 02:53:17.800]  Val: Why isn't that, why is that the hotbed here,
+[02:53:17.800 --> 02:53:19.320]  Val: criminal activity?
+[02:53:19.320 --> 02:53:22.240]  Fed: I don't know, it's what's called like training, you know?
+[02:53:22.240 --> 02:53:23.080]  Fed: Training stuff.
+[02:53:23.080 --> 02:53:23.920]  Fed: You're gonna wait here real quick?
+[02:53:23.920 --> 02:53:24.760]  Fed: Okay.
+[02:53:26.360 --> 02:53:28.320]  Fed: You think they train each other and like,
+[02:53:28.320 --> 02:53:29.960]  Fed: you know, it's like, hey, you know,
+[02:53:29.960 --> 02:53:31.640]  Fed: you grow up with all these people and like,
+[02:53:31.640 --> 02:53:33.840]  Fed: hey, you want to make a cash and then they say,
+[02:53:33.840 --> 02:53:35.840]  Fed: all you gotta do is you send out these emails,
+[02:53:35.840 --> 02:53:37.640]  Fed: there's this script and whatever,
+[02:53:37.640 --> 02:53:39.080]  Fed: and then they teach other people.
+[02:53:40.200 --> 02:53:42.720]  Fed: It's like any other criminal organization.
+[02:53:42.720 --> 02:53:44.240]  Fed: That's the way it works, it's all good.
+[02:53:44.240 --> 02:53:46.000]  Fed: Right now, I guess they're,
+[02:53:46.000 --> 02:53:47.120]  Fed: I haven't been looking around right here,
+[02:53:47.120 --> 02:53:48.880]  Fed: but they're like in protest right now?
+[02:53:48.880 --> 02:53:49.720]  Fed: Oh, really?
+[02:53:49.720 --> 02:53:52.200]  Fed: I don't see anything, so Pat's gonna cut it off.
+[02:53:52.200 --> 02:53:53.040]  Fed: I'm gonna say there's no, like,
+[02:53:53.040 --> 02:53:54.800]  Fed: see any signers or whatever.
+[02:53:54.800 --> 02:53:56.440]  Val: Yeah, that'd be bad.
+[02:53:56.440 --> 02:53:57.280]  Fed: Yeah, exactly.
+[02:53:57.280 --> 02:53:58.280]  Val: Yeah, I don't know why that.
+[02:53:58.280 --> 02:53:59.120]  Fed: Yeah.
+[02:54:01.320 --> 02:54:02.640]  Fed: Huh.
+[02:54:02.640 --> 02:54:03.840]  Val: Where are they protesting?
+[02:54:05.000 --> 02:54:06.440]  Val: There's the answer, you know?
+[02:54:08.280 --> 02:54:09.800]  Val: Don't join, Val.
+[02:54:09.840 --> 02:54:11.320]  Val: Don't do it, don't do it.
+[02:54:12.720 --> 02:54:14.800]  Val: You guys get a bad rap, you know?
+[02:54:14.800 --> 02:54:16.760]  Val: Like seriously, I was like everybody else
+[02:54:16.760 --> 02:54:18.520]  Val: until I met Tim and Jammy.
+[02:54:18.520 --> 02:54:19.360]  Fed: Yeah.
+[02:54:19.360 --> 02:54:20.200]  Val: And then I was like, you know,
+[02:54:20.200 --> 02:54:23.040]  Val: I can't believe I considered you guys [unintelligible] guys.
+[02:54:23.040 --> 02:54:25.120]  Fed: What are you doing here, dude?
+[02:54:25.120 --> 02:54:27.760]  Fed: You just being careful on me, yeah.
+[02:54:27.760 --> 02:54:29.680]  Val: How'd you guys get started on this?
+[02:54:29.680 --> 02:54:31.920]  Fed: I don't know, I just started a little while ago.
+[02:54:31.920 --> 02:54:33.440]  Fed: I always wanted to do it as a kid.
+[02:54:33.440 --> 02:54:34.280]  Val: Yeah?
+[02:54:34.280 --> 02:54:35.520]  Fed: Here I am, so I'm talking to Dad.
+[02:54:35.520 --> 02:54:36.840]  Val: Did you good do the whole training
+[02:54:36.840 --> 02:54:38.840]  Val: and either you taught you everything now
+[02:54:38.880 --> 02:54:40.000]  Val: or did you know before?
+[02:54:40.000 --> 02:54:41.000]  Fed: Not much, not much.
+[02:54:42.560 --> 02:54:44.360]  Fed: Oh, for the computer stuff I went to,
+[02:54:44.360 --> 02:54:45.880]  Fed: my degree is in there.
+[02:54:45.880 --> 02:54:46.720]  Val: Oh, it is?
+[02:54:46.720 --> 02:54:47.560]  Fed: I don't know about that.
+[02:54:47.560 --> 02:54:49.960]  Fed: I'm like, oh no, but yeah,
+[02:54:49.960 --> 02:54:51.200]  Fed: [unintelligible] I want to do it as a kid
+[02:54:51.200 --> 02:54:54.600]  Fed: and then easily enough, you just apply online, everything.
+[02:54:54.600 --> 02:54:55.640]  Val: Yeah.
+[02:54:55.640 --> 02:54:58.400]  Fed: Yeah, so it's not like you know a guy or whatever.
+[02:54:58.400 --> 02:54:59.760]  Fed: No, that's cool, that's cool.
+[02:54:59.760 --> 02:55:00.600]  Val: Interesting.
+[02:55:00.600 --> 02:55:01.440]  Fed: How lucky.
+[02:55:01.440 --> 02:55:03.000]  Fed: That's good.
