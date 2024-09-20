@@ -3,8 +3,8 @@
 Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit) meeting with and speaking to FBI agents. 
 
 ## As-is
- * The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent, and is provided as-is.
- * The NYT audio files were too large to upload to GitHub, so they were split evenly by time. The original versions were uploaded as [podcasts](https://podcasters.spotify.com/pod/show/thenewenthusiasts/) before being downloaded again.
+ * The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent by Rocco Castoro, and is provided as-is.
+ * The NYT audio files were too large to upload to GitHub, so they were split evenly by time. The original versions were uploaded as [podcasts](https://podcasters.spotify.com/pod/show/thenewenthusiasts/).
 
 # Transcription process
 
@@ -26,21 +26,21 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## Val's families
  * Alla Broeksmit (disowned Val)
  * Bill Broeksmit (suicide)
- * Valentin "Val" Broeksmit
+ * [Valentin "Val" Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
  * Marie Peter-Toltz
  * Marlowe Peter-Toltz (minor)
- * Steve Toltz (Marie's ex, described in negative terms)
+ * [Steve Toltz](https://en.wikipedia.org/wiki/Steve_Toltz) (Marie's ex, described in negative terms)
 
 ## Journalists
- * Emma Best
- * Barrett Brown
+ * [Emma Best](https://en.wikipedia.org/wiki/Emma_Best_(journalist))
+ * [Barrett Brown](https://en.wikipedia.org/wiki/Barrett_Brown)
  * Rocco Castoro
  * David Enrich
- * OCCRP (mispronounced OCCP)
+ * [OCCRP](https://en.wikipedia.org/wiki/Organized_Crime_and_Corruption_Reporting_Project) (mispronounced OCCP)
  * Scott Steadman
 
 ## Legal
- * Sabah Habte (DCFS)
+ * Saba Habte (DCFS)
  * Mike Kratzmer
  * John Moscow
  * Dorothy Gibbons White
@@ -49,7 +49,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## Locals
  * Ashley Madison (building management?) 
  * Nordeem (head of Lila? school)
- * Lori Roth DOB: 01/17/1960
+ * Lori Roth DOB: 01/17/1950
  * Patel? Saajtian Patille?
  * Stosh [sic] 
  * Serrat?

@@ -1,100 +1,44 @@
-[00:00.000 --> 00:04.000]  Val: Hello? Hello? Uh, hello?
-[00:04.000 --> 00:06.000]  Ko: Hello, this is David.
-[00:06.000 --> 00:08.000]  Val: Uh, hello? Oh, let me just turn this off. Hello?
-[00:08.000 --> 00:10.000]  Val: Uh, David, uh, David Ho?
-[00:10.000 --> 00:12.000]  Ko: Uh, David Ko, yeah.
-[00:12.000 --> 00:14.000]  Val: Oh, Ko, the K, sorry.
-[00:14.000 --> 00:16.000]  Val: Hold on, let me just turn this thing off.
-[00:16.000 --> 00:18.000]  Val: Okay. Hi, how's it going?
-[00:18.000 --> 00:22.000]  Val: Uh, you're Tim's, uh, you're the FBI LA, right?
-[00:22.000 --> 00:24.000]  Ko: Right, right.
-[00:24.000 --> 00:28.000]  Val: Okay, cool. Great. Um, so did Tim tell you what was going on?
-[00:28.000 --> 00:32.000]  Ko: Not much. He just said that, uh, he has some issues.
-[00:32.000 --> 00:36.000]  Ko: And, um, we're like, we've done some stuff with other people.
-[00:36.000 --> 00:39.000]  Ko: Um, and it sounds like some of the same issues
-[00:39.000 --> 00:42.000]  Ko: with, um, child care and things like that.
-Val: Yeah. 
-[00:42.000 --> 00:44.000]  Ko: Um, so anyway, I'm going to get a little bit more
-[00:44.000 --> 00:46.000]  Ko: information from you and see what we can do to help.
-[00:46.000 --> 00:48.000]  Val: Sure. Sure, absolutely.
-[00:48.000 --> 00:52.000]  Val: Uh, so David, are you, um, are you like an attorney
-[00:52.000 --> 00:55.000]  Val: or with the FBI? What's your, what's your role?
-[00:55.000 --> 00:57.000]  Ko: No, I'm an agent just like Tim is.
-[00:57.000 --> 00:59.000]  Val: Oh, a special agent. Okay. Cool.
-[00:59.000 --> 01:02.000]  Val: Are you guys in the same, are you like, is there any difference
-[01:02.000 --> 01:06.000]  Val: or did I, you could tell me DC three?
-[01:06.000 --> 01:08.000]  Ko: Uh, I'm sorry, say that one more time.
-[01:08.000 --> 01:10.000]  Val: Are you in DC three?
-[01:10.000 --> 01:14.000]  Ko: So he's, he's out in New York and I'm, well, I'm actually
-[01:14.000 --> 01:18.000]  Ko: based out of another office, but, uh, I'm working with the FBI LA.
-[01:18.000 --> 01:23.000]  Ko: So, um, I'll actually be in LA, um, actually on Tuesday,
-[01:23.000 --> 01:29.000]  Ko: Tuesday night and then, um, 
+[00:00.000]  Val: Hello? Hello? Uh, hello?
+[00:04.000]  Ko: Hello, this is David.
+[00:06.000]  Val: Uh, hello? Oh, let me just turn this off. Hello? Uh, David, uh, David Ho?
+[00:10.000]  Ko: Uh, David Ko, yeah.
+[00:12.000]  Val: Oh, Ko, the K, sorry. Hold on, let me just turn this thing off. Okay. Hi, how's it going? Uh, you're Tim's, uh, you're the FBI LA, right?
+[00:22.000]  Ko: Right, right.
+[00:24.000]  Val: Okay, cool. Great. Um, so did Tim tell you what was going on?
+[00:28.000]  Ko: Not much. He just said that, uh, he has some issues. And, um, we're like, we've done some stuff with other people. Um, and it sounds like some of the same issues with, um, child care and things like that.
+Val: Yeah.  Um, so anyway, I'm going to get a little bit more information from you and see what we can do to help.
+[00:46.000]  Val: Sure. Sure, absolutely. Uh, so David, are you, um, are you like an attorney or with the FBI? What's your, what's your role?
+[00:55.000]  Ko: No, I'm an agent just like Tim is.
+[00:57.000]  Val: Oh, a special agent. Okay. Cool.
+[00:59.000]  Val: Are you guys in the same, are you like, is there any difference or did I, you could tell me DC three?
+[01:06.000]  Ko: Uh, I'm sorry, say that one more time.
+[01:08.000]  Val: Are you in DC three?
+[01:10.000]  Ko: So he's, he's out in New York and I'm, well, I'm actually based out of another office, but, uh, I'm working with the FBI LA. So, um, I'll actually be in LA, um, actually on Tuesday, Tuesday night and then, um, 
 Val: are you the agent from Houston?
-[01:29.000 --> 01:31.000]  Ko: Yeah. Yeah.
-[01:31.000 --> 01:32.000]  Val: Okay. So what happened then?
-[01:32.000 --> 01:35.000]  Val: So Tim told me he got a call from you.
-[01:35.000 --> 01:37.000]  Val: I didn't know that you were the agent Houston till just now.
-[01:37.000 --> 01:41.000]  Val: And then you were interviewing him with a third party on the
-[01:41.000 --> 01:44.000]  Val: line and what woman named Sabah Hapta.
-[01:44.000 --> 01:46.000]  Ko: I don't know anything about that.
-[01:46.000 --> 01:48.000]  Ko: Oh, wow. Okay.
-[01:48.000 --> 01:50.000]  Ko: He's talking about something else.
-[01:50.000 --> 01:53.000]  Ko: He didn't tell me anything about who's Shabah Hapta.
-[01:53.000 --> 01:55.000]  Ko: Should I know what Shabah Hapta is?
-[01:55.000 --> 01:58.000]  Val: Uh, yeah, yeah. She's the evil DCS DCFS woman.
-[01:58.000 --> 02:00.000]  Ko: Oh, okay.
-[02:00.000 --> 02:06.000]  Ko: So I, I don't know who, so I know, I know there was some DCFS person.
-[02:06.000 --> 02:07.000]  Ko: I didn't realize that.
-[02:07.000 --> 02:08.000]  Ko: Okay.
-[02:08.000 --> 02:11.000]  Ko: So Shabah Hapta is the DCFS agent.
-[02:11.000 --> 02:12.000]  Val: Yeah.
-[02:12.000 --> 02:13.000]  Val: Sabah.
-[02:13.000 --> 02:17.000]  Val: It's a, it's S-A-B-A-H-A.
-[02:17.000 --> 02:22.000]  Val: It's like hate, but with a B, H-A-B-T-E.
-[02:22.000 --> 02:26.000]  Ko: Okay. S-A-B-A-H-A-B-T-E.
-[02:26.000 --> 02:27.000]  Val: That's correct. Yeah.
-[02:27.000 --> 02:33.000]  Val: She's with DCFS and she, um, well, look, I'll give you the quick version.
-[02:33.000 --> 02:39.000]  Val: Um, my girlfriend Marie, which, um, uh, Jam, you know, Jammy, Jammy Tam?
-[02:39.000 --> 02:42.000]  Ko: I can't, can't say I do. Who's jammy tam?
-[02:42.000 --> 02:45.000]  Val: Uh, he's also agent out in New York, SDNY.
-[02:45.000 --> 02:46.000]  Ko: Oh, that's right.
-[02:46.000 --> 02:47.000]  Val: Yeah.
-[02:47.000 --> 02:50.000]  Ko: So I, I've heard of the name. I actually have never talked to jammy.
-[02:50.000 --> 02:52.000]  Ko: I talked with Tim just once.
-[02:52.000 --> 02:54.000]  Val: Oh, okay. Well, they're both, they're all good people.
-[02:54.000 --> 02:57.000]  Val: And Carmen, you probably, you probably don't know Carmen either.
-[02:57.000 --> 03:02.000]  Val: But, you know, I've been working with them on, they told you what I've been doing, right?
-[03:02.000 --> 03:04.000]  Ko: Right. Some stuff in Deutsche Bank?
-[03:04.000 --> 03:05.000]  Val: Yes. There you go.
-[03:05.000 --> 03:06.000]  Val: Deutsche Bank.
-[03:06.000 --> 03:07.000]  Ko: Uh-huh.
-[03:07.000 --> 03:09.000]  Val: Just, you know, catching the bad guys basically.
-[03:09.000 --> 03:15.000]  Val: Um, so, and they did a favor for me a while ago where, uh, Marie and her son, uh, Marlowe
-[03:15.000 --> 03:18.000]  Val: who's 8 years old. Um, they need to get their--
-[03:18.000 --> 03:21.000]  Val: Well, see, Marie's going through this very contentious divorce.
-[03:21.000 --> 03:25.000]  Val: Um, the ex-husband's not a good guy kind of divorce, you know.
-[03:25.000 --> 03:29.000]  Val: And, uh, and, uh, so she needed to divorce him.
-[03:29.000 --> 03:32.000]  Val: And she, the only way she could was to get off his visa.
-[03:32.000 --> 03:35.000]  Val: Um, and he tried everything he could to not allow that to happen.
-[03:35.000 --> 03:38.000]  Val: But fortunately Jammy and Tim and Carmen made it happen.
-[03:38.000 --> 03:40.000]  Val: So she, she got off his visa.
-[03:40.000 --> 03:43.000]  Val: She has her own visa with Marlowe on it.
-[03:43.000 --> 03:50.000]  Val: Um, but, uh, now that divorce proceedings has started, have started, he has escalated
-[03:50.000 --> 03:52.000]  Val: dramatically, dramatically so.
-[03:52.000 --> 04:01.000]  Val: Um, including his escalation, now the short version is he's launched a full on attack
-[04:01.000 --> 04:03.000]  Val: on myself as the boyfriend.
-[04:03.000 --> 04:07.000]  Val: And Marie obviously is the, uh, is the ex-wife.
-[04:08.000 --> 04:14.000]  Val: He's the kind of guy that would rather see the world burn than lose Marie's attention.
-[04:14.000 --> 04:15.000]  Val: Does that make sense?
-[04:15.000 --> 04:16.000]  Val: You know the types?
-[04:16.000 --> 04:17.000]  Ko: Sure.
-[04:17.000 --> 04:18.000]  Val: Okay.
-[04:18.000 --> 04:19.000]  Ko: Unfortunately, I know a couple, but.
-[04:19.000 --> 04:20.000]  Ko: You know how it is.
-[04:20.000 --> 04:21.000]  Val: Yeah, I do.
-[04:21.000 --> 04:22.000]  Val: I do.
-[04:22.000 --> 04:26.000]  Val: It's unfortunate, especially when, uh, especially here in this case, because there's an eight
-[04:26.000 --> 04:30.000]  Val: year old, like he, the sort of person doesn't, uh, put the child first.
+[01:29.000]  Ko: Yeah. Yeah.
+[01:31.000]  Val: Okay. So what happened then? So Tim told me he got a call from you. I didn't know that you were the agent Houston till just now. And then you were interviewing him with a third party on the line and what woman named Sabah Hapta.
+[01:44.000]  Ko: I don't know anything about that. Oh, wow. Okay. He's talking about something else. He didn't tell me anything about who's Shabah Hapta. Should I know what Shabah Hapta is?
+[01:55.000]  Val: Uh, yeah, yeah. She's the evil DCS DCFS woman.
+[01:58.000]  Ko: Oh, okay. So I, I don't know who, so I know, I know there was some DCFS person. I didn't realize that. Okay. So Shabah Hapta is the DCFS agent.
+[02:11.000]  Val: Yeah. Sabah. It's a, it's S-A-B-A-H-A. It's like hate, but with a B, H-A-B-T-E.
+[02:22.000]  Ko: Okay. S-A-B-A-H-A-B-T-E.
+[02:26.000]  Val: That's correct. Yeah. She's with DCFS and she, um, well, look, I'll give you the quick version. Um, my girlfriend Marie, which, um, uh, Jam, you know, Jammy, Jammy Tam?
+[02:39.000]  Ko: I can't, can't say I do. Who's jammy tam?
+[02:42.000]  Val: Uh, he's also agent out in New York, SDNY.
+[02:45.000]  Ko: Oh, that's right.
+[02:46.000]  Val: Yeah.
+[02:47.000]  Ko: So I, I've heard of the name. I actually have never talked to Jammy. I talked with Tim just once.
+[02:52.000]  Val: Oh, okay. Well, they're both, they're all good people. And Carmen, you probably, you probably don't know Carmen either.But, you know, I've been working with them on, they told you what I've been doing, right?
+[03:02.000]  Ko: Right. Some stuff in Deutsche Bank?
+[03:04.000]  Val: Yes. There you go.Deutsche Bank.
+[03:06.000]  Ko: Uh-huh.
+[03:07.000]  Val: Just, you know, catching the bad guys basically. Um, so, and they did a favor for me a while ago where, uh, Marie and her son, uh, Marlowe who's 8 years old. Um, they need to get their-- Well, see, Marie's going through this very contentious divorce. Um, the ex-husband's not a good guy kind of divorce, you know. And, uh, and, uh, so she needed to divorce him.
+[03:29.000]  Val: And she, the only way she could was to get off his visa. Um, and he tried everything he could to not allow that to happen. But fortunately Jammy and Tim and Carmen made it happen. So she, she got off his visa. She has her own visa with Marlowe on it. Um, but, uh, now that divorce proceedings has started, have started, he has escalated dramatically, dramatically so. Um, including his escalation, now the short version is he's launched a full on attack on myself as the boyfriend.
+[04:03.000]  Val: And Marie obviously is the, uh, is the ex-wife. He's the kind of guy that would rather see the world burn than lose Marie's attention. Does that make sense? You know the types?
+[04:16.000]  Ko: Sure.
+[04:17.000]  Val: Okay.
+[04:18.000]  Ko: Unfortunately, I know a couple, but. you know how it is.
+[04:20.000]  Val: Yeah, I do. I do. It's unfortunate, especially when, uh, especially here in this case, because there's an eight year old, like he, the sort of person doesn't, uh, put the child first.
 [04:30.000 --> 04:31.000]  Val: His needs first.
 [04:31.000 --> 04:33.000]  Val: And then the child, right? Marlowe.
 [04:33.000 --> 04:36.000]  Val: So I keep saying the child, like he's like, I'm just saying, but it's Marlowe.
