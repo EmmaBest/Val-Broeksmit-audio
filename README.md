@@ -1,6 +1,6 @@
 # Val-Broeksmit-FBI-audio
 
-Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit) meeting with and speaking to FBI agents. 
+Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit) meeting with and speaking to FBI agents, Congressional staffers and people from the New York Times. 
 
 ## As-is
  * The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent by Rocco Castoro, and is provided as-is.
@@ -8,7 +8,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 # Transcription process
 
- 1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
+ 1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only. Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper.
  2. Large portions of [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
  3. Other transcripts were manually corrected the same way. Some are still pending.
  4. (Pending) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
@@ -50,7 +50,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Ashley Madison (building management?) 
  * Nordeem (head of Lila? school)
  * Lori Roth DOB: 01/17/1950
- * Patel? Saajtian Patille?
+ * Patel? Saajtian (Patille?)
  * Stosh [sic] 
  * Serrat?
  
