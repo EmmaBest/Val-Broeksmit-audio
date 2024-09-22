@@ -34,8 +34,8 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## Journalists
  * [Emma Best](https://en.wikipedia.org/wiki/Emma_Best_(journalist))
  * [Barrett Brown](https://en.wikipedia.org/wiki/Barrett_Brown)
- * Rocco Castoro
- * David Enrich
+ * [Rocco Castoro](https://en.wikipedia.org/wiki/Rocco_Castoro)
+ * [David Enrich](https://en.wikipedia.org/wiki/David_Enrich)
  * [OCCRP](https://en.wikipedia.org/wiki/Organized_Crime_and_Corruption_Reporting_Project) (mispronounced OCCP)
  * Scott Steadman
 
@@ -101,7 +101,12 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * April 6, 2021 - Last time Val is seen before he goes "missing"
 
 ## 2022
- * April 2022 - Val 
+### March
+ * March 31, 2021 - Val and Marie are evicted from the Artist Brewery Lofts
+
+### April
+ * April 2022 - Val has restraining order taken out against him, complaints of harassment and threats are filed
+ * April 25, 2022 - Val is found dead at Wilson High School in El Sereno, CA
 
 ## Undetermined
  * ???? - FBI/Val vs Andrew Dowling PT1  DKO’d
