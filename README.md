@@ -28,7 +28,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Valentin "Val" Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
  * Marie Peter-Toltz
  * Marlowe Peter-Toltz (minor)
- * [Steve Toltz](https://en.wikipedia.org/wiki/Steve_Toltz) (Marie's ex, described in negative terms)
+ * [Steve Toltz](https://en.wikipedia.org/wiki/Steve_Toltz) (Marie's ex, described by Val in negative terms)
 
 ## Journalists
  * [Emma Best](https://en.wikipedia.org/wiki/Emma_Best_(journalist))
@@ -45,16 +45,16 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * John Moscow
  * Dorothy Gibbons White
  * Priscilla ??? - First DCFS worker to visit
- * Laura ?
+ * Laura ???
 
 ## Locals
- * Ashley Madison (building management?, not in the documents obtained) 
  * Nordine Bouriche (head of Lycée International de Los Angeles, LILA school)
  * Lori Roth DOB: 01/17/1950
- * Patel? Saajtian (Patille?)
- * Amy?
+ * Patel Saajtian (Patille?)
+ * Amy ???
+ * Ashley ??? (building management?, not in the documents obtained) 
+ * Serrat ???
  * Stosh [sic] 
- * Serrat?
  
 # Reconstructed Timeline
 ## 2013
