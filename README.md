@@ -8,7 +8,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 # Transcription process
 
- 1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only. Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper.
+ 1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only. Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper. In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked. 
  2. Large portions of [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
  3. Other transcripts were manually corrected the same way. Some are still pending.
  4. (Pending) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
@@ -40,17 +40,20 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Scott Steadman
 
 ## Legal
+ * Erasmo Aguiler
  * Saba Habte (DCFS)
  * Mike Kratzmer
  * John Moscow
  * Dorothy Gibbons White
  * Priscilla ??? - First DCFS worker to visit
+ * Laura ?
 
 ## Locals
- * Ashley Madison (building management?) 
- * Nordeem (head of Lila? school)
+ * Ashley Madison (building management?, not in the documents obtained) 
+ * Nordine Bouriche (head of Lycée International de Los Angeles, LILA school)
  * Lori Roth DOB: 01/17/1950
  * Patel? Saajtian (Patille?)
+ * Amy?
  * Stosh [sic] 
  * Serrat?
  
@@ -69,7 +72,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### January
  * January 2020 - NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
 ### April
- * April 10, 2020 - Marie decides not to give Marlowe back
+ * April 10, 2020 - Marie decides not to give Marlowe back, Marlowe is lying and having behaviorial issues
 ### May
  * May - Val files police report against Nordeem, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve
 
@@ -78,9 +81,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### July
  * July 28, 2020 - Marie and Val interview Lori Roth
  * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val
- * End of July, 2020 - Police come
  * July 30, 2020 - Lori comes back
- * End of July/Beginning of August, 2020 - Priscilla comes
+ * End of July, 2020 - Police come
+ * End of July/Beginning of August, 2020 - Priscilla comes (after police)
+ * End of July/Begining of August, 2020 - Police come back after Priscilla leaves
 ### August
  * August 01, 2020 - Lori Roth tries to throw away Val's files + stuff?
  * August 02/03, 2020 - Lori Roth dies
@@ -98,11 +102,16 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * October 01, 2020 - Second trial date (if not resolved at the first)
 
 ## 2021
- * April 6, 2021 - Last time Val is seen before he goes "missing"
+### April
+ * April 06, 2021 - Last time Val is seen before he goes "missing"
+
+### July
+ * July 03, 2021 - Last modified date of the Val FBI audio
+ * July 05, 2021 - Creation of the zip file with the Val FBI audio that Rocco Castoro shared
 
 ## 2022
 ### March
- * March 31, 2021 - Val and Marie are evicted from the Artist Brewery Lofts
+ * March 31, 2022 - Val and Marie are evicted from the Artist Brewery Lofts
 
 ### April
  * April 2022 - Val has restraining order taken out against him, complaints of harassment and threats are filed
