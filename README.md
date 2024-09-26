@@ -10,8 +10,8 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only. Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper. In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked. 
  2. Large portions of [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
- 3. Other transcripts were manually corrected the same way. Some are still pending.
- 4. (Pending) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
+ 3. Other transcripts were manually corrected the same way. Some are still pending, contributions are welcome.
+ 4. (In progress) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
 
 
 # The players
