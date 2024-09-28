@@ -41,14 +41,14 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## Legal
  * Erasmo Aguiler
  * Saba Habte (DCFS)
- * Mike Kratzmer
- * John Moscow
- * Dorothy Gibbons White
+ * [Mike Kretzmer](https://michaelkretzmerlaw.com/)
+ * [John Moscow](https://www.lbkmlaw.com/attorneys-John-Moscow.html)
+ * [Dorothy Gibbons White](https://dmgesq.com/)
  * Priscilla ??? - First DCFS worker to visit
  * Laura ???
 
-## Locals
- * Nordine Bouriche (head of Lycée International de Los Angeles, LILA school)
+## Locals and unknowns
+ * Nordine Bouriche (head of [Lycée International de Los Angeles](https://en.wikipedia.org/wiki/International_School_of_Los_Angeles), LILA school)
  * Lori Roth DOB: 01/17/1950
  * Patel Saajtian (Patille?)
  * Amy ???
