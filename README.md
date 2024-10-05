@@ -12,6 +12,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  2. Large portions of [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
  3. Other transcripts were manually corrected the same way. Some are still pending, contributions are welcome.
  4. (In progress) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
+ 5. (Pending) Post-mortem
 
 
 # The players
@@ -23,7 +24,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Carmen ???
  
 ## Val's families
- * Alla Broeksmit (disowned Val)
+ * [Alla Broeksmit](https://allabroeksmit.com/) (disowned Val)
  * Bill Broeksmit (suicide)
  * [Valentin "Val" Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
  * Marie Peter-Toltz
@@ -36,7 +37,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Rocco Castoro](https://en.wikipedia.org/wiki/Rocco_Castoro)
  * [David Enrich](https://en.wikipedia.org/wiki/David_Enrich)
  * [OCCRP](https://en.wikipedia.org/wiki/Organized_Crime_and_Corruption_Reporting_Project) (mispronounced OCCP)
- * Scott Steadman
+ * [Scott Steadman](https://journa.host/@scottmstedman)
 
 ## Legal
  * Erasmo Aguiler
@@ -64,8 +65,12 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * 2018 - When Marie and Peter separated "for the lawyers" per Val
 
 ## 2019
+### April
  * April 01, 2019 - Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena
- * October 2019 - NYT/Val vs NYTimes Editor Nick Summers
+ 
+### October
+ * October 01, 2019 - Me and My Whistle-Blower prints online
+ * October 05, 2019 - NYT/Val vs NYTimes Editor Nick Summers
  
 ## 2020
 ### January
@@ -81,8 +86,8 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * July 28, 2020 - Marie and Val interview Lori Roth
  * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val
  * July 30, 2020 - Lori comes back
- * End of July, 2020 - Police come
- * End of July/Beginning of August, 2020 - Priscilla comes (after police)
+ * July 30, 2020 - Police come
+ * July 30, 2020 - Priscilla comes (after police)
  * End of July/Begining of August, 2020 - Police come back after Priscilla leaves
 ### August
  * August 01, 2020 - Lori Roth tries to throw away Val's files + stuff?
