@@ -75,13 +75,16 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## 2020
 ### January
  * January 2020 - NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
+
 ### April
  * April 10, 2020 - Marie decides not to give Marlowe back, Marlowe is lying and having behaviorial issues
+
 ### May
  * May - Val files police report against Nordeem, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve
 
 ### June
  * Mid-June, 2020 - Patel? Saajtian moves in
+
 ### July
  * July 28, 2020 - Marie and Val interview Lori Roth
  * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val
@@ -89,6 +92,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * July 30, 2020 - Police come
  * July 30, 2020 - Priscilla comes (after police)
  * End of July/Begining of August, 2020 - Police come back after Priscilla leaves
+
 ### August
  * August 01, 2020 - Lori Roth tries to throw away Val's files + stuff?
  * August 02/03, 2020 - Lori Roth dies
@@ -99,9 +103,11 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 1?, 2020 - FBI/D.ko Post Hearing
  * August 12, 2020 - FBI/Kofbico PY2
  * August 1?, 2020 - FBI/Marie _ Agent Ko
+
 ###September
  * September 15, 2020 - Investigator has to hand in paperwork
  * September 29, 2020 - Hearing scheduled (results unknown)
+
 ### October
  * October 01, 2020 - Second trial date (if not resolved at the first)
 
