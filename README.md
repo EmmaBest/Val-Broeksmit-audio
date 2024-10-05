@@ -104,7 +104,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 12, 2020 - FBI/Kofbico PY2
  * August 1?, 2020 - FBI/Marie _ Agent Ko
 
-###September
+### September
  * September 15, 2020 - Investigator has to hand in paperwork
  * September 29, 2020 - Hearing scheduled (results unknown)
 
