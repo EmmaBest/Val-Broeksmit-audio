@@ -4696,9 +4696,9 @@ Fed:[Asks something]
 [02:17:27.520 --> 02:17:29.800]  Val: he's a banker spy, and I got the guy
 [02:17:29.800 --> 02:17:32.040]  Val: to send me the whole fucking transcripts,
 [02:17:32.040 --> 02:17:33.040]  Val: court records, everything.
-[02:17:33.040 --> 02:17:34.360]  Fedl: You mean the journalist was able
+[02:17:33.040 --> 02:17:34.360]  Fed: You mean the journalist was able
 [02:17:34.360 --> 02:17:36.280]  Fed: to get the court records in 2017?
-[02:17:36.280 --> 02:17:38.960]  Fed: Yes, okay, yes, interesting.
+[02:17:36.280 --> 02:17:38.960]  Val: Yes, okay, yes, interesting.
 [02:17:38.960 --> 02:17:40.760]  Val: Journalists have a lot of shit,
 [02:17:40.760 --> 02:17:42.560]  Val: and they just sit on it and just goes,
 [02:17:42.560 --> 02:17:45.000]  Val: once the story's done, they forget about it.
@@ -5025,7 +5025,7 @@ Fed:[Asks something]
 [02:30:25.240 --> 02:30:26.080]  Fed: Yeah, yeah.
 [02:30:26.080 --> 02:30:27.760]  Fed: Like that's the thing is we're collecting
 [02:30:27.760 --> 02:30:29.760]  Fed: a lot of information on a lot of different things, right?
-[02:30:29.760 --> 02:30:30.600]  Fed: Right.
+[02:30:29.760 --> 02:30:30.600]  Val: Right.
 [02:30:30.600 --> 02:30:33.280]  Fed: So part of it is, it's going to be a one-way street
 [02:30:33.280 --> 02:30:34.280]  Fed: of information this way.
 [02:30:34.280 --> 02:30:36.400]  Fed: I can't give you all the information that's,
@@ -5039,7 +5039,7 @@ Fed:[Asks something]
 [02:30:50.240 --> 02:30:53.480]  Val: No expectations, I just, if it's something that is,
 [02:30:55.680 --> 02:30:59.800]  Val: if I mean, I'm going to be accountable for someone's life,
 [02:30:59.800 --> 02:31:02.840]  Val: I'd really like to think it through, you know.
-[02:31:02.840 --> 02:31:03.680]  Fed: Yeah.
+[02:31:02.840 --> 02:31:03.680]  Val: Yeah.
 [02:31:03.680 --> 02:31:06.480]  Val: I mean, if you want me to blindly follow orders.
 [02:31:07.600 --> 02:31:08.560]  Val: I mean, I will right now,
 [02:31:08.560 --> 02:31:11.040]  Val: because Marlowe's life is in jeopardy, of course.
@@ -5154,7 +5154,7 @@ Fed:[Asks something]
 [02:34:41.740 --> 02:34:46.740]  Val: it was OCCP, yeah, thank you.
 [02:34:48.320 --> 02:34:51.280]  Val: If you want my files,
 [02:34:51.280 --> 02:34:53.080]  Val: then hook me up with your admin access.
-[02:34:53.080 --> 02:34:54.280]  Val: I want to sell this shit, you know?
+[02:34:53.080 --> 02:34:54.280]  Val: I want to see all this shit, you know?
 [02:34:54.280 --> 02:34:57.120]  Val: I can't be stuck looking at half the document.
 [02:34:57.120 --> 02:34:59.480]  Val: If you want me to find the fucking money launderers,
 [02:34:59.480 --> 02:35:01.480]  Val: you need to see the whole breadth of the thing.
@@ -5186,7 +5186,7 @@ Fed:[Asks something]
 [02:35:57.440 --> 02:35:59.360]  Val: She says, oh, I used to work for the CIA,
 [02:35:59.360 --> 02:36:01.000]  Val: but I can't tell you.
 [02:36:01.040 --> 02:36:03.440]  Val: Like one of those old, you know, isn't that community?
-[02:36:03.440 --> 02:36:05.280]  Val: Is Emma Best her real name or?
+[02:36:03.440 --> 02:36:05.280]  Fed: Is Emma Best her real name or?
 [02:36:05.280 --> 02:36:07.200]  Val: I don't know, okay.
 [02:36:07.200 --> 02:36:09.280]  Val: All I know is that I think she is a,
 [02:36:10.280 --> 02:36:12.320]  Val: I'm still trying to figure out,
@@ -5278,7 +5278,7 @@ Fed:[Asks something]
 [02:39:36.480 --> 02:39:38.320]  Val: for this $100,000 in Bitcoin,
 [02:39:38.320 --> 02:39:40.080]  Val: because although I did not hack Deutsche Bank,
 [02:39:40.080 --> 02:39:41.040]  Val: that's why I'm trying to work.
-[02:39:41.040 --> 02:39:42.480]  Val: Oh, yeah, yeah, yeah.
+[02:39:41.040 --> 02:39:42.480]  Fed: Oh, yeah, yeah, yeah.
 [02:39:42.480 --> 02:39:43.840]  Val: And so Emma's like, no, you didn't,
 [02:39:43.840 --> 02:39:44.920]  Val: you didn't hack Deutsche Bank,
 [02:39:44.920 --> 02:39:47.720]  Val: but she didn't say, oh, let me pass on the message.

@@ -814,841 +814,182 @@ Fed:[Asks something]
 [02:08:17.480]  Fed: Well, no, no, no, I don't,
 [02:08:18.600]  Fed: I think the noise might be one of these problems. [???]
 [02:08:21.240]  Val: So the things Intel fucked up, and from the very beginning when we started making chips, there was a cache, or a cache, or whether you can, yes, we could get all the credentials back from the actual chip, and every single computer in the world is vulnerable to this, every single computer, and that's fucking amazing, right?
-[02:08:41.000]  Val: So that gives you completely new access,
-[02:08:43.080]  Val: and three different companies found this out at the same time.
-[02:08:45.840]  Val: It's like the 100th monkey hearing.
-[02:08:48.600]  Val: Do you know the thing?
-[02:08:49.440]  Val: The 100th monkey?
+[02:08:41.000]  Val: So that gives you completely new access, and three different companies found this out at the same time. It's like the 100th monkey hearing. Do you know the thing? The 100th monkey?
 [02:08:50.280]  Fed: Yeah, the 100th monkey.
 [02:08:51.120]  Val: Great, yeah, it's just, the idea has sort of happened.
-[02:08:54.520]  Val: But anyway, yeah, that's a whole new way of doing it.
-[02:08:56.760]  Val: I know how to do,
-[02:09:00.080]  Val: my best thing is social engineering,
-[02:09:02.160]  Val: and then, you know, I'm not really a coder.
-[02:09:05.560]  Val: I don't know how to do it,
-[02:09:06.400]  Val: but I can take other people's programs
-[02:09:09.160]  Val: and use them very well, you know?
-[02:09:11.680]  Val: Elcomsoft kind of pisses me off a little bit.
-[02:09:14.200]  Val: These guys, they overdo it, but,
-[02:09:16.520]  Val: I mean, I have magnet, [sic] I have Elcomsoft,
-[02:09:19.440]  Val: I have the orange one.
-[02:09:24.160]  Val: I can't remember, I can't remember what it's called.
-[02:09:26.520]  Val: Belkasoft, there's no issue, you know what?
-[02:09:29.440]  Val: Oh, you know what?
-[02:09:30.280]  Val: I'll show you, I'll show you what I got.
-[02:09:33.160]  Val: You know, magnet is the best right now.
-[02:09:35.120]  Val: See, and I'm thinking, like, why go through,
-[02:09:37.440]  Val: why do all this extra work you don't need to do
-[02:09:40.800]  Val: if you can just get the fucking,
-[02:09:42.040]  Val: someone's already built the program,
-[02:09:43.240]  Val: why go out there and invent the wheel, right?
-[02:09:46.200]  Val: So if, for example, if Elcomsoft, oh shit,
-[02:09:52.360]  Val: let me see the options,
-[02:09:55.400]  Val: if Elcomsoft is already created a way
-[02:09:58.600]  Val: to get the tar ball off your iPhone 11,
-[02:10:02.040]  Val: why do I have to create a program
-[02:10:04.120]  Val: that do the same thing,
-[02:10:04.960]  Val: that you've got people that spend a lot of time
-[02:10:06.920]  Val: and money doing it?
-[02:10:08.080]  Val: So I'll just use their shit
-[02:10:09.280]  Val: and improvise with other people's shit.
-[02:10:11.240]  Val: Like, the pineapple is not that great, you know?
-[02:10:14.640]  Val: It's not that interesting.
-[02:10:16.640]  Val: And also it's a little, it's not user-friendly, you know?
-[02:10:20.520]  Val: It's like you have to really sit down and study
-[02:10:22.520]  Val: the fucking stupid pineapple and what not to do it.
-[02:10:25.120]  Val: So I build a, like a fast way to do it for my girlfriend
-[02:10:28.160]  Val: because she wanted to know how to do it,
-[02:10:29.120]  Val: but she had no patience to sit down
-[02:10:30.520]  Val: and learn how to keep the AP or the evil twin thing. [sic]
-[02:10:35.680]  Val: You know, so I just showed her like a,
-[02:10:38.520]  Val: I created like a shortcut for her, which is sort of-
+[02:08:54.520]  Val: But anyway, yeah, that's a whole new way of doing it. I know how to do, my best thing is social engineering, and then, you know, I'm not really a coder. I don't know how to do it, but I can take other people's programs and use them very well, you know?
+[02:09:11.680]  Val: Elcomsoft kind of pisses me off a little bit. These guys, they overdo it, but, I mean, I have magnet, [sic] I have Elcomsoft, I have the orange one. I can't remember, I can't remember what it's called. Belkasoft, there's no issue, you know what? Oh, you know what?
+[02:09:30.280]  Val: I'll show you, I'll show you what I got. You know, magnet is the best right now. See, and I'm thinking, like, why go through, why do all this extra work you don't need to do if you can just get the fucking, someone's already built the program, why go out there and invent the wheel, right? So if, for example, if Elcomsoft, oh shit, let me see the options, if Elcomsoft is already created a way to get the tar ball off your iPhone 11, why do I have to create a program that do the same thing, that you've got people that spend a lot of time and money doing it?
+[02:10:08.080]  Val: So I'll just use their shit and improvise with other people's shit. Like, the pineapple is not that great, you know? It's not that interesting. And also it's a little, it's not user-friendly, you know? It's like you have to really sit down and study the fucking stupid pineapple and what not to do it.
+[02:10:25.120]  Val: So I build a, like a fast way to do it for my girlfriend because she wanted to know how to do it, but she had no patience to sit down and learn how to keep the AP or the evil twin thing. [sic] You know, so I just showed her like a, I created like a shortcut for her, which is sort of-
 [02:10:42.600]  Fed: How did you make it easier for her?
-[02:10:47.840]  Val: I automated it, yeah.
-[02:10:50.000]  Val: It's easier if you do that,
-[02:10:51.400]  Val: because she just does one thing,
-[02:10:52.720]  Val: everything falls into place instead of making her,
-[02:10:55.120]  Val: it makes her think like she's accomplished something, you know?
-[02:10:58.240]  Val: It's not that hard to just automate, let me see, you know.
-[02:11:02.120]  Val: Sorry, so let me show you, for example.
+[02:10:47.840]  Val: I automated it, yeah. It's easier if you do that, because she just does one thing, everything falls into place instead of making her, it makes her think like she's accomplished something, you know? It's not that hard to just automate, let me see, you know. Sorry, so let me show you, for example.
 [02:11:07.000]  Val: Oh, Evan Tree [???] was the other one.
 [02:11:08.360]  Fed: The other one is her Wi-Fi off, it's Bluetooth off.
-[02:11:10.920]  Val: Oh, yeah.
-[02:11:12.720]  Val: Of course, of course.
-[02:11:13.560]  Val: Your security and ours, but-
-[02:11:15.600]  Val: Oh, really?
-[02:11:17.240]  Val: You guys got people, interesting.
-[02:11:20.360]  Val: Yeah, I mean, I think, sorry, I got all excited,
-[02:11:22.600]  Val: but I forgot that you guys were with the FBI.
-[02:11:25.000]  Val: Shit, okay, yeah, Wi-Fi's off, Bluetooth is off.
-[02:11:32.360]  Val: So let's pull up, like phone breaker,
-[02:11:38.120]  Val: Xcode, I can do, I don't know,
-[02:11:41.720]  Val: can you be more specific, is there something you're looking for?
-[02:11:43.840]  Fed: Trying to assess your level of skill
-[02:11:45.360]  Fed: would like need your help to do something.
+[02:11:10.920]  Val: Oh, yeah. Of course, of course. Your security and ours, but- Oh, really? You guys got people, interesting. Yeah, I mean, I think, sorry, I got all excited, but I forgot that you guys were with the FBI. Shit, okay, yeah, Wi-Fi's off, Bluetooth is off. So let's pull up, like phone breaker, Xcode, I can do, I don't know, can you be more specific, is there something you're looking for?
+[02:11:43.840]  Fed: Trying to assess your level of skill would like need your help to do something.
 [02:11:47.080]  Val: Okay.
-[02:11:48.760]  Fed: You know, we needed you to look at, you know,
-[02:11:51.080]  Fed: vulnerable website or something like that,
-[02:11:52.520]  Fed: is that something you could do?
+[02:11:48.760]  Fed: You know, we needed you to look at, you know, vulnerable website or something like that, is that something you could do?
 [02:11:54.040]  Val: Oh.
 [02:11:54.880]  Fed: You know, if we had a phone, we'd be pretty good.
-[02:11:57.080]  Val: The phone I could do a lot better
-[02:11:58.640]  Val: than I could with the vulnerable website.
-[02:12:00.960]  Val: I could do the website, but it would take me a little extra time,
-[02:12:03.320]  Val: because I have not studied that one as much.
-[02:12:05.680]  Val: I mean, I used to do it before,
-[02:12:08.800]  Val: maybe when it was easy, when everything was on the server,
-[02:12:10.720]  Val: and you could just do it through the back space.
-[02:12:13.800]  Val: Remember, you could just do that stupid thing,
-[02:12:15.400]  Val: you know, maybe I could do that.
-[02:12:17.440]  Val: But the phone is more fun for me, that's easy,
-[02:12:19.240]  Val: that's not easy, but it's more of a challenge.
-[02:12:22.040]  Val: Because I did my dad's phone, I did my girlfriend's phone,
-[02:12:24.840]  Val: and then people would find phones on the street for me
-[02:12:26.920]  Val: and just sell it to me, it's just like a phone practice.
-[02:12:29.400]  Val: It is fun, that's what I like.
-[02:12:32.560]  Val: And the remote stuff is,
-[02:12:36.640]  Val: well, am I gonna get in trouble
-[02:12:38.160]  Val: for telling you guys any of this shit?
+[02:11:57.080]  Val: The phone I could do a lot better than I could with the vulnerable website. I could do the website, but it would take me a little extra time, because I have not studied that one as much. I mean, I used to do it before, maybe when it was easy, when everything was on the server, and you could just do it through the back space.
+[02:12:13.800]  Val: Remember, you could just do that stupid thing, you know, maybe I could do that. But the phone is more fun for me, that's easy, that's not easy, but it's more of a challenge. Because I did my dad's phone, I did my girlfriend's phone, and then people would find phones on the street for me and just sell it to me, it's just like a phone practice. It is fun, that's what I like. And the remote stuff is, well, am I gonna get in trouble for telling you guys any of this shit?
 [02:12:40.240]  Fed: You told me like you murdered someone,
-[02:12:42.960]  Val: I never murdered anybody, okay?
-[02:12:44.800]  Val: No murder, okay?
-[02:12:50.200]  Val: The New York Times asked me to hack Epstein.
-[02:12:53.120]  Val: Okay, so David wanted me to hack Epstein.
-[02:12:55.160]  Val: So I did it, and everyone's very,
-[02:12:59.200]  Val: I didn't, oh sorry, I didn't do it.
-[02:13:01.120]  Val: I started the process of doing it,
-[02:13:04.280]  Val: and I gave him the list of passwords,
-[02:13:06.400]  Val: and I gave him the list,
-[02:13:07.440]  Val: and I have this on email to prove to you,
-[02:13:09.200]  Val: okay, the passwords, and I gave him the list of logins,
-[02:13:11.680]  Val: that's it, all the credentials.
-[02:13:13.440]  Val: And I gave him the Ghislane's credentials as well.
-[02:13:16.360]  Val: I did not break in, I did try, okay, made an attempt,
-[02:13:19.840]  Val: but it was a double authentication,
-[02:13:23.320]  Val: someone already got to it.
-[02:13:25.440]  Val: I don't know whose number it is,
-[02:13:26.660]  Val: but I have a phone number if you wanna trace it,
-[02:13:28.920]  Val: it would be helpful for you guys.
-[02:13:31.640]  Val: And I found out a lot, for Kevin Hall,
-[02:13:36.720]  Val: actually, I did this one in the morning.
-[02:13:38.720]  Val: I know someone who's running around, so.
-[02:13:40.800]  Oh, Kevin Hall is doing this one in the morning,
-[02:13:44.640]  Val: and he's a partner with me,
-[02:13:48.600]  Val: he wrote the Epstein story.
-[02:13:52.640]  Val: Yeah, he's really good, really good, yeah.
-[02:13:57.880]  Val: [unintelligible] money laundering
-[02:14:00.000]  Val: so I helped him by just looking at his old email addresses
-[02:14:04.520]  Val: from like 1999, old banks that he used in old,
-[02:14:10.320]  Val: just old accounts, and lawyers that he used as well,
-[02:14:13.520]  Val: because a lot of the lawyers are hiding some money too.
-[02:14:17.440]  Val: Stuff like that, yeah.
-[02:14:20.760]  Val: Just, you know, I usually don't give away a secret,
-[02:14:24.000]  Val: but I'll give you a secret,
-[02:14:25.240]  Val: and it'll make it seem so mundane and obvious to you,
-[02:14:27.360]  Val: you'll think like, why didn't I think of that?
-[02:14:29.320]  Val: It's the easiest possible way to start,
-[02:14:31.280]  Val: and mostly, people ask you to find a password,
-[02:14:33.960]  Val: this is the easiest thing to do.
-[02:14:35.240]  Val: You just get a database of the billion or so
-[02:14:38.960]  Val: already hacked files,
-[02:14:40.600]  Val: you find the old password that somebody used,
-[02:14:43.480]  Val: and you just sort of engineer from there,
-[02:14:45.600]  Val: it's not that hard, yeah.
-[02:14:47.760]  Val: A lot of people don't change their passwords,
-[02:14:49.280]  Val: and when they do, they make a variation.
+[02:12:42.960]  Val: I never murdered anybody, okay? No murder, okay? The New York Times asked me to hack Epstein. Okay, so David wanted me to hack Epstein. So I did it, and everyone's very, I didn't, oh sorry, I didn't do it. I started the process of doing it, and I gave him the list of passwords, and I gave him the list, and I have this on email to prove to you, okay, the passwords, and I gave him the list of logins, that's it, all the credentials.
+[02:13:13.440]  Val: And I gave him the Ghislane's credentials as well. I did not break in, I did try, okay, made an attempt, but it was a double authentication, someone already got to it. I don't know whose number it is, but I have a phone number if you wanna trace it, it would be helpful for you guys.
+[02:13:31.640]  Val: And I found out a lot, for Kevin Hall, actually, I did this one in the morning. I know someone who's running around, so. Kevin Hall is doing this one in the morning, and he's a partner with me, he wrote the Epstein story. Yeah, he's really good, really good, yeah.
+[02:13:57.880]  Val: [unintelligible] money laundering so I helped him by just looking at his old email addresses from like 1999, old banks that he used in old, just old accounts, and lawyers that he used as well, because a lot of the lawyers are hiding some money too. Stuff like that, yeah.
+[02:14:20.760]  Val: Just, you know, I usually don't give away a secret, but I'll give you a secret, and it'll make it seem so mundane and obvious to you, you'll think like, why didn't I think of that? It's the easiest possible way to start, and mostly, people ask you to find a password, this is the easiest thing to do.
+[02:14:35.240]  Val: You just get a database of the billion or so already hacked files, you find the old password that somebody used, and you just sort of engineer from there, it's not that hard, yeah. A lot of people don't change their passwords, and when they do, they make a variation.
 [02:14:52.160]  Fed: That's all you have.
 [02:14:53.000]  Val: Right.
 [02:14:54.960]  Fed: I assume you usually work alone, do you work with other people?
-[02:14:57.720]  Val: No, no, I don't understand how you work with,
-[02:15:04.640]  Val: I mean, teach me, there's a way to work with other people,
-[02:15:07.200]  Val: yeah, teach me, because usually, I don't know,
-[02:15:09.280]  Val: like usually it's one person doing all the work,
-[02:15:12.080]  Val: and the other person is watching, so, I don't know.
-[02:15:19.240]  Val: But yeah, I'd like to, I would love to try, I mean.
-[02:15:22.440]  Fed: Yeah, like I said, right now I'm completely list of stuff
-[02:15:25.160]  Fed: that like, okay, we could use help on this,
-[02:15:27.680]  Fed: so it's maybe something that we could do.
-[02:15:29.320]  Fed: We could try to find a spot for you, still.
-[02:15:31.360]  Fed: I feel like it's that, I guess, on my head.
-[02:15:33.160]  Val: What I'm really good at doing is I could find
-[02:15:36.200]  Val: stolen money and money laundering.
-[02:15:37.920]  Val: If someone needs to move money,
-[02:15:39.280]  Val: I can show you how to do that.
-[02:15:40.680]  Val: I know how to, I know people that can reverse engineer,
-[02:15:44.080]  Val: there's a word for it, Bitcoin wallets?
-[02:15:48.160]  Reverse [???], what do you call it?
-[02:15:49.920]  Fed: Well, how do they, how do they,
-[02:15:51.840]  Fed: do you mean, they're gonna track where the Bitcoin goes,
-[02:15:55.080]  Val: no, they can find, no, how, where it came from.
-[02:15:58.200]  Val: They can do the whole scrub, they call it,
-[02:16:00.840]  Val: it's not scrub, it's called the,
-[02:16:03.000]  Fed: they're watching it now, like you're telling,
-[02:16:07.240]  Fed: because it's all public, so that you can see
-[02:16:08.840]  Fed: where it goes to and from,
-[02:16:09.720]  Fed: you mean after it's been tumbled or something?
-[02:16:11.400]  Val: After it's been, yes.
-[02:16:12.720]  Val: Not tumbled, after it's been put into any wallet.
-[02:16:15.240]  Val: They can trace it, like a reverse trace.
-[02:16:18.640]  Val: There's two people I know that can do it.
-[02:16:20.600]  Fed:That part's not too difficult, I'll tell you.
-[02:16:22.600]  Val: It's not, okay.
-[02:16:24.080]  Val: Oh, you can?
-[02:16:24.920]  Val: Okay, I don't know anything about it.
-[02:16:26.400]  Fed: And it's just like the ledger is public,
-[02:16:27.880]  Fed: so you can see where the money comes and goes to.
-[02:16:30.040]  Fed:It's just that this number means nothing.
-[02:16:32.160]  Val: Oh, no, but it's not that simple.
-[02:16:36.320]  Val: I mean, yeah, I know there's an open ledger,
-[02:16:38.160]  Val: but it's also, there's like a wallet
-[02:16:42.600]  Val: that has self-account as well,
-[02:16:44.400]  Val: so you have to find out where it, yeah.
-[02:16:46.480]  Val: It's like, they know how to do that.
-[02:16:47.800]  Val: They can, they can,
-[02:16:51.800]  Val: I'm not sure what the wording is.
-[02:16:53.200]  Val: You see, that would be nice.
-[02:16:54.040]  Val: I would like to know what the terms are for these things.
-[02:16:57.280]  Val: I know how to do it, I know what the action is,
-[02:16:59.360]  Val: but I don't know the term, the term, the terminology.
-[02:17:02.320]  Fed: Okay, so what other stuff do you have access to?
-[02:17:06.960]  Fed: I mean, because you have access to a lot of journalists, right?
-[02:17:09.240]  Fed: And here's the thing.
-[02:17:10.600]  Fed: I don't really want to deal with journalists
-[02:17:12.720]  Fed: because it's the [unintelligible] stuff that's there.
-[02:17:15.200]  Val: Journalists have a lot of data.
-[02:17:17.360]  Val: They're a very untapped source of data.
-[02:17:20.560]  Val: You know, if you know how to say the right thing,
-[02:17:22.560]  Val: you can get all, I got the guys in Russia,
-[02:17:25.080]  Val: there was a spy on trial,
-[02:17:27.520]  Val: he's a banker spy, and I got the guy
-[02:17:29.800]  Val: to send me the whole fucking transcripts,
-[02:17:32.040]  Val: court records, everything.
-[02:17:33.040]  Fedl: You mean the journalist was able
-[02:17:34.360]  Fed: to get the court records in 2017?
-[02:17:36.280]  Fed: Yes, okay, yes, interesting.
-[02:17:38.960]  Val: Journalists have a lot of shit,
-[02:17:40.760]  Val: and they just sit on it and just goes,
-[02:17:42.560]  Val: once the story's done, they forget about it.
-[02:17:45.000]  Val: They don't need it anymore.
-[02:17:45.920]  Val: So there's a huge fucking great source of information.
-[02:17:50.080]  Val: Nobody even bothers to get it.
-[02:17:52.840]  Val: But I know so many journalists now,
-[02:17:54.760]  Val: and they're sending me shit all the time.
-[02:17:56.400]  Val: People, I just have this guy named,
-[02:17:58.800]  Val: well, I'm not gonna tell you his name,
-[02:17:59.720]  Val: because that would be kind of weird.
-[02:18:00.920]  Val: It would be rude to do that, too.
-[02:18:03.160]  Val: But he just found me on Twitter and said,
-[02:18:05.880]  Val: I think that there's some shady shit
-[02:18:08.880]  Val: going on in the Bank of Ireland.
-[02:18:10.000]  Val: Can you take a look at this one?
-[02:18:11.360]  Val: And I guess, I take a look at it,
-[02:18:12.920]  Val: and lo and behold, Wilbur Ross stole $35 billion
-[02:18:18.520]  Val: from Bank of Ireland.
-[02:18:20.280]  Val: Well, Wilbur Ross and his compatriots,
-[02:18:22.960]  Val: but 23, he calls them hedge funds because they're not hedge
-[02:18:29.280]  Val: funds, they're more like LSEs.
-[02:18:31.160]  Val: But 23 of them that he owns, Wilbur Ross owns, okay?
-[02:18:36.520]  Val: Bank of Ireland hid $35 billion in promissory bonds, sorry.
-[02:18:41.920]  Val: He bought a portion of that bank for 1% for like,
-[02:18:47.960]  Val: like something so touchy, like a couple billion dollars.
-[02:18:51.000]  Val: And his, that share gave him access to $35 billion,
-[02:18:54.840]  Val: which he pulled out, and it's fucking amazing.
-[02:18:57.720]  Val: It's amazing.
-[02:18:58.680]  Val: So look, I get shit like that,
-[02:19:00.000]  Val: but then I get the weird spy people, you know?
-[02:19:02.440]  Val: Like the crazy people, they're not crazy.
-[02:19:05.400]  Val: They're, sometimes they're reading a script.
-[02:19:07.640]  Val: Like, I don't know if they're intelligence
-[02:19:09.440]  Val: from corporate intelligence,
-[02:19:11.000]  Val: or if they're actual state-run intelligence.
-[02:19:12.680]  Val: I can't tell.
-[02:19:14.040]  Val: Like this guy, Kaiser Soze, right?
-[02:19:17.000]  Val: So he's, he did a very classic move where you,
-[02:19:22.520]  Val: instead of going right for me, he goes to people around me,
-[02:19:25.680]  Val: and then they start talking about,
-[02:19:27.160]  Val: and I'm like, oh, who's this guy you're talking about?
-[02:19:28.960]  Val: Right?
-[02:19:29.800]  Val: And that's how I get hooked.
-[02:19:30.640]  Val: And I saw that coming a mile away, right?
-[02:19:32.840]  Val: So I was like, okay, I'm here.
-[02:19:34.600]  Val: What do you want to say?
-[02:19:35.800]  Val: And he won't tell me what his real name.
-[02:19:37.520]  Val: And he goes into this story, it's very specific,
-[02:19:40.920]  Val: and it's very good, and I really wish it was true,
-[02:19:43.600]  Val: but I don't believe it is.
-[02:19:45.000]  Val: But I do believe that 60 to 40% of it,
-[02:19:49.480]  Val: somewhere over this bridge of the 50% mark, is true.
-[02:19:54.160]  Val: It makes sense.
-[02:19:55.360]  Val: Trump, there was a meeting in Deutsche Bank,
-[02:19:57.720]  Val: he says, when my father was there,
-[02:19:59.400]  Val: and he, it's a lie, my father was never there.
-[02:20:01.000]  Val: I checked his schedule, he did not go to this meeting.
-[02:20:03.600]  Val: And Jurgen Fitchison was not there either.
-[02:20:05.800]  Val: He claims he was there.
-[02:20:06.960]  Val: And two people from Natsutzky were there,
-[02:20:10.160]  Val: and he was one of them, right?
-[02:20:12.040]  Val: He says that they came in to buy a CLO,
-[02:20:14.520]  Val: which is a collateralized loan obligation.
-[02:20:18.600]  Val: It's basically a structured product.
-[02:20:20.920]  Val: It's a, it's a whole shitload of mortgages
-[02:20:27.000]  Val: put together into one bundle that you can buy.
-[02:20:30.360]  Val: And it's like a bank-to-bank thing.
-[02:20:31.680]  Val: You can't, it probably gives no [???] access to it.
-[02:20:33.560]  Val: So they thought they were gonna get rid of this,
-[02:20:35.520]  Val: this charge, and sell it to Natsutzky.
-[02:20:38.800]  Val: And the guy said, well, the problem is,
-[02:20:40.720]  Val: we don't want you to buy it, we just want you to look at it
-[02:20:43.480]  Val: and tell us what you think.
-[02:20:45.040]  Val: And tell us where you see the problem.
-[02:20:47.000]  Val: So they looked at it and they saw that,
-[02:20:49.560]  Val: to make this long story short,
-[02:20:51.560]  Val: Donald Trump did not sign a consenting agreement.
-[02:20:55.040]  Val: Okay, so if you have a,
-[02:20:56.600]  Val: if you guys are all in a trust, right,
-[02:20:59.800]  Val: that means that you're all shared,
-[02:21:02.040]  Val: it's sort of the money that's pooled together.
-[02:21:05.440]  Val: Let's say you wanted to borrow $5 million
-[02:21:08.280]  Val: to start a golf course, right?
-[02:21:10.280]  Val: But you don't tell these guys.
-[02:21:12.240]  Val: You take it, you take the $5 million,
-[02:21:13.800]  Val: you don't tell them,
-[02:21:14.640]  Val: and you don't sign a consenting agreement.
-[02:21:16.640]  Val: If you fail, they have to pay your debt, right?
-[02:21:20.120]  Val: If you sign a consenting agreement,
-[02:21:21.880]  Val: then they're free, right?
-[02:21:24.040]  Val: They're not liable for your debt if you fail.
-[02:21:26.680]  Val: But you made money,
-[02:21:27.520]  Val: you bring it back in and put it in the pool,
-[02:21:29.120]  Val: and everyone's very happy, except that you didn't,
-[02:21:32.640]  Val: they overlooked the fact that you didn't sign this agreement.
-[02:21:35.120]  Val: Now, Trump didn't sign three of them, right?
-[02:21:37.760]  Val: Which means the people at Deutsche Bank
-[02:21:39.440]  Val: and the high net worth individuals at DBTCA specifically
-[02:21:43.440]  Val: will be very upset to know that,
-[02:21:46.080]  Val: and it would cause a run on DBTCA.
-[02:21:49.360]  Val: Now, and DBTCA has $23 billion going for it,
-[02:21:53.880]  Val: and they still don't have a fucking chief risk officer,
-[02:21:56.840]  Val: all right, $23 billion.
-[02:21:58.480]  Val: That is a 700 person entity, all right?
-[02:22:03.480]  Val: There's 25,000 Deutsche Bank America,
-[02:22:06.920]  Val: 700 people in DBTCA.
-[02:22:08.800]  Val: It's very secretive, it's a weird place,
-[02:22:11.520]  Val: and that's where my dad,
-[02:22:13.080]  Val: that's where they put my father when he died,
-[02:22:15.120]  Val: when he killed himself.
-[02:22:18.280]  Val: There's a French guy that runs it,
-[02:22:19.480]  Val: and he was supposedly at this meeting as well.
-[02:22:22.040]  Val: Now, I'll just, fuck it, I'll just tell you.
-[02:22:26.360]  Val: The first guy is Rebolyev, signed off on the loan, okay?
-[02:22:32.080]  Val: The second one is, I don't believe him,
-[02:22:35.280]  Val: because I fed him the answer, and I fucked up.
-[02:22:37.840]  Val: You know when you say, oh, did you hear the word
-[02:22:40.280]  Val: Victor Bexelberg in the room?
-[02:22:41.760]  Val: He goes, oh yeah, that's it, right?
-[02:22:43.520]  Val: Fuck, I shouldn't have said that, yeah.
-[02:22:45.320]  Val: So he claims Victor Bexelberg was number two,
-[02:22:48.200]  Val: and number three is interesting,
-[02:22:50.000]  Val: I didn't believe him until yesterday,
-[02:22:52.040]  Val: because something interesting happened yesterday.
-[02:22:55.280]  Val: He said that SpareBank signed on behalf,
-[02:22:59.680]  Val: a person signed on behalf of SpareBank,
-[02:23:01.440]  Val: not anyone you've heard of, but as,
-[02:23:03.440]  Val: sorry, I'm sorry, not SpareBank, Gazprom.
-[02:23:06.760]  Val: Gazprom is [??] an entity signed off on a loan.
-[02:23:09.680]  Val: I'm like, what the fuck, how can an entity
-[02:23:11.000]  Val: sign off on a loan?
-[02:23:11.840]  Val: I've never heard of that.
-[02:23:13.120]  Val: Until yesterday, when this Irish guy I was telling about
-[02:23:16.680]  Val: sends me a, they call it charges,
-[02:23:20.800]  Val: they call it in Ireland, they call them charges mortgages,
-[02:23:23.720]  Val: right?
-[02:23:24.560]  Val: He sends me this, I have it right here if you wanna see it,
-[02:23:29.200]  Val: this charge of some land that was sold in Ireland
-[02:23:34.040]  Val: by Deutsche Bank.
-[02:23:35.320]  Val: So Deutsche Bank, as a bank, is an entity liable for it.
-[02:23:38.680]  Val: I was like, holy shit, it does,
-[02:23:40.280]  Val: and that's very, I've never seen that before.
-[02:23:42.600]  Val: And he asked me, I've never seen this before,
-[02:23:44.640]  Val: and I have not answered him yet,
-[02:23:46.040]  Val: I'm not gonna tell him yes, you know,
-[02:23:48.120]  Val: because I don't know who the fuck he's doing,
-[02:23:50.000]  Val: where his game is.
-[02:23:51.640]  Val: He's telling me that he wants to find a proper journalist,
-[02:23:54.840]  Val: he wants Ronan Farrow, so I'm like, okay fine,
-[02:23:56.640]  Val: here's Ronan Farrow, give him a Ronan Farrow,
-[02:23:58.880]  Val: but he's still sending me documents, so I don't know.
-[02:24:02.680]  Val: And it's, things like that happen a lot, so, yeah.
-[02:24:07.840]  Fed: So what do you wanna, like, you know,
-[02:24:09.000]  Fed: economic fraud type stuff, it's good information.
-[02:24:12.920]  Fed: If that's the case too, we'll probably pass it to
-[02:24:14.880]  Fed: an economic fraud agent, if you can help out too.
+[02:14:57.720]  Val: No, no, I don't understand how you work with, I mean, teach me, there's a way to work with other people, yeah, teach me, because usually, I don't know, like usually it's one person doing all the work, and the other person is watching, so, I don't know. But yeah, I'd like to, I would love to try, I mean.
+[02:15:22.440]  Fed: Yeah, like I said, right now I'm completely list of stuff that like, okay, we could use help on this, so it's maybe something that we could do. We could try to find a spot for you, still. I feel like it's that, I guess, on my head.
+[02:15:33.160]  Val: What I'm really good at doing is I could find stolen money and money laundering. If someone needs to move money, I can show you how to do that. I know how to, I know people that can reverse engineer, there's a word for it, Bitcoin wallets? Reverse [???], what do you call it?
+[02:15:49.920]  Fed: Well, how do they, how do they, do you mean, they're gonna track where the Bitcoin goes,
+[02:15:55.080]  Val: No, they can find, no, how, where it came from. They can do the whole scrub, they call it, it's not scrub, it's called the,
+[02:16:03.000]  Fed: They're watching it now, like you're telling, because it's all public, so that you can see where it goes to and from, you mean after it's been tumbled or something?
+[02:16:11.400]  Val: After it's been, yes. Not tumbled, after it's been put into any wallet. They can trace it, like a reverse trace. There's two people I know that can do it.
+[02:16:20.600]  Fed: That part's not too difficult, I'll tell you.
+[02:16:22.600]  Val: It's not, okay. Oh, you can? Okay, I don't know anything about it.
+[02:16:26.400]  Fed: And it's just like the ledger is public, so you can see where the money comes and goes to. It's just that this number means nothing.
+[02:16:32.160]  Val: Oh, no, but it's not that simple. I mean, yeah, I know there's an open ledger, but it's also, there's like a wallet that has self-account as well, so you have to find out where it, yeah. It's like, they know how to do that.
+[02:16:47.800]  Val: They can, they can, I'm not sure what the wording is. You see, that would be nice. I would like to know what the terms are for these things. I know how to do it, I know what the action is, but I don't know the term, the term, the terminology.
+[02:17:02.320]  Fed: Okay, so what other stuff do you have access to? I mean, because you have access to a lot of journalists, right? And here's the thing. I don't really want to deal with journalists because it's the [unintelligible] stuff that's there.
+[02:17:15.200]  Val: Journalists have a lot of data. They're a very untapped source of data. You know, if you know how to say the right thing, you can get all, I got the guys in Russia, there was a spy on trial, he's a banker spy, and I got the guy to send me the whole fucking transcripts, court records, everything.
+[02:17:33.040]  Fed: You mean the journalist was able to get the court records in 2017?
+[02:17:36.280]  Val: Yes, okay, yes, interesting. Journalists have a lot of shit, and they just sit on it and just goes, once the story's done, they forget about it. They don't need it anymore. So there's a huge fucking great source of information. Nobody even bothers to get it. But I know so many journalists now, and they're sending me shit all the time.
+[02:17:56.400]  Val: People, I just have this guy named, well, I'm not gonna tell you his name, because that would be kind of weird. It would be rude to do that, too. But he just found me on Twitter and said, I think that there's some shady shit going on in the Bank of Ireland. Can you take a look at this one? And I guess, I take a look at it, and lo and behold, Wilbur Ross stole $35 billion from Bank of Ireland. Well, Wilbur Ross and his compatriots, but 23, he calls them hedge funds because they're not hedge funds, they're more like LSEs.
+[02:18:31.160]  Val: But 23 of them that he owns, Wilbur Ross owns, okay? Bank of Ireland hid $35 billion in promissory bonds, sorry. He bought a portion of that bank for 1% for like, like something so touchy, like a couple billion dollars. And his, that share gave him access to $35 billion, which he pulled out, and it's fucking amazing. It's amazing.
+[02:18:58.680]  Val: So look, I get shit like that, but then I get the weird spy people, you know? Like the crazy people, they're not crazy. They're, sometimes they're reading a script. Like, I don't know if they're intelligence from corporate intelligence, or if they're actual state-run intelligence. I can't tell.
+[02:19:14.040]  Val: Like this guy, Kaiser Soze, right? So he's, he did a very classic move where you, instead of going right for me, he goes to people around me, and then they start talking about, and I'm like, oh, who's this guy you're talking about? Right? And that's how I get hooked. And I saw that coming a mile away, right? So I was like, okay, I'm here. What do you want to say? And he won't tell me what his real name. And he goes into this story, it's very specific, and it's very good, and I really wish it was true, but I don't believe it is.
+[02:19:45.000]  Val: But I do believe that 60 to 40% of it, somewhere over this bridge of the 50% mark, is true. It makes sense. Trump, there was a meeting in Deutsche Bank, he says, when my father was there, and he, it's a lie, my father was never there. I checked his schedule, he did not go to this meeting. And Jurgen Fitchison was not there either. He claims he was there. And two people from Natsutzky were there, and he was one of them, right? He says that they came in to buy a CLO, which is a collateralized loan obligation.
+[02:20:18.600]  Val: It's basically a structured product. It's a, it's a whole shitload of mortgages put together into one bundle that you can buy. And it's like a bank-to-bank thing. You can't, it probably gives no [???] access to it. So they thought they were gonna get rid of this, this charge, and sell it to Natsutzky. And the guy said, well, the problem is, we don't want you to buy it, we just want you to look at it and tell us what you think. And tell us where you see the problem.
+[02:20:47.000]  Val: So they looked at it and they saw that, to make this long story short, Donald Trump did not sign a consenting agreement. Okay, so if you have a, if you guys are all in a trust, right, that means that you're all shared, it's sort of the money that's pooled together. Let's say you wanted to borrow $5 million to start a golf course, right? But you don't tell these guys. You take it, you take the $5 million, you don't tell them, and you don't sign a consenting agreement. If you fail, they have to pay your debt, right? If you sign a consenting agreement, then they're free, right?
+[02:21:24.040]  Val: They're not liable for your debt if you fail. But you made money, you bring it back in and put it in the pool, and everyone's very happy, except that you didn't, they overlooked the fact that you didn't sign this agreement. Now, Trump didn't sign three of them, right? Which means the people at Deutsche Bank and the high net worth individuals at DBTCA specifically will be very upset to know that, and it would cause a run on DBTCA.
+[02:21:49.360]  Val: Now, and DBTCA has $23 billion going for it, and they still don't have a fucking chief risk officer, all right, $23 billion. That is a 700 person entity, all right? There's 25,000 Deutsche Bank America, 700 people in DBTCA. It's very secretive, it's a weird place, and that's where my dad, that's where they put my father when he died, when he killed himself. There's a French guy that runs it, and he was supposedly at this meeting as well.
+[02:22:22.040]  Val: Now, I'll just, fuck it, I'll just tell you. The first guy is Rebolyev, signed off on the loan, okay? The second one is, I don't believe him, because I fed him the answer, and I fucked up. You know when you say, oh, did you hear the word Victor Bexelberg in the room? He goes, oh yeah, that's it, right? Fuck, I shouldn't have said that, yeah. So he claims Victor Bexelberg was number two, and number three is interesting,
+[02:22:50.000]  Val: I didn't believe him until yesterday, because something interesting happened yesterday. He said that SpareBank signed on behalf, a person signed on behalf of SpareBank, not anyone you've heard of, but as, sorry, I'm sorry, not SpareBank, Gazprom. Gazprom is [??] an entity signed off on a loan. I'm like, what the fuck, how can an entity sign off on a loan? I've never heard of that. Until yesterday, when this Irish guy I was telling about sends me a, they call it charges, they call it in Ireland, they call them charges mortgages, right?
+[02:23:24.560]  Val: He sends me this, I have it right here if you wanna see it, this charge of some land that was sold in Ireland by Deutsche Bank. So Deutsche Bank, as a bank, is an entity liable for it. I was like, holy shit, it does, and that's very, I've never seen that before. And he asked me, I've never seen this before, and I have not answered him yet, I'm not gonna tell him yes, you know, because I don't know who the fuck he's doing, where his game is.
+[02:23:51.640]  Val: He's telling me that he wants to find a proper journalist, he wants Ronan Farrow, so I'm like, okay fine, here's Ronan Farrow, give him a Ronan Farrow, but he's still sending me documents, so I don't know. And it's, things like that happen a lot, so, yeah.
+[02:24:07.840]  Fed: So what do you wanna, like, you know, economic fraud type stuff, it's good information. If that's the case too, we'll probably pass it to an economic fraud agent, if you can help out too.
 [02:24:17.320]  Val: Sure.
-[02:24:19.080]  Fed: What other, like, are you involved in any hacking groups?
-[02:24:21.800]  Fed: Do you know of any hacking groups that you can get into?
-[02:24:25.160]  Fed: Like, yeah, a dark net type thing.
-[02:24:26.400]  Val: Well, I mean, is this like, what if I say yes, am I in trouble?
-[02:24:32.400]  Val: Yeah, I mean, yeah, there's one group.
-[02:24:34.840]  Fed: Because obviously the FBI monitors a lot of these things,
-[02:24:37.440]  Fed: and you like to see, you know, what's going on.
+[02:24:19.080]  Fed: What other, like, are you involved in any hacking groups? Do you know of any hacking groups that you can get into? Like, yeah, a dark net type thing.
+[02:24:26.400]  Val: Well, I mean, is this like, what if I say yes, am I in trouble? Yeah, I mean, yeah, there's one group.
+[02:24:34.840]  Fed: Because obviously the FBI monitors a lot of these things, and you like to see, you know, what's going on.
 [02:24:38.840]  Val: Yeah, you guys are in that signal group, aren't you?
 [02:24:40.880]  Fed: What signal group?
-[02:24:42.120]  Val: Which one?
-[02:24:43.760]  Val: There's a bunch of signal groups.
-[02:24:45.680]  Val: There's one, I know there's some people that we checked,
-[02:24:48.640]  Val: and there's some like, brand new,
-[02:24:50.320]  Val: limited identities for some people,
-[02:24:53.360]  Val: we don't know where they came from, so.
-[02:24:55.040]  Val: I thought it was either FBI, or it was like,
-[02:24:57.280]  Val: some spies or something, so I don't know.
-[02:24:59.520]  Fed: In the signal group, so the signal group,
-[02:25:02.320]  Fed: there's a bunch of new identities?
-[02:25:04.520]  Val: Well, it's not, there's a couple of,
-[02:25:05.920]  Val: more than one signal group, so there's a group of people,
-[02:25:08.680]  Val: and they're not all hackers, it's like,
-[02:25:10.040]  Val: it's a mix of very interesting people.
-[02:25:13.000]  Val: Yeah, yeah, it's like, some of the greatest journalists,
-[02:25:16.600]  Val: and some of the greatest hackers,
-[02:25:17.720]  Val: and some of the greatest activists,
-[02:25:19.280]  Val: some of the greatest writers, you know,
-[02:25:21.160]  Val: and some just fucking fine, interesting people.
-[02:25:24.360]  Val: You know, everyone's having a conversation,
-[02:25:25.800]  Val: but specifically a hacking group, no.
-[02:25:29.360]  Val: But there's like, different variations of these signal groups,
-[02:25:32.160]  Val: and this one is Barrett, so.
-[02:25:33.800]  Val: When he said Houston, I was like,
-[02:25:34.920]  Val: oh fuck, he's after Barrett Brown.
+[02:24:42.120]  Val: Which one? There's a bunch of signal groups. There's one, I know there's some people that we checked, and there's some like, brand new, limited identities for some people, we don't know where they came from, so. I thought it was either FBI, or it was like, some spies or something, so I don't know.
+[02:24:59.520]  Fed: In the signal group, so the signal group, there's a bunch of new identities?
+[02:25:04.520]  Val: Well, it's not, there's a couple of, more than one signal group, so there's a group of people, and they're not all hackers, it's like, it's a mix of very interesting people. Yeah, yeah, it's like, some of the greatest journalists, and some of the greatest hackers, and some of the greatest activists, some of the greatest writers, you know, and some just fucking fine, interesting people.
+[02:25:24.360]  Val: You know, everyone's having a conversation, but specifically a hacking group, no. But there's like, different variations of these signal groups, and this one is Barrett, so.
+[02:25:33.800]  Val: When he said Houston, I was like, oh fuck, he's after Barrett Brown.
 [02:25:38.520]  Fed: Barrett's on the radar, I mean.
 [02:25:40.040]  Val: Yeah?
-[02:25:40.880]  Fed: Like, but you know that, I mean,
-[02:25:42.440]  Fed: he's been arrested already.
+[02:25:40.880]  Fed: Like, but you know that, I mean, he's been arrested already.
 [02:25:44.440]  Val: I know, he's in rehab right now, yeah, okay, good so, yeah.
 [02:25:48.200]  Fed: Well, what's Barrett up to, do you talk to him?
-[02:25:50.080]  Val: Yeah, I talk to him all the time,
-[02:25:51.320]  Val: he pisses me off, he's a little fucking shit,
-[02:25:53.600]  Val: because he's supposed to write great,
-[02:25:56.360]  Val: huge, thunderous story against Val versus David Enrich,
-[02:26:00.800]  Val: but he got too high, and just fucking forgot about it.
-[02:26:04.240]  Val: Well, not forgot about it, just didn't do it.
-[02:26:06.680]  Val: So, and he hasn't even apologized yet,
-[02:26:09.000]  Val: so I'm very pissed off.
-[02:26:11.400]  Val: And I've got reams and reams of texts with him, so, yeah.
-[02:26:17.240]  Val: And he's a good guy, but he doesn't know shit about computers.
-[02:26:19.440]  Val: He's not an hacker.
+[02:25:50.080]  Val: Yeah, I talk to him all the time, he pisses me off, he's a little fucking shit, because he's supposed to write great, huge, thunderous story against Val versus David Enrich, but he got too high, and just fucking forgot about it. Well, not forgot about it, just didn't do it. So, and he hasn't even apologized yet, so I'm very pissed off. And I've got reams and reams of texts with him, so, yeah.
+[02:26:17.240]  Val: And he's a good guy, but he doesn't know shit about computers. He's not an hacker.
 [02:26:20.920]  Fed: He was part of a Anonymous for a good bit.
-[02:26:22.800]  Val: Yeah, but he's a talker, he's not an hacker.
-[02:26:24.840]  Val: No, you barely know how to do that.
-[02:26:27.520]  Val: He couldn't find his key chain.
-[02:26:31.200]  Val: Seriously, he doesn't know shit.
-[02:26:33.040]  Val: That's the funny part about Barrett,
-[02:26:34.360]  Val: he doesn't know anything about computers.
-[02:26:36.680]  Val: Yeah.
+[02:26:22.800]  Val: Yeah, but he's a talker, he's not an hacker. No, you barely know how to do that. He couldn't find his key chain. Seriously, he doesn't know shit. That's the funny part about Barrett,: he doesn't know anything about computers. Yeah.
 [02:26:37.520]  Fed: So, does Barrett [unintelligible]
-[02:26:40.280]  Val: No, no, no, he's, you know, just,
-[02:26:42.840]  Val: he's kind of like, the reason I have some respect for him
-[02:26:45.160]  Val: is because he's sort of, like, on this vengeful path
-[02:26:47.800]  Val: that I understand now.
-[02:26:48.960]  Val: I've never been on a vengeful path before,
-[02:26:51.440]  Val: but now I understand it, I've started it,
-[02:26:54.000]  Val: and I know that's what he's doing too.
-[02:26:55.400]  Val: Like, whatever happened with the FBI and him.
-[02:26:58.480]  Val: But I don't know, I just think it's hilarious
-[02:27:00.520]  Val: when he got raided and he was live on the webcam.
-[02:27:03.360]  Val: I just thought that was funny, I don't know.
-[02:27:04.840]  Val: But then he fucking, I told him,
-[02:27:07.920]  Val: I actually recorded this conversation,
-[02:27:10.040]  Val: I told him, like, look, dude, where you fucked up
-[02:27:12.640]  Val: is where you went after the FBI agent's family.
-[02:27:15.520]  Val: That was stupid.
-[02:27:16.760]  Val: You must understand how dumb that was.
-[02:27:18.880]  Val: "Yes, but, you know, I was already
-[02:27:20.840]  Val: "gonna be put in jail anyway,"
-[02:27:22.080]  Val: so, come on, bro, you could have avoided a lot of shit
-[02:27:25.280]  Val: if you just didn't do that stupid shit.
-[02:27:27.400]  Val: So he has an ego that won't,
-[02:27:32.000]  Val: that's his biggest issue, his ego.
-[02:27:34.240]  Val: He can't drop it for a second.
-[02:27:36.240]  Val: He doesn't have the humility or the ability to try.
-[02:27:43.360]  Val: That's the problem.
-[02:27:44.320]  Val: That's why you can't trust someone like that in here.
+[02:26:40.280]  Val: No, no, no, he's, you know, just, he's kind of like, the reason I have some respect for him is because he's sort of, like, on this vengeful path that I understand now. I've never been on a vengeful path before, but now I understand it, I've started it, and I know that's what he's doing too. Like, whatever happened with the FBI and him. But I don't know, I just think it's hilarious when he got raided and he was live on the webcam. I just thought that was funny, I don't know.
+[02:27:04.840]  Val: But then he fucking, I told him, I actually recorded this conversation, I told him, like, look, dude, where you fucked up is where you went after the FBI agent's family. That was stupid. You must understand how dumb that was.
+[02:27:18.880]  Val: "Yes, but, you know, I was already gonna be put in jail anyway," so, come on, bro, you could have avoided a lot of shit if you just didn't do that stupid shit. So he has an ego that won't, that's his biggest issue, his ego. He can't drop it for a second. He doesn't have the humility or the ability to try. That's the problem. That's why you can't trust someone like that in here.
 [02:27:46.880]  Fed: Do you guys talk over Signal?
-[02:27:49.000]  Val: Yeah, yeah.
-[02:27:50.560]  Val: Well, again, I was trying to help him.
-[02:27:52.560]  Val: He had no where, he's like homeless now,
-[02:27:54.160]  Val: with his weird girlfriend, so I was trying to help him.
-[02:27:57.160]  Val: You know, I got him a couple of hotel rooms,
-[02:28:00.280]  Val: I sent him some money, he was like, you know,
-[02:28:02.120]  Val: and then my girlfriend goes out of her way to,
-[02:28:05.480]  Val: sorry, now I'm just complaining, but she goes,
-[02:28:07.760]  Val: out of her way to get him a place to live
-[02:28:09.600]  Val: for like a month, so he's off the streets,
-[02:28:11.600]  Val: he doesn't have to worry about food and shit,
-[02:28:13.640]  Val: he can just work, because she's like,
-[02:28:15.840]  Val: do the thing where he fucking promised he promised us,
-[02:28:18.280]  Val: like, here's a place to live.
-[02:28:19.880]  Val: And instead of just going there and saying thank you
-[02:28:22.040]  Val: and doing it, he just like,
-[02:28:24.400]  Val: creates this whole chaotic thing of like,
-[02:28:26.720]  Val: well, you didn't tell me to call this day,
-[02:28:28.360]  Val: and you know, like this minutiae,
-[02:28:31.200]  Val: so he sabotages the whole thing,
-[02:28:32.720]  Val: and then at the end I'm like
-[02:28:33.640]  Val: you know what, Barrett, go fuck yourself.
-[02:28:35.560]  Val: I don't, it's not opening anymore,
-[02:28:37.480]  Val: the windows closed, it's done.
-[02:28:40.040]  Val: And he's like, fuck you, I'm Barrett, you know.
-[02:28:42.400]  Val: No, and I ignore him, the more I ignore him,
-[02:28:44.120]  Val: the more he wants your attention.
-[02:28:46.080]  Fed: Where is he now,
-[02:28:47.840]  Fed: I mean, where in rehab, is it in Dallas [???] or?
+[02:27:49.000]  Val: Yeah, yeah. Well, again, I was trying to help him. He had no where, he's like homeless now, with his weird girlfriend, so I was trying to help him. You know, I got him a couple of hotel rooms, I sent him some money, he was like, you know, and then my girlfriend goes out of her way to, sorry, now I'm just complaining, but she goes, out of her way to get him a place to live for like a month, so he's off the streets, he doesn't have to worry about food and shit, he can just work, because she's like, do the thing where he fucking promised he promised us, like, here's a place to live.
+[02:28:19.880]  Val: And instead of just going there and saying thank you and doing it, he just like, creates this whole chaotic thing of like, well, you didn't tell me to call this day, and you know, like this minutiae, so he sabotages the whole thing, and then at the end I'm like you know what, Barrett, go fuck yourself. I don't, it's not opening anymore, the windows closed, it's done.
+[02:28:40.040]  Val: And he's like, fuck you, I'm Barrett, you know. No, and I ignore him, the more I ignore him, the more he wants your attention.
+[02:28:46.080]  Fed: Where is he now, I mean, where in rehab, is it in Dallas [???] or?
 [02:28:53.080]  Val: Do you really want to know?
 [02:28:54.240]  Fed: I was just curious, I mean, like.
 [02:28:55.760]  Val: You're like, what?
-[02:28:57.720]  Fed: No, maybe, you don't want to tell,
-[02:28:59.000]  Fed: you don't have to tell.
-[02:28:59.840]  Val: No, I, I, I think it's important,
-[02:29:02.560]  Val: I think I want to know what and why.
-[02:29:05.600]  Val: Like, if I'm going to take the accountability
-[02:29:07.400]  Val: of doing something to somebody here,
-[02:29:08.680]  Val: I'm going to get someone in trouble or put in jail,
-[02:29:10.560]  Val: I would like to know who it is,
-[02:29:11.880]  Val: why I'm doing it and what for it.
-[02:29:13.880]  Val: You know what I mean?
-[02:29:14.720]  Fed: I get it, I mean, I'll tell you this right now,
-[02:29:16.680]  Fed: I can't tell you everything we do, right?
-[02:29:19.560]  Fed: Like I said, I'll be honest with you
-[02:29:20.960]  Fed: as much as you're going to be honest with me.
-[02:29:22.520]  Fed: I can't tell you the motivation behind
-[02:29:24.240]  Fed: every single question I ask,
-[02:29:26.120]  Fed: because there's a lot of things that the FBI does,
-[02:29:28.160]  Fed: like if we had an investigation into whatever,
-[02:29:31.400]  I don't know, call it Barrett Brown, for example.
-[02:29:34.480]  Fed: And you wanted to know why, and it's because,
-[02:29:36.320]  Fed: oh, we're going to arrest him tomorrow, right?
-[02:29:38.440]  Fed: And then you don't say, hey, Barrett, by the way,
-[02:29:40.720]  Fed:  the FBI's going to fuck you tomorrow.
+[02:28:57.720]  Fed: No, maybe, you don't want to tell, you don't have to tell.
+[02:28:59.840]  Val: No, I, I, I think it's important, I think I want to know what and why. Like, if I'm going to take the accountability of doing something to somebody here, I'm going to get someone in trouble or put in jail, I would like to know who it is, why I'm doing it and what for it. You know what I mean?
+[02:29:14.720]  Fed: I get it, I mean, I'll tell you this right now, I can't tell you everything we do, right? Like I said, I'll be honest with you as much as you're going to be honest with me. I can't tell you the motivation behind every single question I ask, because there's a lot of things that the FBI does, like if we had an investigation into whatever, I don't know, call it Barrett Brown, for example. And you wanted to know why, and it's because, oh, we're going to arrest him tomorrow, right? And then you don't say, hey, Barrett, by the way, the FBI's going to fuck you tomorrow.
 [02:29:42.280]  Val: Yeah.
 [02:29:43.120]  Fed: It probably wouldn't go well for us, right?
 [02:29:44.960]  Val: So that would have to be my choice, right?
-[02:29:47.240]  Fed: Yeah.
-[02:29:48.080]  Fed: So everything you could tell is totally up to you, right?
-[02:29:51.280]  Fed: Like I'm not forcing you to give anything,
-[02:29:53.120]  Fed: you're here on your own.
-[02:29:53.960]  Val: Well, I'm not going to give you a Barrett Brown right now.
-[02:29:56.200]  Val: If there's something that he's done
-[02:29:57.920]  Val: that you feel you want to know,
-[02:30:00.520]  Val: or if this is a vendetta thing,
-[02:30:02.280]  Val: then I don't want to be part of the vendetta.
-[02:30:04.680]  Fed: Don't worry about that.
-[02:30:05.520]  Fed: I mean, I'm trying to assess what information you have,
-[02:30:07.680]  Fed: because whenever he's up there, I'm in Houston, so like.
-[02:30:10.360]  Val: Sure, you know, I've got a Jeremy Hammond,
-[02:30:12.520]  Val: Gregg Housh, all the guys, all these people.
-[02:30:15.480]  Fed: Because like that's the other thing we have to assess too,
-[02:30:17.200]  Fed: is if you're not willing to help.
-[02:30:18.520]  Val: But Gregg worked with you, Gregg worked with you already.
-[02:30:21.080]  Val: Gregg worked with you guys.
-[02:30:23.200]  Val: He's already been helpful, you know.
-[02:30:25.240]  Fed: Yeah, yeah.
-[02:30:26.080]  Fed: Like that's the thing is we're collecting
-[02:30:27.760]  Fed: a lot of information on a lot of different things, right?
-[02:30:29.760]  Fed: Right.
-[02:30:30.600]  Fed: So part of it is, it's going to be a one-way street
-[02:30:33.280]  Fed: of information this way.
-[02:30:34.280]  Fed: I can't give you all the information that's,
-[02:30:36.400]  Fed: so like if that's what you expect, then, you know,
-[02:30:38.840]  Fed: it's no hard feelings, and we part ways, and it's just fun.
-[02:30:42.000]  Fed: Because I can't tell you everything we do, because.
+[02:29:47.240]  Fed: Yeah. So everything you could tell is totally up to you, right? Like I'm not forcing you to give anything, you're here on your own.
+[02:29:53.960]  Val: Well, I'm not going to give you a Barrett Brown right now. If there's something that he's done that you feel you want to know, or if this is a vendetta thing, then I don't want to be part of the vendetta.
+[02:30:04.680]  Fed: Don't worry about that. I mean, I'm trying to assess what information you have, because whenever he's up there, I'm in Houston, so like.
+[02:30:10.360]  Val: Sure, you know, I've got Jeremy Hammond, Gregg Housh, all the guys, all these people.
+[02:30:15.480]  Fed: Because like that's the other thing we have to assess too, is if you're not willing to help.
+[02:30:18.520]  Val: But Gregg worked with you, Gregg worked with you already. Gregg worked with you guys. He's already been helpful, you know.
+[02:30:25.240]  Fed: Yeah, yeah. Like that's the thing is we're collecting a lot of information on a lot of different things, right?
+[02:30:29.760]  Val: Right.
+[02:30:30.600]  Fed: So part of it is, it's going to be a one-way street of information this way. I can't give you all the information that's, so like if that's what you expect, then, you know, it's no hard feelings, and we part ways, and it's just fun. Because I can't tell you everything we do, because.
 [02:30:44.840]  Val: I know, I don't.
 [02:30:45.680]  Fed: You don't know me, I don't know you either.
-[02:30:47.320]  Val: I don't expect you to tell me everything you do.
-[02:30:49.160]  Val: I don't.
-[02:30:50.240]  Val: No expectations, I just, if it's something that is,
-[02:30:55.680]  Val: if I mean, I'm going to be accountable for someone's life,
-[02:30:59.800]  Val: I'd really like to think it through, you know.
+[02:30:47.320]  Val: I don't expect you to tell me everything you do. I don't. No expectations, I just, if it's something that is, if I mean, I'm going to be accountable for someone's life, I'd really like to think it through, you know.
 [02:31:02.840]  Fed: Yeah.
-[02:31:03.680]  Val: I mean, if you want me to blindly follow orders.
-[02:31:07.600]  Val: I mean, I will right now,
-[02:31:08.560]  Val: because Marlowe's life is in jeopardy, of course.
-[02:31:11.040]  Val: I'll do whatever the fuck you want to save Marlowe,
-[02:31:13.600]  Val: but at a certain, after that, you know,
-[02:31:16.080]  Val: I will have to draw a line or something.
-[02:31:18.240]  Fed: And I, so here's the thing,
-[02:31:19.440]  Fed: I want you to be as conscious of the decision.
-[02:31:21.640]  Fed: Let's take Marlow's whole way out of the situation.
+[02:31:03.680]  Val: I mean, if you want me to blindly follow orders. I mean, I will right now, because Marlowe's life is in jeopardy, of course. I'll do whatever the fuck you want to save Marlowe, but at a certain, after that, you know, I will have to draw a line or something.
+[02:31:18.240]  Fed: And I, so here's the thing, I want you to be as conscious of the decision. Let's take Marlowe's whole way out of the situation.
 [02:31:23.200]  Val: Okay.
-[02:31:24.040]  Fed: And you resolve Marlowe, everything's both copacetic.
-[02:31:26.840]  Fed: I want you to make the same decision as her then,
-[02:31:28.800]  Fed: as you would before that.
-[02:31:29.680]  Val: Okay, well then, that depends on you.
-[02:31:31.400]  Val: If I like you guys, and I believe that this is,
-[02:31:33.880]  Val: you are like Tim and Jammy, and like you, again,
-[02:31:36.840]  Val: if they told, sent you to me, then I'm trusting them.
-[02:31:40.800]  Val: I believe you guys are the good people,
-[02:31:42.760]  Val: because there are some bad people in the FBI.
-[02:31:45.280]  Val: All right, there's some really fucking shits.
-[02:31:47.160]  Val: In every, not just the FBI, but everywhere.
-[02:31:49.760]  Val: And it's hard to find them and negotiate.
-[02:31:51.680]  Val: And you know, my read on you right now
-[02:31:53.560]  Val: is that you're a very highly intelligent guy.
-[02:31:56.240]  Val: You know, but you're hiding something from me right now,
-[02:31:58.680]  Val: and you haven't still,
-[02:31:59.520]  Val: you still haven't told me you're hiding something right now.
-[02:32:01.560]  Val: And you are here to suss me out
-[02:32:02.720]  Val: from a totally different point of view.
-[02:32:04.240]  Val: I'm not sure what point of view that is.
-[02:32:06.320]  Val: And you are here to completely give
-[02:32:08.600]  Val: the female point of view.
+[02:31:24.040]  Fed: And you resolve Marlowe, everything's both copacetic. I want you to make the same decision as her then, as you would before that.
+[02:31:29.680]  Val: Okay, well then, that depends on you. If I like you guys, and I believe that this is, you are like Tim and Jammy, and like you, again, if they told, sent you to me, then I'm trusting them. I believe you guys are the good people, because there are some bad people in the FBI.
+[02:31:45.280]  Val: All right, there's some really fucking shits. In every, not just the FBI, but everywhere. And it's hard to find them and negotiate. And you know, my read on you right now is that you're a very highly intelligent guy. You know, but you're hiding something from me right now, and you haven't still, you still haven't told me you're hiding something right now.
+[02:32:01.560]  Val: And you are here to suss me out from a totally different point of view. I'm not sure what point of view that is. And you are here to completely give the female point of view.
 [02:32:10.600]  Fed: Oh, wow.
 [02:32:13.000]  Val: I'm joking.
-[02:32:15.160]  Val: You have a whole other case that you need help on,
-[02:32:17.760]  Val: which is not even related to this,
-[02:32:19.320]  Val: but I'm trying to figure out what that is for.
-[02:32:21.400]  Val: But you seem more like a New York-style person,
-[02:32:23.840]  Val: not an LA person.
-[02:32:25.240]  Val: So I'm thinking you've got to be,
-[02:32:28.040]  Val: you've got to be closer than Tim,
-[02:32:29.480]  Val: and you've got to be with Desky and Lyne.
-[02:32:33.480]  Val: No, not with Desky and Lyne.
-[02:32:36.480]  Val: Anyway, so, but your thing's unrelated to their thing,
-[02:32:39.920]  Val: right?
-[02:32:41.600]  Val: Am I close?
-[02:32:43.560]  Val: Okay.
+[02:32:15.160]  Val: You have a whole other case that you need help on, which is not even related to this, but I'm trying to figure out what that is for.
+[02:32:21.400]  Val: But you seem more like a New York-style person, not an LA person. So I'm thinking you've got to be, you've got to be closer than Tim, and you've got to be with Desky and Lyne. No, not with Desky and Lyne. Anyway, so, but your thing's unrelated to their thing, right? Am I close? Okay.
 [02:32:44.400]  Fed: [unintelligible]
-[02:32:46.880]  Val: That's okay, but that's what you tell me,
-[02:32:48.520]  Val: and then I,
-[02:32:49.360]  Fed: So, it's a matter of thinking.
-[02:32:50.200]  Fed: I'm trying to assess you.
-[02:32:52.120]  Fed: The thing is,
-[02:32:52.960]  Fed: We're being straight up.
-[02:32:55.080]  Fed: Yep.
-[02:32:55.920]  Fed: I mean, I think [unintelligible]
-[02:32:59.040]  Fed: you know, they're wrong,
-[02:33:00.520]  Fed: and we do this job for the right reasons.
-[02:33:04.720]  Fed: There are bad apples out there,
-[02:33:06.200]  Fed: and that's not what you've got across.
+[02:32:46.880]  Val: That's okay, but that's what you tell me, and then I,
+[02:32:49.360]  Fed: So, it's a matter of thinking. I'm trying to assess you. The thing is, We're being straight up. Yep. I mean, I think [unintelligible] you know, they're wrong, and we do this job for the right reasons. There are bad apples out there, and that's not what you've got across.
 [02:33:09.200]  Val: That's right.
-[02:33:12.040]  Fed: I think the fact that when we listen to you,
-[02:33:15.440]  Fed: and we ask you questions about Marlowe,
-[02:33:19.600]  Fed: That's not even worse than having a family to report.
-[02:33:22.280]  Fed: And you've been through that.
-[02:33:24.040]  Fed: You know, you have a history.
-[02:33:25.560]  Val: I have,
-[02:33:26.400]  Val: but I have to also question you and think,
-[02:33:28.440]  Val: well, you know, I mean, I could be any way,
-[02:33:30.440]  Val: what if I'm the bad guy,
-[02:33:31.560]  Val: and I'm sitting here talking to you.
-[02:33:32.760]  Val: So do you have to figure out,
-[02:33:34.760]  Val: where am I,
-[02:33:35.600]  Val: am I the good person or the bad person, right?
-[02:33:37.440]  Val: I told you my side of the story.
-[02:33:38.640]  Val: Of course, I'm gonna make myself look good.
-[02:33:40.520]  Val: You guys have to do your background on me.
-[02:33:42.600]  Val: So I figured, have you already done it?
-[02:33:44.120]  Val: If I would not be sitting here,
-[02:33:45.280]  Val: if you hadn't done it,
-[02:33:46.120]  Val: I'd already figured out I was the good guy.
-[02:33:48.040]  Val: So I'm gonna have to trust you on that.
-[02:33:49.800]  Val: That's what I,
-[02:33:50.720]  Val: now I could be jumping to conclusions here,
-[02:33:53.760]  Val: but that's why I figured it is happening, right?
-[02:33:55.720]  Fed: So you're right on that part,
-[02:33:57.000]  Fed: because I wouldn't bring you in here
-[02:33:59.560]  Fed: in a situation like this,
-[02:34:01.040]  Fed: if you were my target, right?
-[02:34:02.640]  Fed: If you were my target, we would arrest of you.
+[02:33:12.040]  Fed: I think the fact that when we listen to you, and we ask you questions about Marlowe, That's not even worse than having a family to report.
+[02:33:22.280]  Fed: And you've been through that. You know, you have a history.
+[02:33:25.560]  Val: I have, but I have to also question you and think, well, you know, I mean, I could be any way, what if I'm the bad guy, and I'm sitting here talking to you. So do you have to figure out, where am I, am I the good person or the bad person, right? I told you my side of the story. Of course, I'm gonna make myself look good. You guys have to do your background on me. So I figured, have you already done it?
+[02:33:44.120]  Val: If I would not be sitting here, if you hadn't done it, I'd already figured out I was the good guy. So I'm gonna have to trust you on that. That's what I, now I could be jumping to conclusions here, but that's why I figured it is happening, right?
+[02:33:55.720]  Fed: So you're right on that part, because I wouldn't bring you in here in a situation like this, if you were my target, right? If you were my target, we would arrest of you.
 [02:34:04.560]  Val: Right, right.
-[02:34:06.480]  Fed: That being said,
-[02:34:07.800]  Fed: we're still trying to figure each other out, right?
-[02:34:09.520]  Fed: Yeah.
-[02:34:10.360]  Fed: We need to figure out what our role is,
-[02:34:11.680]  Fed: and we're trying to figure out
-[02:34:12.920]  Fed: if you've got any information that can help us.
-[02:34:15.000]  Val: So, what, oh, databases?
-[02:34:17.400]  Val: Yes, I do have OCCP, [sic]
-[02:34:20.480]  Val: and I did have all of Emma's stuff too,
-[02:34:23.080]  Val: Hunter, actually it's still available,
-[02:34:25.560]  Val: Hunter Archives.
+[02:34:06.480]  Fed: That being said, we're still trying to figure each other out, right?
+[02:34:09.520]  Val: Yeah.
+[02:34:10.360]  Fed: We need to figure out what our role is, and we're trying to figure out if you've got any information that can help us.
+[02:34:15.000]  Val: So, what, oh, databases? Yes, I do have OCCP, [sic] and I did have all of Emma's stuff too, Hunter, actually it's still available, Hunter Archives.
 [02:34:26.960]  Fed: Okay.
-[02:34:27.800]  Val: And the ICIJ,
-[02:34:30.720]  Val: and I've got,
-[02:34:31.560]  Fed: I don't know, so access to OCCP and,
-[02:34:34.720]  Fed: what's Hunter?
-[02:34:36.200]  Val: If I could show up for a second,
-[02:34:37.440]  Val: I'd have admin access to you.
-[02:34:39.560]  Val: This is really good.
-[02:34:40.400]  Val: I got all the shit that I,
-[02:34:41.740]  Val: it was OCCP, yeah, thank you.
-[02:34:48.320]  Val: If you want my files,
-[02:34:51.280]  Val: then hook me up with your admin access.
-[02:34:53.080]  Val: I want to sell this shit, you know?
-[02:34:54.280]  Val: I can't be stuck looking at half the document.
-[02:34:57.120]  Val: If you want me to find the fucking money launderers,
-[02:34:59.480]  Val: you need to see the whole breadth of the thing.
-[02:35:01.480]  Val: I have to follow the whole paper trail.
-[02:35:03.360]  Val: So, that's it.
-[02:35:05.160]  Fed: So, what do they have on OCCP?
-[02:35:06.800]  Fed: I've heard about it.
-[02:35:07.640]  Val: So much shit, so much shit.
-[02:35:09.480]  Val: Dude, it's great.
-[02:35:10.400]  Val: It's great, everything, everything.
-[02:35:12.240]  Val: Every, I mean, Panama Papers, you know, everything.
-[02:35:16.080]  Val: All my shit is there, you know?
-[02:35:18.840]  Val: All of Emma's stuff is there.
-[02:35:20.640]  Val: So, Hunter Archives would be the DDoS Secrets and Emma's stuff.
-[02:35:25.000]  Val: And then that server got.
-[02:35:26.720]  Val: raided in Germany and one in America or something.
-[02:35:29.280]  Val: Which is a shame,
-[02:35:30.120]  Val: because it was like a public service that archive.
-[02:35:31.720]  Val: It was really good.
-[02:35:33.240]  Val: But it's like a, that was her big coup de grace out there,
-[02:35:38.320]  Val: her big tiara on her head sort of thing.
-[02:35:41.200]  Val: What's the word I'm talking about here?
+[02:34:27.800]  Val: And the ICIJ, and I've got, I don't know, so access to OCCP and,
+[02:34:34.720]  Fed: What's Hunter?
+[02:34:36.200]  Val: If I could show up for a second, I'd have admin access to you. This is really good. I got all the shit that I, it was OCCP, yeah, thank you. If you want my files, then hook me up with your admin access. I want to see all this shit, you know? I can't be stuck looking at half the document. If you want me to find the fucking money launderers, you need to see the whole breadth of the thing. I have to follow the whole paper trail. So, that's it.
+[02:35:05.160]  Fed: So, what do they have on OCCP? I've heard about it.
+[02:35:07.640]  Val: So much shit, so much shit. Dude, it's great. It's great, everything, everything. Every, I mean, Panama Papers, you know, everything. All my shit is there, you know? All of Emma's stuff is there. So, Hunter Archives would be the DDoS Secrets [sic] and Emma's stuff.
+[02:35:25.000]  Val: And then that server got raided in Germany and one in America or something. Which is a shame, because it was like a public service that archive. It was really good. But it's like a, that was her big coup de grace out there, her big tiara on her head sort of thing. What's the word I'm talking about here?
 [02:35:43.760]  Fed: Her baby or what?
-[02:35:44.600]  Val: Yeah, whatever it is.
-[02:35:45.760]  Val: But it's also, that's like one 20th of the OCCP.
-[02:35:49.880]  Val: Who's Emma Best and why is she important?
-[02:35:53.720]  Val: You know, I don't think she's important.
-[02:35:56.160]  Val: Actually, I think she's full of shit.
-[02:35:57.440]  Val: She says, oh, I used to work for the CIA,
-[02:35:59.360]  Val: but I can't tell you.
-[02:36:01.040]  Val: Like one of those old, you know, isn't that community?
-[02:36:03.440]  Val: Is Emma Best her real name or?
+[02:35:44.600]  Val: Yeah, whatever it is. But it's also, that's like one 20th of the OCCP.
+[02:35:49.880]  Fed: Who's Emma Best and why is she important? 
+[02:35:53.720]  Val: You know, I don't think she's important. Actually, I think she's full of shit. She says, oh, I used to work for the CIA, but I can't tell you. Like one of those old, you know, isn't that community?
+[02:36:03.440]  Fed: Is Emma Best her real name or?
 [02:36:05.280]  Val: I don't know, okay.
-[02:36:07.200]  Val: All I know is that I think she is a,
-[02:36:10.280]  Val: I'm still trying to figure out,
-[02:36:12.320]  Val: not, you know, in any pejorative manner.
-[02:36:16.280]  Val: But I think she was a man first,
-[02:36:19.480]  Val: and then became a woman, or was she a woman who became a,
-[02:36:21.320]  Val: I don't even know that.
-[02:36:22.280]  Val: I just know it's some sort of gender change.
-[02:36:24.920]  Val: And I know that her boyfriend or girlfriend,
-[02:36:28.480]  Val: I don't know if she was also a man first,
-[02:36:30.960]  Val: but I do know that he slash she is kind of an asshole,
-[02:36:33.680]  Val: and that's it.
-[02:36:34.640]  Val: It's like the kind of person that asked for money,
-[02:36:40.080]  Val: and then, like, we need money,
-[02:36:42.480]  Val: we need help because we have an autistic child.
-[02:36:44.360]  Val: And how do you say no to that?
-[02:36:46.360]  Val: You know, but then they sort of say,
-[02:36:48.760]  Val: go fuck yourself if you have an idea that they don't have.
-[02:36:52.960]  Val: Like in this one group,
-[02:36:53.960]  Val: but a friend of mine was just trying to actually Barrett.
-[02:36:59.200]  Val: was like, yeah, you know,
-[02:37:00.960]  Val: whatever you do, don't attack this person at this turn,
-[02:37:04.560]  Val: that this,
-[02:37:08.120]  Val: sort of a lawyer that I can't think of.
-[02:37:11.120]  Val: I'm losing my speed here,
-[02:37:13.640]  Val: but a nonprofit, some sort of nonprofit,
-[02:37:17.000]  Val: don't attack the specific lawyer because he's a good guy.
-[02:37:19.200]  Val: And then she says, fuck you, he's a terrible guy.
-[02:37:20.840]  Val: I can attack whoever the fuck I want.
-[02:37:22.480]  Val: And this is Emma's partner, spouse.
+[02:36:07.200]  Val: All I know is that I think she is a, I'm still trying to figure out, not, you know, in any pejorative manner. But I think she was a man first, and then became a woman, or was she a woman who became a, I don't even know that. I just know it's some sort of gender change. And I know that her boyfriend or girlfriend, I don't know if she was also a man first, but I do know that he slash she is kind of an asshole, and that's it.
+[02:36:34.640]  Val: It's like the kind of person that asked for money, and then, like, we need money, we need help because we have an autistic child. And how do you say no to that? You know, but then they sort of say, go fuck yourself if you have an idea that they don't have.
+[02:36:52.960]  Val: Like in this one group, but a friend of mine was just trying to actually Barrett. was like, yeah, you know, whatever you do, don't attack this person at this turn, that this, sort of a lawyer that I can't think of. I'm losing my speed here, but a nonprofit, some sort of nonprofit, don't attack the specific lawyer because he's a good guy. And then she says, fuck you, he's a terrible guy. I can attack whoever the fuck I want. And this is Emma's partner, spouse.
 [02:37:27.120]  Fed: You know, they're, name is or anything?
-[02:37:30.520]  Val: Xan, is there a fake name, X-A-N?
-[02:37:33.800]  Val: No, X-A-N.
-[02:37:34.640]  Val: Yeah, but I think she's, like,
-[02:37:37.840]  Val: it was a whole, it's a dramatically stupid,
-[02:37:41.120]  Val: but it's like, but there was this whole drama yesterday
-[02:37:43.680]  Val: about she's working in a diner and she got sad
-[02:37:49.040]  Val: and she started crying, she couldn't contain her feelings,
-[02:37:51.760]  Val: and it was all melodramatic, and like, so what?
-[02:37:55.120]  Val: What are you trying to say?
-[02:37:55.960]  Val: If you want money, just say, can I have money?
-[02:37:57.880]  Val: Because we will respect you more
-[02:37:59.400]  Val: if you just come out and ask for it.
-[02:38:01.040]  Val: Instead of telling us how sad you are,
-[02:38:02.840]  Val: that you have to work in a diner, right?
-[02:38:05.240]  Val: It's like, fuck you for saying that,
-[02:38:06.600]  Val: and that's the sort of, no, I don't mean it, right?
+[02:37:30.520]  Val: Xan, is their fake name, X-A-N?
+[02:37:33.800]  Val: No, X-A-N. Yeah, but I think she's, like, it was a whole, it's a dramatically stupid, but it's like, but there was this whole drama yesterday about she's working in a diner and she got sad and she started crying, she couldn't contain her feelings, and it was all melodramatic, and like, so what? What are you trying to say? If you want money, just say, can I have money? Because we will respect you more if you just come out and ask for it. Instead of telling us how sad you are, that you have to work in a diner, right? It's like, fuck you for saying that, and that's the sort of, no, I don't mean it, right?
 [02:38:08.960]  Fed: [unintelligible]
 [02:38:09.800]  Val: Yeah, yeah, you know, it's like, it's enough.
 [02:38:13.080]  Fed: You want money?
 [02:38:14.320]  Val: Yeah, you know, and, yeah, so.
 [02:38:18.800]  Fed: So is Xan saying a hacker or is he just doing one of these
-[02:38:21.160]  Val: yeah to be honest with you, okay.
-[02:38:25.160]  Val: I, so I felt like I hacked Deutsche Bank,
-[02:38:30.280]  Val: although I didn't hack Deutsche Bank,
-[02:38:31.640]  Val: I felt like I did a pretty good job of hacking it,
-[02:38:34.120]  Val: not directly, I didn't go into their servers and do it,
-[02:38:36.440]  Val: but I fucking hacked that bank.
-[02:38:38.880]  Val: And it, well, not maybe in the sense of a hacker,
-[02:38:42.160]  Val: you probably, if you're a proper hacker,
-[02:38:43.480]  Val: you would not see it.
-[02:38:44.320]  Val: But in social engineering and all the people,
-[02:38:46.000]  Val: when McKaylee Faisola went to jail,
-[02:38:47.440]  Val: I put the fucking bail, [???] too, all right?
-[02:38:50.760]  Val: I got all the data, exposed everything,
-[02:38:52.600]  Val: and there's still more to come,
-[02:38:53.840]  Val: which you don't know about, all right?
-[02:38:55.360]  Val: There's a lot more to come, yes.
-[02:38:58.080]  Val: So I, so when Emma's guy, I forgot his name,
-[02:39:01.160]  Val: the LulzSec, the Spanish guy, hacked the Cayman Islands,
-[02:39:06.920]  Val: right?
-[02:39:08.240]  Val: That was a great one, by the way, it's good stuff.
-[02:39:10.040]  Fed: What happened with Cayman?
-[02:39:12.200]  Fed: I just don't know about it.
+[02:38:21.160]  Val: Yeah to be honest with you, okay. I, so I felt like I hacked Deutsche Bank, although I didn't hack Deutsche Bank, I felt like I did a pretty good job of hacking it, not directly, I didn't go into their servers and do it, but I fucking hacked that bank. And it, well, not maybe in the sense of a hacker, you probably, if you're a proper hacker, you would not see it. But in social engineering and all the people, when McKaylee Faisola went to jail, I put the fucking bail, [???] too, all right? I got all the data, exposed everything, and there's still more to come, which you don't know about, all right? There's a lot more to come, yes.
+[02:38:58.080]  Val: So I, so when Emma's guy, I forgot his name, the LulzSec, the Spanish guy, hacked the Cayman Islands, right? That was a great one, by the way, it's good stuff.
+[02:39:10.040]  Fed: What happened with Cayman? I just don't know about it.
 [02:39:13.520]  Val: Well, for me, it was on this, you don't know about it?
 [02:39:15.800]  Fed: It was here, right?
 [02:39:16.640]  Val: Yeah, yeah.
 [02:39:17.960]  Fed: I missed it, I'm sorry.
 [02:39:18.960]  Val: Oh, it's great.
 [02:39:19.800]  Fed: That's definitely hacking news.
-[02:39:20.640]  Val: No, I guess this guy was on the service for like a year,
-[02:39:23.880]  Val: and it was just, I think he took all the Bitcoin,
-[02:39:26.200]  Val: like all of it.
-[02:39:27.480]  Val: And so he said, hey, anybody out there hack a bank,
-[02:39:29.880]  Val: I'm gonna give you $100,000 of Bitcoin.
-[02:39:32.400]  Val: So I'm like, you know what?
-[02:39:33.240]  Val: Hey, Emma, could you tell your friend,
-[02:39:34.440]  Val: I think I deserve at least a run-in
-[02:39:36.480]  Val: for this $100,000 in Bitcoin,
-[02:39:38.320]  Val: because although I did not hack Deutsche Bank,
-[02:39:40.080]  Val: that's why I'm trying to work.
-[02:39:41.040]  Val: Oh, yeah, yeah, yeah.
-[02:39:42.480]  Val: And so Emma's like, no, you didn't,
-[02:39:43.840]  Val: you didn't hack Deutsche Bank,
-[02:39:44.920]  Val: but she didn't say, oh, let me pass on the message.
-[02:39:47.720]  Val: She didn't say, oh, hold on a second,
-[02:39:49.400]  Val: she just immediately responded as if she was the hacker.
-[02:39:53.000]  Val: So I suspected that it's possible that she's the hacker.
-[02:39:57.760]  Val: I've always thought she was,
-[02:39:58.800]  Val: because I always ask her.
-[02:40:01.400]  Val: Like I'm incriminating myself,
-[02:40:02.600]  Val: but I'm constantly asking like, Emma,
-[02:40:04.320]  Val: can you figure out how to do this?
-[02:40:05.560]  Val: Can you hack this shit for me?
-[02:40:06.600]  Val: Because I can't get past this point, you know?
-[02:40:08.320]  Val: Like with the, for example, David Enrich,
-[02:40:14.080]  Val: we have so much more, oh, this would be something
-[02:40:17.720]  Val: maybe you could help me with.
-[02:40:19.560]  Val: So many efforts and incriminates him
-[02:40:22.120]  Val: with so many fucking terrible things that he's done
-[02:40:24.520]  Val:  and all the shit he's done for me.
-[02:40:25.920]  Val: It was all in signal.
-[02:40:27.560]  Val: And I took my phone to get the screen fix at the Apple Store
-[02:40:30.120]  Val: and I said, whatever you do, do not reset the phone.
-[02:40:32.920]  Val: And the fucking, the fucker has reset the phone.
-[02:40:35.680]  Val: And so I lost it all.
-[02:40:36.760]  Val: But I think it's an iPhone 6S,
-[02:40:38.440]  Val: so it's not irretrievable.
-[02:40:40.240]  Val: It's still on the fucking phone.
-[02:40:42.400]  Val: But I cannot get the keys.
-[02:40:44.320]  Val: I don't know how to get the fucking keys yet.
-[02:40:46.360]  Val: It's been the slowest thing I've ever learned.
-[02:40:48.400]  Val: But I've got the tar ball, I've extracted the messages,
-[02:40:50.960]  Val: but I cannot get the fucking encryption keys
-[02:40:52.560]  Val: because I can't find them on the phone.
-[02:40:54.320]  Val: That's where I'm stuck.
-[02:40:55.480]  Val: It's like, that was, well, Elcomsoft.
-[02:40:58.840]  Val: iOS, Forensic edition.
-[02:41:01.960]  Val: iOS, Forensic, it's just toolkits.
-[02:41:08.440]  Val: iOS, Forensic, toolkits, it's a quick thing to do.
-[02:41:11.200]  Fed: I mean, at least from my experience,
-[02:41:12.520]  Fed: Elcomsoft isn't like a great [???] with forensic utility.
-[02:41:17.320]  Fed: Like, I've played around with it, but I didn't use it because,
-[02:41:20.440]  Fed: like, they don't automatically decrypt stuff
-[02:41:22.320]  Fed: because, like, most normal forensics programs do.
+[02:39:20.640]  Val: No, I guess this guy was on the service for like a year, and it was just, I think he took all the Bitcoin, like all of it. And so he said, hey, anybody out there hack a bank, I'm gonna give you $100,000 of Bitcoin. So I'm like, you know what? Hey, Emma, could you tell your friend, I think I deserve at least a run-in for this $100,000 in Bitcoin, because although I did not hack Deutsche Bank, that's why I'm trying to work.
+[02:39:41.040]  Fed: Oh, yeah, yeah, yeah.
+[02:39:42.480]  Val: And so Emma's like, no, you didn't, you didn't hack Deutsche Bank, but she didn't say, oh, let me pass on the message. She didn't say, oh, hold on a second, she just immediately responded as if she was the hacker. So I suspected that it's possible that she's the hacker. I've always thought she was, because I always ask her.
+[02:40:01.400]  Val: Like I'm incriminating myself, but I'm constantly asking like, Emma, can you figure out how to do this? Can you hack this shit for me? Because I can't get past this point, you know? Like with the, for example, David Enrich, we have so much more, oh, this would be something maybe you could help me with. So many efforts and incriminates him with so many fucking terrible things that he's done and all the shit he's done for me. It was all in signal.
+[02:40:27.560]  Val: And I took my phone to get the screen fix at the Apple Store and I said, whatever you do, do not reset the phone. And the fucking, the fucker has reset the phone. And so I lost it all. But I think it's an iPhone 6S, so it's not irretrievable. It's still on the fucking phone. But I cannot get the keys. I don't know how to get the fucking keys yet. It's been the slowest thing I've ever learned. But I've got the tar ball, I've extracted the messages, but I cannot get the fucking encryption keys because I can't find them on the phone.
+[02:40:54.320]  Val: That's where I'm stuck. It's like, that was, well, Elcomsoft. iOS, Forensic edition. iOS, Forensic, it's just toolkits. iOS, Forensic, toolkits, it's a quick thing to do.
+[02:41:11.200]  Fed: I mean, at least from my experience, Elcomsoft isn't like a great [???] with forensic utility. Like, I've played around with it, but I didn't use it because, like, they don't automatically decrypt stuff because, like, most normal forensics programs do.
 [02:41:25.400]  Val: Really?
 [02:41:26.240]  Val: All right.
 [02:41:27.560]  Fed: I'll talk to you about the free one.
