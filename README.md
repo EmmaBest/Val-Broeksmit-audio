@@ -14,9 +14,8 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
   - In most places, the speech of feds is treated interchangeably. Aside from excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
  2. Large portions of [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
  3. Other transcripts were manually corrected the same way. Some are still pending, contributions are welcome.
- 4. (In progress) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
- 5. (Pending) Post-mortem
-
+ 4. (In progress) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
+ 5. (Pending) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
 
 # The players
 ## Feds
@@ -64,9 +63,20 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Serrat ???
  * Stosh [sic]
  * Muzza AKA Nick
+
 # Reconstructed Timeline
 ## 2013
  * 2013 - When Marie and Peter separated "between us" per Val
+
+## 2014
+ * July, 2014 - Val emails David Enrich about Deutsche Bank and his father's death
+ * November, 2014 - Sony email incident
+
+## 2016
+ * April 15, 2016 - Val first emails the FBI about Deutcshe Bank
+
+## 2017
+ * February, 2017 - Val provides emails to a law firm that gives to them the New York Fed, leading to a fine for Deutsche Bank
 
 ## 2018
  * 2018 - When Marie and Peter separated "for the lawyers" per Val
@@ -127,12 +137,21 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * July 03, 2021 - Last modified date of the Val FBI audio
  * July 05, 2021 - Creation of the zip file with the Val FBI audio that Rocco Castoro shared
 
+### October
+ * October 05/06, 2021 - MP3 versions of Kofbico PY2 created
+ * October 09/10, 2021 - MP3 versions of Kofbico PY2 uploaded to archive.org
+
 ## 2022
 ### March
  * March 31, 2022 - Val and Marie are evicted from the Artist Brewery Lofts
 
 ### April
  * April 2022 - Val has restraining order taken out against him, complaints of harassment and threats are filed
+ * April 05, 2022 - Val makes despondent phone call, post eviction, says Marie is missing
+ * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit
+ * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts)
+ * April 14, 2022 - Petition for restraining order
+ * April 23, 2022 - "someone texts me from Broeksmit’s Signal account. It isn’t him. The text reads: “Marie has been found and now we need to find Val who is missing.” I ask who is writing. No one answers." [crypto alchemist by Gian M. Volpicelli](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
  * April 25, 2022 - Val is found dead at Wilson High School in El Sereno, CA
 
 ## Undetermined

@@ -6832,7 +6832,7 @@ Fed: [unintelligible question]
 [03:38:46.460 --> 03:38:48.460]  Fed: Tyler Rossi about MPS.
 [03:38:48.460 --> 03:38:50.460]  Fed: You did a man-in-the-middle for
 [03:38:50.460 --> 03:38:52.460]  Fed: mom's computer.
-[03:38:52.460 --> 03:38:54.460]  Fed: You hacked Deutche bank, but not really.
+[03:38:52.460 --> 03:38:54.460]  Fed: You hacked Deutcshe Bank, but not really.
 [03:38:54.460 --> 03:38:56.460]  Val: Right.
 [03:38:56.460 --> 03:38:58.460]  Val: I still can, though.
 [03:38:58.460 --> 03:39:00.460]  Val: I dony't know
@@ -7199,7 +7199,7 @@ Val: That's good to know
 [03:50:38.460 --> 03:50:39.460]  Fed: OCCRP is down?
 [03:50:39.460 --> 03:50:40.460]  Val: No, it's up.
 [03:50:40.460 --> 03:50:41.460]  Fed: Okay, yeah.
-[03:50:41.460 --> 03:50:42.460]  Fed: So, you're an admin on goal?
+[03:50:41.460 --> 03:50:42.460]  Fed: So, you're an admin on both?
 [03:50:42.460 --> 03:50:43.460]  Val: Yeah.
 [03:50:43.460 --> 03:50:45.460]  Val: Well, I have an account.
 [03:50:45.460 --> 03:50:46.460]  Fed: Okay.
@@ -7260,9 +7260,9 @@ Val: About five minutes.
 [03:52:34.460 --> 03:52:37.460]  Val: You need to do a demonstration of that.
 [03:52:37.460 --> 03:52:38.460]  Fed: Okay.
 [03:52:38.460 --> 03:52:41.460]  Fed: In the Signal group, you said Barrett...
-[03:52:41.460 --> 03:52:43.460]  Fed: Barrett said that he's not getting anything legal.
+[03:52:41.460 --> 03:52:43.460]  Fed: Barrett said that he's not doing anything illegal.
 [03:52:43.460 --> 03:52:44.460]  Fed: Is that right?
-[03:52:44.460 --> 03:52:45.460]  Fed: Or not getting anything stupid?
+[03:52:44.460 --> 03:52:45.460]  Fed: Or not doing anything stupid?
 [03:52:45.460 --> 03:52:46.460]  Val: No.
 [03:52:46.460 --> 03:52:48.460]  Val: He's always saying something stupid.
 [03:52:48.460 --> 03:52:50.460]  Val: But he's just, you know, he's just a rabblerouser.
@@ -7323,7 +7323,7 @@ Val: About five minutes.
 [03:54:48.460 --> 03:54:49.460]  Val: Oh, yeah.
 [03:54:49.460 --> 03:54:50.460]  Val: I know.
 [03:54:50.460 --> 03:54:51.460]  Val: Yeah.
-[03:54:51.460 --> 03:54:53.460]  Val: There's a really good big discussion on who's behind Lulzs.
+[03:54:51.460 --> 03:54:53.460]  Val: There's a really good big discussion on who's behind Lulz.
 [03:54:53.460 --> 03:54:55.460]  Fed: Oh, LulzSec, I think.
 [03:54:55.460 --> 03:55:00.460]  Val: Or, well, no, the abbreviated version of LulzSec.
 [03:55:00.460 --> 03:55:01.460]  Fed: Okay.
@@ -8095,7 +8095,7 @@ Val: About five minutes.
 [04:13:02.460 --> 04:13:03.460]  Fed: you said you also had a video crew
 [04:13:03.460 --> 04:13:04.460]  Fed: that was following you.
 [04:13:04.460 --> 04:13:05.460]  Val: We have a video crew
-[04:13:05.460 --> 04:13:06.460]  Val: and we have photos of Marlon
+[04:13:05.460 --> 04:13:06.460]  Val: and we have photos of Marlowe
 [04:13:06.460 --> 04:13:07.460]  Val: from that day.
 [04:13:07.460 --> 04:13:08.460]  Fed: Okay.
 [04:13:08.460 --> 04:13:09.460]  Fed: So,
@@ -8114,7 +8114,7 @@ Val: About five minutes.
 [04:13:23.460 --> 04:13:24.460]  Val: I can do that
 [04:13:24.460 --> 04:13:25.460]  Val: but they can only say
 [04:13:25.460 --> 04:13:26.460]  Val: something else.
-[04:13:26.460 --> 04:13:27.460]  Val: How do you disprove Marlon
+[04:13:26.460 --> 04:13:27.460]  Val: How do you disprove Marlowe
 [04:13:27.460 --> 04:13:28.460]  Val: going through the trash?
 [04:13:28.460 --> 04:13:29.460]  Val: Scouraging [sic] for food?
 [04:13:29.460 --> 04:13:30.460]  Val: How do I disprove that?
@@ -8215,7 +8215,7 @@ Val: About five minutes.
 [04:16:11.460 --> 04:16:12.460]  Val: We record the conversation.
 [04:16:12.460 --> 04:16:13.460]  Val: He doesn't know.
 [04:16:13.460 --> 04:16:18.460]  Val: Why didn't you say to Tim and Lucy that you were Vals counsel?
-[04:16:18.460 --> 04:16:19.460]  Val: I'll fucking Val.
+[04:16:18.460 --> 04:16:19.460]  Val: Oh fucking Val.
 [04:16:19.460 --> 04:16:20.460]  Val: Don't listen to him.
 [04:16:20.460 --> 04:16:22.460]  Val: He doesn't know what he's talking about.
 [04:16:22.460 --> 04:16:23.460]  Val: Vals an idiot.
