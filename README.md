@@ -8,7 +8,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 # Transcription process
 
- 1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only. Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper. In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked. 
+ 1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only. 
+  - Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper. 
+  - In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked.
+  - In most places, the speech of feds is treated interchangeably. Aside from excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
  2. Large portions of [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
  3. Other transcripts were manually corrected the same way. Some are still pending, contributions are welcome.
  4. (In progress) The corrected transcripts should then be edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
@@ -30,6 +33,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Marie Peter-Toltz
  * Marlowe Peter-Toltz (minor)
  * [Steve Toltz](https://en.wikipedia.org/wiki/Steve_Toltz) (Marie's ex, described by Val in negative terms)
+
+## Activists and investigators
+ * Joe Fionda
+ * [Andrew Therrien](https://www.bloomberg.com/news/features/2017-12-06/millions-are-hounded-for-debt-they-don-t-owe-one-victim-fought-back-with-a-vengeance)
 
 ## Journalists
  * [Emma Best](https://en.wikipedia.org/wiki/Emma_Best_(journalist))
@@ -55,8 +62,8 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Amy ???
  * Ashley ??? (building management?, not in the documents obtained) 
  * Serrat ???
- * Stosh [sic] 
- 
+ * Stosh [sic]
+ * Muzza AKA Nick
 # Reconstructed Timeline
 ## 2013
  * 2013 - When Marie and Peter separated "between us" per Val
@@ -100,9 +107,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 0?, 2020 - FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit
  * August 09, 2020 - FBI/FBI David Kos First Call w Val Broeksmit
  * August 10, 2020 - Court
- * August 1?, 2020 - FBI/D.ko Post Hearing
- * August 12, 2020 - FBI/Kofbico PY2
- * August 1?, 2020 - FBI/Marie _ Agent Ko
+ * August 10, 2020 - FBI/D.ko Post Hearing
+ * August 12/13, 2020 - FBI/Kofbico PY2 [creation_time   : 2020-08-13T16:26:08.000000Z]
+ * August 12, 2020 - FBI/Marie _ Agent Ko
 
 ### September
  * September 15, 2020 - Investigator has to hand in paperwork
@@ -110,6 +117,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### October
  * October 01, 2020 - Second trial date (if not resolved at the first)
+ * October 06?, 2020 - FBI/Val vs Andrew Dowling PT 2-_ DKo’d [creation_time   : 2020-10-06T19:39:15.000000Z]
 
 ## 2021
 ### April
@@ -129,4 +137,3 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ## Undetermined
  * ???? - FBI/Val vs Andrew Dowling PT1  DKO’d
- * ???? - FBI/Val vs Andrew Dowling PT 2-_ DKo’d

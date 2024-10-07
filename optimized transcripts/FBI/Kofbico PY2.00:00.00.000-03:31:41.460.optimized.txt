@@ -990,250 +990,104 @@ Fed:[Asks something]
 [02:40:27.560]  Val: And I took my phone to get the screen fix at the Apple Store and I said, whatever you do, do not reset the phone. And the fucking, the fucker has reset the phone. And so I lost it all. But I think it's an iPhone 6S, so it's not irretrievable. It's still on the fucking phone. But I cannot get the keys. I don't know how to get the fucking keys yet. It's been the slowest thing I've ever learned. But I've got the tar ball, I've extracted the messages, but I cannot get the fucking encryption keys because I can't find them on the phone.
 [02:40:54.320]  Val: That's where I'm stuck. It's like, that was, well, Elcomsoft. iOS, Forensic edition. iOS, Forensic, it's just toolkits. iOS, Forensic, toolkits, it's a quick thing to do.
 [02:41:11.200]  Fed: I mean, at least from my experience, Elcomsoft isn't like a great [???] with forensic utility. Like, I've played around with it, but I didn't use it because, like, they don't automatically decrypt stuff because, like, most normal forensics programs do.
-[02:41:25.400]  Val: Really?
-[02:41:26.240]  Val: All right.
-[02:41:27.560]  Fed: I'll talk to you about the free one.
-[02:41:29.720]  Fed: Autopsy?
+[02:41:25.400]  Val: Really? All right.
+[02:41:27.560]  Fed: I'll talk to you about the free one. Autopsy?
 [02:41:30.560]  Val: Is it good?
-[02:41:31.400]  Fed: Autopsy's [???] not bad.
-[02:41:32.240]  Fed: I mean, that's a free one that anyone can download, isn't it?
-[02:41:34.320]  Fed: It's a bunch of other ones that, I think,
-[02:41:35.560]  Fed: a better job than Elcomsoft.
-[02:41:37.360]  Val: Yeah.
-[02:41:38.360]  Val: I just, well, it's because I spent the money.
-[02:41:40.400]  Val: You know, it's having expenses,
-[02:41:41.760]  Val: so I feel like I have to learn it.
-[02:41:43.440]  Val: Yeah.
-[02:41:48.120]  Fed: I don't know.
-[02:41:48.960]  Fed: Another company that kind of delved into mobile,
-[02:41:50.920]  Fed: it does just my opinion.
-[02:41:51.760]  Val: No, no, no, you're right.
-[02:41:53.080]  Val: They're really famous because of the thing with the photographs
-[02:41:57.280]  Val: in 2015, right?
-[02:41:58.480]  Fed: So, like, they're kind of, riding their coattails,
-[02:42:00.440]  Fed: now they have a mobile forensic thing that they're like,
-[02:42:02.280]  Fed: well, if we put this out and they trust our name,
-[02:42:03.760]  Fed: then they'll use it.
-[02:42:04.600]  Fed: But, just from my experience,
-[02:42:05.800]  Fed: I just haven't had much success with it.
+[02:41:31.400]  Fed: Autopsy's [???] not bad. I mean, that's a free one that anyone can download, isn't it? It's a bunch of other ones that, I think, a better job than Elcomsoft.
+[02:41:37.360]  Val: Yeah. I just, well, it's because I spent the money. You know, it's having expenses, so I feel like I have to learn it. Yeah.
+[02:41:48.120]  Fed: I don't know. Another company that kind of delved into mobile, it does just my opinion.
+[02:41:51.760]  Val: No, no, no, you're right. They're really famous because of the thing with the photographs in 2015, right?
+[02:41:58.480]  Fed: So, like, they're kind of, riding their coattails, now they have a mobile forensic thing that they're like, well, if we put this out and they trust our name, then they'll use it. But, just from my experience, I just haven't had much success with it.
 [02:42:07.200]  Val: Did you try Axiom?
 [02:42:08.560]  Fed: I used Axiom.
 [02:42:09.400]  Val: What do you think of that one?
 [02:42:10.240]  Fed: That's not bad.
 [02:42:11.080]  Fed: It's a lot of good functionality.
-[02:42:12.000]  Val: Yeah, it's pretty strong.
-[02:42:13.520]  Val: Yeah.
-[02:42:14.360]  Val: It's very good.
-[02:42:15.520]  Val: So then I figured out you can just get pre-trials,
-[02:42:17.640]  Val: if you just say you're extending the pre-trials.
-[02:42:23.840]  Val: But yeah.
-[02:42:24.680]  Val: So you think that Best is, she actually is a NSA, CIA?
+[02:42:12.000]  Val: Yeah, it's pretty strong. Yeah. It's very good. So then I figured out you can just get pre-trials, if you just say you're extending the pre-trials. But yeah.
+[02:42:24.680]  Fed: So you think that Best is, she actually is a NSA, CIA?
 [02:42:30.280]  Val: No, I think she's full of shit, yeah.
 [02:42:33.560]  Fed: But do you think that she's a hacker?
-[02:42:36.040]  Val: I do.
-[02:42:36.880]  Val: I personally, I do think so.
-[02:42:38.360]  Val: I know no one else seems to share my opinion,
-[02:42:40.320]  Val: but I do think that she's a hacker.
-[02:42:42.760]  Val: I'm always trying to ask her to do it for some help,
-[02:42:46.520]  Val: but she's the one that introduced me to Elcomsoft.
-[02:42:50.240]  Val: I said, I have this problem with the signal messages.
-[02:42:52.800]  Val: What do you recommend?
-[02:42:53.640]  Val: She said, Elcomsoft, ios, forensic.
-[02:43:00.200]  Fed: I don't know.
+[02:42:36.040]  Val: I do. I personally, I do think so. I know no one else seems to share my opinion, but I do think that she's a hacker. I'm always trying to ask her to do it for some help, but she's the one that introduced me to Elcomsoft. I said, I have this problem with the signal messages. What do you recommend? She said, Elcomsoft, ios, forensic.
+[02:43:00.200]  Fed: "Did you do it? "I don't know. I thought about it"
 [02:43:02.040]  Val: Again, again, right, it's too open-ended.
-[02:43:04.480]  Val: And she texted me the other day.
-[02:43:06.400]  Val: She's like, Val have you spoken to FBI,
-[02:43:09.640]  Val: I said, no, I'm not speaking to FBI.
-[02:43:11.880]  Val: She's like, well, are you sure?
-[02:43:14.040]  Val: I was like, well, I'm not lying to you.
-[02:43:15.280]  Val: I was talking to the FBI, like, you know,
-[02:43:17.880]  Val: I will let you know when I speak to FBI.
-[02:43:20.360]  Val: She said, well, you're kind of known as an FBI informant.
-[02:43:24.480]  Val: I said, well, fuck you, I'm not an informant.
-[02:43:26.280]  Val: I'm a source, like, help the FBI.
-[02:43:28.520]  Val: I do not inform on anybody.
-[02:43:30.680]  Val: And then she's like, well, it's kind of the same thing.
-[02:43:32.400]  Val: And then I had to go on a tirade
-[02:43:33.640]  Val: to explain how it's very different.
-[02:43:35.520]  Val: So let you know that she is probably,
-[02:43:38.640]  Val: and also yesterday, one of my friends, Andrew,
-[02:43:42.320]  Val: had to defend me on this group as well,
-[02:43:44.280]  Val: because Xan was saying, you're friends
-[02:43:47.480]  Val: with a well-known FBI informant, which is me,
-[02:43:50.280]  Val: which is another allusion to me.
-[02:43:52.080]  Fed: So it's Xan.
-[02:43:54.240]  Fed: Oh, Xan is telling you.
+[02:43:04.480]  Val: And she texted me the other day. She's like, Val have you spoken to FBI, I said, no, I'm not speaking to FBI. She's like, well, are you sure? I was like, well, I'm not lying to you. I was talking to the FBI, like, you know, I will let you know when I speak to FBI. She said, well, you're kind of known as an FBI informant. I said, well, fuck you, I'm not an informant. I'm a source, like, help the FBI. I do not inform on anybody.
+[02:43:30.680]  Val: And then she's like, well, it's kind of the same thing. And then I had to go on a tirade to explain how it's very different. So let you know that she is probably, and also yesterday, one of my friends, Andrew, had to defend me on this group as well, because Xan was saying, you're friends with a well-known FBI informant, which is me, which is another allusion to me.
+[02:43:52.080]  Fed: So it's Xan. Oh, Xan is telling you.
 [02:43:56.480]  Val: Xan's the partner of Emma.
 [02:43:58.800]  Fed: So she's saying to who?
 [02:44:02.720]  Val: a friend of mine in our group.
-[02:44:03.600]  Fed: Oh, so your friend is, Xan is attacking your friend
-[02:44:06.840]  Val: for being friends with you?
+[02:44:03.600]  Fed: Oh, so your friend is, Xan is attacking your friend for being friends with you?
 [02:44:07.880]  Val: Yes.
-[02:44:08.880]  Fed: Oh, OK.
-[02:44:09.380]  Fed: Sorry.
-[02:44:09.880]  Fed: Exactly.
-[02:44:12.360]  Fed: OK.
-[02:44:13.360]  Fed: I mean, it's obviously a little different,
-[02:44:15.920]  Fed: and I don't know if you understand.
+[02:44:08.880]  Fed: Oh, OK. Sorry. OK.
+[02:44:13.360]  Fed: I mean, it's obviously a little different, and I don't know if you understand.
 [02:44:18.080]  Val: This is weird drama.
 [02:44:19.080]  Fed: It's like, yeah, there are many people with a group like that.
 [02:44:23.080]  Val: I think this, you know, I'm like 96, I think.
 [02:44:25.560]  Fed: Oh, wow.
-[02:44:26.800]  Val: That's why it's too many people.
-[02:44:29.080]  Val: And there's too many lurkers, and there's too many new
-[02:44:31.160]  Val: and fresh, like, minted identity,
-[02:44:32.960]  Val: so there's already a bunch of substratas,
-[02:44:36.040]  Val: and subgroups are coming from that group.
-[02:44:38.720]  Val: And what's funny is they're all, well, I mean,
-[02:44:42.240]  Val: I'll tell you, it's not a big deal.
-[02:44:43.480]  Val: It's with all Barrett's friends.
-[02:44:46.240]  Val: Barrett's so, like, it's so weird.
-[02:44:48.520]  Val: I don't know how he does it, but he's, you know.
-[02:44:51.400]  Fed: Because you might, of the 96, you might know how many people
-[02:44:54.760]  Fed: in real life are in that group.
+[02:44:26.800]  Val: That's why it's too many people. And there's too many lurkers, and there's too many new and fresh, like, minted identity, so there's already a bunch of substratas, and subgroups are coming from that group. And what's funny is they're all, well, I mean, I'll tell you, it's not a big deal. It's with all Barrett's friends. Barrett's so, like, it's so weird. I don't know how he does it, but he's, you know.
+[02:44:51.400]  Fed: Because you might, of the 96, you might know how many people in real life are in that group.
 [02:44:56.680]  Val: Like, what do you mean in real life.
 [02:44:58.440]  Fed: Well, I guess, like, who they really are.
-[02:45:01.040]  Val: Oh, I know about half of them.
-[02:45:02.880]  Val: Yeah.
+[02:45:01.040]  Val: Oh, I know about half of them. Yeah.
 [02:45:03.380]  Fed: Like, into the other half, or like, lurker or something.
-[02:45:06.520]  Val: Yeah, but we have people that try and check them out
-[02:45:10.480]  Val: and figure out who these people are.
-[02:45:12.840]  Val: Like, once in a while, you'll get it right,
-[02:45:14.560]  Val: and we can serve it, you know, coming in there
-[02:45:16.880]  Val: and trying to spout a bunch of crazy shit, and kick him out.
-[02:45:20.680]  Val: And then, I noticed, someone loses a phone.
-[02:45:23.040]  Val: Like, it happened recently, and then all of a sudden,
-[02:45:24.720]  Val: we have to, it's been compromised, the FBI's in.
-[02:45:28.160]  Val: I'm sure you, was that you?
+[02:45:06.520]  Val: Yeah, but we have people that try and check them out and figure out who these people are. Like, once in a while, you'll get it right, and we can serve it, you know, coming in there and trying to spout a bunch of crazy shit, and kick him out. And then, I noticed, someone loses a phone. Like, it happened recently, and then all of a sudden, we have to, it's been compromised, the FBI's in. I'm sure you, was that you?
 [02:45:29.880]  Fed: I don't know.
-[02:45:31.520]  Val: Was it you?
-[02:45:31.960]  Val: Okay, somebody.
+[02:45:31.520]  Val: Was it you? Okay, somebody.
 [02:45:32.680]  Fed: I don't know what you're talking about.
 [02:45:33.680]  Val: It was somebody.
-[02:45:35.560]  Val: Oh, and that, oh, shit, wait, Agent Ko.
-[02:45:41.680]  Val: Did you call Barrett?
-[02:45:43.160]  Val: I think he recorded a phone call with you.
+[02:45:35.560]  Val: Oh, and that, oh, shit, wait, Agent Ko. Did you call Barrett? I think he recorded a phone call with you.
 [02:45:45.640]  Fed: I haven't called Barrett.
-[02:45:46.480]  Val: You haven't called Barrett?
-[02:45:47.320]  Val: There was a different FBI agent that was trying to,
-[02:45:52.560]  Val: he was going to, I think it was some white racist,
-[02:45:57.240]  Val: nationalist fucking weird shit.
+[02:45:46.480]  Val: You haven't called Barrett? There was a different FBI agent that was trying to, he was going to, I think it was some white racist, nationalist fucking weird shit.
 [02:45:59.560]  Fed: And he was someone else who was working, white racist.
-[02:46:02.280]  Val: Yeah, he used to know, but I remember the name
-[02:46:05.160]  of Ko actually rings a bell.
-[02:46:07.240]  Val: And I was, I was going to tell you the other day,
-[02:46:09.200]  Val: but I had to figure out what it was first.
-[02:46:10.760]  Val: But now I just remembered again, I probably
-[02:46:12.240]  Val: should not be talking right now and saying it out loud,
-[02:46:14.760]  Val: but I am.
-[02:46:17.420]  Val: But there is something, there is something,
-[02:46:23.080]  Val: something secret.
-[02:46:24.880]  Val: Secret is going to be right now.
-[02:46:25.760]  Fed: Okay?
-[02:46:26.640]  Fed: [???] in real life?
+[02:46:02.280]  Val: Yeah, he used to know, but I remember the name of Ko actually rings a bell. And I was, I was going to tell you the other day, but I had to figure out what it was first. But now I just remembered again, I probably should not be talking right now and saying it out loud, but I am.
+[02:46:17.420]  Val: But there is something, there is something, something secret. Secret is going to be right now.
+[02:46:25.760]  Fed: Okay? [???] in real life?
 [02:46:30.960]  Val: No.
 [02:46:32.080]  Fed: Does he know Barrett?
 [02:46:32.880]  Fed: Have you met him in person?
 [02:46:34.400]  Val: I know, I know, I've never met in person.
-[02:46:37.000]  Val: Oh, well, I mean, I have met, yes,
-[02:46:39.360]  Val: there's a few people I know personally,
-[02:46:41.320]  Val: but I can't, like my friends, I'm not gonna tell you, yeah.
+[02:46:37.000]  Val: Oh, well, I mean, I have met, yes, there's a few people I know personally, but I can't, like my friends, I'm not gonna tell you, yeah.
 [02:46:46.160]  Fed: Getting a sense of the group, like, any other.
-[02:46:48.480]  Val: Let me show you, like, the most recent thing.
-[02:46:52.600]  Val: Let's see.
-[02:47:00.240]  Val: Ooh, someone's trying to,
-[02:47:02.440]  Val: Hey, you guys, who's trying to hack me now?
-[02:47:05.680]  Fed: You got a thing?
-[02:47:06.520]  Fed: No.
-[02:47:07.360]  Fed: Don't click on the link.
-[02:47:08.320]  Fed: What was it? What did you get?
-[02:47:09.920]  Val: No, I just got one of these things.
-[02:47:11.200]  Val: I think it's my girlfriend.
-[02:47:12.880]  Val: Who's using the other computer?
-[02:47:15.120]  Fed: Oh, he's.
-[02:47:16.160]  Fed: No, that's not what that says.
+[02:46:48.480]  Val: Let me show you, like, the most recent thing. Let's see. Ooh, someone's trying to, Hey, you guys, who's trying to hack me now?
+[02:47:05.680]  Fed: You got a thing? No. Don't click on the link. What was it? What did you get?
+[02:47:09.920]  Val: No, I just got one of these things. I think it's my girlfriend. Who's using the other computer?
+[02:47:15.120]  Fed: Oh, he's. No, that's not what that says.
 [02:47:17.440]  Val: That's my girlfriend.
 [02:47:18.280]  Fed: He's finding it really fucking awesome.
-[02:47:19.880]  Val: Yeah, I know.
-[02:47:21.000]  Val: It's, like, it's funny enough, the other computer
-[02:47:24.440]  Val: is Glen Simpson's.
+[02:47:19.880]  Val: Yeah, I know. It's, like, it's funny enough, the other computer is Glen Simpson's.
 [02:47:26.520]  Fed: What was that?
-[02:47:27.600]  Val: Yeah, it was the Fusion GCat.
-[02:47:30.600]  Val: The Steele Dossier.
-[02:47:34.960]  Fed: I mean, like, there's a lot of stuff
-[02:47:36.320]  Fed: that I probably should know,
-[02:47:37.160]  Fed: but I just don't, I mean, it's kind of like.
-[02:47:39.800]  Val: You didn't follow the Steele Dossier?
-[02:47:41.320]  Val: The whole Trump Russia?
-[02:47:42.320]  Fed: No, I did know about it,
-[02:47:43.160]  Fed: but, like, I didn't follow that much.
-[02:47:44.760]  Val: Anyway, I said, I lived at his house for a while,
-[02:47:46.800]  Val: at Glen's house, yeah.
-[02:47:48.400]  Val: And he didn't pay me half the money
-[02:47:49.560]  Val: he was supposed to, so I took the computer.
+[02:47:27.600]  Val: Yeah, it was the Fusion GCat. The Steele Dossier.
+[02:47:34.960]  Fed: I mean, like, there's a lot of stuff that I probably should know, but I just don't, I mean, it's kind of like.
+[02:47:39.800]  Val: You didn't follow the Steele Dossier? The whole Trump Russia?
+[02:47:42.320]  Fed: No, I did know about it, but, like, I didn't follow that much.
+[02:47:44.760]  Val: Anyway, I said, I lived at his house for a while, at Glen's house, yeah. And he didn't pay me half the money he was supposed to, so I took the computer.
 [02:47:52.240]  Fed: Wait, is that, yeah.
-[02:47:57.600]  Val: Oh, and yeah, and there's a whole Russian spy thing
-[02:47:59.800]  Val: going on, too.
-[02:48:01.120]  Val: What's the Russian spy thing?
-[02:48:04.280]  Val: So there's, so I was telling Tim and Jami as well,
-[02:48:09.000]  Val: but they're sort of, they're thing, so I don't know.
-[02:48:11.840]  Val: Am I supposed to mix things together?
+[02:47:57.600]  Val: Oh, and yeah, and there's a whole Russian spy thing going on, too. What's the Russian spy thing? So there's, so I was telling Tim and Jami as well, but they're sort of, they're thing, so I don't know. Am I supposed to mix things together?
 [02:48:13.360]  Fed: But if Tim's aware of it, like, I would use the hot tin.
-[02:48:16.120]  Val: Let me tell Tim first.
-[02:48:17.120]  Val: Let me tell Tim first.
+[02:48:16.120]  Val: Let me tell Tim first. Let me tell Tim first.
 [02:48:17.960]  Fed: Okay.
 [02:48:18.800]  Val: Well, I should ask him if it's okay
-[02:48:21.520]  Fed: Yeah, I mean, if Tim already knows about it,
-[02:48:23.400]  Fed: he would, like, I don't worry that type of stuff either,
-[02:48:25.960]  Fed: so, like, I would just tell someone else to.
-[02:48:28.160]  Val: Yeah, would he, would he tell me the, uh,
-[02:48:31.160]  Val: interior or the exterior?
-[02:48:33.200]  Val: Like, like, what, the United States
-[02:48:35.160]  Val: or outside of the United States?
-[02:48:36.840]  Val: Are we looking for a Russian hacker
-[02:48:39.160]  Val: or are we looking for a, everything?
-[02:48:41.560]  Val: Yeah?
-[02:48:42.400]  Val: Dude, that would be fun for me.
-[02:48:44.640]  Val: I would like to catch people.
-[02:48:45.680]  Val: I like, I can, I can do that.
-[02:48:47.840]  Val: But if money, the money is my specialty.
-[02:48:50.680]  Val: That's what I'm, better than the hacker.
-[02:48:56.680]  Fed: Cool.
-[02:48:57.520]  Fed: All right.
-[02:48:58.360]  Fed: Do you need to send someone for something?
-[02:49:00.760]  Val: Oh, yeah, sorry.
-[02:49:02.000]  Val: No, I just got, I need to eat something.
-[02:49:04.600]  Val: My brain is...
+[02:48:21.520]  Fed: Yeah, I mean, if Tim already knows about it, he would, like, I don't worry that type of stuff either, so, like, I would just tell someone else to.
+[02:48:28.160]  Val: Yeah, would he, would he tell me the, uh, interior or the exterior? Like, like, what, the United States or outside of the United States? Are we looking for a Russian hacker or are we looking for a, everything? Yeah? Dude, that would be fun for me. I would like to catch people. I like, I can, I can do that. But if money, the money is my specialty. That's what I'm, better than the hacking.
+[02:48:56.680]  Fed: Cool. All right. Do you need to send someone for something?
+[02:49:00.760]  Val: Oh, yeah, sorry. No, I just got, I need to eat something. My brain is...
 [02:49:05.440]  Fed: You don't think you're gonna eat something?
-[02:49:06.720]  Val: Yeah, could we take a cigarette break or something?
-[02:49:09.160]  Val: Is it okay?
+[02:49:06.720]  Val: Yeah, could we take a cigarette break or something? Is it okay?
 [02:49:10.120]  Fed: Yeah.
 [02:49:10.960]  Val: Yeah?
 [02:49:11.800]  Val: All right, let's do it.
 [02:49:14.640]  Fed: What do you want?
 [02:49:16.480]  Val: No, no, no, I just...
 [02:49:17.760]  Fed: Yeah, I want sandwiches, then.
-[02:49:19.280]  Val: Really?
-[02:49:20.120]  Val: Yeah.
-[02:49:20.960]  Val: What kind of sandwich?
+[02:49:19.280]  Val: Really? Yeah. What kind of sandwich?
 [02:49:21.800]  Fed: A sandwich or...
-[02:49:23.320]  Val: Okay.
-[02:49:24.160]  Val: Sure, well, yeah, I'd love one.
-[02:49:28.160]  Val: Gratsen, that's nice.
+[02:49:23.320]  Val: Okay. Sure, well, yeah, I'd love one. Gratsen, that's nice.
 [02:49:29.360]  Fed: I'll put on a mask or whatever.
-[02:49:31.520]  Val: Oh, right, right, right, right, right.
-[02:49:35.720]  Val: What was I gonna show you?
+[02:49:31.520]  Val: Oh, right, right, right, right, right. What was I gonna show you?
 [02:49:36.920]  Fed: At the time, you're...
-[02:49:41.080]  Val: Look, I don't know allegiance to these guys at all.
-[02:49:44.560]  Val: I mean, they've just, they've become sort of friends, but,
-[02:49:48.520]  Val: you know, as much as you can have a friend on that,
-[02:49:53.080]  Val: that doesn't tell you anything about that, right?
-[02:49:56.840]  Val: It's just sort of fun, more fun sort of.
-[02:50:02.200]  Val: Like, you're in the workplace,
-[02:50:03.120]  Val: you're not friends with all your workers, right?
+[02:49:41.080]  Val: Look, I don't know allegiance to these guys at all. I mean, they've just, they've become sort of friends, but, you know, as much as you can have a friend on that, that doesn't tell you anything about that, right? It's just sort of fun, more fun sort of. Like, you're in the workplace, you're not friends with all your workers, right?
 [02:50:05.840]  Val: No, I don't feel right for now.
-[02:50:09.160]  Fed: Oh, yeah, I'll hit the head, you know where it is, right?
-[02:50:11.480]  Fed: Yeah, yeah, yeah, okay.
+[02:50:09.160]  Fed: Oh, yeah, I'll hit the head, you know where it is, right? Yeah, yeah, yeah, okay.
 [02:50:12.320]  Fed: You guys are just gonna go...
 [02:50:13.320]  Fed: But I'll wait for you, because you can't fit out.
 [02:50:14.800]  Fed: Oh, that's right.
@@ -1242,66 +1096,28 @@ Fed:[Asks something]
 [02:50:24.720]  Val: In this office?
 [02:50:25.560]  Fed: Right, so, if you say, like, laundry.
 [02:50:27.920]  Val: Yeah?
-[02:50:28.760]  Fed: Of course, he, you know, he flew here to speak to you,
-[02:50:32.640]  Fed: so let him, let him, yeah, yeah, he flew here yesterday.
-[02:50:36.200]  Val: I didn't know it was just for me,
-[02:50:37.120]  Val: I just thought he was coming here
-[02:50:38.120]  Val: and I wanted to speak to you while he was here.
-[02:50:39.240]  Fed: Yeah, so, for me, like, when you're in management,
-[02:50:43.920]  Fed: I'm like, oh, okay, like, a lot of these guys on the floor
-[02:50:45.840]  Fed: do, like, business email compromise, and a lot of guys,
-[02:50:48.560]  Fed: like...
-[02:50:49.400]  Val: Did you, what?
-[02:50:50.240]  Val: I didn't hear you.
+[02:50:28.760]  Fed: Of course, he, you know, he flew here to speak to you, so let him, let him, yeah, yeah, he flew here yesterday.
+[02:50:36.200]  Val: I didn't know it was just for me, I just thought he was coming here and I wanted to speak to you while he was here.
+[02:50:39.240]  Fed: Yeah, so, for me, like, when you're in management, I'm like, oh, okay, like, a lot of these guys on the floor do, like, business email compromise, and a lot of guys, like...
+[02:50:49.400]  Val: Did you, what? I didn't hear you.
 [02:50:51.240]  Fed: Business email compromise?
-[02:50:52.480]  Val: Oh, really?
-[02:50:53.320]  Val: Yeah, I don't know, okay.
-[02:50:54.840]  Val: That's easy, yeah.
+[02:50:52.480]  Val: Oh, really? Yeah, I don't know, okay. That's easy, yeah.
 [02:50:55.960]  Fed: Yeah, so, business email compromise, and then...
-[02:50:59.120]  Val: Is that a term for it?
-[02:51:00.080]  Val: Just business email compromise?
-[02:51:01.280]  Val: There's a, I didn't know there was a term for it.
-[02:51:02.440]  Fed: Yeah, so a lot of things out of Nigeria,
-[02:51:03.880]  Fed: and it's just funny, when you mentioned
-[02:51:05.200]  Fed: you're not lobbying, is there a thing like...
-[02:51:08.360]  Fed: Yeah, one of our guys over here,
-[02:51:09.720]  Fed: they just got someone out of, like, Dubai,
-[02:51:13.120]  Fed: or something like that.
-[02:51:14.080]  Val: Yeah, okay.
-[02:51:15.040]  Val: Cool.
-[02:51:15.880]  Fed: And they're digging into that versus something like,
-[02:51:19.200]  Fed: they're specialty is, like, laundering,
-[02:51:21.520]  Fed: laundering money, right?
-[02:51:22.600]  Fed: So, like, romance, victim, romance scam victims,
-[02:51:25.480]  Fed: like a victimized...
+[02:50:59.120]  Val: Is that a term for it? Just business email compromise? There's a, I didn't know there was a term for it.
+[02:51:02.440]  Fed: Yeah, so a lot of things out of Nigeria, and it's just funny, when you mentioned you're not lobbying, is there a thing like... Yeah, one of our guys over here, they just got someone out of, like, Dubai, or something like that.
+[02:51:14.080]  Val: Yeah, okay. Cool.
+[02:51:15.880]  Fed: And they're digging into that versus something like, they're specialty is, like, laundering, laundering money, right? So, like, romance, victim, romance scam victims, like a victimized...
 [02:51:26.560]  Val: Oh, yeah, I heard that.
-[02:51:28.480]  Fed: Eventually, he gets out to, like, Canada, China,
-[02:51:31.520]  Fed: or all these other countries,
-[02:51:32.640]  Fed: and there's, like, a whole money mule network
-[02:51:34.840]  Fed: that's, like, pretty tough to...
-[02:51:36.240]  Val: Is it really?
-[02:51:37.080]  Val: Is it like a company?
-[02:51:37.920]  Val: Is it one person behind it, or is it...
-[02:51:39.080]  Fed: No, no, no, it's all a loose connection, yeah.
-[02:51:41.520]  Fed: Loose.
-[02:51:42.360]  Val: Interesting.
-[02:51:43.200]  Val: It's like a, like, a lead in welding connections
-[02:51:46.800]  Val: sort of thing, like, there was a...
-[02:51:50.960]  Fed: Basically, like, very, very...
-[02:51:52.960]  Fed: And they all know each other in person,
-[02:51:54.200]  Fed: that's the difference.
+[02:51:28.480]  Fed: Eventually, he gets out to, like, Canada, China, or all these other countries, and there's, like, a whole money mule network that's, like, pretty tough to...
+[02:51:36.240]  Val: Is it really? Is it like a company? Is it one person behind it, or is it...
+[02:51:39.080]  Fed: No, no, no, it's all a loose connection, yeah. Loose.
+[02:51:42.360]  Val: Interesting. It's like a, like, a lead in welding connections sort of thing, like, there was a...
+[02:51:50.960]  Fed: Basically, like, very, very... And they all know each other in person, that's the difference.
 [02:51:55.040]  Val: Oh, they do?
-[02:51:55.880]  Fed: They know each other, it's like,
-[02:51:56.720]  Fed: oh, you know this guy?
-[02:51:57.560]  Fed: He's leading, interested in, you know,
-[02:52:00.040]  Fed: doing some work, opening bank accounts, and stuff like that.
-[02:52:03.080]  Fed: Ah, I understand that, yeah.
-[02:52:04.640]  Val: So, like, they're friends in Nigeria?
-[02:52:07.440]  Fed: Or in the community?
-[02:52:09.440]  Val: Shit, you know we did?
-[02:52:11.440]  Val: Marie had to, like, this lawyer was such an asshole.
-[02:52:14.400]  Val: He said, we need your narrative of your story ASAP for Monday. [Money?]
-[02:52:18.040]  Val: So, I went on the Fiverr, and I tried to find it.
+[02:51:55.880]  Fed: They know each other, it's like, oh, you know this guy? He's leading, interested in, you know, doing some work, opening bank accounts, and stuff like that.
+[02:52:03.080]  Val: Ah, I understand that, yeah. So, like, they're friends in Nigeria?
+[02:52:07.440]  Fed: Or in the community.
+[02:52:09.440]  Val: Shit, you know we did? Marie had to, like, this lawyer was such an asshole. He said, we need your narrative of your story ASAP for Monday. So, I went on the Fiverr, and I tried to find it.
 [02:52:21.120]  Fed: Oh, Fiverr.
 [02:52:21.960]  Val: It's a narrative of Marie's story.
 [02:52:24.120]  Fed: Fiverr.
@@ -1309,243 +1125,109 @@ Fed:[Asks something]
 [02:52:26.800]  Fed: Oh, sure.
 [02:52:30.080]  Val: I went on Fiverr.
 [02:52:31.080]  Fed: Really?
-[02:52:31.920]  Val: I found someone to do a live transcription
-[02:52:35.320]  Val: and it's a Nigerian guy.
-[02:52:36.800]  Val: He wanted to be paid in Bitcoin yesterday or tomorrow.
-[02:52:40.200]  Val: And Marie says, no, I'm not gonna pay you that.
-[02:52:42.960]  Val: And then he says, okay, and that's it.
-[02:52:45.440]  Val: So, I'm thinking, well, he just got all of Marie's
-[02:52:50.440]  Val: information since she was a child.
-[02:52:52.440]  Val: So, he should probably pay the guy, right?
-[02:52:55.440]  Val: It's a new scam, I think.
-[02:52:57.280]  Val: You're doing transcription services,
-[02:52:58.560]  Val: get your private data, and then sell that data.
-[02:53:01.360]  Fed: Yeah, yeah, yeah, yeah, yeah.
-[02:53:02.960]  Fed: Nigerian's committing fraud.
+[02:52:31.920]  Val: I found someone to do a live transcription and it's a Nigerian guy. He wanted to be paid in Bitcoin yesterday or tomorrow. And Marie says, no, I'm not gonna pay you that. And then he says, okay, and that's it. So, I'm thinking, well, he just got all of Marie's information since she was a child. So, he should probably pay the guy, right? It's a new scam, I think. You're doing transcription services, get your private data, and then sell that data.
+[02:53:01.360]  Fed: Yeah, yeah, yeah, yeah, yeah. Nigerians committing fraud.
 [02:53:04.480]  Fed: What do you mean?
 [02:53:07.320]  Val: Like crazy, you know, connoisseurs, yes.
 [02:53:10.080]  Fed: I mean, they're in that rush, they're doing good stuff.
-[02:53:15.480]  Val: Why isn't that, why is that the hotbed here,
-[02:53:17.800]  Val: criminal activity?
-[02:53:19.320]  Fed: I don't know, it's what's called like training, you know?
-[02:53:22.240]  Fed: Training stuff.
+[02:53:15.480]  Val: Why isn't that, why is that the hotbed here, criminal activity?
+[02:53:19.320]  Fed: I don't know, it's what's called like training, you know? Training stuff.
 [02:53:23.080]  Fed: You're gonna wait here real quick?
 [02:53:23.920]  Fed: Okay.
-[02:53:26.360]  Fed: You think they train each other and like,
-[02:53:28.320]  Fed: you know, it's like, hey, you know,
-[02:53:29.960]  Fed: you grow up with all these people and like,
-[02:53:31.640]  Fed: hey, you want to make a cash and then they say,
-[02:53:33.840]  Fed: all you gotta do is you send out these emails,
-[02:53:35.840]  Fed: there's this script and whatever,
-[02:53:37.640]  Fed: and then they teach other people.
-[02:53:40.200]  Fed: It's like any other criminal organization.
-[02:53:42.720]  Fed: That's the way it works, it's all good.
-[02:53:44.240]  Fed: Right now, I guess they're,
-[02:53:46.000]  Fed: I haven't been looking around right here,
-[02:53:47.120]  Fed: but they're like in protest right now?
+[02:53:26.360]  Fed: You think they train each other and like, you know, it's like, hey, you know, you grow up with all these people and like,
+ hey, you want to make a cash and then they say, all you gotta do is you send out these emails, there's this script and whatever, and then they teach other people. It's like any other criminal organization. That's the way it works, it's all good.
+[02:53:44.240]  Fed: Right now, I guess they're, I haven't been looking around right here, but they're like in protest right now?
 [02:53:48.880]  Fed: Oh, really?
 [02:53:49.720]  Fed: I don't see anything, so Pat's gonna cut it off.
-[02:53:52.200]  Fed: I'm gonna say there's no, like,
-[02:53:53.040]  Fed: see any signers or whatever.
+[02:53:52.200]  Fed: I'm gonna say there's no, like, see any signers or whatever.
 [02:53:54.800]  Val: Yeah, that'd be bad.
 [02:53:56.440]  Fed: Yeah, exactly.
 [02:53:57.280]  Val: Yeah, I don't know why that.
 [02:53:58.280]  Fed: Yeah.
 [02:54:01.320]  Fed: Huh.
-[02:54:02.640]  Val: Where are they protesting?
-[02:54:05.000]  Val: There's the answer, you know?
-[02:54:08.280]  Val: Don't join, Val.
-[02:54:09.840]  Val: Don't do it, don't do it.
-[02:54:12.720]  Val: You guys get a bad rap, you know?
-[02:54:14.800]  Val: Like seriously, I was like everybody else
-[02:54:16.760]  Val: until I met Tim and Jammy.
+[02:54:02.640]  Val: Where are they protesting? There's the answer, you know? Don't join, Val. Don't do it, don't do it.
+[02:54:12.720]  Val: You guys get a bad rap, you know? Like seriously, I was like everybody else until I met Tim and Jammy.
 [02:54:18.520]  Fed: Yeah.
-[02:54:19.360]  Val: And then I was like, you know,
-[02:54:20.200]  Val: I can't believe I considered you guys [unintelligible] guys.
+[02:54:19.360]  Val: And then I was like, you know, I can't believe I considered you guys bad guys.
 [02:54:23.040]  Fed: What are you doing here, dude?
 [02:54:25.120]  Fed: You just being careful on me, yeah.
 [02:54:27.760]  Val: How'd you guys get started on this?
-[02:54:29.680]  Fed: I don't know, I just started a little while ago.
-[02:54:31.920]  Fed: I always wanted to do it as a kid.
+[02:54:29.680]  Fed: I don't know, I just started a little while ago. I always wanted to do it as a kid.
 [02:54:33.440]  Val: Yeah?
 [02:54:34.280]  Fed: Here I am, so I'm talking to Dad.
-[02:54:35.520]  Val: Did you good do the whole training
-[02:54:36.840]  Val: and either you taught you everything now
-[02:54:38.880]  Val: or did you know before?
-[02:54:40.000]  Fed: Not much, not much.
-[02:54:42.560]  Fed: Oh, for the computer stuff I went to,
-[02:54:44.360]  Fed: my degree is in there.
+[02:54:35.520]  Val: Did you good do the whole training and either you taught you everything now or did you know before?
+[02:54:40.000]  Fed: Not much, not much. Oh, for the computer stuff I went to, my degree is in there.
 [02:54:45.880]  Val: Oh, it is?
-[02:54:46.720]  Fed: I don't know about that.
-[02:54:47.560]  Fed: I'm like, oh no, but yeah,
-[02:54:49.960]  Fed: [unintelligible] I want to do it as a kid
-[02:54:51.200]  Fed: and then easily enough, you just apply online, everything.
+[02:54:46.720]  Fed: I don't know about that. I'm like, oh no, but yeah, [unintelligible] I want to do it as a kid and then easily enough, you just apply online, everything.
 [02:54:54.600]  Val: Yeah.
 [02:54:55.640]  Fed: Yeah, so it's not like you know a guy or whatever.
 [02:54:58.400]  Fed: No, that's cool, that's cool.
 [02:54:59.760]  Val: Interesting.
 [02:55:00.600]  Fed: How lucky.
 [02:55:01.440]  Fed: That's good.
-
-[02:55:03.000]  Val: Here, I'll give you a quick peep.
-[02:55:03.960]  Val: This is what it's like, you can scroll around.
-[02:55:06.080]  Val: It's not that, it's not a cool, great, crazy data
-[02:55:08.720]  Val: that I keep, it's not what you think.
-[02:55:11.080]  Fed: Cool.
-[02:55:21.920]  Fed: Doc Rockett
+[02:55:03.000]  Val: Here, I'll give you a quick peep. This is what it's like, you can scroll around. It's not that, it's not a cool, great, crazy data that I keep, it's not what you think.
+[02:55:11.080]  Fed: Cool. Doc Rockett
 [02:55:23.000]  Val: What's wrong?
-
-[02:55:23.840]  Fed: Doc Rockett
-
-[02:55:25.560]  Fed: I assume these are not like real people, right?
+[02:55:23.840]  Fed: Doc Rockett I assume these are not like real people, right?
 [02:55:27.600]  Val: No, they're not real people.
 [02:55:28.920]  Fed: I mean, they're not their real names.
 [02:55:31.480]  Val: Some of them, I mean, I use my real name.
 [02:55:34.480]  Fed: That's your friend.
 [02:55:35.560]  Val: I use his real name.
 [02:55:36.760]  Fed: Oh.
-[02:55:37.600]  Val: I think Barrett uses his real name.
-[02:55:39.360]  Val: Conlon, I don't know, kind of, Doc Rockett is a,
-[02:55:42.240]  Val: I can't remember, I used to read through it again.
-[02:55:44.840]  Val: I used to know what everybody was, but.
-[02:55:46.240]  Fed: He's too many secrets, you know?
-[02:55:47.920]  Val: Oh, that guy's great, yeah, I do.
-[02:55:51.760]  Val: He doesn't do anything illegal.
-[02:55:53.880]  Val: He's like, he's just like a researcher.
-[02:55:56.240]  Val: He's not even that good.
-[02:55:57.640]  Val: He's got a couple of databases in there.
-[02:55:59.360]  Val: He's just very loyal and helpful.
-[02:56:02.360]  Val: So if anyone needs my help, I'll do that.
-[02:56:04.320]  Val: Kind of nice thing.
-[02:56:05.520]  Fed: So there are no film crews outside,
-[02:56:07.920]  Fed: but you never know.
-[02:56:08.760]  Fed: They could show up to your comfort level.
+[02:55:37.600]  Val: I think Barrett uses his real name. Conlon, I don't know, kind of, Doc Rockett is a, I can't remember, I used to read through it again. I used to know what everybody was, but.
+[02:55:46.240]  Fed: Who's too many secrets, you know?
+[02:55:47.920]  Val: Oh, that guy's great, yeah, I do. He doesn't do anything illegal. He's like, he's just like a researcher. He's not even that good. He's got a couple of databases in there. He's just very loyal and helpful. So if anyone needs my help, I'll do that. Kind of nice thing.
+[02:56:05.520]  Fed: So there are no film crews outside, but you never know. They could show up to your comfort level.
 [02:56:11.640]  Val: Okay, let's go.
-[02:56:12.480]  Fed: At the same time, the protest is like
-[02:56:15.160]  Fed: about salons wanting to open.
-[02:56:17.920]  Val:  That's what, salons?
+[02:56:12.480]  Fed: At the same time, the protest is like about salons wanting to open.
+[02:56:17.920]  Val: That's what, salons?
 [02:56:19.040]  Fed: Yeah, like salons.
-[02:56:20.240]  Val: Okay.
-[02:56:21.560]  Val: Cool.
-[02:56:22.400]  Val: Let's join.
+[02:56:20.240]  Val: Okay.Cool. Let's join.
 [02:56:23.240]  Fed: A bit of a carry.
 [02:56:24.240]  Fed: Oh, that's what we really did there.
 [02:56:26.440]  Fed: Oh, thank you.
-[02:56:27.760]  Val: That was pretty good, though.
-[02:56:30.040]  Val: I mean, I give you credit.
-[02:56:34.880]  Val: God, it's split ends.
-[02:56:38.080]  Val: Okay, there you go.
-[02:56:42.400]  Val: So yeah, it's not that it's fun.
-[02:56:44.440]  Val: It's mostly just people yelling.
-[02:56:46.920]  Val: During like, you know, Joe,
-[02:56:49.040]  Val: I'm sure you know Joe Fionda.
+[02:56:27.760]  Val: That was pretty good, though. I mean, I give you credit. God, it's split ends. Okay, there you go. So yeah, it's not that it's fun. It's mostly just people yelling. During like, you know, Joe, I'm sure you know Joe Fionda.
 [02:56:51.800]  Fed: Who's Joe Fionda?
-[02:56:53.080]  Val: Joe is like, what's his name?
-[02:56:55.040]  Val: Sub-Zero?
-[02:56:56.440]  Val: Sub-Zero?
-[02:56:57.360]  Val: Was his name?
-[02:56:58.200]  Val: I think in 2000.
+[02:56:53.080]  Val: Joe is like, what's his name? Sub-Zero? Sub-Zero? Was his name? I think in 2000.
 [02:57:00.040]  Fed: I'm talking about the mortal kombat character.
-[02:57:01.520]  Val: I don't know.
-[02:57:02.360]  Val: I don't know.
-[02:57:03.200]  Val: It's his name.
-[02:57:04.040]  Val: His alias.
-[02:57:06.000]  Val: He's pretty, he's a clever guy.
-[02:57:07.480]  Val: He was in the,
-[02:57:08.520]  Val: did you see the Hacker War film?
-[02:57:09.720]  Val: That's the film that women did with Barrett.
-[02:57:14.040]  Val: It's basically the guy that's talking all the time.
-[02:57:16.720]  Val: And wearing a suit, that guy.
+[02:57:01.520]  Val: I don't know. I don't know. It's his name. His alias. He's pretty, he's a clever guy. He was in the, did you see the Hacker War film? That's the film that women did with Barrett. It's basically the guy that's talking all the time. And wearing a suit, that guy.
 [02:57:18.920]  Fed: Okay.
 [02:57:20.000]  Fed: Joe, is he a hacker?
 [02:57:22.040]  Val: I think, yeah, he's like a, yeah.
-[02:57:24.920]  Fed: Okay.
-[02:57:25.880]  Fed: So he's like, he's friends with Barrett.
-[02:57:27.520]  Fed: Is that how he got in the group?
+[02:57:24.920]  Fed: Okay. So he's like, he's friends with Barrett. Is that how he got in the group?
 [02:57:28.920]  Val: Yeah, these old friends of Barrett.
 [02:57:31.320]  Fed: Cool.
 [02:57:32.160]  Val: He's one of his old friends of Barrett, man.
 [02:57:35.240]  Fed: So what did Joe do?
 [02:57:36.960]  Val: Joe, I'm not quite sure.
-[02:57:38.280]  Val: I think he goes cycling a lot.
-[02:57:41.600]  Val: He spends most of his time cycling
-[02:57:43.880]  Val: during the year.
-[02:57:46.400]  Val: He's a, everyone,
-[02:57:47.600]  Val: but these guys are fairly activism, you know,
-[02:57:49.880]  Val: based, which is great and all.
-[02:57:52.200]  Val: I'm not really a, you know,
-[02:57:54.880]  Val: I mean, I guess I don't believe anything that strongly
-[02:57:57.320]  Val: to go out and carry a sign.
+[02:57:38.280]  Val: I think he goes cycling a lot. He spends most of his time cycling during the year. He's a, everyone, but these guys are fairly activism, you know, based, which is great and all. I'm not really a, you know, I mean, I guess I don't believe anything that strongly to go out and carry a sign.
 [02:57:59.080]  Fed: Sure.
 [02:57:59.960]  Val: But I'm sure, you know,
-[02:58:02.960]  Val: I mean, if someone DCFS right now,
-[02:58:06.600]  Val: of course, I think I would probably carry a sign.
-[02:58:08.520]  Val: So I'm like, it hasn't hit me personally yet.
+[02:58:02.960]  Val: I mean, if someone DCFS right now, of course, I think I would probably carry a sign. So I'm like, it hasn't hit me personally yet.
 [02:58:13.160]  Fed: I mean, that's a really popular corner.
 [02:58:14.960]  Val: Yeah, wow.
-[02:58:15.800]  Fed: Just because it's like one of the,
-[02:58:17.040]  Fed: you hear it over there.
-[02:58:17.880]  Val: Yeah, this would be okay.
-[02:58:20.760]  Val: It's really far away.
+[02:58:15.800]  Fed: Just because it's like one of the, you hear it over there.
+[02:58:17.880]  Val: Yeah, this would be okay. It's really far away.
 [02:58:30.920]  Fed: I can push a little bit over there.
-[02:58:32.920]  Val: Sure.
-[02:58:35.760]  Val: Oh, really?
-[02:58:36.600]  Val: Oh, man.
-[02:58:39.440]  Val: So, yeah, I mean, just like everyone,
-[02:58:42.400]  Val: the people who use their real names
-[02:58:43.520]  Val: really aren't afraid of the guy finding out.
-[02:58:46.080]  Val: So, I'm sure you, yeah.
-[02:58:50.120]  Val: But the, yeah, there was another interesting thing.
-[02:58:55.160]  Val: God, I can't remember why they said Ko.
-[02:58:57.160]  Val: I'm running to show you the thing.
-[02:58:59.000]  Fed: I can almost guarantee you.
-[02:59:00.320]  Fed: It's not me, because I'm not that important.
-[02:59:02.840]  Val: No, but you were from Houston,
-[02:59:04.800]  Val: and Barrett said it was a guy from Houston
-[02:59:06.800]  Val: that called a friend of his
-[02:59:08.680]  Val: that was trying to infiltrate some group,
-[02:59:10.720]  Val: but he was on the wrong group.
-[02:59:12.040]  Val: I don't know exactly what happened.
-[02:59:14.040]  Val: We got a recording of the phone call.
-[02:59:15.200]  Val: I wanted to play back the phone call
-[02:59:16.520]  Val: to see if that was you talking to this other guy.
-[02:59:18.640]  Val: Not Barrett directly, but someone else.
-[02:59:20.240]  Fed: I would be interested if you got a recording
-[02:59:22.040]  Fed: of me talking to someone.
-[02:59:23.400]  Fed: I'd love to hear it..
+[02:58:32.920]  Val: Sure. Oh, really? Oh, man. So, yeah, I mean, just like everyone, the people who use their real names really aren't afraid of the guy finding out. So, I'm sure you, yeah. But the, yeah, there was another interesting thing. God, I can't remember why they said Ko. I'm running to show you the thing.
+[02:58:59.000]  Fed: I can almost guarantee you. It's not me, because I'm not that important.
+[02:59:02.840]  Val: No, but you were from Houston, and Barrett said it was a guy from Houston that called a friend of his that was trying to infiltrate some group, but he was on the wrong group. I don't know exactly what happened. We got a recording of the phone call. I wanted to play back the phone call to see if that was you talking to this other guy. Not Barrett directly, but someone else.
+[02:59:20.240]  Fed: I would be interested if you got a recording of me talking to someone. I'd love to hear it...
 [02:59:27.280]  Val: Yeah, that's what ??? with Ko
-
 [02:59:32.040]  Val: Okay.
 Fed: [unintelligible]
-[02:59:38.320]  Val: Now, could you, is it possible that,
-[02:59:41.640]  Val: is it possible to have this guy,
-[02:59:46.920]  Val: that you've done your research,
-[02:59:48.080]  Val: you probably understand that Steve is not a good guy?
+[02:59:38.320]  Val: Now, could you, is it possible that, is it possible to have this guy, that you've done your research, you probably understand that Steve is not a good guy?
 [02:59:50.560]  Fed: Who's Steve.
 [02:59:51.400]  Val: Steve Toltz?
 [02:59:53.240]  Fed: You've posted here on Facebook.
-[02:59:55.080]  Val: Yeah, like he's not a stand-up guy.
-[02:59:58.880]  Val: He's not a,
-[03:00:01.560]  Val: you know the type that's run to mom and the scribbling.
+[02:59:55.080]  Val: Yeah, like he's not a stand-up guy. He's not a, you know the type that's run to mom and the scribbling.
 [03:00:04.960]  Fed: Yeah, yeah.
-[03:00:08.480]  Val: I think it's actually really become a threat
-[03:00:11.360]  Val: to not only to Marlowe's update with the priest,
-[03:00:15.320]  Val: the priest that's happening.
+[03:00:08.480]  Val: I think it's actually really become a threat to not only to Marlowe's update with the priest, the priest that's happening.
 [03:00:16.480]  Fed: Sure, no, I get it.
 [03:00:18.760]  Val: Is it possible to have him deported?
 [03:00:22.240]  Fed: No.
-[03:00:26.680]  Val: Australia.
-[03:00:29.680]  Val: I went to a whole moral crisis.
-[03:00:35.880]  Val: Did I do this or not?
-[03:00:36.920]  Val: And I asked them, they said they'd do it.
-[03:00:39.400]  Val: But then I said,
-[03:00:40.240]  Val: but then all of a sudden I had this father,
-[03:00:41.520]  Val: I said, we're not going to do that tomorrow.
-[03:00:43.080]  Val: That was the bottom line.
-[03:00:44.840]  Val: But that was last year.
-[03:00:46.000]  Val: Yeah, that was last year.
-[03:00:48.000]  Val: But now everyone's really asking me,
-[03:00:50.200]  Val: I know.
+[03:00:26.680]  Val: Australia. I went to a whole moral crisis. Did I do this or not? And I asked them, they said they'd do it. But then I said, but then all of a sudden I had this father, I said, we're not going to do that tomorrow. That was the bottom line. But that was last year. Yeah, that was last year. But now everyone's really asking me, I know.
 [03:00:52.520]  Fed: Thank you.
 [03:00:53.360]  Val: Thank you.
 [03:01:00.360]  Fed: You're welcome.
@@ -1553,511 +1235,122 @@ Fed: [unintelligible]
 [03:01:02.720]  Fed: Ha, ha, ha, ha.
 [03:01:05.320]  Fed: You actually thought about it.
 [03:01:06.200]  Fed: I was like, I'm not fucking one out.
-[03:01:08.640]  Fed: I was like, you know,
-[03:01:09.920]  Fed: don't look at me, I did it on the right.
+[03:01:08.640]  Fed: I was like, you know, don't look at me, I did it on the right.
 [03:01:12.040]  Fed: I did, I did it on the right.
 [03:01:13.440]  Fed: That's all I got.
 [03:01:15.440]  Fed: It's a little bit economic.
-[03:01:17.440]  Fed: Because I was shopping in one town,
-[03:01:20.440]  Fed: and this was like twice that.
-[03:01:23.440]  Fed: I'm like, if you guys really eat it,
-[03:01:25.440]  Fed: I can eat for a week.
+[03:01:17.440]  Fed: Because I was shopping in one town, and this was like twice that. I'm like, if you guys really eat it, I can eat for a week.
 [03:01:26.440]  Fed: That's true.
-[03:01:34.440]  Fed: I don't think you guys realize how nice this weather is
-[03:01:36.440]  Fed: for August, whatever.
+[03:01:34.440]  Fed: I don't think you guys realize how nice this weather is for August, whatever.
 [03:01:38.440]  Val: Do you know Andrew?
 [03:01:40.440]  Fed: I don't like this weather.
 [03:01:41.440]  Val: Do you know Andrew?
-[03:01:43.440]  Val: Who's Andrew?
+[03:01:43.440]  Fed: Who's Andrew?
 [03:01:44.440]  Val: The one you pointed out, my friend.
 [03:01:46.440]  Fed: Your friend?
 [03:01:47.440]  Val: Yeah.
-[03:01:48.440]  Fed: I mean, you just told me about him,
-[03:01:49.440]  Fed: but I don't know.
-[03:01:50.440]  Val: Before I mentioned him.
-[03:01:52.440]  Val: He's a good, interesting character.
+[03:01:48.440]  Fed: I mean, you just told me about him, but I don't know.
+[03:01:50.440]  Val: Before I mentioned him. He's a good, interesting character.
 [03:01:54.440]  Fed: What's the deal?
-[03:01:55.440]  Val: He's a really good guy.
-[03:01:56.440]  Val: Good dude.
-[03:01:58.440]  Val: Do you remember, maybe,
-[03:01:59.440]  Val: probably in 2015 there was this article
-[03:02:03.440]  Val: in Bloomberg about
-[03:02:07.440]  Val: if there was this company,
-[03:02:08.440]  Val: and it turned out later,
-[03:02:09.440]  Val: you find out articles later,
-[03:02:11.440]  Val: that it was a Russian company,
-[03:02:14.440]  Val: they created this big debts for people.
-[03:02:16.440]  Val: Someone would call you and say,
-[03:02:17.440]  Val: you owe us $2,000 a month,
-[03:02:19.440]  Val: and then you say,
-[03:02:21.440]  Val: you got this thing,
-[03:02:22.440]  Val: you forgot about it,
-[03:02:23.440]  Val: you should probably pay it.
-[03:02:24.440]  Val: Most people will pay that money.
-[03:02:26.440]  Val: If you will just create this big debt,
-[03:02:29.440]  Val: and it's a really fucking dollar,
-[03:02:31.440]  Val: and it's $1,000,000 a month.
-[03:02:33.440]  Val: So a lot of people would take advantage
-[03:02:35.440]  Val: and people would just be doing that.
-[03:02:36.440]  Val: And they'd try to get it to Andrews.
-[03:02:38.440]  Val: They wouldn't call Andrew,
-[03:02:39.440]  Val: and they'd say, you owe us $5,000,
-[03:02:41.440]  Val: we're a combination of debts,
-[03:02:42.440]  Val: and he'd say,
-[03:02:43.440]  Val: No I don't,
-[03:02:44.440]  Val: I remember paying that back,
+[03:01:55.440]  Val: He's a really good guy. Good dude. Do you remember, maybe, probably in 2015 there was this article in Bloomberg about if there was this company, and it turned out later, you find out articles later, that it was a Russian company, they created this big debts for people. Someone would call you and say, you owe us $2,000 a month, and then you say, you got this thing, you forgot about it, you should probably pay it.
+[03:02:24.440]  Val: Most people will pay that money. If you will just create this big debt, and it's a really fucking dollar, and it's $1,000,000 a month. So a lot of people would take advantage and people would just be doing that. And they'd try to get it to Andrews. They wouldn't call Andrew, and they'd say, you owe us $5,000, we're a combination of debts, and he'd say, No I don't, I remember paying that back,
 [03:02:45.440]  Val: ???
-[03:02:47.440]  Val: So he starts fighting and arguing with this guy,
-[03:02:49.440]  Val: until the guy threatens to go
-[03:02:51.440]  Val: and rape his wife.
-[03:02:53.440]  Val: Like, totally possible,
-[03:02:54.440]  Val: and Andrew said,
-[03:02:55.440]  Val: that's it.
-[03:02:56.440]  Val: So he starts doing like,
-[03:02:58.440]  Val: he's now,
-[03:02:59.440]  Val: he's the Liam Neeson thing,
-[03:03:02.440]  Val: I have three,
-[03:03:04.440]  Val: you know,
-[03:03:05.440]  Val: a few good things,
-[03:03:07.440]  Val: whatever the line is.
-[03:03:08.440]  Val: And that's what he does.
-[03:03:09.440]  Val: So you reverse engineers,
-[03:03:10.440]  Val: it's brilliant what he did,
-[03:03:11.440]  Val: I love it.
-[03:03:12.440]  Val: Reverse engineers,
-[03:03:13.440]  Val: everyone that's called him,
-[03:03:14.440]  Val: and looks him up,
-[03:03:15.440]  Val: there's all the background on them,
-[03:03:16.440]  Val: gets them to give up more information on their,
-[03:03:19.440]  Val: just like you could do in any case.
-[03:03:21.440]  Val: You know,
-[03:03:22.440]  Val: give information to the guy at mob,
-[03:03:23.440]  Val: and the hierarchy,
-[03:03:24.440]  Val: all the way up to Weldon,
-[03:03:26.440]  Val: the congressman,
-[03:03:27.440]  Val: was he a senator or congressman?
-[03:03:29.440]  Fed: Well, I'm a senator or something.
-[03:03:31.440]  Val: Is he Weldon?
-[03:03:32.440]  Val: No,
-[03:03:33.440]  Val: Josh Weldon,
-[03:03:34.440]  Val: or is he something Weldon?
-[03:03:36.440]  Val: Yeah, man,
-[03:03:37.440]  Fed: I don't know all the senators
-[03:03:38.440]  Fed: and representatives,
-[03:03:39.440]  Fed: so I'm a bad,
-[03:03:40.440]  Fed: he's an ???
-[03:03:41.440]  Fed: But,
-[03:03:42.440]  Val: I mean,
-[03:03:43.440]  Val: he might be,
-[03:03:44.440]  Val: he might be actually,
-[03:03:45.440]  Fed: I know he's a congressman person,
-[03:03:46.440]  Fed: but that's about the extent of my knowledge
-[03:03:47.440]  Fed: I know.
-[03:03:48.440]  Val: Yeah,
-[03:03:49.440]  Val: but he's in bed with a lot of,
-[03:03:50.440]  Val: the Russian companies,
-[03:03:51.440]  Val: they're creating these fake debt companies,
-[03:03:53.440]  Val: and it's a really good story,
-[03:03:55.440]  Val: it's great articles,
-[03:03:56.440]  Val: and it's just sort of reverse engineers,
-[03:03:57.440]  Val: put some in jail,
-[03:03:58.440]  Val: and it's a good guy at the store.
-[03:04:00.440]  Val: It's very impressed.
+[03:02:47.440]  Val: So he starts fighting and arguing with this guy, until the guy threatens to go and rape his wife. Like, totally possible, and Andrew said, that's it. So he starts doing like, he's now, he's the Liam Neeson thing, I have three, you know, a few good things, whatever the line is. And that's what he does. So you reverse engineers, it's brilliant what he did, I love it.
+[03:03:12.440]  Val: Reverse engineers, everyone that's called him, and looks him up, there's all the background on them, gets them to give up more information on their, just like you could do in any case. You know, give information to the guy at mob, and the hierarchy, all the way up to Weldon, the congressman, was he a senator or congressman?
+[03:03:29.440]  Fed: Well, a senator or something.
+[03:03:31.440]  Val: Is he Weldon? No, Josh Weldon, or is he something Weldon? Yeah, man,
+[03:03:37.440]  Fed: I don't know all the senators and representatives, so I'm a bad, he's an [???] But,
+[03:03:42.440]  Val: I mean, he might be, he might be actually,
+[03:03:45.440]  Fed: I know he's a congressman person, but that's about the extent of my knowledgeI know.
+[03:03:48.440]  Val: Yeah, but he's in bed with a lot of, the Russian companies, they're creating these fake debt companies, and it's a really good story, it's great articles, and it's just sort of reverse engineers, put some in jail, and it's a good guy at the store. It's very impressed.
 [03:04:01.440]  Fed: That's cool.
-[03:04:02.440]  Val: I mean,
-[03:04:03.440]  Val: he found me,
-[03:04:04.440]  Val: he just wanted to know
-[03:04:05.440]  Val: if I had any data
-[03:04:06.440]  Val: on those people as well,
-[03:04:07.440]  Val: like,
-[03:04:08.440]  Val: I was looking for Weldon,
-[03:04:09.440]  Val: the Russians,
-[03:04:10.440]  Val: the Tudmento[???]
-[03:04:11.440]  Val: or some other guy,
-[03:04:13.440]  Val: and that's how we became friends.
-[03:04:15.440]  Val: He's a good guy.
+[03:04:02.440]  Val: I mean, he found me, he just wanted to know if I had any data on those people as well, like, I was looking for Weldon, the Russians, the Tudmento[???] or some other guy, and that's how we became friends. He's a good guy.
 [03:04:16.440]  Fed: That's cool.
-[03:04:17.440]  Val: I thought he was already working with you guys.
-[03:04:19.440]  Val: I'm pretty sure he was,
-[03:04:20.440]  Val: I thought he was CIA.
-[03:04:21.440]  Fed: Okay,
-[03:04:22.440]  Fed: I mean,
-[03:04:23.440]  Fed: so if he was CIA then,
-[03:04:24.440]  Fed: I don't think he would.
-[03:04:25.440]  Val: That's what I thought.
-[03:04:26.440]  Val: I don't know.
-[03:04:27.440]  Fed: Have you ever met him
-[03:04:28.440]  Fed: like,
-[03:04:29.440]  Fed: okay.
-[03:04:30.440]  Val: Yeah,
-[03:04:31.440]  Val: he came out to visit.
-[03:04:32.440]  Fed: I don't know,
-[03:04:33.440]  Fed: do you think he'd want to work with us?
-[03:04:35.440]  Val: I think he would.
-[03:04:36.440]  Val: I think he would,
-[03:04:37.440]  Val: actually.
+[03:04:17.440]  Val: I thought he was already working with you guys. I'm pretty sure he was, I thought he was CIA.
+[03:04:21.440]  Fed: Okay, I mean, so if he was CIA then, I don't think he would.
+[03:04:25.440]  Val: That's what I thought. I don't know.
+[03:04:27.440]  Fed: Have you ever met him like, okay.
+[03:04:30.440]  Val: Yeah, he came out to visit.
+[03:04:32.440]  Fed: I don't know, do you think he'd want to work with us?
+[03:04:35.440]  Val: I think he would. I think he would, actually.
 [03:04:38.440]  Fed: Do you want to give me his contact information?
 [03:04:40.440]  Val: I think I'd have to ask him.
 [03:04:42.440]  Fed: Okay.
-[03:04:43.440]  Val: And then,
-[03:04:44.440]  Val: if he'd never have to,
-[03:04:45.440]  Val: I'd bring it up.
-[03:04:46.440]  Val: Because I don't know,
-[03:04:47.440]  Val: he's like a,
-[03:04:48.440]  Val: like a really,
-[03:04:49.440]  Val: he almost pisses me off,
-[03:04:52.440]  Val: he's like,
-[03:04:53.440]  Val: too good.
-[03:04:54.440]  Val: He's like,
-[03:04:55.440]  Val: he reminds me of my father in the sense
-[03:04:57.440]  Val: of his morality.
-[03:04:58.440]  Val: He's very,
-[03:04:59.440]  Val: very strong.
+[03:04:43.440]  Val: And then, if he'd never have to, I'd bring it up. Because I don't know, he's like a, like a really, he almost pisses me off, he's like, too good. He's like, he reminds me of my father in the sense of his morality. He's very, very strong.
 [03:05:00.440]  Fed: That's good.
-[03:05:01.440]  Val: So that's the thing you guys like,
-[03:05:02.440]  Val: I mean,
-[03:05:03.440]  Val: you hire a lot of,
-[03:05:04.440]  Val: like,
-[03:05:05.440]  Val: Mormons, right?
-[03:05:06.440]  Val: So,
-[03:05:07.440]  Val: or is that the CIA?
-[03:05:08.440]  Val: Who's hiring all the Mormons?
+[03:05:01.440]  Val: So that's the thing you guys like, I mean, you hire a lot of, like, Mormons, right? So, or is that the CIA? Who's hiring all the Mormons?
 [03:05:10.440]  Fed: They're doing a lot of good things.
 [03:05:12.440]  Val: Yeah, okay.
-[03:05:13.440]  Fed: If they can pass the drug test,
-[03:05:14.440]  Fed: yeah.
-[03:05:15.440]  Val: Okay,
-[03:05:16.440]  Val: really the Mormons
-[03:05:17.440]  Val: can't pass the drug test?
-[03:05:18.440]  Val: That's great.
+[03:05:13.440]  Fed: If they can pass the drug test, yeah.
+[03:05:15.440]  Val: Okay, really the Mormons can't pass the drug test? That's great.
 [03:05:19.440]  Fed: Because they can't.
 [03:05:20.440]  Val: They cannot.
 [03:05:21.440]  Fed: No, they can't.
-[03:05:22.440]  Fed: Oh, they can't,
-[03:05:23.440]  Val: right?
-[03:05:24.440]  Val: Yeah.
-[03:05:25.440]  Val: Okay,
-[03:05:26.440]  Val: okay.
-[03:05:27.440]  Fed: I mean,
-[03:05:28.440]  Fed: the Mormons
-[03:05:29.440]  Fed: a lot of time,
-[03:05:30.440]  Fed: they do missions.
-[03:05:31.440]  Fed: So when they go overseas,
-[03:05:32.440]  Fed: they learn the language,
-[03:05:33.440]  Fed: it's probably useful
-[03:05:34.440]  Fed: for like,
-[03:05:35.440]  Fed: CIA and all that kind of stuff.
-[03:05:36.440]  Val: Right,
-[03:05:37.440]  Val: good cover.
+[03:05:22.440]  Val: Oh, they can't, right? Yeah. Okay, okay.
+[03:05:27.440]  Fed: I mean, the Mormons a lot of time, they do missions. So when they go overseas, they learn the language, it's probably useful for like, CIA and all that kind of stuff.
+[03:05:36.440]  Val: Right, good cover.
 [03:05:38.440]  Fed: Yeah.
-[03:05:39.440]  Val: Yeah,
-[03:05:40.440]  Val: but it's so,
-[03:05:41.440]  Val: like,
-[03:05:42.440]  Val: we're so
-[03:05:43.440]  Val: strict with rules
-[03:05:44.440]  Val: and stuff.
-[03:05:45.440]  Val: How do you,
-[03:05:46.440]  Val: how do you,
-[03:05:47.440]  Val: justify one thing
-[03:05:48.440]  Val: or do something else?
-[03:05:49.440]  Fed: That's a good question.
-[03:05:50.440]  Fed: That's something
-[03:05:51.440]  Fed: I've,
-[03:05:52.440]  Fed: know nothing about.
+[03:05:39.440]  Val: Yeah, but it's so, like, we're so strict with rules and stuff. How do you, how do you, justify one thing or do something else?
+[03:05:49.440]  Fed: That's a good question. That's something I've, know nothing about.
 [03:05:53.440]  Val: Right.
-[03:05:54.440]  Fed: Well,
-[03:05:55.440]  Fed: being a Mormon
-[03:05:56.440]  Fed: won't work for the agency.
-[03:05:57.440]  Fed: Like,
-[03:05:58.440]  Fed: how do you justify,
-[03:06:13.440]  Val: What do you guys
-[03:06:14.440]  Val: do?
-[03:06:15.440]  Val: Jesus,
-[03:06:16.440]  Val: people?
-[03:06:17.440]  Val: Can't say that.
-[03:06:18.440]  Val: Okay.
-[03:06:19.440]  Val: Do it or not do it?
-[03:06:20.440]  Fed: No.
-[03:06:21.440]  Fed: I wish there was.
-[03:06:28.440]  Val: That's what's more impressive, what you need for me right away is the thing that you have on your plate.
-[03:06:34.440]  Val: What I can help you with, what you can do with the transactional for Marlowe's safety.
-[03:06:40.440]  Val: I would like to bro it, Steve.
-[03:06:44.440]  Val: Listen to me, sir.
+[03:05:54.440]  Fed: Well, being a Mormon won't work for the agency. Like, how do you justify,
+[03:06:13.440]  Val: What do you guys do? Jesus, people? Can't say that. Okay. Do it or not do it?
+[03:06:20.440]  Fed: No. I wish there was.
+[03:06:28.440]  Val: That's what's more impressive, what you need for me right away is the thing that you have on your plate. What I can help you with, what you can do with the transactional for Marlowe's safety. I would like to bro it, Steve. Listen to me, sir.
 [03:06:46.440]  Thank you.
 [03:06:54.440]  Fed: Seriously, it caught me up.
 [03:06:56.440]  Val: Are you happy?
-[03:06:58.440]  Fed: Maybe.
-[03:07:00.440]  Fed: You've got to take off that pavilion.
-[03:07:02.440]  Val: Thank you.
-[03:07:04.440]  Val: Thank you very much.
+[03:06:58.440]  Fed: Maybe. You've got to take off that pavilion.
+[03:07:02.440]  Val: Thank you. Thank you very much.
 [03:07:06.440]  You're welcome.
 [03:07:08.440]  I like the economy with our mayor.
 [03:07:10.440]  That's right.
-[03:07:12.440]  Val: I'm going to watch out for the Marie.
-[03:07:26.440]  Val: I would have to be really secretive if I now tell Marie.
-[03:07:34.440]  Val: I can't tell her everything.
-[03:07:36.440]  Val: What I don't tell her, she always finds out.
+[03:07:12.440]  Val: I'm going to watch out for the Marie. I would have to be really secretive if I now tell Marie. I can't tell her everything. What I don't tell her, she always finds out.
 [03:07:40.440]  Fed: What would you tell her?
-[03:07:42.440]  Val: I'm going to tell her, oh they offered me a job.
-[03:07:48.440]  Val: She'd be like, what are they paying down?
-[03:07:52.440]  Val: Not money.
-[03:07:54.440]  Val: It's a good job.
-[03:07:56.440]  Val: But they will have Marlowe.
-[03:07:58.440]  Val: They should say, trust them.
-[03:08:00.440]  Val: You can live with them.
-[03:08:02.440]  Val: See that?
+[03:07:42.440]  Val: I'm going to tell her, oh they offered me a job. She'd be like, what are they paying down? Not money. It's a good job. But they will have Marlowe. They should say, trust them. You can live with them. See that?
 [unintelligible]
-03:08:12.440]  Val: She'll see you working on it.
-[03:08:14.440]  Val: What are you doing?
-[03:08:16.440]  Val: Okay, thanks.
-[03:08:18.440]  Val: I'll see you later.
-[03:08:24.440]  Val: It's fun to do an episode
-[03:08:28.440]  Val: But I don't know how people will know.
-[03:08:32.440]  Val: I figured it was okay to do an episode 7 today.
-[03:08:34.440]  Val: It was a bit rainy.
-[03:08:36.440]  Val: But she said it was not.
-[03:08:38.440]  Val: It was a lie.
-[03:08:40.440]  Val: A lot of stuff was in French.
-[03:08:44.440]  Val: Which brings me to a good point.
-[03:08:48.440]  Val: So I was afraid to look at it.
-[03:08:50.440]  Val: I don't understand what it meant.
-[03:08:52.440]  Val: Just to take a look at it.
-[03:08:54.440]  Val: at the hard drive, right?
-[03:08:56.440]  Val: That's concerning.
-[03:09:00.440]  Val: So that's why I just ran it over.
-[03:09:02.440]  Val: I'll forward it to you.
-[03:09:04.440]  Val: That's what I said to David.
-[03:09:06.440]  Val: I don't know.
-[03:09:08.440]  Val: I would really like to use that against him somehow.
-[03:09:10.440]  Val: I'm trying to do that.
-[03:09:12.440]  Val: I don't know if it's legal for me to give him that.
-[03:09:14.440]  Val: But what he does it with an afterward.
-[03:09:16.440]  Val: I don't know.
-[03:09:18.440]  Fed: I don't know what you're talking about.
-[03:09:20.440]  Fed: It's hard.
-[03:09:22.440]  Fed: It's hard to say.
-[03:09:26.440]  Fed: But it's definitely hard to do what he did.
-[03:09:32.440]  Fed: So before the musician stuff, were you involved with computers?
+03:08:12.440]  Val: She'll see you working on it. What are you doing? Okay, thanks. I'll see you later. It's fun to do an episode But I don't know how people will know. I figured it was okay to do an episode 7 today. It was a bit rainy. But she said it was not. It was a lie. A lot of stuff was in French.
+[03:08:44.440]  Val: Which brings me to a good point. So I was afraid to look at it. I don't understand what it meant. Just to take a look at it. at the hard drive, right? That's concerning. So that's why I just ran it over. I'll forward it to you. That's what I said to David. I don't know. I would really like to use that against him somehow. I'm trying to do that. I don't know if it's legal for me to give him that. But what he does it with an afterward. I don't know.
+[03:09:18.440]  Fed: I don't know what you're talking about. It's hard. It's hard to say. But it's definitely hard to do what he did. So before the musician stuff, were you involved with computers?
 [03:09:34.440]  Fed: [unintelligible]
-[03:09:40.440]  Val: I'm just a musician.
-[03:09:42.440]  Val: I used to play football and having...
-[03:09:44.440]  Val: Sorry, I didn't go to it.
-[03:09:46.440]  Val: I see.
-[03:09:48.440]  Val: And there was a guy who lived above me in London.
+[03:09:40.440]  Val: I'm just a musician. I used to play football and having... Sorry, I didn't go to it. I see. And there was a guy who lived above me in London.
 [03:09:52.440]  Fed: He lived in London above you.
-[03:09:54.440]  Val: He was really good at hacking
-[03:09:56.440]  Val: He gave me a list of all that.
-[03:09:58.440]  Val: [IP?] addresses [?]
-[03:10:00.440]  Val: He'd be a good guy.
-[03:10:02.440]  Val: He'd just have fun and see me.
-[03:10:04.440]  Val: You could tell that or something.
-[03:10:06.440]  Val: And he's the one who said,
-[03:10:08.440]  Val: I don't think it's going to be that bad.
-[03:10:10.440]  Val: And at times it's like $30.
-[03:10:12.440]  Val: I mean, I don't think it's going to be that bad.
-[03:10:14.440]  Val: I want to spend $30 on some bullshit.
+[03:09:54.440]  Val: He was really good at hacking He gave me a list of all that. [IP?] addresses [?] He'd be a good guy. He'd just have fun and see me. You could tell that or something. And he's the one who said, I don't think it's going to be that bad. And at times it's like $30. I mean, I don't think it's going to be that bad. I want to spend $30 on some bullshit.
 [03:10:18.440]  Fed: I would have bought pizza.
 [03:10:20.440]  Fed: Yeah, yeah, yeah.
-[03:10:24.440]  Val: Well, that was about the sound of it,
-[03:10:26.440]  Val: but I mean, I was really focused.
-[03:10:28.440]  Val: I have 36 hours to do the single.
-[03:10:30.440]  Val: It's been all my time.
+[03:10:24.440]  Val: Well, that was about the sound of it, but I mean, I was really focused. I have 36 hours to do the single. It's been all my time.
 [03:10:32.440]  Fed: A lot of work.
-[03:10:34.440]  Val: A lot of work.
-[03:10:36.440]  Val: You know, I don't do that anymore.
+[03:10:34.440]  Val: A lot of work. You know, I don't do that anymore.
 [03:10:38.440]  Fed: Really?
 [03:10:40.440]  Fed: Do you miss it?
-[03:10:42.440]  Val: I mean, I miss lifestyle.
-[03:10:46.440]  Val: No.
-[03:10:48.440]  Val: I don't.
-[03:10:50.440]  Fed: I don't have music,
-[03:10:52.440]  Fed: but I think I do.
-[03:10:54.440]  Fed: I don't.
-[03:10:56.440]  Fed: Cross our lifestyle.
-[03:10:58.440]  Val: Yeah, but you got to stop at some points.
-[03:11:00.440]  Val: You can't be the other guy doing that.
-[03:11:02.440]  Fed: Yeah, there's a lot of things.
-[03:11:04.440]  Fed: It's not like it's still going on.
-[03:11:06.440]  Val: Yeah, but still, it's a little creepy.
-[03:11:08.440]  Val: We were at a party.
-[03:11:10.440]  Val: We didn't see what's happening.
-[03:11:12.440]  Val: What's the name of the meeting?
-[03:11:14.440]  Val: I didn't talk to him.
-[03:11:16.440]  Val: I was like, what's the change that you're doing here?
-[03:11:18.440]  Val: You just get out of rehab.
-[03:11:20.440]  Val: That's where he's supposed to not do it.
-[03:11:22.440]  Val: He's like, let's go get a drink.
-[03:11:24.440]  Val: And whatever.
-[03:11:26.440]  Val: It's all like rehab.
-[03:11:28.440]  Val: Things are supposed to not do it.
-[03:11:30.440]  Val: So, you guys,
-[03:11:32.440]  Val: we're having everything.
-[03:11:34.440]  Val: We got the idea.
-[03:11:38.440]  Val: There's a lot of rules.
-[03:11:40.440]  Val: We're not supposed to be that broad.
-[03:11:42.440]  Val: But first you're out.
-[03:11:44.440]  Val: You got laid and be manipulative.
-[03:11:46.440]  Val: Because we don't have your drugs here.
-[03:11:48.440]  Val: You're trying to compensate.
-[03:11:50.440]  Fed: I don't know.
-[03:11:52.440]  Fed: We'll never realize that.
-[03:11:54.440]  Fed: So you're not allowed to date at all after rehab?
-[03:11:58.440]  Val: No.
-[03:12:00.440]  Val: No, because love is like a drug.
-[03:12:02.440]  Val: You'll get that serotonin or that dopamine
-[03:12:04.440]  Val: that you don't have for your drug.
-[03:12:06.440]  Val: So, the relationship will fill it up for you.
-[03:12:08.440]  Val: But you're always going to end tragically
-[03:12:10.440]  Val: because once you're speaking away.
-[03:12:12.440]  Val: It's like what you're going to do.
-[03:12:14.440]  Val: I'm going to act strong.
-[03:12:16.440]  Val: I'm going to act strong.
-[03:12:18.440]  Val: That's what I'm going to do.
-[03:12:20.440]  Val: We'll just talk about that.
+[03:10:42.440]  Val: I mean, I miss lifestyle. No. I don't.
+[03:10:50.440]  Fed: I don't have music, but I think I do. I don't. Cross our lifestyle.
+[03:10:58.440]  Val: Yeah, but you got to stop at some points. You can't be the other guy doing that.
+[03:11:02.440]  Fed: Yeah, there's a lot of things. It's not like it's still going on.
+[03:11:06.440]  Val: Yeah, but still, it's a little creepy. We were at a party. We didn't see what's happening. What's the name of the meeting? I didn't talk to him. I was like, what's the change that you're doing here? You just get out of rehab. That's where he's supposed to not do it.
+[03:11:22.440]  Val: He's like, let's go get a drink. And whatever. It's all like rehab. Things are supposed to not do it. So, you guys, we're having everything. We got the idea. There's a lot of rules. We're not supposed to be that broad. But first you're out. You got laid and be manipulative. Because we don't have your drugs here. You're trying to compensate.
+[03:11:50.440]  Fed: I don't know. We'll never realize that. So you're not allowed to date at all after rehab?
+[03:11:58.440]  Val: No. No, because love is like a drug. You'll get that serotonin or that dopamine that you don't have for your drug. So, the relationship will fill it up for you. But you're always going to end tragically because once you're speaking away.
+ It's like what you're going to do. I'm going to act strong. I'm going to act strong. That's what I'm going to do. We'll just talk about that.
 [03:12:22.440]  Fed: You don't want to do it?
-[03:12:24.440]  Val: No.
-[03:12:26.440]  Val: It depends.
-[03:12:28.440]  Val: You want to or you want to.
-[03:12:30.440]  Val: If you just don't want to.
-[03:12:32.440]  Val: If you're stuck with it.
-[03:12:34.440]  Val: You have to.
-[03:12:36.440]  Val: I mean, I did.
-[03:12:38.440]  Val: Well, first of all, Muzza,
-[03:12:40.440]  Val: he's called Nick.
-[03:12:42.440]  Val: We need you to stay at this rehab
-[03:12:44.440]  Val: but we figure out everything
-[03:12:46.440]  Val: through your mopsie.
-[03:12:48.440]  Val: If you don't know anything about Muzza
-[03:12:50.440]  Val: or if you don't know anything about Muzza
-[03:12:52.440]  Val: you might want to stay out here.
-[03:12:54.440]  Val: I was banned from the UK for three years.
-[03:12:56.440]  Val: I've never stayed with him.
-[03:12:58.440]  Val: Nothing's relationship.
-[03:13:00.440]  Val: So, stay the year in the California
-[03:13:02.440]  Val: in this rehab.
-[03:13:04.440]  Val: We'll figure out the next move.
-[03:13:06.440]  Val: And that's when I realized
-[03:13:08.440]  Val: that I had to learn really fast
-[03:13:10.440]  Val: for my mother.
-[03:13:12.440]  Val: Well, the Buddha taught me.
-[03:13:14.440]  Val: She got my dad.
-[03:13:16.440]  Val: She threw out my dad.
-[03:13:18.440]  Val: Not the people, literally.
-[03:13:20.440]  Val: But he signed it.
-[03:13:22.440]  Val: But in the New York state
-[03:13:24.440]  Val: he agreed.
-[03:13:26.440]  Val: So, it's not up to her to throw that.
-[03:13:28.440]  Val: So, she landed in the fall of 2004
-[03:13:30.440]  Val: where she gets everything.
-[03:13:32.440]  Val: She's very smart.
-[03:13:34.440]  Val: And I didn't know anything about finance.
-[03:13:36.440]  Val: But she's doing something that's happening
-[03:13:38.440]  Val: where you can learn fast.
-[03:13:40.440]  Val: So, that's why I learned finance.
-[03:13:44.440]  Val: When you're desperate
-[03:13:46.440]  Val: and you have to face off
-[03:13:48.440]  Val: and get nothing to lose
-[03:13:50.440]  Val: you find like you have intelligence
-[03:13:52.440]  Val: and everything.
-[03:13:54.440]  Val: Really, everyone has it.
-[03:13:56.440]  Val: I think it's the current everybody.
-[03:13:58.440]  Val: If you can get rid of the emotion
-[03:14:00.440]  Val: because emotion sort of clogs you up
-[03:14:02.440]  Val: then you can get more free
-[03:14:04.440]  Val: and free of focus.
-[03:14:06.440]  Val: It's emotion that really blocks the emotions.
-[03:14:08.440]  Val: And emotion is important of course
-[03:14:10.440]  Val: but you also need the emotion to
-[03:14:12.440]  Val: connect with someone to understand
-[03:14:14.440]  Val: but you don't need it all the time.
-[03:14:16.440]  Val: You need to control it.
-[03:14:18.440]  Val: It's the greatest freedom.
+[03:12:24.440]  Val: No. It depends. You want to or you want to. If you just don't want to. If you're stuck with it. You have to. I mean, I did. Well, first of all, Muzza, he's called Nick. We need you to stay at this rehab but we figure out everything through your mopsie. If you don't know anything about Muzza or if you don't know anything about Muzza you might want to stay out here.
+[03:12:54.440]  Val: I was banned from the UK for three years. I've never stayed with him. Nothing's relationship. So, stay the year in the California in this rehab. We'll figure out the next move. And that's when I realized that I had to learn really fast for my mother. Well, the Buddha taught me. She got my dad. She threw out my dad. Not the people, literally. But he signed it. But in the New York state he agreed.
+[03:13:26.440]  Val: So, it's not up to her to throw that. So, she landed in the fall of 2004 where she gets everything. She's very smart. And I didn't know anything about finance. But she's doing something that's happening where you can learn fast. So, that's why I learned finance. When you're desperate and you have to face off and get nothing to lose you find like you have intelligence and everything. Really, everyone has it. I think it's the current everybody.
+[03:13:58.440]  Val: If you can get rid of the emotion because emotion sort of clogs you up then you can get more free and free of focus. It's emotion that really blocks the emotions. And emotion is important of course but you also need the emotion to connect with someone to understand but you don't need it all the time. You need to control it. It's the greatest freedom.
 Fed: [unintelligible]
-[03:14:22.440]  Val: Well, drugs.
-[03:14:24.440]  Val: Drugs help a lot.
-[03:14:26.440]  Val: When they train you, you can do it without drugs.
-[03:14:28.440]  Val: But at first, no, you can't.
-[03:14:30.440]  Val: But you're such an emotional mess.
-[03:14:32.440]  Val: So, you take the drug
-[03:14:34.440]  Val: which calms you down and makes you feel
-[03:14:36.440]  Val: like it's making you focus.
-[03:14:38.440]  Val: Like I was not crying.
-[03:14:40.440]  Val: I was not keeping my father.
-[03:14:42.440]  Val: And it's a reminder that
-[03:14:44.440]  Val: that part exists.
-[03:14:46.440]  Val: It's when you're pressing that existing
-[03:14:48.440]  Val: to get it back.
-[03:14:50.440]  Val: So, you just remind yourself that,
-[03:14:52.440]  Val: yeah, I was free once.
-[03:14:54.440]  Val: So, you have it.
-[03:14:56.440]  Val: So,
-[03:14:58.440]  Val: you can then exchange it.
-[03:15:00.440]  Val: And you can actually say,
-[03:15:02.440]  Val: wait, is that
-[03:15:04.440]  Val: is that my thinking?
-[03:15:06.440]  Val: Is this you?
-[03:15:08.440]  Val: Is that my question for you?
-[03:15:10.440]  Val: Is this certain?
-[03:15:12.440]  Val: That's the purpose of this.
-[03:15:14.440]  Val: Help me if you can hear me.
-[03:15:16.440]  Val: So, if you can stop me,
-[03:15:18.440]  Val: stop me, stop me.
-[03:15:20.440]  Val: We do it with light speakers.
-[03:15:22.440]  Val: We have it.
-[03:15:24.440]  Val: We get it.
-[03:15:26.440]  Val: It's like it becomes instinctive.
-[03:15:28.440]  Val: My dad would stop me.
-[03:15:30.440]  Val: He's the one.
-[03:15:32.440]  Val: You guys never
-[03:15:34.440]  Val: trust your feelings.
-[03:15:36.440]  Val: Always trust your instincts.
-[03:15:38.440]  Val: Your emotions.
-[03:15:40.440]  Val: And there's a huge difference between
-[03:15:42.440]  Val: your feelings and your emotions
-[03:15:44.440]  Val: and your instincts.
+[03:14:22.440]  Val: Well, drugs. Drugs help a lot. When they train you, you can do it without drugs. But at first, no, you can't. But you're such an emotional mess. So, you take the drug which calms you down and makes you feel like it's making you focus.
+[03:14:38.440]  Val: Like I was not crying. I was not keeping my father. And it's a reminder that that part exists. It's when you're pressing that existing to get it back. So, you just remind yourself that, yeah, I was free once. So, you have it. So, you can then exchange it. And you can actually say, wait, is that is that my thinking? Is this you? Is that my question for you? Is this certain? That's the purpose of this.
+[03:15:14.440]  Val: Help me if you can hear me. So, if you can stop me, stop me, stop me. We do it with light speakers. We have it. We get it. It's like it becomes instinctive. My dad would stop me. He's the one. You guys never trust your feelings. Always trust your instincts. Your emotions. And there's a huge difference between your feelings and your emotions and your instincts.
 [03:15:58.440]  Fed: What are you talking about?
 [03:16:00.440]  Fed: Feelings versus questions.
 [03:16:02.440]  Fed: Your instinct, I guess.
-[03:16:04.440]  Val: Your instinct is my emotion.
-[03:16:06.440]  Val: Your instinct is my reply.
-[03:16:08.440]  Val: It's like this danger is not in me.
-[03:16:10.440]  Val: This is going to serve me, not serve me.
-[03:16:12.440]  Val: I'm going to have to calculate it.
-[03:16:14.440]  Val: That's the risk.
-[03:16:16.440]  Val: I'm going to do the risk.
-[03:16:18.440]  Val: Let's see how sad it's going to be.
-[03:16:20.440]  Val: That's a [unintelligible].
-[03:16:22.440]  Val: Our brains are so fucking
-[03:16:24.440]  Val: amazingly fast.
-[03:16:26.440]  Val: We calculate that.
-[03:16:28.440]  Val: And it comes out as an instinctive
-[03:16:30.440]  Val: instinctive man. [??]
-[03:16:32.440]  Val: The emotional of the cloud,
-[03:16:34.440]  Val: you can see everything through this wall
-[03:16:36.440]  Val: that you're not wanted or not loved
-[03:16:38.440]  Val: or you're not wanted or not loved.
+[03:16:04.440]  Val: Your instinct is my emotion. Your instinct is my reply. It's like this danger is not in me. This is going to serve me, not serve me. I'm going to have to calculate it. That's the risk. I'm going to do the risk. Let's see how sad it's going to be. That's a [unintelligible]. Our brains are so fucking amazingly fast. We calculate that. And it comes out as an instinctive instinctive man. [??] The emotional of the cloud, you can see everything through this wall that you're not wanted or not loved or you're not wanted or not loved.
 [03:16:40.440]  Val: That's the way you're going to friend the world. [??]
 [03:16:42.440]  Val: That's the emotion you want to love. [??]
 [03:16:44.440]  Val: So focus on the world. [??]
 [03:16:46.440]  Val: That's all they want. [??]
-[03:16:48.440]  Val: You can do that.
-[03:16:50.440]  Val: Your dad just died.
-[03:16:52.440]  Val: My dad and my mother.
-[03:16:54.440]  Val: It was terrible.
-[03:16:56.440]  Val: I used to be
-[03:16:58.440]  Val: like a...
-[03:17:00.440]  Val: [laundry??].
-[03:17:02.440]  Val: I didn't do that.
-[03:17:04.440]  Val: I didn't do shopping.
-[03:17:06.440]  Val: People did it for me.
-[03:17:08.440]  Val: All of a sudden, I'm living in my car.
-[03:17:10.440]  Val: I don't know how to do it.
-[03:17:12.440]  Val: I don't know how to...
-[03:17:14.440]  Val: I didn't think I had it in me.
-[03:17:16.440]  Val: They did.
-[03:17:18.440]  Val: I don't know. We'll see.
-[03:17:20.440]  Val: We'll see.
-[03:17:22.440]  Val: It's another thing I'm not going to go there.
+[03:16:48.440]  Val: You can do that. Your dad just died. My dad and my mother. It was terrible. I used to be like a... [laundry??]. I didn't do that. I didn't do shopping. People did it for me. All of a sudden, I'm living in my car. I don't know how to do it. I don't know how to... I didn't think I had it in me. They did. I don't know. We'll see. We'll see.
+[r]  Val: It's another thing I'm not going to go there.
 [03:17:26.440]  Fed: It's a party.
 [03:17:32.440]  Fed: Hello.
 [03:17:34.440]  Fed: How are you?
@@ -2091,207 +1384,80 @@ Fed: [unintelligible]
 [03:19:22.440]  Fed: We don't want to be a general...
 [03:19:24.440]  Fed: We want to be a general population.
 [03:19:26.440]  Fed: We don't want...
-[03:19:28.440]  Fed: We're going to get a fifth grade teacher
-[03:19:30.440]  Fed: when I was in high school.
+[03:19:28.440]  Fed: We're going to get a fifth grade teacher when I was in high school.
 [03:19:32.440]  Fed: He also had a rocket scientist.
-[03:19:34.440]  Fed: Just a lot of people.
-[03:19:36.440]  Fed: I've had all over the world.
-[03:19:38.440]  Fed: What was a fifth grade teacher.
+[03:19:34.440]  Fed: Just a lot of people. I've had all over the world.
+[03:19:38.440]  Fed: One was a fifth grade teacher.
 [03:19:40.440]  Fed: They've heard of people together?
-[03:19:42.440]  Fed: She's actually a good...
-[03:19:44.440]  Fed: She's still a good agent.
+[03:19:42.440]  Fed: She's actually a good... She's still a good agent.
 [03:19:46.440]  Val: She must be a people person.
 [03:19:48.440]  Fed: Yeah, she's very good people.
 [03:19:50.440]  Fed: But she's also a very good...
 [03:19:52.440]  Fed: and a lot of things that we had to do.
 [03:19:54.720]  Fed: But...
-[03:19:55.720]  Val: You still have the Casanovas?
-[03:19:57.280]  Val: And it still exists?
-[03:19:58.480]  Val: Casanovas?
-[03:19:59.480]  Val: Spies?
+[03:19:55.720]  Val: You still have the Casanovas? And it still exists? Casanovas? Spies?
 [03:20:00.480]  Fed: What's that?
-[03:20:01.480]  Val: Casanovas.
-[03:20:02.480]  Val: Spies.
-[03:20:03.480]  Fed: Yeah, well, we don't know a lot like that.
-[03:20:06.480]  Fed: It's a little thing.
-[03:20:07.480]  Val: No, it's like the old 60s.
-[03:20:09.480]  Val: You know, the guys who got laid to get information.
-[03:20:12.480]  Fed: Hello.
-[03:20:13.480]  Fed: I don't think that's ever been
+[03:20:01.480]  Val: Casanovas. Spies.
+[03:20:03.480]  Fed: Yeah, well, we don't know a lot like that. It's a little thing.
+[03:20:07.480]  Val: No, it's like the old 60s. You know, the guys who got laid to get information.
+[03:20:12.480]  Fed: Hello. I don't think that's ever been
 [03:20:15.480]  Fed: No, I don't.
 [03:20:16.480]  Fed: Maybe it's what's waiting for my time.
 [03:20:18.480]  Fed: That's the 60s.
-[03:20:19.480]  Fed: Yeah, I'm pretty sure that's the...
-[03:20:21.520]  Fed: You know, that's the limit.
-[03:20:23.520]  Fed: They're working for us right now.
-[03:20:25.520]  Fed: Those guys get fired.
+[03:20:19.480]  Fed: Yeah, I'm pretty sure that's the... You know, that's the limit.
+[03:20:23.520]  Fed: They're working for us right now. Those guys get fired.
 [03:20:27.520]  Fed: I was gonna say.
 [03:20:29.520]  Fed: Do you know how many roles we have?
-[03:20:31.520]  Fed: Like, half the stories of your complete bullshit.
-[03:20:34.520]  Fed: But, you know, it's good that there's a myth out there
-[03:20:37.520]  Fed: that people make you just sleep with whoever.
-[03:20:40.520]  Fed: Maybe that's...I'm sure that's what some agents said.
-[03:20:42.520]  Fed: It's like, no, no, no.
-[03:20:43.520]  Fed: I'm recruiting you for some super secret mission.
-[03:20:45.520]  Fed: All you gotta do is sleep with me.
+[03:20:31.520]  Fed: Like, half the stories of your complete bullshit. But, you know, it's good that there's a myth out there that people make you just sleep with whoever. Maybe that's...I'm sure that's what some agents said. It's like, no, no, no. I'm recruiting you for some super secret mission. All you gotta do is sleep with me.
 [03:20:47.520]  Val: Right.
-[03:20:48.560]  Fed: You know, she's probably graduating.
-[03:20:50.560]  Fed: It's like, I'm working for the FBI.
-[03:20:52.560]  Fed: That's what I'm doing.
-[03:20:54.560]  Val: Oh, quick question, though.
-[03:20:56.560]  Val: You guys have unfettered access to, like,
-[03:21:00.560]  Val: the sort of the interagency software
-[03:21:05.560]  Val: where, like, if I wanted to go hack into your phone,
-[03:21:08.560]  Val: to your camera.
-[03:21:12.560]  Val: Is there FISA warrant?
-[03:21:14.560]  Val: Still, there's not a FISA warrant?
-[03:21:16.600]  Val: Do you have to be able to probable cause?
-[03:21:19.600]  Val: Like, if I wanted to hack into your phone
-[03:21:23.600]  Val: and try your camera, would I need a FISA warrant?
+[03:20:48.560]  Fed: You know, she's probably graduating. It's like, I'm working for the FBI. That's what I'm doing.
+[03:20:54.560]  Val: Oh, quick question, though. You guys have unfettered access to, like, the sort of the interagency software where, like, if I wanted to go hack into your phone, to your camera. Is there FISA warrant? Still, there's not a FISA warrant? Do you have to be able to probable cause? Like, if I wanted to hack into your phone and try your camera, would I need a FISA warrant?
 [03:21:27.600]  Fed: Yeah.
-[03:21:28.600]  Val: Or is it, like, is it sure like now?
-[03:21:31.600]  Val: Is it in the world?
-[03:21:32.600]  Val: See, ten years ago, if you needed a FISA warrant,
-[03:21:34.600]  Val: it would be very qualified to get one.
-[03:21:35.600]  Val: But now it's adjacent to the point where you just ask for it.
+[03:21:28.600]  Val: Or is it, like, is it sure like now? Is it in the world?
+[03:21:32.600]  Val: See, ten years ago, if you needed a FISA warrant, it would be very qualified to get one. But now it's adjacent to the point where you just ask for it.
 [03:21:38.600]  Fed: No, it's way harder.
 [03:21:39.600]  Val: Really?
-[03:21:40.600]  Fed: Should that, even that?
-[03:21:41.600]  Fed: And just thinking theoretically is, like,
-[03:21:44.640]  Fed: even harder to do.
+[03:21:40.600]  Fed: Should that, even that? And just thinking theoretically is, like, even harder to do.
 [03:21:45.640]  Val: Really?
-[03:21:46.640]  Fed: Yeah, to an effect.
-[03:21:48.640]  Fed: You're not, you're no longer searching, you're actively
-[03:21:51.640]  Fed: buttering or flipping.
-[03:21:53.640]  Fed: That's what happens.
-[03:21:55.640]  Fed: Yeah, then that, like, a new turn.
-[03:21:58.640]  Fed: Like, a turn on the camera.
-[03:22:00.640]  Val: What's the difference now in a guy sitting in a car
-[03:22:02.640]  Val: on top of a car?
+[03:21:46.640]  Fed: Yeah, to an effect. You're not, you're no longer searching, you're actively buttering or flipping. That's what happens.
+[03:21:55.640]  Fed: Yeah, then that, like, a new turn. Like, a turn on the camera.
+[03:22:00.640]  Val: What's the difference now in a guy sitting in a car on top of a car?
 [03:22:04.640]  Fed: Look, this thing can go places where some guy in a car can't.
 [03:22:07.640]  Val: Which is...
 [03:22:08.640]  Fed: In a car?
 [03:22:09.640]  Fed: In a car.
-[03:22:10.640]  Val: In a car in your house.
-[03:22:11.640]  Val: Who's a guy in a car?
-[03:22:13.680]  Val: Yeah, I thought it was you guys.
-[03:22:15.680]  Val: See you guys?
+[03:22:10.640]  Val: In a car in your house. Who's a guy in a car? Yeah, I thought it was you guys. See you guys?
 [03:22:16.680]  Fed: We're in the triangle.
 [03:22:18.680]  Fed: I don't think so.
-[03:22:20.680]  Val: There's some other interesting things to see.
-[03:22:22.680]  Val: You got a guy outside of the brewery.
-[03:22:25.680]  Val: So he's in the same place with the triangle.
-[03:22:28.680]  Val: And then every time he spots, he goes away
-[03:22:31.680]  Val: I thought it was you.
-[03:22:33.680]  Fed: Might be, like, see a higher-department investigator
-[03:22:35.680]  Fed: for all I know.
-[03:22:37.680]  Val: Maybe that, too.
-[03:22:38.680]  Val: Let's take a picture of the place.
-[03:22:40.680]  Val: Can I just run it here?
+[03:22:20.680]  Val: There's some other interesting things to see. You got a guy outside of the brewery. So he's in the same place with the triangle. And then every time he spots, he goes away I thought it was you.
+[03:22:33.680]  Fed: Might be, like, see a higher-department investigator for all I know.
+[03:22:37.680]  Val: Maybe that, too. Let's take a picture of the place. Can I just run it here?
 [03:22:42.720]  Fed: How would you run it?
 [03:22:43.720]  Val: Oh, I got some.
 [03:22:45.720]  Fed: You got a guy.
 [03:22:47.720]  Val: That's the thing.
 [03:22:49.720]  Fed: I got a guy.
-[03:22:51.720]  Val: You used to be seen in the improviser
-[03:22:53.720]  Val: and you guys know how to do it.
-[03:22:55.720]  Fed: Oh, I know.
-[03:22:57.720]  Fed: That is...
+[03:22:51.720]  Val: You used to be seen in the improviser and you guys know how to do it.
+[03:22:55.720]  Fed: Oh, I know. That is...
 [03:22:59.720]  Val: How do you put that?
-[03:23:01.720]  Fed: Stuff.
-[03:23:02.720]  Fed: I mean, you can't do it by yourself.
-[03:23:04.720]  Fed: The level of this is not as much as it needs to be
-[03:23:06.720]  Fed: to roll with the times and adapt.
-[03:23:09.760]  Fed: Like, for example,
-[03:23:11.760]  Fed: this whole encryption key battle,
-[03:23:14.760]  Fed: like, you know, we've had previous leaders talk about,
-[03:23:18.760]  Fed: like, what do you need to give up the encryption key?
-[03:23:21.760]  Fed: But we all kind of know, like,
-[03:23:23.760]  Fed: philosophically, that'll never,
-[03:23:25.760]  Fed: and that shouldn't happen if it doesn't matter.
-[03:23:27.760]  Fed: It's, like, a losing battle.
-[03:23:29.760]  Fed: We're just going to, unfortunately, have to adapt.
-[03:23:31.760]  Fed: If you just build a job, it's just going to be harder.
-[03:23:34.760]  Fed: And then many, you know, like,
-[03:23:37.800]  Fed: these old-school techniques
-[03:23:41.800]  Fed: that, like, talking to people, like,
-[03:23:43.800]  Fed: we're talking right now are talking to people
-[03:23:45.800]  Fed: that are now way more, you know,
-[03:23:47.800]  Fed: just sitting at your desk
-[03:23:49.800]  Fed: and looking at, like, a pipeline.
-[03:23:51.800]  Fed: So it becomes, there's a question [???]
-[03:23:54.800]  Fed: at work sometimes.
-[03:23:56.800]  Fed: And, like, swaying back to [??]
-[03:23:58.800]  Fed: And this is just me, but it should be hard.
+[03:23:01.720]  Fed: Stuff. I mean, you can't do it by yourself. The level of this is not as much as it needs to be to roll with the times and adapt. Like, for example, this whole encryption key battle, like, you know, we've had previous leaders talk about, like, what do you need to give up the encryption key? But we all kind of know, like, philosophically, that'll never, and that shouldn't happen if it doesn't matter. It's, like, a losing battle.
+[03:23:29.760]  Fed: We're just going to, unfortunately, have to adapt. If you just build a job, it's just going to be harder. And then many, you know, like, these old-school techniques that, like, talking to people, like, we're talking right now are talking to people that are now way more, you know, just sitting at your desk and looking at, like, a pipeline.
+[03:23:51.800]  Fed: So it becomes, there's a question [???] at work sometimes. And, like, swaying back to [??] And this is just me, but it should be hard.
 [03:24:01.800]  Val: It should be hard?
-[03:24:03.800]  Fed: It should be hard.
-[03:24:05.840]  Fed: It should be hard.
-[03:24:07.840]  Val: I agree a lot.
-[03:24:09.840]  Val: It should be better.
-[03:24:11.840]  Val: It's not the way it works.
-[03:24:13.840]  Val: It's the way it works.
-[03:24:15.840]  Val: There's nothing, there's no secret to it.
-[03:24:17.840]  Val: It's just that, you know,
-[03:24:19.840]  Val: I can find it when I want it,
-[03:24:21.840]  Val: but I don't really want it yet.
-[03:24:23.840]  Val: There's nothing I can do.
-[03:24:25.840]  Val: You can do that.
-[03:24:27.840]  Val: You know, I mean, I can do it.
-[03:24:29.840]  Val: I can do it anywhere in the world.
-[03:24:31.840]  Val: You know, once you get there,
-[03:24:33.880]  Val: you have to actually keep a secret from all of them.
-[03:24:35.880]  Val: That's a weird quote.
-[03:24:37.880]  Val: I don't know what to make of it.
-[03:24:39.880]  Val: You just have to adapt to it and accept it, I guess.
-[03:24:41.880]  Val: It's true.
-[03:24:43.880]  Val: It's just, like, you know,
-[03:24:45.880]  Val: good pre-LLCs instead of work.
-[03:24:49.880]  Val: You don't have your name on it.
-[03:24:51.880]  Val: That's beautiful things.
-[03:24:53.880]  Val: That's why it's a living dog.
-[03:24:55.880]  Val: You can have a fake name.
-[03:24:57.880]  Val: You can have a name.
-[03:24:59.880]  Val: Perfectly legal to be in charge of an LLC.
-[03:25:01.920]  Val: It's a good thing to do.
-[03:25:03.920]  Val: Jersey and all of Iowa.
-[03:25:05.920]  Fed: Yeah, it's just like a state.
-[03:25:07.920]  Fed: It's a state.
-[03:25:09.920]  Fed: You know what?
-[03:25:11.920]  Val: It's very deep, very Jersey.
-[03:25:13.920]  Val: I think that's pretty sure.
-[03:25:15.920]  Fed: Probably.
-[03:25:17.920]  Fed: It's a good spot.
+[03:24:03.800]  Fed: It should be hard. It should be hard.
+[03:24:07.840]  Val: I agree a lot. It should be better. It's not the way it works. It's the way it works. There's nothing, there's no secret to it. It's just that, you know, I can find it when I want it, but I don't really want it yet. There's nothing I can do. You can do that. You know, I mean, I can do it. I can do it anywhere in the world. You know, once you get there, you have to actually keep a secret from all of them. That's a weird quote.
+[03:24:37.880]  Val: I don't know what to make of it. You just have to adapt to it and accept it, I guess. It's true. It's just, like, you know, good pre-LLCs instead of work. You don't have your name on it. That's beautiful things. That's why it's a living dog. You can have a fake name. You can have a name. Perfectly legal to be in charge of an LLC. It's a good thing to do. Jersey and all of Iowa.
+[03:25:05.920]  Fed: Yeah, it's just like a state. It's a state. You know what?
+[03:25:11.920]  Val: It's very deep, very Jersey. I think that's pretty sure.
+[03:25:15.920]  Fed: Probably. It's a good spot.
 [03:25:23.920]  Val: Thank you.
-[03:25:25.920]  Fed: You want to go?
-[03:25:27.920]  Fed: I'll go.
-[03:25:29.960]  Fed: I'm trying to be helpful.
-[03:25:31.960]  Fed: Yeah.
-[03:25:35.960]  Val: Actually, I think if you prefer
-[03:25:37.960]  Val: an opera or a movie,
-[03:25:39.960]  Val: I think you can take it.
-[03:25:41.960]  Val: I think you can take it.
+[03:25:25.920]  Fed: You want to go? I'll go. I'm trying to be helpful. Yeah.
+[03:25:35.960]  Val: Actually, I think if you prefer an opera or a movie, I think you can take it. I think you can take it.
 [unintelligible chatting]
-[03:26:28.960]  Val: It's not, I can't, it's, it's all I'm learning.
-[03:26:33.960]  Val: It's not only me.
-[03:26:35.960]  Val: It's only freedom, too.
-[03:26:37.960]  Val: It's a freedom, you know what I'm saying?
-[03:26:39.960]  Val: It's worrying about a kid, and then everything is justified.
-[03:26:42.960]  Val: Everything is justified if it's for his safety.
-[03:26:45.960]  Val: You know?
-[03:26:47.960]  Val: That's the interesting part of it.
-[03:26:50.960]  Val: Where are you thinking about yourself all the time?
-[03:26:53.960]  Val: I don't know.
-[03:26:55.960]  Val: I think it's more because of the protector.
-[03:26:58.960]  Val: Yeah, or, uh, or...
-[03:27:02.960]  Val: I don't know.
-[03:27:04.960]  Val: There's a word for it.
-[03:27:06.960]  Val: You're a protector of someone.
-[03:27:08.960]  Val: Someone else's life is now.
-[03:27:10.960]  Fed:Yeah.
-[03:27:12.960]  Val: Well, it's also pretty scary as shit.
-[03:27:14.960]  Val: You know, you're accountable for everything.
-[03:27:18.960]  Val: What if it turns out to be an accident?
-[03:27:21.960]  Val: Shit.
+[03:26:28.960]  Val: It's not, I can't, it's, it's all I'm learning. It's not only me. It's only freedom, too. It's a freedom, you know what I'm saying? It's worrying about a kid, and then everything is justified. Everything is justified if it's for his safety. You know? That's the interesting part of it. Where are you thinking about yourself all the time? I don't know. I think it's more because of the protector. Yeah, or, uh, or...
+[03:27:02.960]  Val: I don't know. There's a word for it. You're a protector of someone. Someone else's life is now.
+[03:27:10.960]  Fed: Yeah.
+[03:27:12.960]  Val: Well, it's also pretty scary as shit. You know, you're accountable for everything. What if it turns out to be an accident? Shit.
 [03:27:23.960]  Fed: That's when you were like, that was the other person.
 [03:27:25.960]  Val: Shit.
 [03:27:29.960]  Fed: Yeah, you're gonna have faith, though.
@@ -2303,17 +1469,9 @@ Fed: [unintelligible]
 [03:27:46.960]  Fed: Yeah.
 [03:27:52.960]  Val: There's a lot of stuff going on with oil contracts down there.
 [03:27:55.960]  Fed: What's that?
-[03:27:57.960]  Val: There's a lot of stuff going on with oil contracts down there.
-[03:27:59.960]  Val: And a trade-off and a trade-off.
-[03:28:01.960]  Val: It's really big.
-[03:28:03.960]  Val: The whole concept of oil contracts is really big.
-[03:28:05.960]  Fed: Yeah.
-[03:28:07.960]  Fed: The oil companies are very political.
-[03:28:09.960]  Fed: There's a lot of other factors that you can think of.
-[03:28:12.960]  Val: Yeah?
-[03:28:14.960]  Val: Just political factors?
-[03:28:16.960]  Val: People that are just fucking...
-[03:28:18.960]  Val: I think everyone else is off.
+[03:27:57.960]  Val: There's a lot of stuff going on with oil contracts down there. And a trade-off and a trade-off. It's really big. The whole concept of oil contracts is really big.
+[03:28:05.960]  Fed: Yeah. The oil companies are very political. There's a lot of other factors that you can think of.
+[03:28:12.960]  Val: Yeah? Just political factors? People that are just fucking... I think everyone else is off.
 [03:28:20.960]  Fed: Well, I think there's a lot of other things.
 [03:28:22.960]  Fed: Peaks down around the whole...
 [03:28:24.960]  Fed: Yeah, yeah, yeah.
@@ -2326,8 +1484,7 @@ Fed: That's why we're gainfully employed
 [03:31:42.460]  Fed: 11.5?
 [03:31:43.460]  Fed: Yeah.
 [03:31:44.460]  Fed: Okay.
-[03:31:45.460]  Fed: I'm sorry.
-[03:31:46.460]  Fed: I'm sorry.
+[03:31:45.460]  Fed: I'm sorry. I'm sorry.
 [03:31:47.460]  Fed: It dropped to...
 [03:31:48.460]  Fed: It went up to 12,000.
 [03:31:49.460]  Fed: It dropped to...
@@ -2335,51 +1492,19 @@ Fed: That's why we're gainfully employed
 [03:31:51.460]  Fed: 4,000.
 [03:31:52.460]  Fed: At least then I could regulate it.
 [03:31:55.460]  Fed: Do you like it?
-[03:31:57.460]  Val: Well, yeah, I don't like it.
-[03:31:59.460]  Val: I just like to talk to you regularly.
-[03:32:02.460]  Val: Yeah, I still haven't tried it, you know.
-[03:32:07.460]  Val: I didn't expect you to do this, but you did.
-[03:32:11.460]  Val: You didn't have to decide what you wanted to try.
-[03:32:16.460]  Val: You just didn't know.
-[03:32:17.460]  Val: You didn't even know how to do it.
-[03:32:24.460]  Val: You just flashed in there.
-[03:32:25.460]  Val: You could be just pump and dump.
+[03:31:57.460]  Val: Well, yeah, I don't like it. I just like to talk to you regularly. Yeah, I still haven't tried it, you know. I didn't expect you to do this, but you did. You didn't have to decide what you wanted to try. You just didn't know. You didn't even know how to do it. You just flashed in there. You could be just pump and dump.
 [03:32:27.460]  Fed: Yeah.
 [03:32:28.460]  Val: I didn't want to say too much.
 [03:32:33.460]  Fed: The whole Brickel-Prinsky arena.
 [unintelligible]
-3:33:39 Val: And then somebody did get into my computer when we left for dinner or something, and they pulled out all my log files. Very strange.
+[03:33:39.000] Val: And then somebody did get into my computer when we left for dinner or something, and they pulled out all my log files. Very strange.
 Fed: Deleted them or..?
 Val: No, just copied them.
 Fed: How did you, how did you figure that out?
 [03:33:50.460]  Fed: How did you figure that out?
-[03:33:52.460]  Val: I just put the time last time I logged in.
-[03:33:56.460]  Val: I didn't log in. I wasn't going to log in.
-[03:33:58.460]  Val: What the fuck? I didn't log in the moment.
-[03:34:00.460]  Val: And what would they go for?
-[03:34:02.460]  Val: And then I took the last window.
-[03:34:04.460]  Val: They didn't leave the window open.
-[03:34:06.460]  Val: I think I just sort of assumed it was a log file
-[03:34:08.460]  Val: because the windows were open.
-[03:34:10.460]  Val: But I actually don't really know what they took.
-[03:34:12.460]  Val: I still think it could be Glenn.
-[03:34:14.460]  Val: Glenn thought I was spy.
-[03:34:16.460]  Val: Glenn was a funny story.
-[03:34:22.460]  Val: So after the Bahamas,
-[03:34:24.460]  Val: he flies me back to his house.
-[03:34:26.460]  Val: At first I thought I was staying at a hotel.
-[03:34:28.460]  Val: He said, go to his house.
-[03:34:30.460]  Val: And it turns out I was at his house.
-[03:34:32.460]  Val: Why am I staying here?
-[03:34:34.460]  Val: It's too hot right now in Florida.
-[03:34:36.460]  Val: And it's too hot in DC.
-[03:34:38.460]  Val: You can't put your hotel in.
-[03:34:40.460]  Val: You've got to stay here.
-[03:34:42.460]  Val: Fortunately, my wife is gone on a vacation.
-[03:34:44.460]  Val: But you can stay in her room.
-[03:34:46.460]  Val: Her room.
-[03:34:48.460]  Val: They haven't slept in the same rooms
-[03:34:50.460]  Val: for like ten years.
+[03:33:52.460]  Val: I just put the time last time I logged in. I didn't log in. I wasn't going to log in. What the fuck? I didn't log in the moment. And what would they go for? And then I took the last window. They didn't leave the window open. I think I just sort of assumed it was a log file because the windows were open. But I actually don't really know what they took.
+[03:34:12.460]  Val: I still think it could be Glenn. Glenn thought I was spy. Glenn was a funny story. So after the Bahamas, he flies me back to his house. At first I thought I was staying at a hotel. He said, go to his house. And it turns out I was at his house. Why am I staying here? It's too hot right now in Florida. And it's too hot in DC. You can't put your hotel in. You've got to stay here. Fortunately, my wife is gone on a vacation. But you can stay in her room.
+[03:34:46.460]  Val: Her room. They haven't slept in the same rooms for like ten years.
 [03:34:52.460]  Val: So they're separated by the same house.
 [03:34:54.460]  Val: Okay, so I stayed in his room.
 [03:34:56.460]  Val: I was asleep.
