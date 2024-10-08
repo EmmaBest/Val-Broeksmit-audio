@@ -63,6 +63,12 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Serrat ???
  * Stosh [sic]
  * Muzza AKA Nick
+ 
+## Other
+ * Arman (Dimitri?) Krboyan (DOB January 13th 1983, Val's FSB friend)
+ * John Porter - PI, former Bakersfield Deputy Sheriff, former warden
+ * Diana ??? 
+ * Ruslan (hacker)
 
 # Reconstructed Timeline
 ## 2013
@@ -118,7 +124,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 09, 2020 - FBI/FBI David Kos First Call w Val Broeksmit
  * August 10, 2020 - Court
  * August 10, 2020 - FBI/D.ko Post Hearing
- * August 12/13, 2020 - FBI/Kofbico PY2 [creation_time   : 2020-08-13T16:26:08.000000Z]
+ * August 12, 2020 - FBI/Kofbico PY2 [creation_time   : 2020-08-13T16:26:08.000000Z]
  * August 12, 2020 - FBI/Marie _ Agent Ko
 
 ### September
