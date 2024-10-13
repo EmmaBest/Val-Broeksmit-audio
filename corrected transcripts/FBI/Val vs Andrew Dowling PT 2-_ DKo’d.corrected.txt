@@ -41,8 +41,9 @@ Val: Oh, no Tim is saying if I give data to him to not to not to
 ??: Bye
 [03:12.220 --> 03:14.220]  Val: Hello
 [03:14.380 --> 03:16.380]  Val: David, what's up? What happened?
-[03:16.780 --> 03:20.620]  Ko: Well, I told you I had a meeting. Okay. I thought you were hanging up already
-[03:21.900 --> 03:26.380]  Val: Now, sorry. Okay. Good. I told you when remember when I first called you I said hey
+[03:16.780 --> 03:20.620]  Ko: Well, I told you I had a meeting. 
+Val: Okay. I thought you were hanging up on me
+[03:21.900 --> 03:26.380]  Ko: Now, sorry. Okay. Good. I told you when remember when I first called you I said hey
 [03:26.380 --> 03:30.380]  Ko: I gotta go to meeting in five minutes and then 15 minutes later. I said, okay. I gotta go to the meeting
 [03:30.620 --> 03:33.740]  Ko: Hey, what did I say? I'm like, dude, I told you I had to go to the meeting. What are you?
 [03:34.140 --> 03:38.540]  Val: Sorry, I missed that five minutes thing. I didn't hear that one. Sorry. I just maybe the phone died
@@ -112,7 +113,8 @@ Val: Yes. Why is he in LA? And why is he uh,
 [08:09.900 --> 08:14.300]  Val: And said that she's very interested in these little cords. I have these things
 [08:15.820 --> 08:17.020]  Val: I kind of
 [08:17.100 --> 08:22.460]  Val: I don't make them, but I sort of have like a it's like a hobby. You know the OMG cords
-[08:24.940 --> 08:28.620]  Ko: I can't say I do oh come on. You're a hacker. I thought you're a hacker
+[08:24.940 --> 08:28.620]  Ko: I can't say I do 
+Val: oh come on. You're a hacker. I thought you're a hacker
 [08:29.740 --> 08:33.020]  Ko: OMG card 
 Val: code no cord OMG
 [08:34.460 --> 08:38.940]  Val: Oh, uh, so a guy named is a really good hacker named MG
@@ -193,7 +195,7 @@ Ko: Lock file
 [13:59.420 --> 14:01.420]  Val: What do you call that?
 [14:01.580 --> 14:04.540]  Ko: Well, I mean to get that claim is also very
 [14:05.260 --> 14:07.260]  Ko: Uh
-[14:07.660 --> 14:13.420]  Ko: I've heard and I've seen some stuff, but it's not as simple as like I put my phone next year and it steals everything
+[14:07.660 --> 14:13.420]  Ko: I've heard and I've seen some stuff, but it's not as simple as like I put my phone next to yours and it steals everything
 [14:13.820 --> 14:18.060]  Val: Well, you then you are buddy you're you are out of the loop because I have seen those and they are
 [14:18.620 --> 14:23.580]  Val: Available and they do work and funny enough the only the last time I saw it was my friend Sydney
 [14:23.580 --> 14:27.980]  Val: It was getting divorced and her husband had that had that phone and he uh,
