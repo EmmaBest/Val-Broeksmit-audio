@@ -9,9 +9,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 # Transcription process
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only. 
-  - Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper. 
-  - In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked.
-  - In most places, the speech of feds is treated interchangeably. Aside from excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
+  1. Time codes were created by Whisper; lines exact missing timecodes were inserted manually and were missed by Whisper. 
+  2. In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked.
+  3. In most places, the speech of feds is treated interchangeably. Aside from excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
  2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
  3. (In progress) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
  4. (Pending) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
