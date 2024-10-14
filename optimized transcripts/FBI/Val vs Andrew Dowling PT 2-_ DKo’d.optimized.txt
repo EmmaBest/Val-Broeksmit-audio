@@ -114,214 +114,73 @@ Val: That's a clone.
 Ko: That's a lot. That's different a lot of information
 [19:16.060]  Val: Sorry, I misspoke. I misspoke. That's a that's a clone like a complete clone 
 Ko: the reason why I know that that's not true
-[19:21.980]  Ko: Is because just based on data throughput alone
-[19:26.060]  Ko: Like you say you have a regular iPhone that's like 64 gigs
-[19:29.580]  Ko: You know like 64 gigs with the data just transfer that data alone
-[19:35.180]  Ko: Not via either type wirelessly
-[19:37.500]  Ko: I mean at best at best you're gonna get like 10 15 megabytes per second
-[19:42.380]  Ko: And that's if you're like burning through it and you're like phone to phone
-[19:46.300]  Ko: 10 to 15 megabytes per second think about that it takes forever to get 64 gigs
-[19:51.180]  Ko: So if you thought that someone's just gonna like
+[19:21.980]  Ko: Is because just based on data throughput alone. Like you say you have a regular iPhone that's like 64 gigs. You know like 64 gigs with the data just transfer that data alone, not via either type wirelessly. I mean at best at best you're gonna get like 10 15 megabytes per second. And that's if you're like burning through it and you're like phone to phone. 10 to 15 megabytes per second think about that it takes forever to get 64 gigs. So if you thought that someone's just gonna like--
 [19:53.340]  Val: Oh
-[19:54.380]  KO: And I'm gonna grab everything that's what I mean. It's like yeah, 
+[19:54.380]  Ko: And I'm gonna grab everything that's what I mean. It's like yeah, 
 Val: what if it's the wi-fi that's almost impossible
-[19:59.900]  Val: It must be the wi-fi
-[20:01.660]  Val: No, it's not it would be the wi-fi because if you can turn on the wi-fi and hotspot
-[20:06.220]  Val: Hotspot the phone. 
+[19:59.900]  Val: It must be the wi-fi. No, it's not it would be the wi-fi because if you can turn on the wi-fi and hotspot, hotspot the phone. 
 Ko: Yeah, but like the phone can't
-[20:10.220]  Ko: A phone doesn't have the native ability to transfer something wi-fi to wi-fi right like
-[20:15.260]  Ko: Think if you have that you have an iPhone right how many ways can you transfer data?
-[20:18.460]  Ko: You can airdrop it you can bluetooth it which is the same thing
-[20:21.900]  Ko: You can transfer via wi-fi, but it has to have a specific protocol that allows it to transfer that data. So like
-[20:28.460]  Ko: Anyway, 
+[20:10.220]  Ko: A phone doesn't have the native ability to transfer something wi-fi to wi-fi right like, think if you have that you have an iPhone right how many ways can you transfer data? You can airdrop it you can bluetooth it which is the same thing. You can transfer via wi-fi, but it has to have a specific protocol that allows it to transfer that data. So like anyway, 
 Val: no, no
 [20:31.340]  Ko: But that's what I'm saying. It's like when you make this claim like oh, I have enough to hold on like
-[20:34.700]  Val: No, no, but it verifies if you what you just said was the missing the link
-[20:39.420]  Val: Because it just it verifies what I was telling you before it is
-[20:42.620]  Val: It has to be bluetooth because it is the airdrop the airdrop is the fastest way to do it
-[20:46.780]  Val: It's actually faster than wi-fi close differences
-[20:49.260]  Val: That's gotta be it 
-Ko: airdropping something also has a bunch of other security protocols that hey, if someone's cracked it
+[20:34.700]  Val: No, no, but it verifies if you what you just said was the missing the link because it just it verifies what I was telling you before it is, it has to be bluetooth because it is the airdrop the airdrop is the fastest way to do it. It's actually faster than wi-fi close differences. That's gotta be it.
+Ko: airdropping something also has a bunch of other security protocols that hey, if someone's cracked it.
 [20:55.420]  Ko: Maybe they have I mean there's always new things every day that I know I learned about
 Val: Mm-hmm
-[20:59.580]  Ko: But it seems
-[21:02.780]  Ko: Here's the other thing is we get a lot of these claims and then we go look at it and it's fucking bullshit
-[21:07.900]  Ko: And then total bullshit where some
-[21:10.460]  Ko: Is just scamming other pretend hackers. 
+[20:59.580]  Ko: But it seems... Here's the other thing is we get a lot of these claims and then we go look at it and it's fucking bullshit. And then total bullshit where someone is just scamming other pretend hackers. 
 Val: I'm not telling you something I heard from somebody. This isn't like a
-[21:16.140]  Val: Gossipy thing. I'm telling you something that I that I've seen and I know
-[21:19.980]  Val: You know, maybe I got scammed. Maybe someone pulled the wool over from my eyes or something
-[21:23.260]  Val: They use some other, you know, it's a good parlor trick. It's possible
-[21:26.620]  Val: But I don't I don't know. I'll just I look into it. I mean I will look at
-[21:30.700]  Ko: Here's the other thing too is like
-[21:33.260]  Ko: Like I am interested in this stuff and the reason is because you know, we need to keep abreast of like what's the latest hack
-[21:38.700]  Ko: What's the latest vulnerability and it's always changing but
-[21:42.940]  Ko: You're realistically like this type of information
-[21:46.940]  Ko: If from an investigative standpoint isn't valuable to us unless someone's using it to do something bad something illegal
-[21:52.140]  Ko: Like breaking into someone's phone is already illegal
-[21:54.860]  Ko: But you know, it's like if a proof of concept is you're just like a white hacker
-[21:59.900]  Ko: You're trying to find vulnerabilities. Yeah, they do it all the time. They publish white papers and
-[22:04.140]  Ko: You know, we read them and we go to you know, trainings on them and things like that
-[22:07.740]  Ko: But there's nothing illegal about that, right? So it's right while it's interesting. It's not
-[22:12.540]  Val: It's only illegal if you use it
-[22:14.540]  Val: And by the way, I'm just this is a side adage for the main story I was telling you
-[22:18.300]  Val: We just got stuck here because it's fun to talk shop for some for once in a while
-[22:22.620]  Val: But yeah, the main gist is that they wanted they they were interested in developing these things as a mass production kind of thing
-[22:29.580]  Val: so, um, I got called into this meeting and uh
-[22:34.140]  Val: And the lawyer was there. She wants to uh, either fund it. I wasn't quite sure what she wanted
-[22:40.700]  Val: Other than
+[21:16.140]  Val: Gossipy thing. I'm telling you something that I that I've seen and I know. You know, maybe I got scammed. Maybe someone pulled the wool over from my eyes or something. They use some other, you know, it's a good parlor trick. It's possible. But I don't I don't know. I'll just I look into it. I mean I will look at.
+[21:30.700]  Ko: Here's the other thing too is like. Like I am interested in this stuff and the reason is because you know, we need to keep abreast of like what's the latest hack. What's the latest vulnerability and it's always changing but. You're realistically like this type of information if from an investigative standpoint isn't valuable to us unless someone's using it to do something bad something illegal like breaking into someone's phone is already illegal. But you know, it's like if a proof of concept is you're just like a whitehat hacker. You're trying to find vulnerabilities. Yeah, they do it all the time. They publish white papers and you know, we read them and we go to you know, trainings on them and things like that. But there's nothing illegal about that, right? So it's right while it's interesting. It's not
+[22:12.540]  Val: It's only illegal if you use it. And by the way, I'm just this is a side adage for the main story I was telling you We just got stuck here because it's fun to talk shop for some for once in a while.
+[22:22.620]  Val: But yeah, the main gist is that they wanted they they were interested in developing these things as a mass production kind of thing so, um, I got called into this meeting and uh and the lawyer was there. She wants to uh, either fund it. I wasn't quite sure what she wanted other than
 Ko: [unintelligible] investigator's name?
 [22:44.940]  Val: Um, yeah, why he's a good guy. Okay. Yeah porter p o r t e r
-[22:52.380]  Val: Order that last name. Yes, uh, uh, john. I don't know if it's an h or an n. I think it's I think it's john with an h
-[22:59.660]  Val: But he's a he's a good dude
-[23:01.660]  Val: Yeah, he has he owned a uh, he was sorry. He's the the warden
-[23:06.060]  Val: He was the warden of a of a prison out here
-[23:09.420]  Val: After that for a while too. No, he's an interesting guy. Very clever
-[23:13.660]  Val: He's a former Los Angeles county sheriff's officer
-[23:17.100]  Val: Bakersfield Bakersfield deputy deputy sheriff
-[23:20.780]  Val: And there was a time when there was constables in california. Is that correct? There's a constable
-[23:26.140]  Val: And so back then he used to work in the constables office or something. I'm not exactly sure. I'll ask him. He's coming by today
-[23:33.500]  Val: um
-[23:34.780]  Val: And so he was interested. He knows nothing about technology
-[23:38.220]  Val: So he was very interested in this. He said val if you can actually deliver these things
-[23:41.820]  Val: I know a thousand people that will spend a thousand dollars right now. I'm like, really?
-[23:45.980]  Val: It's like, yeah, and like well, you can buy these online
-[23:48.700]  Val: I mean, if it was that there's that much of an audience for it. I mean, you think there'd be something. I'm like hotcakes in July
-[23:55.420]  Val: But they're not so
-[23:57.580]  Ko: Okay, so John Porter
-[23:59.740]  Ko: Uh, you said John Porter somehow introduced you to the lawyer, right? The Russian Armenian lawyer
-[24:06.860]  Val: No, yes, he introduced me to the lawyer. Yes
+[22:52.380]  Val: Order that last name. Yes, uh, uh, john. I don't know if it's an h or an n. I think it's I think it's john with an h. But he's a he's a good dude. Yeah, he has he owned a uh, he was sorry. He's the the warden. He was the warden of a of a prison out here. After that for a while too. No, he's an interesting guy. Very clever. He's a former Los Angeles county sheriff's officer. Bakersfield Bakersfield deputy deputy sheriff. And there was a time when there was constables in california. Is that correct? There's a constable And so back then he used to work in the constables office or something. I'm not exactly sure. I'll ask him. He's coming by today. And so he was interested. He knows nothing about technology
+[23:38.220]  Val: So he was very interested in this. He said val if you can actually deliver these things. I know a thousand people that will spend a thousand dollars right now. I'm like, really? It's like, yeah, and like well, you can buy these online. I mean, if it was that there's that much of an audience for it. I mean, you think there'd be something. I'm like hotcakes in July. But they're not so
+[23:57.580]  Ko: Okay, so John Porter. Uh, you said John Porter somehow introduced you to the lawyer, right? The Russian Armenian lawyer
+[24:06.860]  Val: No, yes, he introduced me to the lawyer. Yes.
 [24:10.060]  Ko: Okay, and what's what's the lawyer's name?
-[24:12.540]  Val: The lawyer's name is Diana
-[24:15.420]  Val: Uh
-[24:16.620]  Val: with a really
-[24:18.620]  Val: I don't I don't know her last name actually. I never asked
-[24:21.660]  Val: But let me see but the because she says here in the text the first message I have from her is Diana
-[24:28.700]  Val: The second one is hey it's Val and here's my number blah blah. So it was the introduction
-[24:32.700]  Val: Text and she never put give me her last name, but I will ask
-[24:35.740]  Val: John today for the last name
-[24:38.460]  Ko: What's her phone number I guess
+[24:12.540]  Val: The lawyer's name is Diana with a really, I don't I don't know her last name actually. I never asked. But let me see but the because she says here in the text the first message I have from her is Diana. The second one is hey it's Val and here's my number blah blah. So it was the introduction text and she never put give me her last name, but I will ask John today for the last name.
+[24:38.460]  Ko: What's her phone number, I guess
 [24:41.420]  Val: Um, again, I'm getting the same bullshit phone number. I'm getting a 310 400 4000
-[24:48.380]  Ko:Okay, 
+[24:48.380]  Ko: Okay, 
 Val: yeah, it's a fake number
-[24:51.660]  Val: She's somewhat of a prodigy. She was she skipped ahead and she went to college at USC at age 16
-[24:59.740]  Val: And in ninth grade they skipped her up a few classes three grades
-[25:04.220]  Val: And she was uh, she's a prodigy of some sort
-[25:07.500]  Val: Very
+[24:51.660]  Val: She's somewhat of a prodigy. She was she skipped ahead and she went to college at USC at age 16. And in ninth grade they skipped her up a few classes three grades. And she was uh, she's a prodigy of some sort. Very
 Ko: Diana went to USC
-[25:10.780]  Val: She's 31
-[25:12.780]  Val: Uh, that's another interesting thing. She was it was all international
-[25:16.700]  Val: Uh, kind of you know, when you're spying, what do you do? What are those courses called international?
-[25:23.100]  Val: communication is
-[25:24.700]  Val: You know the one every
+[25:10.780]  Val: She's 31. Uh, that's another interesting thing. She was it was all international. Uh, kind of you know, when you're spying, what do you do? What are those courses called international? communication is. You know the one every
 Ko: So Diana is also a spy, is that?
-[25:28.380]  Val: No, no, I'm not I'm just saying that what I heard from her when we went to the meeting
-[25:33.180]  Val: She told us a bit of her about her life story
-[25:35.420]  Val: And um, it was actually John that brought up the she jumped ahead
-[25:40.140]  Val: She's a prodigy and then she's filled it in by saying that she studied international communication international relations. Thank you
-[25:45.820]  Val: And I'm the one that said, oh, that's what you know
-[25:48.300]  Val: All the CIA guys study first and she could laugh and he was haha
-[25:51.500]  Val: And she's actually I was approached by them and they wrote me a letter and I said, oh, can I see it?
-[25:56.140]  Val: And she did not show me the letter
-[25:58.860]  Val: Um asking me to work for them, but I said my real love was with the FBI. I really wanted to work with the FBI
-[26:03.900]  Val: I said, oh, that's interesting. And she said, yeah, but um, you know, I just went into law
-[26:08.220]  Val: because it was easier or something like I don't know. It's a weird story
-[26:11.900]  Val: so
-[26:12.940]  Val: Um, anyway, you asked I told you
-[26:16.460]  Val: That's all I I don't have a last name
-[26:19.260]  Ko: Diana, no last name
-[26:22.540]  Ko: 31 years old, went to USC number
-[26:25.500]  Ko: 310400 4000
-[26:27.660]  Val: Yeah
-[26:28.860]  Ko: introduces you to
-[26:31.420]  Ko: uh, Arman
-[26:33.020]  Ko: Krboyan?
-[26:35.020]  Val: Incorrect incorrect asks if I can help um ask if I can help her
-[26:41.260]  Val: um
-[26:43.420]  Val: But I don't can't tell you too much. I don't want to tell you too much here because I don't want to get you in trouble
-[26:48.860]  Val: So I was asked to help on a totally different thing because I believe this guy has some compromising
-[26:55.660]  Val: videos
-[26:56.860]  Val: of her, uh, you know doing uh things that people do
-[27:01.260]  Val: um
+[25:28.380]  Val: No, no, I'm not I'm just saying that what I heard from her when we went to the meeting. She told us a bit of her about her life story. And um, it was actually John that brought up the she jumped ahead. She's a prodigy and then she's filled it in by saying that she studied international communication international relations. Thank you. And I'm the one that said, oh, that's what you know. All the CIA guys study first and she could laugh and he was haha. And she's actually I was approached by them and they wrote me a letter and I said, oh, can I see it? And she did not show me the letter.
+[25:58.860]  Val: Um asking me to work for them, but I said my real love was with the FBI. I really wanted to work with the FBI. I said, oh, that's interesting. And she said, yeah, but um, you know, I just went into law because it was easier or something like I don't know. It's a weird story so. Um, anyway, you asked I told you. That's all I I don't have a last name.
+[26:19.260]  Ko: Diana, no last name. 31 years old, went to USC number. 310-400-4000.
+[26:27.660]  Val: Yeah.
+[26:28.860]  Ko: introduces you to uh, Arman Krboyan?
+[26:35.020]  Val: Incorrect incorrect asks if I can help um ask if I can help her. But I don't can't tell you too much. I don't want to tell you too much here because I don't want to get you in trouble. So I was asked to help on a totally different thing because I believe this guy has some compromising videos of her, uh, you know doing uh things that people do.
 [27:02.060]  Ko: And Krboyan has compromising videos of Diana. 
 Val: Yeah
-[27:07.180]  Ko: okay
-[27:09.260]  Ko: Okay, 
+[27:07.180]  Ko: Okay. Okay, 
 Val: Wants them deleted
-[27:12.780]  Ko: Okay
-[27:14.620]  Ko: so
-[27:15.420]  Ko: Krboyan
-[27:17.420]  Ko: I forget how to spell the crc
-[27:20.460]  Ko: Oh
-[27:22.620]  Ko: Krboyan compromising videos of Diana, but isn't Krboyan being represented by Diana or something like that
-[27:30.700]  Val: Well, it's apparently they fuck
-[27:33.900]  Val: Okay
+[27:12.780]  Ko: Okay, so, Krboyan, I forget how to spell the crc. Oh. Krboyan compromising videos of Diana, but isn't Krboyan being represented by Diana or something like that.
+[27:30.700]  Val: Well, it's apparently they fuck. Okay.
 Ko: I got the insinuation. So he's got some video of her and him, I assume.
-[27:46.700]  Val: I don't know. I haven't seen it yet, but I think it's them. Maybe there's someone else. I don't know but uh, okay
-[27:52.860]  Ko: Yeah, so
-[27:54.380]  Ko: But then she wants them to delete it. So she called you
-[27:57.820]  Val: No, no, she's not calling me. She's not calling me. No, I was introduced
-[28:02.220]  Val: For by Porter because Porter. Yeah, we went to meet him in a park where he was working a different case
-[28:09.100]  Val: He was protecting these this
-[28:12.140]  Val: Uh, a woman and her children in the park
-[28:15.420]  Val: um, some sort of gang thing
-[28:18.220]  Val: So it was a whole thing and then he said, you know what you guys why don't you come and have lunch with me
-[28:22.540]  Val: And my friend and you should really get know her because she's someone you should know, you know
-[28:26.140]  Val: And this is called networking. It's like, oh, thanks John. He's a funny guy
-[28:29.420]  Val: And you know, she's a criminal defense lawyer and she's very interested in these cords that you were telling me about
-[28:34.860]  Val: I said, oh, okay
-[28:36.220]  Val: So Marie and I go over there for lunch and she does not cook lunch
-[28:39.980]  Val: But she did give us coffee, but we were there for hours talking
-[28:43.420]  Val: And she was very interested in financing these cords, but I have to deliver a working cord very soon
-[28:49.660]  Val: And uh, then she told me what she wanted from me
-[28:54.380]  Val: Right
-[28:58.460]  Ko: Okay, which is to delete these
-[29:01.420]  Ko: But uh, of her that Krboyan has 
+[27:46.700]  Val: I don't know. I haven't seen it yet, but I think it's them. Maybe there's someone else. I don't know but uh, okay.
+[27:52.860]  Ko: Yeah, so. But then she wants them to delete it. So she called you.
+[27:57.820]  Val: No, no, she's not calling me. She's not calling me. No, I was introduced for by Porter because Porter. Yeah, we went to meet him in a park where he was working a different case. He was protecting these this uh, a woman and her children in the park. um, some sort of gang thing. So it was a whole thing and then he said, you know what you guys why don't you come and have lunch with me and my friend and you should really get know her because she's someone you should know, you know. And this is called networking. It's like, oh, thanks John. He's a funny guy. And you know, she's a criminal defense lawyer and she's very interested in these cords that you were telling me about.
+[28:34.860]  Val: I said, oh, okay. So Marie and I go over there for lunch and she does not cook lunch. But she did give us coffee, but we were there for hours talking. And she was very interested in financing these cords, but I have to deliver a working cord very soon. And uh, then she told me what she wanted from me. Right.
+[28:58.460]  Ko: Okay, which is to delete these. But uh, of her that Krboyan has 
 Val: videos. Yeah
-[29:08.540]  Ko: Okay, and
-[29:10.540]  Ko: So Krboyan is
-[29:12.620]  Ko: But she and she says he's an FSB officer. 
+[29:08.540]  Ko: Okay, and so Krboyan is, but she and she says he's an FSB officer. 
 Val: She alluded to that
-[29:17.500]  Val: Yes, she did not again. I told you earlier. She did not come out and say FSB officer
+[29:17.500]  Val: Yes, she did not again. I told you earlier. She did not come out and say FSB officer.
 [29:22.460]  Ko: How did she
-[29:25.340]  Val: Um, because I asked
-[29:28.060]  Val: Um, when we spoke about because everything she said, um with the 16 phone calls
-[29:33.980]  Val: And I'm looking at everything. Oh, she's just your basic
-[29:37.180]  Val: Criminal defense attorney defending drug dealers, right?
-[29:40.700]  Val: But then the guys said she says that he doesn't use drugs and doesn't doesn't uh, he's not a drug dealer
-[29:46.620]  Val: And then I'm like, well, why would he have 16 phones? I said, oh and I just sort of sometimes I can't really control what I say
-[29:51.660]  Val: Like a Tourette's but I don't have Tourette's and I said, oh FSB
-[29:55.100]  Val: And then everyone sort of laughs and suddenly I was like, who's what's FSB?
-[29:58.860]  Val: Because he's a little too old to understand that they changed KGB to FSB
-[30:02.620]  Val: And then I'm like, oh, uh, and I started then she starts explaining, you know, she fills in my senses and then
-[30:09.180]  Val: Uh, she said something
-[30:12.860]  Val: That made it sort of click
-[30:14.940]  Val: With me that it was FSB
-[30:17.100]  Val: And it was something that she so there's a hacker named Ruslan, you know Ruslan
+[29:25.340]  Val: Um, because I asked. Um, when we spoke about because everything she said, um with the 16 phone calls. And I'm looking at everything. Oh, she's just your basic. Criminal defense attorney defending drug dealers, right? But then the guys said she says that he doesn't use drugs and doesn't doesn't uh, he's not a drug dealer. And then I'm like, well, why would he have 16 phones? I said, oh and I just sort of sometimes I can't really control what I say. Like a Tourette's but I don't have Tourette's and I said, oh FSB. And then everyone sort of laughs and suddenly I was like, who's what's FSB? Because he's a little too old to understand that they changed KGB to FSB.
+[30:02.620]  Val: And then I'm like, oh, uh, and I started then she starts explaining, you know, she fills in my senses and then. Uh, she said something. That made it sort of click with me that it was FSB. And it was something that she so there's a hacker named Ruslan, you know Ruslan.
 [30:22.140]  Ko: How do you spell Ruslan? 
 Val: R U S L A N
-[30:26.940]  Ko: Can't say that, no
-[30:28.060]  Val: Oh, man
-[30:29.580]  Val: Yeah, you are you're a bit out there about touch buddy. Sorry, but this guy Ruslan
-[30:34.700]  Ko: You want me to hang up man? Like every time
-[30:37.260]  Ko: I can't know everything in the fucking world, man.
+[30:26.940]  Ko: Can't say that, no.
+[30:28.060]  Val: Oh, man. Yeah, you are you're a bit out there about touch buddy. Sorry, but this guy Ruslan
+[30:34.700]  Ko: You want me to hang up man? Like every time. I can't know everything in the fucking world, man.
 Val: I'm busting your balls. Relax. I'm busting your balls, man
-[30:42.220]  Ko: Like every time you know about OMG Cords, man, I don't know about fucking on
-[30:45.580]  Val: Ah, dude, I'm busting your balls. Relax. Relax. You don't have a partner to bust balls with it's fun
-[30:51.260]  Val: Yes, look, you got this guy Ruslan. He's a russian hacker and he's a pretty fucking good by the way
-[30:56.380]  Val: He's one of the best and he uh, I don't know exactly
-[31:00.620]  Val: I'll fan but if I get my computer pull it off. He was working. She was handling his case
-[31:06.940]  Val: and uh
-[31:08.780]  Val: Shit, where's my computer here?
-[31:10.140]  Val: If she was handling his case and she was working out a deal over he was going to hand himself
-[31:14.380]  Val: over to the FBI
-[31:16.380]  Val: And because this is your specialty. So that's what I'm telling you
-[31:20.700]  Val: and at the very last day
-[31:23.420]  Val: Uh, he's supposed to show up to court and turn himself in and get some sort of uh suspended sentence or something
-[31:29.020]  Val: some sort of deal
-[31:30.460]  Val: He got on it was well, we don't she didn't say for sure
-[31:34.780]  Val: It was a plane but he left the country and went to Kiev on that very same day
-[31:39.900]  Val: And everyone went to court and we're waiting for him for a while a long time
-[31:44.540]  Val: When he uh, I think called from a some either a plane or a boat or something
-[31:48.460]  Val: Somehow somehow he got to the Ukraine
-[31:51.180]  Val: Is it his greatest career?
+[30:42.220]  Ko: Like every time you know about OMG Cords, man, I don't know about fucking on.
+[30:45.580]  Val: Ah, dude, I'm busting your balls. Relax. Relax. You don't have a partner to bust balls with it's fun. Yes, look, you got this guy Ruslan. He's a russian hacker and he's a pretty fucking good by the way. He's one of the best and he uh, I don't know exactly. I'll fan but if I get my computer pull it off. He was working. She was handling his case and uh. Shit, where's my computer here? If she was handling his case and she was working out a deal over he was going to hand himself over to the FBI.
+[31:16.380]  Val: And because this is your specialty. So that's what I'm telling you and at the very last day. Uh, he's supposed to show up to court and turn himself in and get some sort of uh suspended sentence or something some sort of deal. He got on it was well, we don't she didn't say for sure. It was a plane but he left the country and went to Kiev on that very same day. And everyone went to court and we're waiting for him for a while a long time.
+[31:44.540]  Val: When he uh, I think called from a some either a plane or a boat or something. Somehow somehow he got to the Ukraine. Is it his greatest career?

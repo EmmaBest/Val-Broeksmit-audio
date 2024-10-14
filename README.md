@@ -60,7 +60,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Amy ???
  * Ashley ??? (building management?, not in the documents obtained) 
  * Serrat ???
- * Stosh [sic]
+ * Stauche
  * Muzza AKA Nick
  
 ## Other
@@ -74,9 +74,6 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * 2013 - When Marie and Peter separated "between us" per Val
 
 ## 2014
-### Unknown
- * Rocco Castoro first reaches out to Val (possible)
-
 ### January
  * January 26, 2014 - Bill Broeksmit commits suicide
 
@@ -85,6 +82,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  
 ### November
  * November, 2014 - Sony email incident
+ 
+### Late 2014
+ * Rocco Castoro first reaches out to Val
 
 ## 2016
  * April 15, 2016 - Val first emails the FBI about Deutcshe Bank
@@ -100,11 +100,21 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * 2018 - When Marie and Peter separated "for the lawyers" per Val
 
 ## 2019
+### January
+ * January 25, 2019 - Congress/PT breach report opening (creation_time   : 2019-01-25T21:41:48.000000Z)
+ * January 25, 2019 - Congress/PT II / Val vs David - Val & His Dad’s Early Days (creation_time   : 2019-01-25T22:36:21.000000Z)
+ * January 26, 2019 - Congress/PT III  - Fact Check (creation_time   : 2019-01-26T00:52:48.000000Z)
+ * January 26, 2019 - Congress/PT IV - The Return of Edson Mitchell (creation_time   : 2019-01-26T02:35:27.000000Z)
+ * January 26, 2019 - Congress/PT V - Competition (creation_time   : 2019-01-26T22:42:41.000000Z)
+ * January 26, 2019 - Congress/PT VI - The 7 Pillars of Clarity (2019-01-26T23:28:21.000000Z)
+ * January 26, 2019 - Congress/PT 7 - Whomever Wants To Kill The Funk Must Kill Me First (creation_time   : 2019-01-26T23:44:11.000000Z)
+ * January 27, 2019 - Congress/PT IX - A Clown In The Burying Grounds (creation_time   : 2019-01-27T01:47:07.000000Z)
+
 ### February
  * February, 2019 - Two counterintelligence agents fly to California to meet with Val for three hours
 
 ### April
- * April 01, 2019 - Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena
+ * April 01, 2019 - Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena (creation_time   : 2019-04-02T01:42:21.000000Z)
  
 ### June
  * June 18, 2019 - Val subpoened by House Intelligence Committee
@@ -119,6 +129,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## 2020
 ### January
  * January 26?, 2020 - NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
+
+### February
+ * February 9, 2020 - Rocco recounts Val thinking Tim Pool is a white supremacist and Rocco defending him
+ * February 15, 2020 - Possible alternate date for NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
 
 ### April
  * April 10, 2020 - Marie decides not to give Marlowe back, Marlowe is lying and having behaviorial issues
@@ -160,11 +174,17 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## 2021
 ### April
  * April 06, 2021 - Val talks to a DCFS caseworker. Last time Val is seen before he goes "missing"
+ * April 13, 2021 - Val allegedly spotted at apartment complex
+ * April 28, 2021 - Val's voice overheard at apartment complex
+
+### May
+ * May 6, 2021 - Rocco [said](https://x.com/rocco_castoro/status/1390397886546911232) they received word that Val was alive
 
 ### July
  * July 03, 2021 - Last modified date of the Val FBI audio
  * July 05, 2021 - Creation of the zip file with the Val FBI audio that Rocco Castoro shared
  * July 13, 2021 - Val sends Rocco the "Dude, game over" email
+ * July 13, 2021 - [Val tweets](https://x.com/MToltz/status/1415594673783992322) from Marie's twitter account
  * July 17, 2021 - Val texts Kelly and says he disappeared for Marie and Marlowe because of Steve
 
 ### October
@@ -187,8 +207,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### April
  * April 05, 2022 - Rocco emails commission Padilla, Val emails Rocco, Val makes despondent phone call, post eviction, says Marie is missing
- * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit
- * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts)
+ * April 06, 2022 - Val breaks in and barricades himself inside his old apartment, says Marie is missing and that he has a gun, police come
+ * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit, arrested for 25400(A)(1), concealed firearm LAC2CJ05155-01
+ * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts), arrested for Contempt Of Court: Disobey Court Order/Process LAC2CJ05158-01
  * April 14, 2022 - Petition for restraining order
  * April 23, 2022 - "someone texts me from Broeksmit’s Signal account. It isn’t him. The text reads: “Marie has been found and now we need to find Val who is missing.” I ask who is writing. No one answers." [crypto alchemist by Gian M. Volpicelli](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
  * April 25, 2022 - Val is found dead at Wilson High School in El Sereno, CA
