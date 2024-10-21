@@ -206,7 +206,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * March 31, 2022 - Val and Marie are evicted from the Artist Brewery Lofts
 
 ### April
- * April 05, 2022 - Rocco emails commission Padilla, Val emails Rocco, Val makes despondent phone call, post eviction, says Marie is missing
+ * April 05, 2022 - Rocco emails commissioner Padilla, Val emails Rocco, Val makes despondent phone call, post eviction, says Marie is missing
  * April 06, 2022 - Val breaks in and barricades himself inside his old apartment, says Marie is missing and that he has a gun, police come
  * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit, arrested for 25400(A)(1), concealed firearm LAC2CJ05155-01
  * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts), arrested for Contempt Of Court: Disobey Court Order/Process LAC2CJ05158-01
