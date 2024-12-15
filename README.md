@@ -170,6 +170,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### October
  * October 01, 2020 - Second trial date (if not resolved at the first)
  * October 06?, 2020 - FBI/Val vs Andrew Dowling PT 2-_ DKo’d [creation_time   : 2020-10-06T19:39:15.000000Z]
+ * October 10, 2020 - August 12 FBI notes submitted
+
+### November
+ * November 18, 2020 - FBI interview notes prepared by Task Force Officer (unknown/redacted)
 
 ## 2021
 ### April
@@ -183,6 +187,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### July
  * July 03, 2021 - Last modified date of the Val FBI audio
  * July 05, 2021 - Creation of the zip file with the Val FBI audio that Rocco Castoro shared
+ * July 07, 2021 - Redacted FBI document on OSINT generated, likely in response to the audio leak
  * July 13, 2021 - Val sends Rocco the "Dude, game over" email
  * July 13, 2021 - [Val tweets](https://x.com/MToltz/status/1415594673783992322) from Marie's twitter account
  * July 17, 2021 - Val texts Kelly and says he disappeared for Marie and Marlowe because of Steve
@@ -213,6 +218,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * April 14, 2022 - Petition for restraining order
  * April 23, 2022 - "someone texts me from Broeksmit’s Signal account. It isn’t him. The text reads: “Marie has been found and now we need to find Val who is missing.” I ask who is writing. No one answers." [crypto alchemist by Gian M. Volpicelli](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
  * April 25, 2022 - Val is found dead at Wilson High School in El Sereno, CA
+
+### October
+ * October 10, 2022 - FBI closes case file on Val
 
 ## Undetermined
  * ???? - FBI/Val vs Andrew Dowling PT1  DKO’d
