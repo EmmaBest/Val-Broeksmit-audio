@@ -27,7 +27,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Alla Broeksmit](https://allabroeksmit.com/) (disowned Val)
  * Bill Broeksmit (suicide)
  * [Valentin "Val" Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
- * Marie Peter-Toltz
+ * [Marie Peter-Toltz](https://charleyproject.org/case/marie-peter-toltz)
  * Marlowe Peter-Toltz (minor)
  * [Steve Toltz](https://en.wikipedia.org/wiki/Steve_Toltz) (Marie's ex, described by Val in negative terms)
 
