@@ -1,12 +1,13 @@
 # Val-Broeksmit-FBI-audio
 
-Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit) meeting with and speaking to FBI agents, Congressional staffers and people from the New York Times. 
+Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit) meeting with and speaking to FBI agents, Congressional staffers and people from the New York Times. A [heavily redacted portion of his FBI file](https://www.documentcloud.org/documents/25444505-valentin-broeksmit-part-01-final/) has been released through the Freedom of Information Act.
 
 ## As-is
  * The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent by Rocco Castoro, and is provided as-is.
  * The NYT audio files were too large to upload to GitHub, so they were split evenly by time. The original versions were uploaded as [podcasts](https://podcasters.spotify.com/pod/show/thenewenthusiasts/).
  * In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked.
- * In most places, the identities of feds is treated interchangeably. Aside from excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
+ * In most places, the identities of feds are treated interchangeably. Aside from phone calls with a single participant and excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
+ * Some interviews covered by copyright (such as podcasts) are only present in [audio excerpts](/tree/main/audio excerpts/Other) in order to comply with Fair Use et al.
 
 # Transcription process
 
@@ -36,13 +37,14 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Andrew Therrien](https://www.bloomberg.com/news/features/2017-12-06/millions-are-hounded-for-debt-they-don-t-owe-one-victim-fought-back-with-a-vengeance)
 
 ## Journalists
+ * [Catherine Belton](https://en.wikipedia.org/wiki/Catherine_Belton)
  * [Emma Best](https://en.wikipedia.org/wiki/Emma_Best_(journalist))
  * [Barrett Brown](https://en.wikipedia.org/wiki/Barrett_Brown)
  * [Rocco Castoro](https://en.wikipedia.org/wiki/Rocco_Castoro)
  * [David Enrich](https://en.wikipedia.org/wiki/David_Enrich)
  * [OCCRP](https://en.wikipedia.org/wiki/Organized_Crime_and_Corruption_Reporting_Project) (mispronounced OCCP)
- * [Nick Summmers](http://www.nicksummers.com/)
  * [Scott Steadman](https://journa.host/@scottmstedman)
+ * [Nick Summmers](http://www.nicksummers.com/)
 
 ## Legal
  * Erasmo Aguiler
@@ -58,7 +60,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Lori Roth DOB: 01/17/1950
  * Pattil Saajtian
  * Amy ???
- * Ashley ??? (building management?, not in the documents obtained) 
+ * Ashley ??? (building management?, not in the [documents obtained](https://www.documentcloud.org/documents/?q=%2Bdata__tag%3A%22Carlson+Industries%2C+Llc.+vs+Marie+Peter-Toltz%22)) 
  * Serrat ???
  * Stauche
  * Muzza AKA Nick
@@ -67,7 +69,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Arman (Dimitri?) Krboyan (DOB January 13th 1983, Val's FSB friend)
  * John Porter - PI, former Bakersfield Deputy Sheriff, former warden
  * Diana ??? 
- * Ruslan (hacker)
+ * [Ruslan Yeliseyev](https://www.rferl.org/a/us-russia-hacker-panin-malware-spyeye/31654997.html) (hacker)
 
 # Reconstructed Timeline
 ## 2013
