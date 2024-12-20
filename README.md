@@ -3,7 +3,7 @@
 Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit) meeting with and speaking to FBI agents, Congressional staffers and people from the New York Times. A [heavily redacted portion of his FBI file](https://www.documentcloud.org/documents/25444505-valentin-broeksmit-part-01-final/) has been released through the Freedom of Information Act.
 
 ## As-is
- * The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent by Rocco Castoro, and is provided as-is.
+ * The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent by Rocco Castoro, and is provided as-is.
  * The NYT audio files were too large to upload to GitHub, so they were split evenly by time. The original versions were uploaded as [podcasts](https://podcasters.spotify.com/pod/show/thenewenthusiasts/).
  * In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked.
  * In most places, the identities of feds are treated interchangeably. Aside from phone calls with a single participant and excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
@@ -12,7 +12,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 # Transcription process
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
- 2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
+ 2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
  3. (In progress) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
  4. (Pending) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
 
