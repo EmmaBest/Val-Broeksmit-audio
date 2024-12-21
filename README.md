@@ -113,7 +113,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * January 27, 2019 - Congress/PT IX - A Clown In The Burying Grounds (creation_time   : 2019-01-27T01:47:07.000000Z)
 
 ### February
- * February, 2019 - Two counterintelligence agents fly to California to meet with Val for three hours
+ * February 27, 2019 - Two counterintelligence agents fly to California and meet with Val for three hours
 
 ### April
  * April 01, 2019 - Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena (creation_time   : 2019-04-02T01:42:21.000000Z)
