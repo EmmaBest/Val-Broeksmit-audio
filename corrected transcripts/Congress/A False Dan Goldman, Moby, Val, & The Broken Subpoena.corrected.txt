@@ -396,8 +396,8 @@ Goldman:Val Val Val
 [16:58.760 --> 17:02.000]  Val: and just see on one specific topic and see how that goes.
 [17:02.000 --> 17:03.080]  Val: Like I was thinking of that.
 [17:03.080 --> 17:05.080]  Val: Why don't we try one topic?
-[17:05.080 --> 17:07.440]  Val:I'll send you some emails and see how it goes.
-[17:07.440 --> 17:08.280]  Val:Start there.
+[17:05.080 --> 17:07.440]  Val: I'll send you some emails and see how it goes.
+[17:07.440 --> 17:08.280]  Val: Start there.
 [17:08.280 --> 17:09.320]  Val: But you can't even do that
 [17:09.320 --> 17:11.600]  Val: because I can't know what you're looking for.
 [17:11.600 --> 17:15.160]  Val: So what if you make me sign an NDA,
