@@ -18,7 +18,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 # The players
 ## Feds
- * Tim Lucey
+ * Timothy Kevin Lucey
  * David Ko
  * Boeing Shih
  * Jammy Tam
@@ -179,6 +179,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ## 2021
 ### April
+ * April 05, 2021- Rocco emails commissioner Padilla, Val emails Rocco
  * April 06, 2021 - Val talks to a DCFS caseworker. Last time Val is seen before he goes "missing"
  * April 13, 2021 - Val allegedly spotted at apartment complex
  * April 28, 2021 - Val's voice overheard at apartment complex
@@ -213,7 +214,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * March 31, 2022 - Val and Marie are evicted from the Artist Brewery Lofts
 
 ### April
- * April 05, 2022 - Rocco emails commissioner Padilla, Val emails Rocco, Val makes despondent phone call, post eviction, says Marie is missing
+ * April 05, 2022 - Val makes despondent phone call, post eviction, says Marie is missing
  * April 06, 2022 - Val breaks in and barricades himself inside his old apartment, says Marie is missing and that he has a gun, police come
  * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit, arrested for 25400(A)(1), concealed firearm LAC2CJ05155-01
  * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts), arrested for Contempt Of Court: Disobey Court Order/Process LAC2CJ05158-01
