@@ -47,20 +47,20 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Nick Summmers](http://www.nicksummers.com/)
 
 ## Legal
- * Erasmo Aguiler
+ * Erasmo Aguilar
  * Saba Habte (DCFS)
  * [Mike Kretzmer](https://michaelkretzmerlaw.com/)
  * [John Moscow](https://www.lbkmlaw.com/attorneys-John-Moscow.html)
  * [Dorothy Gibbons White](https://dmgesq.com/)
- * Priscilla ??? - First DCFS worker to visit
+ * Priscilla Gonzales - First DCFS worker to visit
  * Laura ???
 
 ## Locals and unknowns
  * Nordine Bouriche (head of [Lycée International de Los Angeles](https://en.wikipedia.org/wiki/International_School_of_Los_Angeles), LILA school)
  * Lori Roth DOB: 01/17/1950
- * Pattil Saajtian
+ * Pattil Saatjian
  * Amy ???
- * Ashley ??? (building management?, not in the [documents obtained](https://www.documentcloud.org/documents/?q=%2Bdata__tag%3A%22Carlson+Industries%2C+Llc.+vs+Marie+Peter-Toltz%22)) 
+ * Ashley Jackson (Housing Administrative Assistant)
  * Serrat ???
  * Stauche
  * Muzza AKA Nick
@@ -133,7 +133,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * January 26?, 2020 - NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
 
 ### February
- * February 9, 2020 - Rocco recounts Val thinking Tim Pool is a white supremacist and Rocco defending him
+ * February 9, 2020 - Rocco recounts Val thinking Tim Pool is a white supremacist
  * February 15, 2020 - Possible alternate date for NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
 
 ### April
@@ -141,13 +141,18 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * April 22, 2020 - Odessa conversation recorded
 
 ### May
- * May - Val files police report against Nordeem, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve
+ * May - Val says he filed police report against Nordeem, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
 
 ### June
  * Mid-June, 2020 - Pattil Saajtian moves in
 
 ### July
+ * July 11, 2020 - DCFS receives complaint alleging Marie was neglecting Marlowe
+ * July 11, 2020 - Law enforcement does a welfare check and interviewed Marlowe, who denied abuse
+ * July 20, 2020 - DCFS makes unannoucned visit to the home
+ * July 21, 2020 - DCFS calls Marie, Val answers and says Marie isn't well.
  * July 28, 2020 - Marie and Val interview Lori Roth
+ * July 29, 2020 - DCFS 
  * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val
  * July 30, 2020 - Lori comes back
  * July 30, 2020 - Police come
@@ -167,7 +172,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### September
  * September 15, 2020 - Investigator has to hand in paperwork
- * September 29, 2020 - Hearing scheduled (results unknown)
+ * September 29, 2020 - Hearing scheduled (results unknown), approximate date Boeing Shih tried to call Rocco Castorro
 
 ### October
  * October 01, 2020 - Second trial date (if not resolved at the first)
