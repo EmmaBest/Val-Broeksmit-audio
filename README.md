@@ -67,7 +67,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  
 ## Other
  * Arman (Dimitri?) Krboyan (DOB January 13th 1983, Val's FSB friend)
- * John Porter - PI, former Bakersfield Deputy Sheriff, former warden
+ * John G. Porter - PI, former Bakersfield Deputy Sheriff, former warden
  * Diana ??? 
  * [Ruslan Yeliseyev](https://www.rferl.org/a/us-russia-hacker-panin-malware-spyeye/31654997.html) (hacker)
 
