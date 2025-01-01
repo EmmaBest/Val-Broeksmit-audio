@@ -72,10 +72,21 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Ruslan Yeliseyev](https://www.rferl.org/a/us-russia-hacker-panin-malware-spyeye/31654997.html) (hacker)
 
 # Reconstructed Timeline
+## 2003
+ * 2003 - Marie and Steve meet in Madrid, Spain
+
+## 2004
+ * Steve has his spinal injury
+
+## 2005
+ * 2005 - Marie and Steve marry (in France?)
+ 
 ## 2013
- * 2013 - When Marie and Peter separated "between us" per Val
+ * 2013 - When Marie and Peter separated "between us" per Val, officially per Steve Toltz
 
 ## 2014
+ * 2014 - Marie and Steve move to the United States
+
 ### January
  * January 26, 2014 - Bill Broeksmit commits suicide
 
@@ -99,7 +110,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * February, 2017 - Val provides emails to a law firm that gives to them the New York Fed, leading to a fine for Deutsche Bank
 
 ## 2018
- * 2018 - When Marie and Peter separated "for the lawyers" per Val
+ * 2018 - Marie and Peter separate, Val calls this the separation date "for the lawyers"
+
+### July
+ * July, 2018 - Val and Marie started dating
 
 ## 2019
 ### January
@@ -121,6 +135,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### June
  * June 18, 2019 - Val subpoened by House Intelligence Committee
 
+### September
+ * September, 2019 - Marie and Steve Toltz file for divorce
+ 
 ### October
  * October 01, 2019 - Me and My Whistle-Blower prints online
  * October 05, 2019 - NYT/Val vs NYTimes Editor Nick Summers
@@ -130,6 +147,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  
 ## 2020
 ### January
+ * January, 2020 - Val's last admitted cocaine as of July 2020
  * January 26?, 2020 - NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
 
 ### February
@@ -137,11 +155,13 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * February 15, 2020 - Possible alternate date for NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
 
 ### April
- * April 10, 2020 - Marie decides not to give Marlowe back, Marlowe is lying and having behaviorial issues
+ * April 01, 2020 - Val registers LIME & COCONUT DATA INTELLIGENCE (LCDI) INC. in Delaware
+ * April 10, 2020 - Marie decides not to give Marlowe back, and Val and Steve have their alleged fight. Val says Marlowe is lying and having behaviorial issues
  * April 22, 2020 - Odessa conversation recorded
 
 ### May
- * May - Val says he filed police report against Nordeem, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
+ * May, 2020 - Val says he filed police report against Nordine, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
+ * May 25, 2020 - Val uploaded recording of phone call with KayserSozeBro1
 
 ### June
  * Mid-June, 2020 - Pattil Saajtian moves in
@@ -149,14 +169,20 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### July
  * July 11, 2020 - DCFS receives complaint alleging Marie was neglecting Marlowe
  * July 11, 2020 - Law enforcement does a welfare check and interviewed Marlowe, who denied abuse
- * July 20, 2020 - DCFS makes unannoucned visit to the home
- * July 21, 2020 - DCFS calls Marie, Val answers and says Marie isn't well.
+ * July 20, 2020 - DCFS makes unannoucned visit to the home for a home assessment
+ * July 21, 2020 - DCFS calls Marie, Val answers and says Marie isn't well. 
+ * July 21, 2020 - DCFS receives 57 minute long recording of Val and Marie questioning Marlowe
+ * July 26, 2020 - Steve's last visit with Marlowe
  * July 28, 2020 - Marie and Val interview Lori Roth
- * July 29, 2020 - DCFS 
+ * July 29, 2020 - DCFS reassigns case to Saba Habte and receives information from LILA International School
+ * July 29, 2020 - Marlowe leaves Steve an upset voicemail and says he paid Pattil to lie, Steve blames Marie for telling Marlowe that
+ * July 29, 2020 - DCFS visit Marie's and Val's apartment
  * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val
  * July 30, 2020 - Lori comes back
  * July 30, 2020 - Police come
  * July 30, 2020 - Priscilla comes (after police)
+ * July 31, 2020 - Scheduled date of drug tests for Val and Marie
+ * July 31, 2020 - DCFS does home visit and evaluation to Steve's home
  * End of July/Begining of August, 2020 - Police come back after Priscilla leaves
 
 ### August
@@ -177,6 +203,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### October
  * October 01, 2020 - Second trial date (if not resolved at the first)
  * October 06?, 2020 - FBI/Val vs Andrew Dowling PT 2-_ DKo’d [creation_time   : 2020-10-06T19:39:15.000000Z]
+ * October 08, 2020 - Val tweets links to recordings of a phone call to Doreen & Richard Toltz, Steve's parents.
  * October 10, 2020 - August 12 FBI notes submitted
 
 ### November
@@ -198,6 +225,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * July 07, 2021 - Redacted FBI document on OSINT generated, likely in response to the audio leak
  * July 13, 2021 - Val sends Rocco the "Dude, game over" email
  * July 13, 2021 - [Val tweets](https://x.com/MToltz/status/1415594673783992322) from Marie's twitter account
+ * July 16, 2021 - Val confirms he's home
  * July 17, 2021 - Val texts Kelly and says he disappeared for Marie and Marlowe because of Steve
 
 ### October
