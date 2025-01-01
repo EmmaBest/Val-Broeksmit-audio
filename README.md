@@ -12,15 +12,15 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 # Transcription process
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
- 2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am not a transcriber and these versions may still contain errors. 
- 3. (In progress) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
- 4. (Pending) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
+ 2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am *not a transcriber* and these versions **may still contain errors.**
+ 3. (Partially completed) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
+ 4. (In-progress) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
 
 # The players
 ## Feds
- * Timothy Kevin Lucey
- * David Ko
- * Boeing Shih
+ * Timothy Kevin Lucey (FBI New York)
+ * David Ko (FBI Houston)
+ * Boeing Shih (FBI Los Angeles)
  * Jammy Tam
  * Carmen ???
  
@@ -47,29 +47,29 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Nick Summmers](http://www.nicksummers.com/)
 
 ## Legal
- * Erasmo Aguilar
+ * Erasmo Aguilar (DCFS)
  * Saba Habte (DCFS)
  * [Mike Kretzmer](https://michaelkretzmerlaw.com/)
  * [John Moscow](https://www.lbkmlaw.com/attorneys-John-Moscow.html)
  * [Dorothy Gibbons White](https://dmgesq.com/)
- * Priscilla Gonzales - First DCFS worker to visit
+ * Priscilla Gonzales (DCFS) - First DCFS worker to visit
  * Laura ???
 
 ## Locals and unknowns
  * Nordine Bouriche (head of [Lycée International de Los Angeles](https://en.wikipedia.org/wiki/International_School_of_Los_Angeles), LILA school)
- * Lori Roth DOB: 01/17/1950
- * Pattil Saatjian
- * Amy ???
  * Ashley Jackson (Housing Administrative Assistant)
- * Serrat ???
- * Stauche
  * Muzza AKA Nick
+ * Lori Roth DOB: 01/17/1950 (housekeeper, deceased)
+ * Pattil Saatjian (neighbor)
+ * Stauche
+ * Amy ???
+ * Serrat ???
  
 ## Other
- * Arman (Dimitri?) Krboyan (DOB January 13th 1983, Val's FSB friend)
+ * Arman (Dimitri?) Krboyan (DOB January 13th 1983, Val's "FSB" friend)
  * John G. Porter - PI, former Bakersfield Deputy Sheriff, former warden
- * Diana ??? 
  * [Ruslan Yeliseyev](https://www.rferl.org/a/us-russia-hacker-panin-malware-spyeye/31654997.html) (hacker)
+ * Diana ??? 
 
 # Reconstructed Timeline
 ## 2003
