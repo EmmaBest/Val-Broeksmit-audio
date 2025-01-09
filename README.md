@@ -191,6 +191,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 03, 2020 - First responders come
  * August 0?, 2020 - FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit
  * August 09, 2020 - FBI/FBI David Kos First Call w Val Broeksmit
+ * August 10, 2020 - DCFS report recommends no contact between Val and Marlowe
  * August 10, 2020 - Court
  * August 10, 2020 - FBI/D.ko Post Hearing
  * August 12, 2020 - FBI/Kofbico PY2 [creation_time   : 2020-08-13T16:26:08.000000Z]
