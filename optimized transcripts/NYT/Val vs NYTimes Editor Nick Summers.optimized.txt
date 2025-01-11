@@ -7,7 +7,8 @@
 [00:43.000]  Val: Okay, so I did what I told you I would do, and good grief, I spent about four hours doing this, and I was up very, very late, so I just bear with me for a moment and we get all this stuff together.
 [00:58.000]  Nick: You cut out, I lost you after four hours.
 [01:00.000]  Val: Oh, I'm sorry, I'm sorry, yeah, sorry, yeah, it took me about four hours to do this, and I went through the entire article, just sort of line for line, and I made notes on the ones that I felt were either inaccurate mischaracterization or just not true, or, and I don't know what, and again, I don't want to come off like a guy that's complaining about, oh, I'm like, you know, you guys treated me badly, that's not what I'm doing here.
-[01:30.000]  Val: Or maybe, again, like, maybe it is a little bit, but not 100%. This is an aggregate of issues here. And I just wanted to bring up one thing that you said yesterday before I start, is that you told me, you said, when I asked you about the credit card fraud, and I said, well, there's one, I'm not a credit card thief, and then you said, but aren't you, though? And then I thought about that, and he said, well, what do you mean? He said, well, that's kind of the crux of your character here, is there someone that is an unreliable narrator, down on, sorry, what was the thing you said?
+[01:30.000]  Val: Or maybe, again, like, maybe it is a little bit, but not 100%. This is an aggregate of issues here. And I just wanted to bring up one thing that you said yesterday before I start, is that you told me, you said, when I asked you about the credit card fraud, and I said, well, there's one, I'm not a credit card thief, and then you said, but aren't you, though? And then I thought about that, and he said, well, what do you mean? He said, well, that's kind of the crux of your character here, is there someone that is an unreliable narrator, down on, 
+Nick:sorry, what was the thing you said?
 [02:11.000]  Val: Unreliable narrator or unreliable character, but it's something that represents who I am. And I said, well, that's based on just because one credit card, my mother's credit card is the only credit card I've ever used in my entire life.
 [02:26.000]  Val: And he said, yes, that does, that's accurate, and that is the basis of your quote unquote character. And I thought about that, and I'm like, Nick, and he's already made up his mind about who I am, and I thought, wow, that's what the rest of the world is doing, exactly what you're doing. So based on this article, someone that does-
 [02:43.000]  Nick: I don't think I would agree with that, that I've already made up my mind about who you are, and I'm not sure that that's exactly what I said.
@@ -54,7 +55,9 @@ Nick: You still there?
 [09:11.000]  Nick: Well, you have a history of credit card theft. I don't, you're not going to get any satisfaction here.
 [09:17.000]  Val: Okay.
 [09:18.000]  Nick: I'm just telling you that's the one thing. You have a credit card and it's not, I know that's how you don't want to, you don't want to look at it that way.
-[09:24.000]  Val: Yeah. I got you. I just want to make it known and make it clear. And it just, unfortunately, there's no way to non-pluralize credit card theft.: Sorry.: It could sound, it's a plural statement, you know, no matter how you look at it. You know, so that's a problem. The American, with the English language, I guess. But anyway, that's number two.
+[09:24.000]  Val: Yeah. I got you. I just want to make it known and make it clear. And it just, unfortunately, there's no way to non-pluralize credit card theft.
+Nick: Sorry.
+Val : It could sound, it's a plural statement, you know, no matter how you look at it. You know, so that's a problem. The American, with the English language, I guess. But anyway, that's number two.
 [09:44.000]  Val: Number three, where my Deutsche Bank, I felt that, where Bill B, sorry, look at my notes, paragraph three. Okay. So it's, I just wrote down extremely reductive way of describing my father's role within the bank. He was a chief risk optimization officer. David writes that my dad was a, David writes, they talked Deutsche Bank.
 [10:09.000]  Nick: Are we talking about the third paragraph of the story here?
 [10:11.000]  Val: Yes. They wanted to talk about Deutsche Bank, one of the world's largest, most troubled financial institutions. Third paragraph?
@@ -239,7 +242,7 @@ Nick: How is that not
 [30:53.000]  Nick: I'm not sure what you want. You seem to want to have written this story.
 [30:56.800]  Val: No, come on, man. No, I don't want to write this story. I don't want to write this story. I just want to not be characterized as an asshole. That's how I'm looked at, like a real dickhead, like a real person that you don't ever want to talk like a nasty fuckhead that I, people, I say, oh my God, that's someone you stay away from. I would tell my girlfriend's kid to stay away from this type of person. Do you understand this?
 [31:21.240]  Val: And you say, well, maybe you are that type of person, right? Is what your people tend to think. Well, it's in the New York Times. So you must be that type of person. And that is the problem, Nick. That's what I would like change. Is that my characterization of me by these descriptors that David puts in here, there's not, there's only one non-pejorative.
-[31:39.800]  Nick:I need to reiterate it again. I'm not going to edit this piece.
+[31:39.800]  Nick: I need to reiterate it again. I'm not going to edit this piece.
 [31:41.880]  Val: I know, that's, again, you ask me a question.
 [31:44.320]  Nick: Is it the way you want to be?
 [31:45.360]  Val: You ask me a question.

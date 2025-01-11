@@ -43,6 +43,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Rocco Castoro](https://en.wikipedia.org/wiki/Rocco_Castoro)
  * [David Enrich](https://en.wikipedia.org/wiki/David_Enrich)
  * [OCCRP](https://en.wikipedia.org/wiki/Organized_Crime_and_Corruption_Reporting_Project) (mispronounced OCCP)
+ * [Odessa Rae](https://en.wikipedia.org/wiki/Odessa_Rae)
  * [Scott Steadman](https://journa.host/@scottmstedman)
  * [Nick Summmers](http://www.nicksummers.com/)
 
@@ -157,7 +158,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### April
  * April 01, 2020 - Val registers LIME & COCONUT DATA INTELLIGENCE (LCDI) INC. in Delaware
  * April 10, 2020 - Marie decides not to give Marlowe back, and Val and Steve have their alleged fight. Val says Marlowe is lying and having behaviorial issues
- * April 22, 2020 - Odessa conversation recorded
+ * April 22, 2020 - Odessa Rae conversation recorded
 
 ### May
  * May, 2020 - Val says he filed police report against Nordine, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
