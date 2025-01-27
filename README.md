@@ -77,19 +77,27 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * 2003 - Marie and Steve meet in Madrid, Spain
 
 ## 2004
- * Steve has his spinal injury
+ * 2004 - Steve has his spinal injury
 
 ## 2005
  * 2005 - Marie and Steve marry (in France?)
  
 ## 2013
  * 2013 - When Marie and Peter separated "between us" per Val, officially per Steve Toltz
+ 
+### May
+ * May 09, 2013 - Bill Broeksmit reports having paroxysmal atrial fibrillation, and says it's "electrical and not structural."
 
 ## 2014
  * 2014 - Marie and Steve move to the United States
 
 ### January
  * January 26, 2014 - Bill Broeksmit commits suicide
+ 
+### February 
+ * February 04, 2014 - David Enrich sends Val what seems to be the first email
+ * February 06, 2014 - Val responds to David Enrich and asks what he wants to know. Enrich asks how to best speak, and Val says he's in New York for the funeral, but perhaps after. Val says to stop emailing his family, Enrich says it wasn't him but he'd ask his colleagues to stand down. Val says they'll talk "next week."
+ * February 12, 2014 - Enrich emails Val a follow-up, which Val forwards to David Grann saying he "can't shake" Enrich.
 
 ### July
  * July, 2014 - Val emails David Enrich about Deutsche Bank and his father's death
@@ -98,7 +106,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * November, 2014 - Sony email incident
  
 ### Late 2014
- * Rocco Castoro first reaches out to Val
+ * 2014 - Rocco Castoro first reaches out to Val
 
 ## 2016
  * April 15, 2016 - Val first emails the FBI about Deutcshe Bank
@@ -109,12 +117,23 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### February
  * February, 2017 - Val provides emails to a law firm that gives to them the New York Fed, leading to a fine for Deutsche Bank
+ * February 01, 2017 - Glenn Simpson sends Val $2,000 via PayPal
+ * February 02, 2017 - Glenn Simpson tells Val that he's "bankrupting" him
+ * February 02, 2017 - Val says that someone went through his room and tried to access his laptop, saying they tripped "a simple trap." He later describes this to the FBI.
+ * February 03, 2017 - Val tells Glenn that they're charging extra for his bags while he flies to DC
+ * February 06, 2017 - Glenn tells Val no room service on his card, and Val promises.
+ * February 07, 2017 - Val tells Glenn at 12:34 that "An attempt was made on my phone a few hours ago. I was able to thward it, I'm changing my SIM." Val switches to the 2858 number.
+ * February 08, 2017 - Val tells Glenn he went to the British Embassy but only got through to the second gate, and will have to go to the embassy in New York, referencing visa issues.
+ * February 09, 2017 - Val tells Glen that "The Washington/Irving Johnson" password isn't working, and asks his permission to hack his computer. 
+ * February 10, 2017 - Val goes to meet Bob Roach at the Senate building.
+  * February 27, 2017 - Glenn Simpson sends Val $2,000, which Val calls the "second payment"
 
 ## 2018
  * 2018 - Marie and Peter separate, Val calls this the separation date "for the lawyers"
 
 ### July
  * July, 2018 - Val and Marie started dating
+ * July, 2018 - Val and David met in NYC for an official interview.
 
 ## 2019
 ### January
@@ -126,34 +145,64 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * January 26, 2019 - Congress/PT VI - The 7 Pillars of Clarity (2019-01-26T23:28:21.000000Z)
  * January 26, 2019 - Congress/PT 7 - Whomever Wants To Kill The Funk Must Kill Me First (creation_time   : 2019-01-26T23:44:11.000000Z)
  * January 27, 2019 - Congress/PT IX - A Clown In The Burying Grounds (creation_time   : 2019-01-27T01:47:07.000000Z)
+ * January 28, 2019 - Val's planned check in to the hotel in St. Thomas. Val gets stuck in Miami for the day.
+ * January 29, 2019 - Val arrives in St. Thomas.
+ * January 30, 2017 - Val's planned check out date.
 
 ### February
  * February 27, 2019 - Two counterintelligence agents fly to California and meet with Val for three hours
+
+### May
+ * May 06, 2019 - Email describes the shopping and option agreement as $3,000 and $9,000 respectively. Purchase price would be "1.5% of the direct budget with a floor of $75,000 and a cap of $150,000"
+ * May 09, 2019 - David Enrich emails Val an initial book proposal that he says took about 2 hours
 
 ### April
  * April 01, 2019 - Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena (creation_time   : 2019-04-02T01:42:21.000000Z)
  
 ### June
- * June 18, 2019 - Val subpoened by House Intelligence Committee
+ * June 05, 2019 - Last known date Val provided Enrich with information on DB
+ * June 18, 2019 - Val subpoened by House Intelligence Committee, citing production must be by noon on July 2, 2019.
+ * June 18, 2019 - Val emails David about language in the book description and says that the "deal was my story, with DB woven in. Not DB's story with mine woven in."
+
+### July
+ * July 01, 2019 - David Enrich asks to update the book description to "elevate Broeksmit and create a little balance." 
+ * July 2, 2019 - Production date cited by HPSCI subpoena
+
+### August
+ * August 02, 2019 - Val emails Dan Goldman his first attempt at sending the files as an mbox file. Val asks Goldman about who will be going through the files, and says to call or email him anytime. (No response from Goldman is included)
+ * August 08, 2019 - Enrich emails the updated book description to Val.
+ * August 12, 2019 - Val emails David Enrich a list of email addresses and passwords for Epstein. Val later said Enrich asked for the information (evidence not provided)
 
 ### September
  * September, 2019 - Marie and Steve Toltz file for divorce
- 
+ * September 07, 2019 - Rosanne Berg emails David Enrich that they "cannot make a deal with Val for his life rights, he is asking way way too much to option and then to purchase" but that they're "still interested in trying to adapt the book, without Val's involvement."
+ * September, 2019 - Marie gets the phone number for David Enrich's wife from Val's phone and texts her about the article.
+
 ### October
  * October 01, 2019 - Me and My Whistle-Blower prints online
  * October 05, 2019 - NYT/Val vs NYTimes Editor Nick Summers
+ * October 06, 2019 - Marie emails Nick Summers and Ellen Pollack a pair of 11-page emails.
+ * October 08, 2019 - Marie and David Enrich's wife talk on the phone. (Date of Kirstein Enrich - Davis Wife.m4a)
  
 ### November
+ * November 01, 2019 - Date of "Marie vs Heather - Nov 1 2019" audio (audio unavailable)
  * November 19, 2019 - Tom Bowers commits suicide
+
+### December
+ * December 15, 2019 - Val emails MCO Breach Report to Emma
  
 ## 2020
 ### January
  * January, 2020 - Val's last admitted cocaine as of July 2020
+ * January 13, 2020 - Marie emails David Enrich a copy of the "Marie vs Heather - Nov 1 2019" audio, with the subject line "Eviction notice because of The NY Times profile". Enrich responds, and says it's unclear if the eviction is happening but admits he "could have kinder and gentler in the article." Enrich describes the audio as saying the frustration with Val "does not stem from the article -- it's because Val doesn't listen, is difficult to deal with, etc. She says: "All those things happened before this article. .... From the leasing office perspective, he's already been a problem, and no new information we've received makes us feel like he's not a problem." Enrich says she also notes that concerns about his drug use arose "months ago", long before the article. Val later forwards Enrich's response to Emma.
  * January 26?, 2020 - NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
 
 ### February
- * February 9, 2020 - Rocco recounts Val thinking Tim Pool is a white supremacist
+ * February 09, 2020 - Rocco recounts Val thinking Tim Pool is a white supremacist
+ * February 10, 2020 - Val sends the David Enrich and Dan Goldman audio to DDoSecrets
+ * February 13, 2020 - Val forwards book proposal email to Emma
  * February 15, 2020 - Possible alternate date for NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
+ * February 20, 2020 - Val sends numerous emails to Emma/DDoSecrets about David Enrich and Glenn Simpson
 
 ### April
  * April 01, 2020 - Val registers LIME & COCONUT DATA INTELLIGENCE (LCDI) INC. in Delaware
@@ -162,6 +211,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### May
  * May, 2020 - Val says he filed police report against Nordine, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
+ * May 18, 2020 - Marie sends Emma emails with information she said Val wanted to share and were previously shared with Barrett Brown
  * May 25, 2020 - Val uploaded recording of phone call with KayserSozeBro1
 
 ### June
@@ -240,12 +290,14 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ## 2022
 ### January
  * January 9, 2022 - Val thought he became an accidental crypto trillionaire
+ * January 15, 2022 - Val DMs Emma about "a new data leak" (no response or acknowledgment sent to Val)
 
 ### February
  * Mid-February - Incognito cracks down on Val's tokens and manipulations
  * February 19, 2022 - Val's wallet balance reaches zero, Val says they've lost "everything"
 
 ### March
+ * March 07, 2022 - Val DMs Emma asking her not to think poorly of him and for access to restricted data (no response or acknowledgment sent to Val)
  * March 31, 2022 - Val and Marie are evicted from the Artist Brewery Lofts
 
 ### April
