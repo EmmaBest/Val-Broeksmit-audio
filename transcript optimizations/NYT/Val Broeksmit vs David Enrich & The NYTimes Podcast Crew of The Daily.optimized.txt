@@ -372,129 +372,44 @@
 [23:10.100]  Overlapping: Well, that's what you said to me.
 [23:11.100]  Overlapping: You said David was your friend.
 [23:12.100]  Val: Oh, I did.
-[23:13.100]  Rocco: And you can't be friends.
-[23:14.100]  Rocco: You can't be friends with journalists, Val.
-[23:15.100]  Rocco: You can't.
+[23:13.100]  Rocco: And you can't be friends. You can't be friends with journalists, Val. You can't.
 [23:16.100]  Val: Yeah, you're right.
-[23:17.100]  Rocco: You know what I mean?
-[23:18.100]  Rocco: You can.
-[23:19.100]  Rocco: I'll tell you this.
-[23:20.100]  Rocco: You can.
-[23:21.100]  Rocco: And the problem with David and me, for me, is this.
-[23:22.100]  Rocco: He used you for sources on other stories, then you thought of him as a friend, which
-[23:27.340]  Rocco: that is kosher in certain regards, where if you've used a source and you like that person
-[23:32.820]  Rocco: and you want to be a human, you know
+[23:17.100]  Rocco: You know what I mean? You can.
+[23:19.100]  Rocco: I'll tell you this. You can. And the problem with David and me, for me, is this. He used you for sources on other stories, then you thought of him as a friend, which that is kosher in certain regards, where if you've used a source and you like that person and you want to be a human, you know
 Val: That's what I thought it was, I thought we were friends.
-[23:38.420]  Val: So I called him a friend.
-[23:39.420]  Val: I called him.
+[23:38.420]  Val: So I called him a friend. I called him.
 [23:40.420]  Rocco: It was the first story that he called me.
 [23:41.420]  Marie: He used you.
-[23:42.420]  Val: No, he didn't say this.
-[23:43.420]  Val: We were friends.
-[23:44.420]  Val: And then all of a sudden, it became his best interest to not be friends with me and to
-[23:49.860]  Val: use me instead.
-[23:50.860]  Val: And then that's what happened.
-[23:51.860]  Rocco: But you can never be friends with your sources.
-[23:55.740]  Rocco: But see, and the difference is like, I can shoot a film about you.
+[23:42.420]  Val: No, he didn't say this. We were friends. And then all of a sudden, it became his best interest to not be friends with me and to use me instead. And then that's what happened.
+[23:51.860]  Rocco: But you can never be friends with your sources. But see, and the difference is like, I can shoot a film about you.
 [23:58.860]  Val: How do you not be friends if you're five years and talking to me?
-[24:01.220]  Rocco: Oh, shit.
-[24:02.620]  Rocco: You're a human, right?
-[24:03.620]  Rocco: That's why you don't take five years to report something.
-[24:06.020]  Rocco: You make a fucking documentary.
-[24:09.020]  Rocco: That's why you do it.
-[24:10.020]  Rocco: Like, I'm not joking.
-[24:11.420]  Rocco: Like, I don't buy this bullshit that people are like, well, I'm a print journalist.
-[24:15.220]  Rocco: Well, then you're fucking a dinosaur.
-[24:16.780]  Rocco: Like, you have to do all of it.
-[24:18.540]  Rocco: And it's really important because this proves it.
-[24:21.820]  Rocco: This fucking, you know, regurgitation is better shit, right?
-[24:26.060]  Rocco: So it's like, strangely, I like you, David, but as you say in your books, sometimes friends
-[24:28.940]  Rocco: aren't friends.
-[24:29.940]  Rocco: Hopefully in this occasion, I do get it.
-[24:31.660]  Rocco: Maybe I'm wrong.
-[24:32.660]  Rocco: I'm not sure if Sarah wants us to talk.
-[24:33.660]  Rocco: To be honest, I'm confused.
-[24:35.060]  Rocco: He said, thanks, Tom.
-[24:37.060]  Rocco: For what?
-[24:38.060]  Rocco: And he said, for your response.
-[24:41.060]  Rocco: Oh, that's okay.
-[24:42.060]  Rocco: And it looks like, it says today, so it looks like that was at five.
-[24:46.020]  Rocco: That was right after the interview, so he was fucking furious about that shit.
-[24:49.220]  Rocco: And then the next day he wrote and said, thanks, Tom.
-[24:51.860]  Rocco: Oh, that's okay.
-[24:52.860]  Rocco: He said, if it is okay, I tell the TV producer that you're not unhappy with how I've treated
-[24:56.780]  Rocco: you.
-[24:57.780]  Rocco: Otherwise, I'm concerned they're going to take valid his word that you aren't happy
-[25:00.300]  Rocco: with me.
-[25:02.300]  Rocco: What the fuck, my, he does not fit, there are cameras there, I don't have to take you
-[25:05.900]  Rocco: at your word.
-[25:06.900]  Val: Why is he texting?
-[25:07.900]  Val: Why is he showing you this?
+[24:01.220]  Rocco: Oh, shit. You're a human, right? That's why you don't take five years to report something. You make a fucking documentary. That's why you do it. Like, I'm not joking. Like, I don't buy this bullshit that people are like, well, I'm a print journalist. Well, then you're fucking a dinosaur. Like, you have to do all of it. And it's really important because this proves it.
+[24:21.820]  Rocco: This fucking, you know, regurgitation is better shit, right? So it's like, strangely, I like you, David, but as you say in your books, sometimes friends aren't friends. Hopefully in this occasion, I do get it. Maybe I'm wrong. I'm not sure if Sarah wants us to talk. To be honest, I'm confused. He said, thanks, Tom. For what?
+[24:38.060]  Rocco: And he said, for your response. Oh, that's okay. And it looks like, it says today, so it looks like that was at five. That was right after the interview, so he was fucking furious about that shit. And then the next day he wrote and said, thanks, Tom. Oh, that's okay.
+[24:52.860]  Rocco: He said, if it is okay, I tell the TV producer that you're not unhappy with how I've treated you. Otherwise, I'm concerned they're going to take valid his word that you aren't happy with me. What the fuck, my, he does not fit, there are cameras there, I don't have to take you at your word.
+[25:06.900]  Val: Why is he texting? Why is he showing you this?
 [25:08.900]  Rocco: I don't know.
 [25:09.900]  Val: It's ridiculous.
-[25:10.900]  Rocco: You think I expected to get this back 10 minutes after I fucking e-mail, but I knew
-[25:14.420]  Rocco: if I waited the morning that whatever trap he had laid, I just ganged it.
+[25:10.900]  Rocco: You think I expected to get this back 10 minutes after I fucking e-mail, but I knew if I waited the morning that whatever trap he had laid, I just ganged it.
 [25:18.900]  Val: So weird.
-[25:19.900]  Rocco: Or if he didn't, then it was fine.
-[25:21.900]  Rocco: Yeah, I can't talk.
-[25:22.900]  Rocco: It says, I was talking to the TV producer that you're not unhappy, now I'm a TV producer
-[25:27.180]  Rocco: obviously.
-[25:28.460]  Rocco: Otherwise, I'm concerned they're going to take valid his word that you aren't happy
-[25:31.260]  Rocco: with me.
-[25:32.260]  Rocco: Yeah, I can't talk to him, but isn't that guy someone, someone who's dad died?
-[25:36.260]  Rocco: He said, yes.
-[25:37.760]  Rocco: And then he, Tom says, the producer or Val, which he's like, I don't, I don't want to
-[25:43.060]  Rocco: laugh at that.
+[25:19.900]  Rocco: Or if he didn't, then it was fine. Yeah, I can't talk. It says, I was talking to the TV producer that you're not unhappy, now I'm a TV producer obviously. Otherwise, I'm concerned they're going to take valid his word that you aren't happy with me. Yeah, I can't talk to him, but isn't that guy someone, someone who's dad died? He said, yes. And then he, Tom says, the producer or Val, which he's like, I don't, I don't want to laugh at that.
 [25:44.060]  Val: He's confused.
-[25:45.060]  Rocco: But then he says, I'll level with you.
-[25:46.780]  Rocco: But then David says, the producer
+[25:45.060]  Rocco: But then he says, I'll level with you. But then David says, the producer
 Val: What?
-[25:50.460]  Rocco: Yeah, I can't talk to him, but isn't that guy someone's who's dad died?
-[25:55.260]  Rocco: Yes.
-[25:56.260]  Rocco: Tom.
-[25:57.340]  Rocco: The producer or Val question mark, I'll level with you.
-[25:59.860]  Rocco: This is still Tom.
-[26:01.700]  Rocco: The producer.
-[26:02.700]  Rocco: Oh, and I would see what he's saying.
-[26:03.700]  Rocco: He's saying, will you, can I, who, who should I tell?
+[25:50.460]  Rocco: Yeah, I can't talk to him, but isn't that guy someone's who's dad died? Yes. Tom. The producer or Val question mark, I'll level with you. This is still Tom. The producer. Oh, and I would see what he's saying. He's saying, will you, can I, who, who should I tell?
 [26:06.260]  Val: Right, right, right.
-[26:07.260]  Rocco: Sorry, that's my mistake.
-[26:08.260]  Rocco: You can show him this part of the chat, but then they talked about something else.
-[26:13.000]  Rocco: This one was the only one not on, you don't remember, these are on signal.
-[26:17.060]  Rocco: So a text screenshot is one thing.
-[26:20.060]  Rocco: But if I'm texting on Signal and I have it auto-delete and you do that, you better be
-[26:25.460]  Rocco: fucking ready to rumble.
-[26:28.220]  Rocco: From my perspective, if you better be ready to fucking rumble, I'll wait 10 years and
-[26:32.500]  Rocco: I'm going to get you.
+[26:07.260]  Rocco: Sorry, that's my mistake. You can show him this part of the chat, but then they talked about something else. This one was the only one not on, you don't remember, these are on signal. So a text screenshot is one thing. But if I'm texting on Signal and I have it auto-delete and you do that, you better be fucking ready to rumble.
+[26:28.220]  Rocco: From my perspective, if you better be ready to fucking rumble, I'll wait 10 years and I'm going to get you.
 [26:33.500]  Val: I texted your stuff to Barrett.
-[26:35.500]  Rocco: I don't give a shit.
-[26:37.500]  Rocco: Barrett's fine.
-[26:38.500]  Rocco: That's because I didn't introduce you to Barrett.
+[26:35.500]  Rocco: I don't give a shit. Barrett's fine. That's because I didn't introduce you to Barrett.
 [26:39.500]  Val: It's like, here's this guy.
 [26:40.500]  Rocco: I sent Barrett all my...
-[26:41.500]  Val: I told him, I like him.
-[26:42.500]  Val: He's a pretty good guy.
-[26:43.500]  Val: He talks a lot.
-[26:44.500]  Val: You know, but I think he knows what he's doing and he appears to be saying, honestly, I like
-[26:50.060]  Val: him.
+[26:41.500]  Val: I told him, I like him. He's a pretty good guy. He talks a lot. You know, but I think he knows what he's doing and he appears to be saying, honestly, I like him.
 [26:51.060]  Rocco: Thank you.
 [26:52.060]  Val: That's what my assessment of you.
-[26:53.060]  Rocco: Thank you.
-[26:54.060]  Rocco: I think Barrett realized that we know a lot of the same people.
-[26:57.420]  Rocco: Once I told him that I was commissioned to write We Are Anonymous, which is Parmy Olson's
-[27:00.700]  Rocco: book and he's in it, and how meta this was and that I wanted to commission him before
-[27:04.460]  Rocco: he went to jail, but we just didn't get to that point.
-[27:07.220]  Rocco: And I know different people, Del Cameron and Daily Dot people and all these people.
-[27:11.620]  Rocco: And I have a deep understanding of Anonymous.
-[27:14.060]  Rocco: And we talked about how that morphed into /pol/ and the alt right.
-[27:18.180]  Rocco: I need to finish this and then maybe, you know, I just don't throw me into it because
-[27:23.420]  Rocco: I don't want to like walk.
-[27:24.780]  Rocco: I got thrown into some group to give a day that was like, cuck, what was it?
-[27:28.820]  Rocco: It was like, no cucks allowed part two or something and I was like, what the fuck did
-[27:33.420]  Rocco: someone put me in?
-[27:34.420]  Rocco: It was like some fucking neo-nazi meme shit.
-[27:37.340]  Rocco: And I'm like, dude, someone's trying to set me up or something and I just said, fuck all
-[27:41.340]  Rocco: you Nazis.
+[26:53.060]  Rocco: Thank you. I think Barrett realized that we know a lot of the same people. Once I told him that I was commissioned to write We Are Anonymous, which is Parmy Olson's book and he's in it, and how meta this was and that I wanted to commission him before he went to jail, but we just didn't get to that point. And I know different people, Del Cameron and Daily Dot people and all these people.
+[27:11.620]  Rocco: And I have a deep understanding of Anonymous. And we talked about how that morphed into /pol/ and the alt right. I need to finish this and then maybe, you know, I just don't throw me into it because I don't want to like walk.
+[27:24.780]  Rocco: I got thrown into some group to give a day that was like, cuck, what was it? It was like, no cucks allowed part two or something and I was like, what the fuck did someone put me in? It was like some fucking neo-nazi meme shit. And I'm like, dude, someone's trying to set me up or something and I just said, fuck all you Nazis.
 [27:42.340]  Rocco: And I left the group.
 [27:43.340]  Rocco: Hi, I guess I hope you're doing well.
 [27:47.340]  Val: I mean, this is again, you know, this is one for us to hear this.
@@ -515,26 +430,10 @@ Val: What?
 [28:17.460]  Val: Val, look at this.
 [28:18.460]  Rocco: And then he says at the end.
 [28:19.460]  Rocco: Well, you're, I can't remember if he said your friend.
-[28:22.460]  Rocco: He said our friends, our friends, our friends have some stuff to tell you in the master
-[28:28.460]  Rocco: interview.
-[28:29.460]  Rocco: I don't know if you caught that.
-[28:30.460]  Rocco: I did not.
-[28:31.460]  Rocco: Yeah, he says it to you.
-[28:32.460]  Rocco: That's why I didn't tell you.
-[28:33.460]  Val: So wait, wait, what?
-[28:34.460]  Val: He says our friends or something.
-[28:36.460]  Rocco: I'm not.
-[28:37.460]  Rocco: It may not be correct.
-[28:38.460]  Rocco: Something friends.
-[28:39.460]  Rocco: It doesn't say your friends.
-[28:40.460]  Rocco: I don't think. That would be real fucked up and I'm going to hit him on that.
-[28:44.460]  Rocco: You know, I'm not going to hit him on it, but I'm going to complain.
-[28:48.460]  Rocco: And be like, you know, David, if you talk about this again, you know that I'm doing this
-[28:52.460]  Rocco: independently, right?
-[28:53.460]  Rocco: Like, like I didn't know that you've known down for four fucking years.
-[28:56.460]  Rocco: Like you are in five years.
-[28:59.460]  Rocco: You are in that seat.
-[29:00.460]  Rocco: I'm not in that seat.
+[28:22.460]  Rocco: He said our friends, our friends, our friends have some stuff to tell you in the master interview. I don't know if you caught that. Yeah, he says it to you. That's why I didn't tell you.
+[28:33.460]  Val: So wait, wait, what? He says our friends or something.
+[28:36.460]  Rocco: I'm not. It may not be correct. Something friends. It doesn't say your friends. I don't think. That would be real fucked up and I'm going to hit him on that. You know, I'm not going to hit him on it, but I'm going to complain. And be like, you know, David, if you talk about this again, you know that I'm doing this independently, right?
+[28:53.460]  Rocco: Like, like I didn't know that you've known down for four fucking years. Like you are in five years. You are in that seat. I'm not in that seat.
 [29:01.460]  Rocco: I got in and I got out and I got you on camera.
 [29:04.460]  Rocco: I'm not your fucking friend either.
 [29:05.460]  Rocco: So don't make me your enemy.
@@ -1518,7 +1417,7 @@ Marie: You have kids
 [56:48.460]  Marlowe: Which means you could also be famous.
 [56:52.460]  Marlowe: It could also be cool.
 [56:54.460]  Marlowe: But just don't, just think about others too.
-[56:58.460]  YouMarlowe: 're in the New York Times.
+[56:58.460]  Marlowe: You're in the New York Times.
 [57:01.460]  Marlowe: Because because you're part of his life,
 [57:04.460]  Marlowe: the council is you.
 [57:06.460]  Val: You're right, Marlowe.
@@ -1939,7 +1838,7 @@ Marie: You have kids
 [01:07:23.340]  Val: I'm not saying her name.
 [01:07:24.340]  Yeah.
 [01:07:25.340]  Yeah.
-[01:07:26.340]  David:Because if her name is Lauren, I can tell you what you're referring to.
+[01:07:26.340]  David: Because if her name is Lauren, I can tell you what you're referring to.
 [01:07:27.340]  Val: You're saying...
 [01:07:28.340]  Val: Please can cut out this name.
 [01:07:29.340]  David: I'm not going to play a guessing game with this.
@@ -2023,7 +1922,7 @@ David: I'm and I don't
 [01:10:26.460]  David: as a result of raising those concerns I tracked Tammy down down over a period of
 [01:10:32.300]  David: weeks I convinced her to go on the record
 Val: You said I'm about to meet... in Jacksonville, Florida about to meet, very excited
-[01:10:34.300]  Val: because I have it you don't know but I have it on audited because at the same
+[01:10:34.300]  Val: because I have it you don't know but I have it on audio because at the same
 [01:10:49.180]  Val: day I was talking to the FBI they were here so and you called 
 David: let me let me
 [01:10:54.660]  David: just if you don't mind 
@@ -2098,7 +1997,7 @@ Val: yeah yeah
 Rocco: that's what the text referred to 
 Val: that's what the text
 [01:15:33.300]  Val: referred to yeah 
-Rocco: okay okay that's what I need cleared up [cleared up???]
+Rocco: okay okay that's what I need cleared up
 Val: yeah and I said well
 [01:15:37.380]  Val: what I said when I get into impossible to talk to my I can only send an email I
 [01:15:40.660]  Val: can't actually comment 
@@ -2465,14 +2364,14 @@ Val: that's what the heading said
 [01:33:08.900]  Marie: hang on when you are not being
 [01:33:10.900]  Marie: commissioned by Val
 [01:33:12.900]  Rocco: right no I mean
-[01:33:14.900]  RoccoL Val's been pissed me already a couple of times
+[01:33:14.900]  Rocco: Val's been pissed at me already a couple of times
 [01:33:16.900]  Marie: you know but he's pretending
 [01:33:18.900]  Marie: that you are well of course
 [01:33:20.900]  Marie: cause it helps him but I saved the daily microphone
-[01:33:22.900]  Marie: the first thing I said is I'm not
-[01:33:24.900]  Marie: you know I'm not Val's crew
-[01:33:26.900]  Marie: I am my crew I asked you know
-[01:33:28.900]  Marie: I reached out to Val and he said yes
+[01:33:22.900]  Rocco: the first thing I said is I'm not
+[01:33:24.900]  Rocco: you know I'm not Val's crew
+[01:33:26.900]  Rocco: I am my crew I asked you know
+[01:33:28.900]  Rocco: I reached out to Val and he said yes
 [background chatter, steps in the distance]
 [01:34:52.900]  Val: alright Steve's got some text
 [01:34:54.900]  Val: Steve's really pissed off
@@ -3573,7 +3472,7 @@ Val: every three months
 [02:11:12.900]  Val: you know me a little bit
 [02:11:14.900]  David: I do know you a little bit
 [02:11:16.900]  Val: is that my style
-[02:11:18.900]  David: I would say that isn't yoru style
+[02:11:18.900]  David: I would say that isn't your style
 [02:11:20.900]  Val: you'd be correct
 [02:11:22.900]  David: good well let now
 [02:11:24.900]  David: I feel like let's take a break
@@ -3651,24 +3550,9 @@ Val: every three months
 [02:13:48.900]  Val: I'm very curious about your intentions
 [02:13:50.900]  Val: I'm thinking why is he coming
 [02:13:52.900]  do you mind if I just cut that
-[02:13:54.900]  Eric: this was a story
-[02:13:56.900]  Eric: that David didn't
-[02:13:58.900]  Eric: pitch it to us or anything
+[02:13:54.900]  Eric: this was a story that David didn't pitch it to us or anything. 
 [02:14:00.900]  Eric: I found
-[02:14:02.900]  Eric: I was really intrigued by
-[02:14:04.900]  Eric: the more I read about your story
-[02:14:06.900]  Eric: we tell stories about the news
-[02:14:08.900]  Eric: yours is a perfect example
-[02:14:10.900]  Eric: of that you have an incredible
-[02:14:12.900]  Eric: story that we're able to tell
-[02:14:14.900]  Eric: and people understand
-[02:14:16.900]  Eric: what's happening in the news
-[02:14:18.900]  Eric: and so that's
-[02:14:20.900]  Eric: my goal here
-[02:14:22.900]  Eric: is to get the story from your mouth
-[02:14:24.900]  Eric: the more that we get from you
-[02:14:26.900]  Eric: of your own story the less that we have to rely on David
-[02:14:28.900]  Eric: to tell it
+[02:14:02.900]  Eric: I was really intrigued by the more I read about your story we tell stories about the news yours is a perfect example of that you have an incredible story that we're able to tell and people understand what's happening in the news and so that's my goal here is to get the story from your mouth the more that we get from you of your own story the less that we have to rely on David to tell it.
 [02:14:30.900]  Val: I like the sound of that
 [02:14:32.900]  Val: Marlowe please
 [02:14:34.900]  Val: Marie please
@@ -3877,7 +3761,7 @@ Val: two or three hours later
 [02:21:24.900]  Marie: I read it
 [02:21:26.900]  Marie: I read it
 [02:21:28.900]  David: wait hang on
-[02:21:30.900]  David: you haven't seen a draft of us
+[02:21:30.900]  David: you haven't seen a draft of it
 [02:21:32.900]  Val: oh I've seen
 [02:21:34.900]  David: how's that
 [02:21:36.900]  Val: I don't know
@@ -3971,7 +3855,7 @@ Val: two or three hours later
 [02:24:40.900]  Val: and more terrible things
 [02:24:42.900]  Val: and I'm supposed to be the main character right
 [02:24:44.900]  David: you're a main character
-[02:24:46.900]  David: you're a dad are probably the main character
+[02:24:46.900]  David: your dad are probably the main character
 [02:24:48.900]  Val: that was a mention of us
 [02:24:50.900]  Val: and why am I not on the back of the book
 [02:24:52.900]  Val: where's the description
@@ -4146,8 +4030,7 @@ David: It's not coming out around my book
 [02:30:28.900]  Val: because you're right I did
 [02:30:30.900]  Marie: it's good if you got him
 [02:30:32.900]  Rocco: I said
-[02:30:34.900]  David: do you want to know how I describe you to
-[02:30:36.900]  strangers
+[02:30:34.900]  David: do you want to know how I describe you to strangers
 [02:30:38.900]  Rocco: I was like were you talking about it
 [02:30:40.900]  Rocco: he's like yeah we were
 [02:30:42.900]  Rocco: because the daily always does that stuff
@@ -4184,7 +4067,7 @@ David: It's not coming out around my book
 [02:31:44.900]  Val: the wifi password here is
 [02:31:46.900]  Val: Olive Airplane 370
 [02:31:48.900]  David: I'm not allowed to have your wifi thanks
-[02:31:50.900]  Val: that's the smartest thing you said on that
+[02:31:50.900]  Val: that's the smartest thing you said all day
 [02:31:52.900]  David: you want to have the air flow
 [02:31:54.900]  David: on your device
 [02:31:56.900]  David: I'm happy

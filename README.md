@@ -181,7 +181,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### October
  * October 01, 2019 - Me and My Whistle-Blower prints online
  * October 05, 2019 - NYT/Val vs NYTimes Editor Nick Summers
- * October 06, 2019 - Marie emails Nick Summers and Ellen Pollack a pair of 11-page emails.
+ * October 08, 2019 - Marie emails Nick Summers and Ellen Pollack a pair of 11-page emails.
  * October 08, 2019 - Marie and David Enrich's wife talk on the phone. (Date of Kirstein Enrich - Davis Wife.m4a)
  
 ### November
@@ -295,9 +295,11 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### February
  * Mid-February - Incognito cracks down on Val's tokens and manipulations
  * February 19, 2022 - Val's wallet balance reaches zero, Val says they've lost "everything"
+ * February 28, 2022 - Writ of eviction issued
 
 ### March
  * March 07, 2022 - Val DMs Emma asking her not to think poorly of him and for access to restricted data (no response or acknowledgment sent to Val)
+ * March 16, 2022 - 5-day eviction notice posted
  * March 31, 2022 - Val and Marie are evicted from the Artist Brewery Lofts
 
 ### April
