@@ -216,19 +216,21 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### June
  * Mid-June, 2020 - Pattil Saajtian moves in
+ * June 28, 2020 - Marlowe and Pattil sell jewelry at the Artist Brewery Lofts
 
 ### July
  * July 11, 2020 - DCFS receives complaint alleging Marie was neglecting Marlowe
- * July 11, 2020 - Law enforcement does a welfare check and interviewed Marlowe, who denied abuse
- * July 20, 2020 - DCFS makes unannoucned visit to the home for a home assessment
+ * July 11/12, 2020 - Law enforcement does a welfare check and interviewed Marlowe, who denied abuse
+ * July 20, 2020 - DCFS makes unannounced visit to the home for a home assessment
  * July 21, 2020 - DCFS calls Marie, Val answers and says Marie isn't well. 
  * July 21, 2020 - DCFS receives 57 minute long recording of Val and Marie questioning Marlowe
  * July 26, 2020 - Steve's last visit with Marlowe
  * July 28, 2020 - Marie and Val interview Lori Roth
+ * July 28, 2020 - Scheduled custody evaluation, when Val and Marie got Steve's report and witness statements
  * July 29, 2020 - DCFS reassigns case to Saba Habte and receives information from LILA International School
  * July 29, 2020 - Marlowe leaves Steve an upset voicemail and says he paid Pattil to lie, Steve blames Marie for telling Marlowe that
  * July 29, 2020 - DCFS visit Marie's and Val's apartment
- * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val
+ * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val (Val's incorrect date)
  * July 30, 2020 - Lori comes back
  * July 30, 2020 - Police come
  * July 30, 2020 - Priscilla comes (after police)
@@ -257,6 +259,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * October 06?, 2020 - FBI/Val vs Andrew Dowling PT 2-_ DKo’d [creation_time   : 2020-10-06T19:39:15.000000Z]
  * October 08, 2020 - Val tweets links to recordings of a phone call to Doreen & Richard Toltz, Steve's parents.
  * October 10, 2020 - August 12 FBI notes submitted
+ * October 27, 2020 - Family court date (scheduled, not confirmed)
 
 ### November
  * November 18, 2020 - FBI interview notes prepared by Task Force Officer (unknown/redacted)
