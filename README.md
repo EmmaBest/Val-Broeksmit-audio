@@ -12,7 +12,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 # Transcription process
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
- 2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com). However, I am *not a transcriber* and these versions **may still contain errors.**
+ 2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com) and basic text editors. However, I am *not a transcriber* and these versions **likely still contain some errors.**
  3. (Partially completed) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
  4. (In-progress) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
 
@@ -137,14 +137,14 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ## 2019
 ### January
- * January 25, 2019 - Congress/PT breach report opening (creation_time   : 2019-01-25T21:41:48.000000Z)
- * January 25, 2019 - Congress/PT II / Val vs David - Val & His Dad’s Early Days (creation_time   : 2019-01-25T22:36:21.000000Z)
- * January 26, 2019 - Congress/PT III  - Fact Check (creation_time   : 2019-01-26T00:52:48.000000Z)
- * January 26, 2019 - Congress/PT IV - The Return of Edson Mitchell (creation_time   : 2019-01-26T02:35:27.000000Z)
- * January 26, 2019 - Congress/PT V - Competition (creation_time   : 2019-01-26T22:42:41.000000Z)
- * January 26, 2019 - Congress/PT VI - The 7 Pillars of Clarity (2019-01-26T23:28:21.000000Z)
- * January 26, 2019 - Congress/PT 7 - Whomever Wants To Kill The Funk Must Kill Me First (creation_time   : 2019-01-26T23:44:11.000000Z)
- * January 27, 2019 - Congress/PT IX - A Clown In The Burying Grounds (creation_time   : 2019-01-27T01:47:07.000000Z)
+ * January 25, 2019 -     [NYT/David Enrich recordings/PT breach report opening](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/1%20-%20Breach%20Report%20Opens.m4a.converted.mp3) (creation_time   : 2019-01-25T21:41:48.000000Z)
+ * January 25, 2019 - [NYT/David Enrich recordings/PT II / Val vs David - Val & His Dad’s Early Days](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/2%20-%20Val%20vs%20David%20-%20Val%20%26%20His%20Dad%E2%80%99s%20Early%20Days.m4a.converted.mp3) (creation_time   : 2019-01-25T22:36:21.000000Z)
+ * January 26, 2019 - [NYT/David Enrich recordings/PT III  - Fact Check](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/3%20%20-%20Fact%20Check.m4a.converted.mp3) (creation_time   : 2019-01-26T00:52:48.000000Z)
+ * January 26, 2019 - [NYT/David Enrich recordings/PT IV - The Return of Edson Mitchell](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/4%20-%20The%20Return%20of%20Edson%20Mitchell.m4a.converted.mp3) (creation_time   : 2019-01-26T02:35:27.000000Z)
+ * January 26, 2019 - [NYT/David Enrich recordings/PT V - Competition](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/5%20-%20Competition.m4a.converted.mp3) (creation_time   : 2019-01-26T22:42:41.000000Z)
+ * January 26, 2019 - [NYT/David Enrich recordings/PT VI - The 7 Pillars of Clarity](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/6%20-%20The%207%20Pillars%20of%20Clarity.m4a.converted.mp3) (2019-01-26T23:28:21.000000Z)
+ * January 26, 2019 - [NYT/David Enrich recordings/PT 7 - Whomever Wants To Kill The Funk Must Kill Me First](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/7%20-%20Whomever%20Wants%20To%20Kill%20The%20Funk%20Must%20Kill%20Me%20First.m4a.converted.mp3) (creation_time   : 2019-01-26T23:44:11.000000Z)
+ * January 27, 2019 - [NYT/David Enrich recordings/PT IX - A Clown In The Burying Grounds](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/8%20-%20Once%20More%20into%20the%20Breach%20We%20Go.m4a.converted.mp3) (creation_time   : 2019-01-27T01:47:07.000000Z)
  * January 28, 2019 - Val's planned check in to the hotel in St. Thomas. Val gets stuck in Miami for the day.
  * January 29, 2019 - Val arrives in St. Thomas.
  * January 30, 2017 - Val's planned check out date.
@@ -157,7 +157,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * May 09, 2019 - David Enrich emails Val an initial book proposal that he says took about 2 hours
 
 ### April
- * April 01, 2019 - Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena (creation_time   : 2019-04-02T01:42:21.000000Z)
+ * April 01, 2019 - [Congress/A False Dan Goldman, Moby, Val, & The Broken Subpoena](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/Congress/A%20False%20Dan%20Goldman%2C%20Moby%2C%20Val%2C%20%26%20The%20Broken%20Subpoena.m4a.converted.mp3) (creation_time   : 2019-04-02T01:42:21.000000Z)
  
 ### June
  * June 05, 2019 - Last known date Val provided Enrich with information on DB
@@ -180,9 +180,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### October
  * October 01, 2019 - Me and My Whistle-Blower prints online
- * October 05, 2019 - NYT/Val vs NYTimes Editor Nick Summers
+ * October 05, 2019 - [NYT/Val vs NYTimes Editor Nick Summers](https://github.com/EmmaBest/Val-Broeksmit-audio/tree/main/audio/NYT/Val%20vs%20NYTimes%20Editor%20Nick%20Summers)
  * October 08, 2019 - Marie emails Nick Summers and Ellen Pollack a pair of 11-page emails.
- * October 08, 2019 - Marie and David Enrich's wife talk on the phone. (Date of Kirstein Enrich - Davis Wife.m4a)
+ * October 08, 2019 - Marie and David Enrich's wife talk on the phone. (Date of [Kirstein Enrich - Davis Wife.m4a](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/Other/Kirstein%20Enrich%20-%20Davids%20Wife.m4a))
  
 ### November
  * November 01, 2019 - Date of "Marie vs Heather - Nov 1 2019" audio (audio unavailable)
@@ -195,7 +195,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### January
  * January, 2020 - Val's last admitted cocaine as of July 2020
  * January 13, 2020 - Marie emails David Enrich a copy of the "Marie vs Heather - Nov 1 2019" audio, with the subject line "Eviction notice because of The NY Times profile". Enrich responds, and says it's unclear if the eviction is happening but admits he "could have kinder and gentler in the article." Enrich describes the audio as saying the frustration with Val "does not stem from the article -- it's because Val doesn't listen, is difficult to deal with, etc. She says: "All those things happened before this article. .... From the leasing office perspective, he's already been a problem, and no new information we've received makes us feel like he's not a problem." Enrich says she also notes that concerns about his drug use arose "months ago", long before the article. Val later forwards Enrich's response to Emma.
- * January 26?, 2020 - NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily
+ * January 26?, 2020 - [NYT/Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of The Daily](https://github.com/EmmaBest/Val-Broeksmit-audio/tree/main/audio/NYT/Val%20Broeksmit%20vs%20David%20Enrich%20%26%20The%20NYTimes%20Podcast%20Crew%20of%20The%20Daily)
 
 ### February
  * February 09, 2020 - Rocco recounts Val thinking Tim Pool is a white supremacist
@@ -207,7 +207,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### April
  * April 01, 2020 - Val registers LIME & COCONUT DATA INTELLIGENCE (LCDI) INC. in Delaware
  * April 10, 2020 - Marie decides not to give Marlowe back, and Val and Steve have their alleged fight. Val says Marlowe is lying and having behaviorial issues
- * April 22, 2020 - Odessa Rae conversation recorded
+ * April 22, 2020 - [NYT/Odessa Rae re meeting with the New York Times David Enrich re his book on Bill and Val Broeksmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/Odessa%20Rae%20re%20meeting%20with%20the%20New%20York%20Times%20David%20Enrich%20re%20his%20book%20on%20Bill%20and%20Val%20Broeksmit.mp3)
 
 ### May
  * May, 2020 - Val says he filed police report against Nordine, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
@@ -242,13 +242,13 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 01, 2020 - Lori Roth tries to throw away Val's files + stuff?
  * August 02/03, 2020 - Lori Roth dies
  * August 03, 2020 - First responders come
- * August 09, 2020 - FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit
- * August 09, 2020 - FBI/FBI David Kos First Call w Val Broeksmit
+ * August 09, 2020 - [FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/FBI%20Special%20Agent%20Tim%20Lucey%20Calls%20Val%20Broeksmit.mp3)
+ * August 09, 2020 - [FBI/FBI David Kos First Call w Val Broeksmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/FBI%20David%20Kos%20First%20Call%20w%20Val%20Broeksmit.mp3)
  * August 10, 2020 - DCFS report recommends no contact between Val and Marlowe
  * August 10, 2020 - Court
- * August 10, 2020 - FBI/D.ko Post Hearing
- * August 12, 2020 - FBI/Kofbico PY2 [creation_time   : 2020-08-13T16:26:08.000000Z]
- * August 12, 2020 - FBI/Marie _ Agent Ko
+ * August 10, 2020 - [FBI/D.ko Post Hearing](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/D.ko%20Post%20Hearing.m4a)
+ * August 12, 2020 - [FBI/Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) [creation_time   : 2020-08-13T16:26:08.000000Z]
+ * August 12, 2020 - [FBI/Marie _ Agent Ko](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/Marie%20_%20Agent%20Ko.m4a)
 
 ### September
  * September 15, 2020 - Investigator has to hand in paperwork
@@ -256,7 +256,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### October
  * October 01, 2020 - Second trial date (if not resolved at the first)
- * October 06?, 2020 - FBI/Val vs Andrew Dowling PT 2-_ DKo’d [creation_time   : 2020-10-06T19:39:15.000000Z]
+ * October 06?, 2020 - [FBI/Val vs Andrew Dowling PT 2-_ DKo’d](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/Val%20vs%20Andrew%20Dowling%20PT%202-_%20DKo%E2%80%99d.m4a) [creation_time   : 2020-10-06T19:39:15.000000Z]
  * October 08, 2020 - Val tweets links to recordings of a phone call to Doreen & Richard Toltz, Steve's parents.
  * October 10, 2020 - August 12 FBI notes submitted
  * October 27, 2020 - Family court date (scheduled, not confirmed)
