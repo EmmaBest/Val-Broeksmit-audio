@@ -242,7 +242,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 01, 2020 - Lori Roth tries to throw away Val's files + stuff?
  * August 02/03, 2020 - Lori Roth dies
  * August 03, 2020 - First responders come
- * August 0?, 2020 - FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit
+ * August 09, 2020 - FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit
  * August 09, 2020 - FBI/FBI David Kos First Call w Val Broeksmit
  * August 10, 2020 - DCFS report recommends no contact between Val and Marlowe
  * August 10, 2020 - Court
