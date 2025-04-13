@@ -212,7 +212,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### May
  * May, 2020 - Val says he filed police report against Nordine, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
  * May 18, 2020 - Marie sends Emma emails with information she said Val wanted to share and were previously shared with Barrett Brown
- * May 25, 2020 - Val uploaded recording of phone call with KayserSozeBro1
+ * May 25, 2020 -     [Other/KayserSozeBro1 and his discussion with Val Brokesmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/Other/KayserSozeBro1%20and%20his%20discussion%20with%20Val%20Brokesmit.mp3) uploaded
 
 ### June
  * Mid-June, 2020 - Pattil Saajtian moves in
@@ -318,4 +318,4 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * October 10, 2022 - FBI closes case file on Val
 
 ## Undetermined
- * ???? - FBI/Val vs Andrew Dowling PT1  DKO’d
+ * ???? - FBI/Val vs Andrew Dowling PT1  DKO’d (presumed October 06, 2020)
