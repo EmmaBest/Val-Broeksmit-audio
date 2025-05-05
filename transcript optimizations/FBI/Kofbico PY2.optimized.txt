@@ -1008,7 +1008,7 @@ Fed:[Asks something]
 [02:42:36.040]  Val: I do. I personally, I do think so. I know no one else seems to share my opinion, but I do think that she's a hacker. I'm always trying to ask her to do it for some help, but she's the one that introduced me to Elcomsoft. I said, I have this problem with the signal messages. What do you recommend? She said, Elcomsoft, ios, forensic.
 [02:43:00.200]  Fed: "Did you do it? "I don't know. I thought about it"
 [02:43:02.040]  Val: Again, again, right, it's too open-ended.
-[02:43:04.480]  Val: And she texted me the other day. She's like, Val have you spoken to FBI, I said, no, I'm not speaking to FBI. She's like, well, are you sure? I was like, well, I'm not lying to you. I was talking to the FBI, like, you know, I will let you know when I speak to FBI. She said, well, you're kind of known as an FBI informant. I said, well, fuck you, I'm not an informant. I'm a source, like, help the FBI. I do not inform on anybody.
+[02:43:04.480]  Val: And she texted me the other day. She's like, Val have you spoken to FBI, I said, no, I'm not speaking to FBI. She's like, well, are you sure? I was like, well, I'm not lying to you. If I was talking to the FBI, like, you know, I will let you know when I speak to FBI. She said, well, you're kind of known as an FBI informant. I said, well, fuck you, I'm not an informant. I'm a source, like, help the FBI. I do not inform on anybody.
 [02:43:30.680]  Val: And then she's like, well, it's kind of the same thing. And then I had to go on a tirade to explain how it's very different. So let you know that she is probably, and also yesterday, one of my friends, Andrew, had to defend me on this group as well, because Xan was saying, you're friends with a well-known FBI informant, which is me, which is another allusion to me.
 [02:43:52.080]  Fed: So it's Xan. Oh, Xan is telling you.
 [02:43:56.480]  Val: Xan's the partner of Emma.
@@ -1083,7 +1083,7 @@ Fed:[Asks something]
 [02:49:29.360]  Fed: I'll put on a mask or whatever.
 [02:49:31.520]  Val: Oh, right, right, right, right, right. What was I gonna show you?
 [02:49:36.920]  Fed: At the time, you're...
-[02:49:41.080]  Val: Look, I don't know allegiance to these guys at all. I mean, they've just, they've become sort of friends, but, you know, as much as you can have a friend on that, that doesn't tell you anything about that, right? It's just sort of fun, more fun sort of. Like, you're in the workplace, you're not friends with all your workers, right?
+[02:49:41.080]  Val: Look, I don't have allegiance to these guys at all. I mean, they've just, they've become sort of friends, but, you know, as much as you can have a friend on that, that doesn't tell you anything about that, right? It's just sort of fun, more fun sort of. Like, you're in the workplace, you're not friends with all your workers, right?
 [02:50:05.840]  Val: No, I don't feel right for now.
 [02:50:09.160]  Fed: Oh, yeah, I'll hit the head, you know where it is, right? Yeah, yeah, yeah, okay.
 [02:50:12.320]  Fed: You guys are just gonna go...
@@ -1259,7 +1259,7 @@ Fed: [unintelligible]
 [03:03:31.440]  Val: Is he Weldon? No, Josh Weldon, or is he something Weldon? Yeah, man,
 [03:03:37.440]  Fed: I don't know all the senators and representatives, so I'm a bad, he's an [???] But,
 [03:03:42.440]  Val: I mean, he might be, he might be actually,
-[03:03:45.440]  Fed: I know he's a congressman person, but that's about the extent of my knowledgeI know.
+[03:03:45.440]  Fed: I know he's a congressman person, but that's about the extent of my knowledge.
 [03:03:48.440]  Val: Yeah, but he's in bed with a lot of, the Russian companies, they're creating these fake debt companies, and it's a really good story, it's great articles, and it's just sort of reverse engineers, put some in jail, and it's a good guy at the store. It's very impressed.
 [03:04:01.440]  Fed: That's cool.
 [03:04:02.440]  Val: I mean, he found me, he just wanted to know if I had any data on those people as well, like, I was looking for Weldon, the Russians, the Tudmento[???] or some other guy, and that's how we became friends. He's a good guy.
@@ -1307,7 +1307,7 @@ Fed: [unintelligible]
 [03:07:40.440]  Fed: What would you tell her?
 [03:07:42.440]  Val: I'm going to tell her, oh they offered me a job. She'd be like, what are they paying down? Not money. It's a good job. But they will have Marlowe. They should say, trust them. You can live with them. See that?
 [unintelligible]
-03:08:12.440]  Val: She'll see you working on it. What are you doing? Okay, thanks. I'll see you later. It's fun to do an episode But I don't know how people will know. I figured it was okay to do an episode 7 today. It was a bit rainy. But she said it was not. It was a lie. A lot of stuff was in French.
+03:08:12.440]  Val: She'll see you working on it. What are you doing? Okay, thanks. I'll see you later. It's fun to do an episode But I don't know how people will know. I figured it was okay to do an episode today. It was a bit rainy. But she said it was not. It was a lie. A lot of stuff was in French.
 [03:08:44.440]  Val: Which brings me to a good point. So I was afraid to look at it. I don't understand what it meant. Just to take a look at it. at the hard drive, right? That's concerning. So that's why I just ran it over. I'll forward it to you. That's what I said to David. I don't know. I would really like to use that against him somehow. I'm trying to do that. I don't know if it's legal for me to give him that. But what he does it with an afterward. I don't know.
 [03:09:18.440]  Fed: I don't know what you're talking about. It's hard. It's hard to say. But it's definitely hard to do what he did. So before the musician stuff, were you involved with computers?
 [03:09:34.440]  Fed: [unintelligible]
@@ -1438,7 +1438,7 @@ Fed: [unintelligible]
 [03:22:51.720]  Val: You used to be seen in the improviser and you guys know how to do it.
 [03:22:55.720]  Fed: Oh, I know. That is...
 [03:22:59.720]  Val: How do you put that?
-[03:23:01.720]  Fed: Stuff. I mean, you can't do it by yourself. The level of this is not as much as it needs to be to roll with the times and adapt. Like, for example, this whole encryption key battle, like, you know, we've had previous leaders talk about, like, what do you need to give up the encryption key? But we all kind of know, like, philosophically, that'll never, and that shouldn't happen if it doesn't matter. It's, like, a losing battle.
+[03:23:01.720]  Fed: Stuff. I mean, you can't do it by yourself. The level of this is not as much as it needs to be to roll with the times and adapt. Like, for example, this whole encryption key battle, like, you know, we've had previous leaders talk about, like, what do you need to give up the encryption key? But we all kind of know, like, philosophically, that'll never, and that shouldn't happen, if it doesn't matter. It's, like, a losing battle.
 [03:23:29.760]  Fed: We're just going to, unfortunately, have to adapt. If you just build a job, it's just going to be harder. And then many, you know, like, these old-school techniques that, like, talking to people, like, we're talking right now are talking to people that are now way more, you know, just sitting at your desk and looking at, like, a pipeline.
 [03:23:51.800]  Fed: So it becomes, there's a question [???] at work sometimes. And, like, swaying back to [??] And this is just me, but it should be hard.
 [03:24:01.800]  Val: It should be hard?
@@ -1545,7 +1545,7 @@ Fed: [unintelligible question]
 Val: That's good to know
 [03:41:46.460]  Fed: If I tell you something, like, even if I ask you to talk about something that could be construed as illegal, I'll have a whole document of, like, this is exactly what you're allowed to say, this is what you're not allowed to say, these are the communities[???], and you can't deviate from these four corners. Otherwise, we distance ourselves from you, because it's not what we ask.
 [03:42:05.460]  Val: Okay.
-[03:42:06.460]  Fed: So, because there's a lot of stuff about what the FBI is, or isn't Like, just from talking to you today, right? There's a lot of stuff that you've perceived to be as true
+[03:42:06.460]  Fed: So, because there's a lot of stuff about what the FBI is, or isn't Like, just from talking to you today, right? There's a lot of stuff that you've perceived to be as true--
 [03:42:15.460]  Val: Oh, yeah. I totally learned a lot today. Yeah.
 [03:42:18.460]  Fed: So, that being said, it's like, if you work with us, it has to be very clear that you're not breaking any rules. Right? Because we also don't want to work with people who are not going to be able to follow directions. We talked about it, it makes sense to me, but, like, if you're going to give us information, too, we have to know that that is the whole fiction. You can't, like, take part of it. You can't omit the stuff that you don't want to tell us, what you tell us has to be everything. Because if we find out that it isn't everything, then we can't trust you, right?
 [03:42:46.460]  Val: Right, right. So, you want me to hold back? on like, Barrett. If you ask me, tell me about Barrett. So, that would be, that would have to be what we have now.
@@ -1608,7 +1608,7 @@ Val: That's good to know
 [03:49:17.460]  Val: I get it.
 [03:49:18.460]  Fed: Yeah, there's limitations that we work under, but...
 [03:49:20.460]  Val: I like that. It's fine. It's like, you know, everyone has to have a...
-[03:49:26.460]  Fed: Yeah, we play about the rules. But when we do win, right, when we do arrest someone or something like that, our cases are, you know, airtight, right? We've covered every angle that we can. We've got all the information, and we've vetted everything to make sure that, we have the right person, right? We want to make sure we have the right person, and we have everything that leads up to it. So, anyway, that's all just background on how we work and how we work with sources and stuff like that.
+[03:49:26.460]  Fed: Yeah, we play by the rules. But when we do win, right, when we do arrest someone or something like that, our cases are, you know, airtight, right? We've covered every angle that we can. We've got all the information, and we've vetted everything to make sure that, we have the right person, right? We want to make sure we have the right person, and we have everything that leads up to it. So, anyway, that's all just background on how we work and how we work with sources and stuff like that.
 [03:49:49.460]  Val: That's good. I like to do extremely different things. Cause, it's really like Tim and Jammy. Tim and Jammy are very different.
 [03:49:56.460]  Fed: Yeah, because I think that's the other thing, too, is if we break the rules to get to our end of goal, how are we getting better than the bad guys?
 [03:50:02.460]  Val: Right. Right, and justifying it.
@@ -1902,7 +1902,7 @@ Val: About five minutes.
 Fed: appreciate that.
 [04:26:30.780]  Fed: Good deal, I think we got a good, good work and plan. Maybe, I mean, I'll even try to do some research on a lawyer for you, and give you some suggestions, or something like that, I don't know, we'll see what I can do. I don't know, just do the same research you can do, but at least I can give you a, okay, well, this looks good, that doesn't look good, but anyway, we'll go for that part first, and then if you find anything else, then you can tell us who would be good.
 [04:26:55.340]  Val: I'll, can you do more specific with help with? Yeah, I mean, do you know what I'm doing now?
-[04:27:01.060]  Fed: Yeah, yeah. So, like, today was just to assess what kind of access you have, or what kind of skills you have. So what I'll do is I'll write this up and ask around, like maybe there's someone who might call a crime who has, you know, a need for something that you can help with, and then I'll find them and say, hey, this is what he's got, this is the skills he has, this is the access he has. That's all based on what we've said today. That's why if there's anything else that you have access to, or crimes that you're aware of, all those things are useful, because then we can use that to say, okay, this person can use you to this person.
+[04:27:01.060]  Fed: Yeah, yeah. So, like, today was just to assess what kind of access you have, or what kind of skills you have. So what I'll do is I'll write this up and ask around, like maybe there's someone who might call a crime who has, you know, a need for something that you can help with, and then I'll find them and say, hey, this is what he's got, this is the skills he has, this is the access he has. That's all based on what we've said today. That's why if there's anything else that you have access to, or crimes that you're aware of, all those things are useful, because then we can use that to say, okay, this person can use you, this person...
 [04:27:28.700]  Val: Oh, okay.
 [04:27:29.540]  Fed: Does that make sense?
 [04:27:30.380]  Val: Yeah, it makes sense.

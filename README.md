@@ -18,8 +18,8 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 # The players
 ## Feds
- * Timothy Kevin Lucey (FBI New York)
- * David Ko (FBI Houston)
+ * [Timothy Kevin Lucey](https://www.linkedin.com/in/tim-lucey-4526a3a0) (FBI New York)
+ * [David Ko](https://thesedonaconference.org/bio/234342) (FBI Houston)
  * Boeing Shih (FBI Los Angeles)
  * Jammy Tam
  * Carmen ???
@@ -112,6 +112,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * April 15, 2016 - Val first emails the FBI about Deutcshe Bank
 
 ## 2017
+
+### Undated
+ * Late 2017 - Val meets Barrett after allegedly being referred to him by Glenn Simpson.
+
 ### January
  * January, 2017 - Glenn Simpson pays Val for some of his data
 
@@ -126,7 +130,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * February 08, 2017 - Val tells Glenn he went to the British Embassy but only got through to the second gate, and will have to go to the embassy in New York, referencing visa issues.
  * February 09, 2017 - Val tells Glen that "The Washington/Irving Johnson" password isn't working, and asks his permission to hack his computer. 
  * February 10, 2017 - Val goes to meet Bob Roach at the Senate building.
-  * February 27, 2017 - Glenn Simpson sends Val $2,000, which Val calls the "second payment"
+ * February 27, 2017 - Glenn Simpson sends Val $2,000, which Val calls the "second payment"
+
+### August
+ * August 15, 2017 - Joe Fionda contacts the Department of Justice
 
 ## 2018
  * 2018 - Marie and Peter separate, Val calls this the separation date "for the lawyers"
@@ -263,6 +270,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### November
  * November 18, 2020 - FBI interview notes prepared by Task Force Officer (unknown/redacted)
+
+### December
+ * December 11, 2020 - Vall tells Barrett about meeting with David Ko, and swears him to secrecy
 
 ## 2021
 ### April
