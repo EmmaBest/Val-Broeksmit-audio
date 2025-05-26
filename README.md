@@ -18,7 +18,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 # The players
 ## Feds
- * [Timothy Kevin Lucey](https://www.linkedin.com/in/tim-lucey-4526a3a0) (FBI New York)
+ * [Timothy Kevin Lucey](https://www.linkedin.com/in/tim-lucey-4526a3a0)/Tim Luccy (FBI New York)
  * [David Ko](https://thesedonaconference.org/bio/234342) (FBI Houston)
  * Boeing Shih (FBI Los Angeles)
  * Jammy Tam
@@ -154,7 +154,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * January 27, 2019 - [NYT/David Enrich recordings/PT IX - A Clown In The Burying Grounds](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/David%20Enrich%20recordings/8%20-%20Once%20More%20into%20the%20Breach%20We%20Go.m4a.converted.mp3) (creation_time   : 2019-01-27T01:47:07.000000Z)
  * January 28, 2019 - Val's planned check in to the hotel in St. Thomas. Val gets stuck in Miami for the day.
  * January 29, 2019 - Val arrives in St. Thomas.
- * January 30, 2017 - Val's planned check out date.
+ * January 30, 2019 - Val's planned check out date.
 
 ### February
  * February 27, 2019 - Two counterintelligence agents fly to California and meet with Val for three hours
@@ -254,6 +254,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 10, 2020 - DCFS report recommends no contact between Val and Marlowe
  * August 10, 2020 - Court
  * August 10, 2020 - [FBI/D.ko Post Hearing](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/D.ko%20Post%20Hearing.m4a)
+ * August 11, 2020 - Mike Kretzmer (lawyer) tells Marie that Val is the problem and that he needs to go
  * August 12, 2020 - [FBI/Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) [creation_time   : 2020-08-13T16:26:08.000000Z]
  * August 12, 2020 - [FBI/Marie _ Agent Ko](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/Marie%20_%20Agent%20Ko.m4a)
 
@@ -269,45 +270,71 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * October 27, 2020 - Family court date (scheduled, not confirmed)
 
 ### November
+ * November 11, 2020 - Ex parte motion in custody case
  * November 18, 2020 - FBI interview notes prepared by Task Force Officer (unknown/redacted)
 
 ### December
- * December 11, 2020 - Vall tells Barrett about meeting with David Ko, and swears him to secrecy
+ * December 08, 2020 - Hearing, January 04, 2021 hearing scheduled, bench warrant issued for Agent Tim Lucey to appear
+ * December 11, 2020 - Val tells Barrett about meeting with David Ko, and swears him to secrecy
 
 ## 2021
-### April
- * April 05, 2021- Rocco emails commissioner Padilla, Val emails Rocco
- * April 06, 2021 - Val talks to a DCFS caseworker. Last time Val is seen before he goes "missing"
- * April 13, 2021 - Val allegedly spotted at apartment complex
- * April 28, 2021 - Val's voice overheard at apartment complex
-
-### May
- * May 6, 2021 - Rocco [said](https://x.com/rocco_castoro/status/1390397886546911232) they received word that Val was alive
-
-### July
- * July 03, 2021 - Last modified date of the Val FBI audio
- * July 05, 2021 - Creation of the zip file with the Val FBI audio that Rocco Castoro shared
- * July 07, 2021 - Redacted FBI document on OSINT generated, likely in response to the audio leak
- * July 13, 2021 - Val sends Rocco the "Dude, game over" email
- * July 13, 2021 - [Val tweets](https://x.com/MToltz/status/1415594673783992322) from Marie's twitter account
- * July 16, 2021 - Val confirms he's home
- * July 17, 2021 - Val texts Kelly and says he disappeared for Marie and Marlowe because of Steve
-
-### October
- * October 05/06, 2021 - MP3 versions of Kofbico PY2 created
- * October 09/10, 2021 - MP3 versions of Kofbico PY2 uploaded to archive.org
 
 ### Winter
  * Winter, 2021 - Val and Marie begin looking into crypto when they're "broke as shit"
 
+### January
+ * January 04, 2021 - Hearing (scheduled, unconfirmed)
+
+### April
+ * April 04, 2021 - Val uploads Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of the Daily recording
+ * April 05, 2021 - Rocco emails commissioner Padilla, Val emails Rocco
+ * April 05, 2021 - Val tweets link to Val Broeksmit vs David Enrich & The NYTimes Podcast Crew of the Daily recording
+ * April 06, 2021 - Val talks to a DCFS caseworker. Val is last seen around 4 PM before he goes "missing" https://www.lapdonline.org/newsroom/missing-45-year-old-male-nr21113ti/
+ * April 07, 2021 - Marie reported Val missing
+ * April 12, 2021 - Date Val declared missing, and date last seen according to police report
+ * April 12, 2021 - Possible date police are called by Rocco about Val's disappearance (Rocco's best recollection)
+ * April 13, 2021 - Tweets by Marie's account allege she was assaulted by police
+ * April 13, 2021 - First public reports that Val is missing
+ * April 14, 2021 - Likely date missing persons report completed
+ * April 19, 2021 - LAPD Press release abou Val being missing
+ * April 28, 2021 - Val's voice overheard at apartment complex
+ * April 30, 2021 - Val vs NYTimes Editor Nick Summers podcast uploads and Val's account tweets the link, allegedly having been on a timer https://x.com/ScottMStedman/status/1387973984092790789
+ 
+### May
+ * May 6, 2021 - Rocco [said](http://web.archive.org/web/20210506200756/twitter.com/rocco_castoro/status/1390397886546911232) they received word that Val was alive
+
+### July
+ * July 03, 2021 - Last modified date of the Val FBI audio
+ * July 03, 2021 - Barrett [invokes](http://web.archive.org/web/20210704011412/https://twitter.com/BarrettB/status/1411493500571557894) Agent Ko on Twitter
+ * July 04, 2021 - Val emails Rocco asking him to remove mentions of Agent Lucey from social media, Rocco refuses
+ * July 04, 2021 - Barrett [begins tweeting](http://web.archive.org/web/20210705001143/https://twitter.com/BarrettB/status/1411840144110460930) FBI audio excerpts and [claims](http://web.archive.org/web/20210704175005/https://twitter.com/BarrettB/status/1411744068116307969) that Rocco will release it before [correcting himself](http://web.archive.org/web/20210704182906/https://twitter.com/BarrettB/status/1411744624943697921) and saying he'll release it himself
+ * July 05, 2021 - Barrett [tweets](http://web.archive.org/web/20210705154736/https://twitter.com/BarrettB/status/1412075645056716804) that the FBI audio will be used in lawsuits
+ * July 05, 2021 - Creation of the zip file with the Val FBI audio that Rocco Castoro shared
+ * July 07, 2021 - Redacted FBI document on OSINT generated, likely in response to the audio leak
+ * July 13, 2021 - Val sends Rocco the ["Dude, game over"](http://web.archive.org/web/20210714034411/https://twitter.com/rocco_castoro/status/1415098649713983490) email
+ * July 14, 2021 - Rocco [posts](http://web.archive.org/web/20210714192137/https://twitter.com/rocco_castoro/status/1415391007013806081) screenshots alleging Val is abusive to Marie and Marlowe
+ * July 15, 2021 - [Val tweets](https://x.com/MToltz/status/1415594673783992322) from Marie's twitter account
+ * July 16, 2021 - Val [confirms to Scott](https://x.com/ScottMStedman/status/1416122202366169088) that he's home
+ * July 17, 2021 - Val [texts Kelly](https://x.com/kelly2277/status/1519297236110299138) and says he disappeared for Marie and Marlowe because of Steve
+
+### October
+ * October 05/06, 2021 - MP3 versions of Kofbico PY2 created
+ * October 09, 2021 - MP3 versions of Kofbico PY2 uploaded to [archive.org](https://archive.org/details/val-broeksmit-fbi-meeting-la-office)
+
+### November
+ * November 22, 2021 - Val's first unambiguous [tweet](https://x.com/BikiniRobotArmy/status/1462932532765233154) since "disappearing" 
+
 ## 2022
 ### January
+ * January, 2022 - Last time Val and Scott spoke https://x.com/ScottMStedman/status/1518818177811066880
  * January 9, 2022 - Val thought he became an accidental crypto trillionaire
+ * January 13, 2022 - Val declares himself ["the wealthiest individual non-corporate pecuniary entity in the world"](https://x.com/BikiniRobotArmy/status/1481500647698493440)
  * January 15, 2022 - Val DMs Emma about "a new data leak" (no response or acknowledgment sent to Val)
 
 ### February
  * Mid-February - Incognito cracks down on Val's tokens and manipulations
  * February 19, 2022 - Val's wallet balance reaches zero, Val says they've lost "everything"
+ * February 23, 2022 - Court rules against Marie in eviction case
  * February 28, 2022 - Writ of eviction issued
 
 ### March
@@ -319,10 +346,14 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * April 05, 2022 - Val makes despondent phone call, post eviction, says Marie is missing
  * April 06, 2022 - Val breaks in and barricades himself inside his old apartment, says Marie is missing and that he has a gun, police come
  * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit, arrested for 25400(A)(1), concealed firearm LAC2CJ05155-01
- * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts), arrested for Contempt Of Court: Disobey Court Order/Process LAC2CJ05158-01
+ * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts), arrested for Tresspassing and Contempt Of Court: Disobey Court Order/Process LAC2CJ05158-01
  * April 14, 2022 - Petition for restraining order
  * April 23, 2022 - "someone texts me from Broeksmit’s Signal account. It isn’t him. The text reads: “Marie has been found and now we need to find Val who is missing.” I ask who is writing. No one answers." [crypto alchemist by Gian M. Volpicelli](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
  * April 25, 2022 - Val is found dead at Wilson High School in El Sereno, CA
+ * April 28, 2022 - Marie's last reported date of contact https://archive.is/Nbjc7
+
+### May
+ * May 26, 2022 - [Val's laptop sold](hibid.com/lot/122536810/possible-laptop-from-hell-valentin-broeksmit)
 
 ### October
  * October 10, 2022 - FBI closes case file on Val
