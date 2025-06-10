@@ -326,7 +326,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ## 2022
 ### January
- * January, 2022 - Last time Val and Scott spoke https://x.com/ScottMStedman/status/1518818177811066880
+ * January, 2022 - Last time [Val and Scott spoke](https://x.com/ScottMStedman/status/1518818177811066880)
  * January 9, 2022 - Val thought he became an accidental crypto trillionaire
  * January 13, 2022 - Val declares himself ["the wealthiest individual non-corporate pecuniary entity in the world"](https://x.com/BikiniRobotArmy/status/1481500647698493440)
  * January 15, 2022 - Val DMs Emma about "a new data leak" (no response or acknowledgment sent to Val)
@@ -345,18 +345,37 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### April
  * April 05, 2022 - Val makes despondent phone call, post eviction, says Marie is missing
  * April 06, 2022 - Val breaks in and barricades himself inside his old apartment, says Marie is missing and that he has a gun, police come
+ * April 08, 2022 - Val's last interaction with Gian M. Volpicelli
  * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit, arrested for 25400(A)(1), concealed firearm LAC2CJ05155-01
  * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts), arrested for Tresspassing and Contempt Of Court: Disobey Court Order/Process LAC2CJ05158-01
  * April 14, 2022 - Petition for restraining order
  * April 23, 2022 - "someone texts me from Broeksmit’s Signal account. It isn’t him. The text reads: “Marie has been found and now we need to find Val who is missing.” I ask who is writing. No one answers." [crypto alchemist by Gian M. Volpicelli](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
+ * April 23, 2022 - Marie's [CA DOJ](https://web.archive.org/web/20221018213536/https://oag.ca.gov/missing/person/marie-petertoltz) last reported date of contact
  * April 25, 2022 - Val is found dead at Wilson High School in El Sereno, CA
- * April 28, 2022 - Marie's last reported date of contact https://archive.is/Nbjc7
+ * April 26, 2022 - Initial autopsy conducted
+ * April 28, 2022 - Follow-up autopsy
+ * April 28, 2022 - Marie's [NamUs](https://archive.is/Nbjc7) last reported date of contact
 
 ### May
  * May 26, 2022 - [Val's laptop sold](hibid.com/lot/122536810/possible-laptop-from-hell-valentin-broeksmit)
 
+### September
+ * September 18, 2022 - Toxicology report final review printed
+ * September 21, 2022 - Toxicology report final review signed
+
 ### October
- * October 10, 2022 - FBI closes case file on Val
+ * October 11, 2022 - FBI [closes case file](https://www.documentcloud.org/documents/25444505-valentin-broeksmit-part-01-final/#document/p11/a2655574) on Val
+ * October 19, 2022 - Final medical report signed off on for Val
+ * October 21, 2022 - Val [Twitter post](https://x.com/BikiniRobotArmy/status/1583564338454966272)
+ * October 25, 2022 - Val [Twitter post](https://x.com/BikiniRobotArmy/status/1584753199151386624)
+ 
+## 2023
+### February
+ * February 03, 2023 - LA Coroner's Office sends Coroner's report to Emma Best (order for file place when Val's case closed)
+
+## 2024
+### June
+* June 24, 2024 - Special Counsel files [document](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648653/gov.uscourts.flsd.648653.644.8.pdf) showing that Trump had newspaper with Val mixed in with other documents and [raises eyebrows](https://www.msn.com/en-us/news/politics/deutsche-bank-article-among-trumps-classified-documents-raises-eyebrows/ar-BB1oVQGq)
 
 ## Undetermined
  * ???? - FBI/Val vs Andrew Dowling PT1  DKO’d (presumed October 06, 2020)
