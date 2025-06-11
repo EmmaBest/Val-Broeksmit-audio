@@ -3,7 +3,7 @@
 Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit) meeting with and speaking to FBI agents, Congressional staffers and people from the New York Times. A [heavily redacted portion of his FBI file](https://www.documentcloud.org/documents/25444505-valentin-broeksmit-part-01-final/) has been released through the Freedom of Information Act.
 
 ## As-is
- * The [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent by Rocco Castoro, and is provided as-is.
+ * The original [Val vs Andrew Dowling PT1  DKO’d](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.m4a) file was corrupt in the original Zip file I was sent by Rocco Castoro, and is provided as-is. The audio was eventually recovered and [converted to mp3](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Val%20vs%20Andrew%20Dowling%20PT1%20%20DKO%E2%80%99d.mp3) and is also provided as-is alongside the original.
  * The NYT audio files were too large to upload to GitHub, so they were split evenly by time. The original versions were uploaded as [podcasts](https://podcasters.spotify.com/pod/show/thenewenthusiasts/).
  * In some places, uninterrupted speech do not have the speaker individually marked. In those places, the beginning and end are marked.
  * In most places, the identities of feds are treated interchangeably. Aside from phone calls with a single participant and excerptions for clarity, little effort is made on a line-by-line basis to track which fed is speaking or to note that they speak with more than one voice. 
@@ -12,7 +12,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 # Transcription process
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
- 2. [Kofbico PY2](https://github.com/EmmaBest/Val-Broeksmit-FBI-audio/blob/main/audio/FBI/Kofbico%20PY2.m4a) and other transcripts were manually corrected using [oTranscribe](https://oTranscribe.com) and basic text editors. However, I am *not a transcriber* and these versions **likely still contain some errors.**
+ 2. Transcripts were manually corrected using [oTranscribe](https://oTranscribe.com) and basic text editors. However, I am *not a transcriber* and these versions **likely still contain some errors.**
  3. (Partially completed) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
  4. (In-progress) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
 
@@ -42,7 +42,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Barrett Brown](https://en.wikipedia.org/wiki/Barrett_Brown)
  * [Rocco Castoro](https://en.wikipedia.org/wiki/Rocco_Castoro)
  * [David Enrich](https://en.wikipedia.org/wiki/David_Enrich)
- * [OCCRP](https://en.wikipedia.org/wiki/Organized_Crime_and_Corruption_Reporting_Project) (mispronounced OCCP)
+ * [OCCRP](https://en.wikipedia.org/wiki/Organized_Crime_and_Corruption_Reporting_Project) (mispronounced by Val as OCCP)
  * [Odessa Rae](https://en.wikipedia.org/wiki/Odessa_Rae)
  * [Scott Steadman](https://journa.host/@scottmstedman)
  * [Nick Summmers](http://www.nicksummers.com/)
@@ -60,7 +60,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * Nordine Bouriche (head of [Lycée International de Los Angeles](https://en.wikipedia.org/wiki/International_School_of_Los_Angeles), LILA school)
  * Ashley Jackson (Housing Administrative Assistant)
  * Muzza AKA Nick
- * Lori Roth DOB: 01/17/1950 (housekeeper, deceased)
+ * Lori Roth DOB: 01/17/1950 (housekeeper, [deceased](https://me.lacounty.gov/case-detail/?caseNumber=2020-07011))
  * Pattil Saatjian (neighbor)
  * Stauche
  * Amy ???
@@ -343,13 +343,13 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * March 31, 2022 - Val and Marie are evicted from the Artist Brewery Lofts
 
 ### April
- * April 05, 2022 - Val makes despondent phone call, post eviction, says Marie is missing
- * April 06, 2022 - Val breaks in and barricades himself inside his old apartment, says Marie is missing and that he has a gun, police come
+ * April 05, 2022 - Val is despondent and calls Gian Volpicelli, says Marie is missing
+ * April 06, 2022 - Val breaks in and barricades himself inside his old apartment, says Marie is missing and that he has a gun, police come 
  * April 08, 2022 - Val's last interaction with Gian M. Volpicelli
  * April 09, 2022 - Val allegedly seen sneaking into the apartment complex through the hole in a wall from an AC unit, arrested for 25400(A)(1), concealed firearm LAC2CJ05155-01
  * April 13, 2022 - Val returns to the apartments and breaks in (last known appearance, Val stops responding to texts), arrested for Tresspassing and Contempt Of Court: Disobey Court Order/Process LAC2CJ05158-01
  * April 14, 2022 - Petition for restraining order
- * April 23, 2022 - "someone texts me from Broeksmit’s Signal account. It isn’t him. The text reads: “Marie has been found and now we need to find Val who is missing.” I ask who is writing. No one answers." [crypto alchemist by Gian M. Volpicelli](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
+ * April 23, 2022 - Someone texts [Gian M. Volpicelli](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/) "from Broeksmit’s Signal account. It isn’t him. The text reads: “Marie has been found and now we need to find Val who is missing.” I ask who is writing. No one answers." 
  * April 23, 2022 - Marie's [CA DOJ](https://web.archive.org/web/20221018213536/https://oag.ca.gov/missing/person/marie-petertoltz) last reported date of contact
  * April 25, 2022 - Val is found dead at Wilson High School in El Sereno, CA
  * April 26, 2022 - Initial autopsy conducted
@@ -378,4 +378,4 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 * June 24, 2024 - Special Counsel files [document](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648653/gov.uscourts.flsd.648653.644.8.pdf) showing that Trump had newspaper with Val mixed in with other documents and [raises eyebrows](https://www.msn.com/en-us/news/politics/deutsche-bank-article-among-trumps-classified-documents-raises-eyebrows/ar-BB1oVQGq)
 
 ## Undetermined
- * ???? - FBI/Val vs Andrew Dowling PT1  DKO’d (presumed October 06, 2020)
+ * Between August 13, 2020 and October 06, 2020 - FBI/Val vs Andrew Dowling PT1  DKO’d (presumed October 06, 2020)
