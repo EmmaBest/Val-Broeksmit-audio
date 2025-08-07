@@ -28,9 +28,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Alla Broeksmit](https://allabroeksmit.com/) (disowned Val)
  * Bill Broeksmit (suicide)
  * [Valentin "Val" Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
- * [Marie Peter](https://charleyproject.org/case/marie-peter-toltz)
+ * Marie Peter
  * M (minor, Stephen and Marie's son)
- * [Stephen](https://en.wikipedia.org/wiki/Stephen_Toltz) (Marie's ex)
+ * Stephen T. (Marie's ex and M's father)
 
 ## Activists and investigators
  * Joe Fionda
