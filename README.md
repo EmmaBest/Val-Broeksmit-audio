@@ -13,7 +13,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
  2. Transcripts were manually corrected using [oTranscribe](https://oTranscribe.com) and basic text editors. However, I am *not a transcriber* and these versions **likely still contain some errors.**
- 3. (Partially completed) The corrected transcripts will then have been edited to be more readable. i.e. combining multiple lines from a single speaker into one paragraph, etc.
+ 3. Many of the corrected transcripts were then edited to be more readable by combining multiple lines from a single speaker into one paragraph, etc.
  4. (In-progress) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
 
 # The players
@@ -28,9 +28,9 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * [Alla Broeksmit](https://allabroeksmit.com/) (disowned Val)
  * Bill Broeksmit (suicide)
  * [Valentin "Val" Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
- * [Marie Peter-Toltz](https://charleyproject.org/case/marie-peter-toltz)
- * Marlowe Peter-Toltz (minor)
- * [Steve Toltz](https://en.wikipedia.org/wiki/Steve_Toltz) (Marie's ex, described by Val in negative terms)
+ * [Marie Peter](https://charleyproject.org/case/marie-peter-toltz)
+ * M (minor, Stephen and Marie's son)
+ * [Stephen](https://en.wikipedia.org/wiki/Stephen_Toltz) (Marie's ex)
 
 ## Activists and investigators
  * Joe Fionda
@@ -74,22 +74,22 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 # Reconstructed Timeline
 ## 2003
- * 2003 - Marie and Steve meet in Madrid, Spain
+ * 2003 - Marie and Stephen meet in Madrid, Spain
 
 ## 2004
- * 2004 - Steve has his spinal injury
+ * 2004 - Stephen has his spinal injury
 
 ## 2005
- * 2005 - Marie and Steve marry (in France?)
+ * 2005 - Marie and Stephen marry (in France?)
  
 ## 2013
- * 2013 - When Marie and Peter separated "between us" per Val, officially per Steve Toltz
+ * 2013 - When Marie and Peter separated "between us" per Val, officially per Stephen
  
 ### May
  * May 09, 2013 - Bill Broeksmit reports having paroxysmal atrial fibrillation, and says it's "electrical and not structural."
 
 ## 2014
- * 2014 - Marie and Steve move to the United States
+ * 2014 - Marie and Stephen move to the United States
 
 ### January
  * January 26, 2014 - Bill Broeksmit commits suicide
@@ -181,7 +181,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 12, 2019 - Val emails David Enrich a list of email addresses and passwords for Epstein. Val later said Enrich asked for the information (evidence not provided)
 
 ### September
- * September, 2019 - Marie and Steve Toltz file for divorce
+ * September, 2019 - Marie and Stephen file for divorce
  * September 07, 2019 - Rosanne Berg emails David Enrich that they "cannot make a deal with Val for his life rights, he is asking way way too much to option and then to purchase" but that they're "still interested in trying to adapt the book, without Val's involvement."
  * September, 2019 - Marie gets the phone number for David Enrich's wife from Val's phone and texts her about the article.
 
@@ -213,36 +213,36 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 
 ### April
  * April 01, 2020 - Val registers LIME & COCONUT DATA INTELLIGENCE (LCDI) INC. in Delaware
- * April 10, 2020 - Marie decides not to give Marlowe back, and Val and Steve have their alleged fight. Val says Marlowe is lying and having behaviorial issues
+ * April 10, 2020 - Marie decides not to give M back, and Val and Stephen have their alleged fight. Val says M is lying and having behaviorial issues
  * April 22, 2020 - [NYT/Odessa Rae re meeting with the New York Times David Enrich re his book on Bill and Val Broeksmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/NYT/Odessa%20Rae%20re%20meeting%20with%20the%20New%20York%20Times%20David%20Enrich%20re%20his%20book%20on%20Bill%20and%20Val%20Broeksmit.mp3)
 
 ### May
- * May, 2020 - Val says he filed police report against Nordine, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Steve. LAPD received report from Marie and investigated, found no issues
+ * May, 2020 - Val says he filed police report against Nordine, "way too handsy" and threatened to call CPS if Marie didn't go to Parent-Teacher meeting with Stephen. LAPD received report from Marie and investigated, found no issues
  * May 18, 2020 - Marie sends Emma emails with information she said Val wanted to share and were previously shared with Barrett Brown
  * May 25, 2020 -     [Other/KayserSozeBro1 and his discussion with Val Brokesmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/Other/KayserSozeBro1%20and%20his%20discussion%20with%20Val%20Brokesmit.mp3) uploaded
 
 ### June
  * Mid-June, 2020 - Pattil Saajtian moves in
- * June 28, 2020 - Marlowe and Pattil sell jewelry at the Artist Brewery Lofts
+ * June 28, 2020 - M and Pattil sell jewelry at the Artist Brewery Lofts
 
 ### July
- * July 11, 2020 - DCFS receives complaint alleging Marie was neglecting Marlowe
- * July 11/12, 2020 - Law enforcement does a welfare check and interviewed Marlowe, who denied abuse
+ * July 11, 2020 - DCFS receives complaint alleging Marie was neglecting M
+ * July 11/12, 2020 - Law enforcement does a welfare check and interviewed M, who denied abuse
  * July 20, 2020 - DCFS makes unannounced visit to the home for a home assessment
  * July 21, 2020 - DCFS calls Marie, Val answers and says Marie isn't well. 
- * July 21, 2020 - DCFS receives 57 minute long recording of Val and Marie questioning Marlowe
- * July 26, 2020 - Steve's last visit with Marlowe
+ * July 21, 2020 - DCFS receives 57 minute long recording of Val and Marie questioning M
+ * July 26, 2020 - Stephen's last visit with M
  * July 28, 2020 - Marie and Val interview Lori Roth
- * July 28, 2020 - Scheduled custody evaluation, when Val and Marie got Steve's report and witness statements
+ * July 28, 2020 - Scheduled custody evaluation, when Val and Marie got Stephen's report and witness statements
  * July 29, 2020 - DCFS reassigns case to Saba Habte and receives information from LILA International School
- * July 29, 2020 - Marlowe leaves Steve an upset voicemail and says he paid Pattil to lie, Steve blames Marie for telling Marlowe that
+ * July 29, 2020 - M leaves Stephen an upset voicemail and says he paid Pattil to lie, Stephen blames Marie for telling M that
  * July 29, 2020 - DCFS visit Marie's and Val's apartment
- * July 30, 2020 - "Approximately" when Steve sent the report and witness statements to Marie and Val (Val's incorrect date)
+ * July 30, 2020 - "Approximately" when Stephen sent the report and witness statements to Marie and Val (Val's incorrect date)
  * July 30, 2020 - Lori comes back
  * July 30, 2020 - Police come
  * July 30, 2020 - Priscilla comes (after police)
  * July 31, 2020 - Scheduled date of drug tests for Val and Marie
- * July 31, 2020 - DCFS does home visit and evaluation to Steve's home
+ * July 31, 2020 - DCFS does home visit and evaluation to Stephen's home
  * End of July/Begining of August, 2020 - Police come back after Priscilla leaves
 
 ### August
@@ -251,7 +251,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * August 03, 2020 - First responders come
  * August 09, 2020 - [FBI/FBI Special Agent Tim Lucey Calls Val Broeksmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/FBI%20Special%20Agent%20Tim%20Lucey%20Calls%20Val%20Broeksmit.mp3)
  * August 09, 2020 - [FBI/FBI David Kos First Call w Val Broeksmit](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/FBI%20David%20Kos%20First%20Call%20w%20Val%20Broeksmit.mp3)
- * August 10, 2020 - DCFS report recommends no contact between Val and Marlowe
+ * August 10, 2020 - DCFS report recommends no contact between Val and M
  * August 10, 2020 - Court
  * August 10, 2020 - [FBI/D.ko Post Hearing](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/D.ko%20Post%20Hearing.m4a)
  * August 11, 2020 - Mike Kretzmer (lawyer) tells Marie that Val is the problem and that he needs to go
@@ -265,7 +265,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
 ### October
  * October 01, 2020 - Second trial date (if not resolved at the first)
  * October 06?, 2020 - [FBI/Val vs Andrew Dowling PT 2-_ DKo’d](https://github.com/EmmaBest/Val-Broeksmit-audio/blob/main/audio/FBI/Val%20vs%20Andrew%20Dowling%20PT%202-_%20DKo%E2%80%99d.m4a) [creation_time   : 2020-10-06T19:39:15.000000Z]
- * October 08, 2020 - Val tweets links to recordings of a phone call to Doreen & Richard Toltz, Steve's parents.
+ * October 08, 2020 - Val tweets links to recordings of a phone call to Stephen's parents.
  * October 10, 2020 - August 12 FBI notes submitted
  * October 27, 2020 - Family court date (scheduled, not confirmed)
 
@@ -312,10 +312,10 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * July 05, 2021 - Creation of the zip file with the Val FBI audio that Rocco Castoro shared
  * July 07, 2021 - Redacted FBI document on OSINT generated, likely in response to the audio leak
  * July 13, 2021 - Val sends Rocco the ["Dude, game over"](http://web.archive.org/web/20210714034411/https://twitter.com/rocco_castoro/status/1415098649713983490) email
- * July 14, 2021 - Rocco [posts](http://web.archive.org/web/20210714192137/https://twitter.com/rocco_castoro/status/1415391007013806081) screenshots alleging Val is abusive to Marie and Marlowe
+ * July 14, 2021 - Rocco [posts](http://web.archive.org/web/20210714192137/https://twitter.com/rocco_castoro/status/1415391007013806081) screenshots alleging Val is abusive to Marie and M
  * July 15, 2021 - [Val tweets](https://x.com/MToltz/status/1415594673783992322) from Marie's twitter account
  * July 16, 2021 - Val [confirms to Scott](https://x.com/ScottMStedman/status/1416122202366169088) that he's home
- * July 17, 2021 - Val [texts Kelly](https://x.com/kelly2277/status/1519297236110299138) and says he disappeared for Marie and Marlowe because of Steve
+ * July 17, 2021 - Val [texts Kelly](https://x.com/kelly2277/status/1519297236110299138) and says he disappeared for Marie and M because of Stephen
 
 ### October
  * October 05/06, 2021 - MP3 versions of Kofbico PY2 created
@@ -357,6 +357,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * April 28, 2022 - Marie's [NamUs](https://archive.is/Nbjc7) last reported date of contact
 
 ### May
+ * May 25, 2022 - NamUs case created for Marie
  * May 26, 2022 - [Val's laptop sold](hibid.com/lot/122536810/possible-laptop-from-hell-valentin-broeksmit)
 
 ### September

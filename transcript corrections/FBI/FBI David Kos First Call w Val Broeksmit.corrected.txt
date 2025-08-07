@@ -69,7 +69,7 @@ Val: are you the agent from Houston?
 [03:05.000 --> 03:06.000]  Val: Deutsche Bank.
 [03:06.000 --> 03:07.000]  Ko: Uh-huh.
 [03:07.000 --> 03:09.000]  Val: Just, you know, catching the bad guys basically.
-[03:09.000 --> 03:15.000]  Val: Um, so, and they did a favor for me a while ago where, uh, Marie and her son, uh, Marlowe
+[03:09.000 --> 03:15.000]  Val: Um, so, and they did a favor for me a while ago where, uh, Marie and her son, uh, M
 [03:15.000 --> 03:18.000]  Val: who's 8 years old. Um, they need to get their--
 [03:18.000 --> 03:21.000]  Val: Well, see, Marie's going through this very contentious divorce.
 [03:21.000 --> 03:25.000]  Val: Um, the ex-husband's not a good guy kind of divorce, you know.
@@ -78,7 +78,7 @@ Val: are you the agent from Houston?
 [03:32.000 --> 03:35.000]  Val: Um, and he tried everything he could to not allow that to happen.
 [03:35.000 --> 03:38.000]  Val: But fortunately Jammy and Tim and Carmen made it happen.
 [03:38.000 --> 03:40.000]  Val: So she, she got off his visa.
-[03:40.000 --> 03:43.000]  Val: She has her own visa with Marlowe on it.
+[03:40.000 --> 03:43.000]  Val: She has her own visa with M on it.
 [03:43.000 --> 03:50.000]  Val: Um, but, uh, now that divorce proceedings has started, have started, he has escalated
 [03:50.000 --> 03:52.000]  Val: dramatically, dramatically so.
 [03:52.000 --> 04:01.000]  Val: Um, including his escalation, now the short version is he's launched a full on attack
@@ -96,8 +96,8 @@ Val: are you the agent from Houston?
 [04:22.000 --> 04:26.000]  Val: It's unfortunate, especially when, uh, especially here in this case, because there's an eight
 [04:26.000 --> 04:30.000]  Val: year old, like he, the sort of person doesn't, uh, put the child first.
 [04:30.000 --> 04:31.000]  Val: His needs first.
-[04:31.000 --> 04:33.000]  Val: And then the child, right? Marlowe.
-[04:33.000 --> 04:36.000]  Val: So I keep saying the child, like he's like, I'm just saying, but it's Marlowe.
+[04:31.000 --> 04:33.000]  Val: And then the child, right? M.
+[04:33.000 --> 04:36.000]  Val: So I keep saying the child, like he's like, I'm just saying, but it's M.
 [04:36.000 --> 04:37.000]  Val: He's an eight year old.
 [04:37.000 --> 04:38.000]  Val: So it puts.
 [04:38.000 --> 04:40.000]  Ko: I mean, he's Marie's child.
@@ -110,7 +110,7 @@ Val: are you the agent from Houston?
 [04:49.000 --> 04:50.000]  Val: Cause now I say the child.
 [04:50.000 --> 04:52.000]  Val: It's, you know, it's very terrible.
 [04:52.000 --> 04:53.000]  Val: But, um, anyway.
-[04:53.000 --> 05:00.000]  Val: So, uh, Marlowe, uh, in, uh, you had, you see his, his, he has a problem.
+[04:53.000 --> 05:00.000]  Val: So, uh, M, uh, in, uh, you had, you see his, his, he has a problem.
 [05:00.000 --> 05:05.000]  Val: Um, not only has he gone, the reason he's gone mad is 11 years ago.
 [05:05.000 --> 05:11.000]  Val: He had a spinal aneurysm, which left him paralyzed for about a year.
 [05:11.000 --> 05:14.000]  Val: And Marie was married to him at the time and nursed him back to health.
@@ -148,17 +148,17 @@ Val: are you the agent from Houston?
 [06:19.000 --> 06:21.000]  Val: So you know this type, right?
 [06:21.000 --> 06:22.000]  Val: Not even a girlfriend.
 [06:22.000 --> 06:25.000]  Val: So the obsession with Marie is very, very severe.
-[06:25.000 --> 06:32.000]  Val: And, um, uh, so Marlowe and Marie's and I both noticed that is the deterioration has escalated
+[06:25.000 --> 06:32.000]  Val: And, um, uh, so M and Marie's and I both noticed that is the deterioration has escalated
 [06:32.000 --> 06:33.000]  Val: dramatically.
 [06:33.000 --> 06:39.000]  Val: So, so Marie took it upon herself to not, they've had a, not a shared custody agreement, but
 [06:39.000 --> 06:44.000]  Val: since they're married, they've had a, um, verbal agreement where Marie pretty much has
-[06:44.000 --> 06:49.000]  Val: Marlowe, I'd say 75 to 80% of the time and Steve sees him on the weekends.
-[06:49.000 --> 06:54.000]  Val: But at this point, Marie decided that she could not trust him alone with Marlowe.
+[06:44.000 --> 06:49.000]  Val: M, I'd say 75 to 80% of the time and Steve sees him on the weekends.
+[06:49.000 --> 06:54.000]  Val: But at this point, Marie decided that she could not trust him alone with M.
 [06:54.000 --> 06:56.000]  Val: So she kept him when COVID started.
 [06:56.000 --> 06:57.000]  Val: She said, I'm going to keep him.
 [06:57.000 --> 07:01.000]  Val: I mean, I've got him for school and we can sit here and we can talk to him.
 [07:01.000 --> 07:03.000]  Val: And cause he changed a little bit around February.
-[07:03.000 --> 07:05.000]  Val: We still don't know why Marlowe has.
+[07:03.000 --> 07:05.000]  Val: We still don't know why M has.
 [07:05.000 --> 07:06.000]  Val: We don't know what's happened.
 [07:06.000 --> 07:11.000]  Val: So Marie kept him and that escalated things even further for the divorce proceedings.
 [07:11.000 --> 07:12.000]  Val: Right.
@@ -190,7 +190,7 @@ Val: are you the agent from Houston?
 [08:17.000 --> 08:19.000]  Val: Well, she's like a really bad artist.
 [08:19.000 --> 08:21.000]  Val: She makes crystal jewelry just to get to the point.
 [08:21.000 --> 08:23.000]  Val: Like no one wants to buy a crystal jewelry.
-[08:23.000 --> 08:26.000]  Val: Um, but Marlowe, he's eight years old and he's very inquisitive.
+[08:23.000 --> 08:26.000]  Val: Um, but M, he's eight years old and he's very inquisitive.
 [08:26.000 --> 08:27.000]  Val: He's very talkative.
 [08:27.000 --> 08:30.000]  Val: And he was like, Oh my God, crystal jewelry.
 [08:30.000 --> 08:35.000]  Val: And she, she met him in the park and she talked to him and, um, convinced him to become her
@@ -207,7 +207,7 @@ Val: are you the agent from Houston?
 [08:53.000 --> 08:56.000]  Val: Cabin fever in the whole country and probably the world because everyone's living together.
 [08:56.000 --> 08:58.000]  Val: So, uh, we figured, wow.
 [08:58.000 --> 08:59.000]  Val: Okay.
-[08:59.000 --> 09:03.000]  Val: She's, she wants Marlowe to come to her place to do, to make crystal jewelry for two hours
+[08:59.000 --> 09:03.000]  Val: She's, she wants M to come to her place to do, to make crystal jewelry for two hours
 [09:03.000 --> 09:04.000]  Val: of the day.
 [09:04.000 --> 09:06.000]  Val: And we're like, Oh, that's great idea for us.
 [09:06.000 --> 09:07.000]  Val: We can finally be alone for two hours.
