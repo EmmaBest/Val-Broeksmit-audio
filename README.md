@@ -14,7 +14,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  1. The original transcripts were created using [Whisper](https://github.com/openai/whisper). These are useful for searching, but contain numerous errors. These versions are being provided **as-is** and for reference only.
  2. Transcripts were manually corrected using [oTranscribe](https://oTranscribe.com) and basic text editors. However, I am *not a transcriber* and these versions **likely still contain some errors.**
  3. Many of the corrected transcripts were then edited to be more readable by combining multiple lines from a single speaker into one paragraph, etc.
- 4. (In-progress) Post-mortem of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
+ 4. [Post-mortem](https://emma.best/2025/08/08/val-broeksmit-a-comically-tragic-spy/) of Val Broeksmit's life, relationship with the FBI, The New York Times, and some of his claims.
 
 # The players
 ## Feds
