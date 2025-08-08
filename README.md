@@ -313,7 +313,7 @@ Audio files and transcripts of FBI informant [Val Broeksmit](https://en.wikipedi
  * July 07, 2021 - Redacted FBI document on OSINT generated, likely in response to the audio leak
  * July 13, 2021 - Val sends Rocco the ["Dude, game over"](http://web.archive.org/web/20210714034411/https://twitter.com/rocco_castoro/status/1415098649713983490) email
  * July 14, 2021 - Rocco [posts](http://web.archive.org/web/20210714192137/https://twitter.com/rocco_castoro/status/1415391007013806081) screenshots alleging Val is abusive to Marie and M
- * July 15, 2021 - [Val tweets](https://x.com/MToltz/status/1415594673783992322) from Marie's twitter account
+ * July 15, 2021 - [Val tweets](https://x.com/M[Redacted]/status/1415594673783992322) from Marie's twitter account
  * July 16, 2021 - Val [confirms to Scott](https://x.com/ScottMStedman/status/1416122202366169088) that he's home
  * July 17, 2021 - Val [texts Kelly](https://x.com/kelly2277/status/1519297236110299138) and says he disappeared for Marie and M because of Stephen
 
